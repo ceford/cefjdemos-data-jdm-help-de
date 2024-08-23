@@ -21,20 +21,17 @@ Alle Hilfebildschirme funktionieren weiterhin wie erwartet. Denken Sie daran, da
 **Aktualisieren Sie immer Ihr Joomla! Version** so schnell wie möglich, um davon zu profitieren
 von neuen Funktionen und/oder Sicherheitsverbesserungen.
 
-## Getting started
+## Erste Schritte 
 
-If you have only recently started working with Joomla you will probably
-have experienced the pain of learning a new system. New terminology, new
-ways of doing things, perhaps even the web itself may be new to you.
-Then let this guide relieve some of that pain.
+Wenn Sie erst vor Kurzem mit Joomla gearbeitet haben, haben Sie wahrscheinlich schon die Qualen des Erlernens eines neuen Systems erlebt. Neue Terminologie, neue Vorgehensweisen, vielleicht sogar das Web selbst sind neu für Sie. Dann lassen Sie sich von diesem Leitfaden etwas von diesen Qualen ersparen.
 
-- [Getting Started: Introduction to Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla "Introduction to Joomla!")
-- [Getting Started: Articles and Categories](jdocmanual?article=user/getting-started/articles-and-categories "Articles and Categories")
-- [Erste Schritte: Einen Beitrag hinzufügen](jdocmanual?article=user/getting-started/adding-an-article "Einen Beitrag hinzufügen")
-- [Erste Schritte: Eine Kategorie hinzufügen](jdocmanual?article=user/getting-started/adding-a-category "Eine Kategorie hinzufügen")
-- [Erste Schritte: Einen Menüpunkt hinzufügen](jdocmanual?article=user/getting-started/adding-a-menu-item "Einen Menüpunkt hinzufügen")
-- [Erste Schritte: Ein Modul hinzufügen](jdocmanual?article=user/getting-started/adding-a-module "Ein Modul hinzufügen")
+- [Erste Schritte: Einführung in Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla)
+- [Erste Schritte: Artikel und Kategorien](jdocmanual?article=user/getting-started/articles-and-categories)
+- [Erste Schritte: Einen Artikel hinzufügen](jdocmanual?article=user/getting-started/adding-an-article)
+- [Erste Schritte: Eine Kategorie hinzufügen](jdocmanual?article=user/getting-started/adding-a-category)
+- [Erste Schritte: Hinzufügen eines Menüelements](jdocmanual?article=user/getting-started/adding-a-menu-item)
+- [Erste Schritte: Hinzufügen eines Moduls](jdocmanual?article=user/getting-started/adding-a-module)
 
-## Keeping your website secure
-
-- [Security: Best Practices](jdocmanual?article=user/security/best-practices "Security: Best Practices")
+## So sichern Sie Ihre Website ¶
+    
+- [Sicherheit: Best Practices](jdocmanual?article=user/security/best-practices)
