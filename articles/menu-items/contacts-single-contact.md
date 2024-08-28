@@ -241,7 +241,7 @@ above. The functions are:
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - The Category List layout is a convenient way to list a compact
   directory of contacts in a category that can include filtering and

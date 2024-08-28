@@ -78,7 +78,7 @@ The Toolbar icons change with the action being taken. You may see:
 The Toolbar icons change with the action being taken. Some of the above
 are absent on some screens.
 
-## Quick Tips
+## Tips
 
 - Important: Do not delete the default template files using FTP because
   it generates an error in both the front-end and back-end.

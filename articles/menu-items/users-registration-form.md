@@ -141,7 +141,7 @@ decoding="async" data-file-width="600" data-file-height="467"
 width="600" height="467"
 alt="Menus Menu User Registration front end screenshot" />
 
-## Quick Tips
+## Tips
 
 - For extended registration, see the User Profile Plugin.
   It can be used to add required fields for registration and it provides

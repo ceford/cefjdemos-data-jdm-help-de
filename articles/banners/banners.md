@@ -168,7 +168,7 @@ Screenshot above. The functions are:
 See Banner Manager Options
 for more information.
 
-## Quick Tips
+## Tips
 
 - You must add at least one Banner Client
   and Banner Category

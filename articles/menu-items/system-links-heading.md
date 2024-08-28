@@ -156,7 +156,7 @@ installation supplied free Front End Templates. The actual view can
 depend on the installed custom template used and the template's style
 for those views on a Joomla! website.*
 
-## Quick Tips
+## Tips
 
 - It is possible to use an image as a Text Separator. Since a Menu Title
   is required, to use only image as a separator, the Menu Title can be a

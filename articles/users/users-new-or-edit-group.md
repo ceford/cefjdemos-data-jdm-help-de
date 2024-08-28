@@ -67,7 +67,7 @@ functions are:
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
 
-## Quick tips
+## Tips
 
 - If a new group will have similar permissions to an existing group, you
   can save work by making the new group a child of the existing group.

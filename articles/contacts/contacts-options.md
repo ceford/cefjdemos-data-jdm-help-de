@@ -356,7 +356,7 @@ above. The functions are:
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - If you are a beginning user, you can just keep the default values here
   until you learn more about using global options.

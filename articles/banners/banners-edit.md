@@ -208,7 +208,7 @@ Screenshot above. The functions are:
   for more information.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Banners are placed on specific pages by adding Modules of type
   'Banners' using the Modules list.

@@ -157,7 +157,7 @@ Screenshot above. The functions are:
 - **Help**. Opens this help screen. See Smart Search: Options
   for further details.
 
-## Quick Tips
+## Tips
 
 - Smart Search was introduced in Joomla 3.0 but is not enabled by
   default in that version.

@@ -305,7 +305,7 @@ above. The functions are:
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - In order to make your contact featured do one of the following: From
   the Contacts list,

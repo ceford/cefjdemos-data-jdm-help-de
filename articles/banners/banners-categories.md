@@ -192,7 +192,7 @@ wish to clear your entered selections, click on the Cancel button. This
 will return all of the Batch controls to their default values. Note that
 this does *not* uncheck the check boxes for the items.
 
-## Quick Tips
+## Tips
 
 - You must add at least one Banner Client and Banner Category *before*
   you can add a Banner.
