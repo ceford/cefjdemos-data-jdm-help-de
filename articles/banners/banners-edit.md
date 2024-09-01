@@ -2,226 +2,79 @@
 
 ## Beschreibung
 
-Used to add or edit banners which can be displayed on your Joomla!
-website. Remember to create at least one Banner Client
-and one Banner Category
-before creating any Banners.
+Wird verwendet, um Banner hinzuzufügen oder zu bearbeiten, die auf Ihrer Joomla!-Website angezeigt werden können. Denken Sie daran, mindestens einen Banner-Kunden und eine Banner-Kategorie zu erstellen, bevor Sie Banner erstellen.
 
-## How to Access
+### Gemeinsame Elemente
 
-To '**add'** a new Banner or '**edit'** an existing Banner, navigate to
-the Banners list:
+Einige Aspekte dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
-- Select **Components → Banners → New** to create a new Banner.
-- Select **Components → Banners** and click on a Banner name to
-  '**Edit'** an existing Banner.
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Der Veröffentlichungs-Tab](jdocmanual?article=help/common-elements/edit-publishing).
+
+## Zugriff
+
+Aus dem Administrator-Menü:
+- Wählen Sie **Komponenten → Banner** aus, um zur Banner-Listen-Seite zu gelangen.
+- Wählen Sie die **Neu**-Schaltfläche in der Werkzeugleiste, um ein neues Banner zu erstellen.
+- Wählen Sie einen Banner-**Namen** aus der Spalte *Name*, um ein vorhandenes Banner zu bearbeiten.
 
 ## Screenshot
 
-A banner may be a clickable image or some custom code. The Image Type is
-shown in the screenshot below. The custom type has the image selection
-box replaced with a code text area.
+Ein Banner kann ein klickbares Bild oder ein benutzerdefinierter Code sein. Der Bildtyp wird im folgenden Screenshot angezeigt. Der benutzerdefinierte Typ ersetzt das Bildauswahlfeld durch ein Code-Textfeld.
 
-<img
-src="https://docs.joomla.org/images/thumb/d/da/Help-4x-Components-Banners-Banners-Edit-screen-en.png/800px-Help-4x-Components-Banners-Banners-Edit-screen-en.png.jpeg"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/da/Help-4x-Components-Banners-Banners-Edit-screen-en.png/1200px-Help-4x-Components-Banners-Banners-Edit-screen-en.png.jpeg 1.5x, https://docs.joomla.org/images/d/da/Help-4x-Components-Banners-Banners-Edit-screen-en.png 2x"
-data-file-width="1440" data-file-height="1208" width="800" height="671"
-alt="Components Banners Banners Edit screen" />
+![Banner bearbeiten Details-Tab](../../../de/images/banners/banners-edit-details-tab.png)
 
-## Form Fields
+## Formularfelder
 
-- **Name.** The name of the Banner. This is the name that will display
-  in the *Name* column of the Banners list.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+- **Name** Der Name des Banners. Dies ist der Name, der in der Spalte *Name* der Bannerliste angezeigt wird.
+- **Alias** Der interne Name des Elements. Normalerweise können Sie dieses Feld leer lassen, und Joomla wird einen Standardwert aus dem Namen generieren, jedoch in Kleinbuchstaben und mit Bindestrichen anstelle von Leerzeichen.
 
-### Details Tab
+## Details-Tab
 
-#### Left Panel
+### Linkes Panel
 
-- **Type**. The type of banner to display. Options are an image file or
-  custom HTML code.
-  - **Image**. Image file to display for the banner. Click the *Select*
-    button to browse and select the image file to use. Use the
-    Media
-    page to upload Banner image files to your site. Images for Banners
-    have to be in the https://docs.joomla.org/images/banners/ directory.
-    - **Width**. The fixed width to resize the banner image to. Leave
-      this blank if you want to use the actual width of the banner image
-      file.
-    - **Height**. The fixed height to resize the banner image to. Leave
-      this blank if you want to use the actual height of the banner
-      image file.
-    - **Alternative Text**. Text to display in place of the banner image
-      in the event the image cannot be displayed.
-    - **Alternative Text**. Alternative text for the Banner's image.
-  - **Custom**. Select Custom if you want to enter a custom code for
-    your banner.
-    - **Custom Code**. Use {CLICKURL} and {NAME} to merge 'Click URL'
-      and 'Name' values respectively into your custom code. For example:
-      [![`{NAME}`](enter%20url%20to%20image "{NAME}")](%7BCLICKURL%7D).
-      Another option is to enter an HTML custom code. For example:
-      ![](pathofyourimage)
-- **Click URL**. The URL to navigate to when the User clicks on the
-  Banner.
-- **Description**. Enter a description for the Banner.
+- **Typ** Der Anzeigetyp des Banners. Optionen sind eine Bilddatei oder benutzerdefinierter HTML-Code.
+  - **Bild** Bilddatei zur Anzeige für das Banner. Klicken Sie auf die *Auswählen*-Schaltfläche, um die Bilddatei zu durchsuchen und auszuwählen, die verwendet werden soll. Verwenden Sie die Medienseite, um Bannerbilddateien auf Ihre Website hochzuladen. Bilder für Banner müssen sich im Verzeichnis /images/banners/ befinden.
+    - **Breite** Die feste Breite, auf die das Bannerbild skaliert werden soll. Lassen Sie dieses Feld leer, wenn Sie die tatsächliche Breite der Bannerbilddatei verwenden möchten.
+    - **Höhe** Die feste Höhe, auf die das Bannerbild skaliert werden soll. Lassen Sie dieses Feld leer, wenn Sie die tatsächliche Höhe der Bannerbilddatei verwenden möchten.
+    - **Alternativer Text** Text, der anstelle des Bannerbildes angezeigt wird, falls das Bild nicht angezeigt werden kann.
+    - **Alternativer Text** Alternativer Text für das Bild des Banners.
+  - **Benutzerdefiniert** Wählen Sie Benutzerdefiniert, wenn Sie einen benutzerdefinierten Code für Ihr Banner eingeben möchten.
+    - **Benutzerdefinierter Code** Verwenden Sie {CLICKURL} und {NAME}, um die Werte 'Klick-URL' und 'Name' in Ihren benutzerdefinierten Code einzufügen. Zum Beispiel:<br>
+    `<a href=`&#34;`{CLICKURL}"><img src=`&#34;`Bild-URL eingeben" alt="{NAME}" title="{NAME}"></a>`
+    Eine andere Möglichkeit ist das Eingeben eines benutzerdefinierten HTML-Codes. Zum Beispiel:<br>
+    `<div class="yourclass"><a href=`&#34;`https://yourdomain.com"><img src=`&#34;`Pfad Ihres Bildes"></a></div>`
+- **Klick-URL** Die URL, zu der der Benutzer navigiert, wenn er auf das Banner klickt.
+- **Beschreibung** Geben Sie eine Beschreibung für das Banner ein.
 
-#### Right Panel
+### Rechtes Panel
 
-- **Status**. The published status of the item.
-- **Pinned**. *(Yes or No)* Whether or not the Banner is "pinned". If
-  one or more Banners in a Category are designated "sticky," they will
-  take priority over Banners that are not sticky.
+- **Status** Der Veröffentlichungsstatus des Elements.
+- **Angepinnt** Ob das Banner *angeheftet* ist oder nicht. Wenn ein oder mehrere Banner in einer Kategorie als *Sticky* markiert sind, haben sie Vorrang vor nicht als Sticky markierten Bannern.
+    - Zum Beispiel: Wenn zwei Banner in einer Kategorie angeheftet sind und ein drittes Banner nicht, wird das dritte Banner nicht angezeigt, wenn die Banneranzeigemodul-Einstellung *Angepinnt, zufällig* oder *Angepinnt, Sortierung* lautet. Nur die beiden angehefteten Banner werden angezeigt. Wenn die angehefteten Banner eine feste Anzahl von Impressionen haben, werden die nicht angehefteten Banner automatisch angezeigt, sobald diese Impressionen aufgebraucht sind.
+- **Sprache** Sprache des Elements.
+- **Versionshinweis** Optionales Feld zur Identifizierung dieser Version des Elements im Versionsverlauf des Elements.
 
-*For example, if two Banners in a Category are pinned and a third Banner
-is not pinned, the third Banner will not display if the Banner display
-module setting is "Pinned, Randomise" or "Pinned, Ordering." Only the
-two pinned Banners will display. If the pinned banners have a fixed
-number of impressions, once those impressions are used up, the pinned
-banners will no longer display, and the non-pinned banners will begin
-displaying automatically.*
+### Banner-Details-Tab
 
-- **Language**. Item language.
-- **Version Note**. Optional field to identify this version of the item
-  in the item's Version History
-  window.
+![Banner bearbeiten Banner-Details-Tab](../../../de/images/banners/banners-edit-banner-details-tab.png)
 
-### Banner Details Tab
+- **Max. Impressionen** Die Anzahl der für dieses Banner gekauften Impressionen. Impressionen sind die Anzahl der Male, die ein Banner auf einer Seite angezeigt wird. Aktivieren Sie das Kontrollkästchen 'Unbegrenzt', wenn eine unbegrenzte Anzahl von Impressionen erlaubt ist.
+- **Gesamtimpressionen** Die Anzahl der Male, die dieses Banner einem Benutzer auf einer Webseite angezeigt wurde. Keine Eingabe erlaubt. Sie können diese Zahl auf 0 zurücksetzen, indem Sie die Schaltfläche 'Impressionen zurücksetzen' drücken.
+- **Gesamtanzahl Klicks** Die Anzahl der Male, die auf dieses Banner geklickt wurde. Keine Eingabe erlaubt. Sie können diese Zahl auf 0 zurücksetzen, indem Sie die Schaltfläche *Klicks zurücksetzen* drücken.
+- **Kunde** Der Kunde für dieses Banner. Wählen Sie einen aus der Dropdown-Liste der vorhandenen Kunden aus.
+- **Kaufart:** Die Kaufart des Banners. Dies wird verwendet, um anzugeben, wie der Bannerkunde die Anzeigedauer für das Banner erworben hat.
+- **Impressionen verfolgen** Ob die Anzahl der Male, die das Banner den Besuchern der Website angezeigt wird, verfolgt werden soll oder nicht.
+- **Klicks verfolgen** Ob die Anzahl der Male, die das Banner von den Besuchern der Website angeklickt wird, verfolgt werden soll oder nicht.
 
-<img
-src="https://docs.joomla.org/images/0/09/Help-4x-Components-Banners-Banners-Edit-Banners-Details-Tab-en.png"
-decoding="async" data-file-width="600" data-file-height="411"
-width="800" height="548"
-alt="Components Banners Banners Edit Banners Details Tab" />
+## Tipps
 
-- **Max. Impressions.** The number of Impressions purchased for this
-  Banner. Impressions are the number of times a Banner will be displayed
-  on a page. Check the 'Unlimited' checkbox if an unlimited number of
-  Impressions is allowed.
-- **Total Impressions.** The number of times this Banner has been
-  displayed on a web page to a user. No entry is allowed. You can reset
-  this number to 0 by pressing the 'Reset impressions' button.
-- **Total Clicks.** The number of times this Banner has been clicked. No
-  entry is allowed. You can reset this number to 0 by pressing the
-  'Reset clicks' button.
-- **Client.** The Client for this Banner. Clients are entered using the
-  Banner Client Manager.
+- Banner werden auf bestimmten Seiten platziert, indem Module vom Typ 'Banner' über die Modulliste hinzugefügt werden.
+- Wenn Sie eine Reihe von Bannern haben, die Sie auf einer oder mehreren Seiten in zufälliger Reihenfolge anzeigen möchten:
+  1.  Erstellen Sie die Banner, die Sie einfügen möchten, und stellen Sie sicher, dass sie denselben Kunden und dieselbe Kategorie haben.
+  2.  Erstellen Sie ein Banner-Modul für diesen Kunden und diese Kategorie, und wählen Sie in der Menüzuweisung die Menüpunkte aus, auf denen das Modul angezeigt werden soll.
+  3.  Stellen Sie im Banner-Modul den Wert *Zufällig* auf *Sticky, zufällig*.
 
-Select one from the drop-down list box of existing Clients.
+  Mit diesen Einstellungen werden die verschiedenen Banner für diesen Kunden und diese Kategorie auf den ausgewählten Seiten in zufälliger Reihenfolge angezeigt.
 
-- **Purchase Type:** The purchase type of the banner. This is used to
-  indicate how the banner client purchased the display time for the
-  banner.
-
-The following options are: (*-Use Client Default-, Unlimited, Yearly,
-Monthly, Weekly, Daily*).
-
-- **Track Impressions.** Whether or not to track the number of times the
-  banner is displayed to web site visitors.
-- **Track Clicks.** Whether or not to track the number of times the
-  banner is clicked by web site visitors.
-
-### Publishing Tab
-
-<img
-src="https://docs.joomla.org/images/9/90/Help-4x-Components-Banners-Banners-Edit-Publishing-Options-Tab-en.png"
-decoding="async" data-file-width="600" data-file-height="680"
-width="800" height="907"
-alt="Components Banners Banners Edit Publishing Options Tab" />
-
-- **Start Publishing**. Date the Banner will publish and be available
-  for website.
-
-Enter the date (time optional) in format *year-month-date hrs:min:sec*
-as '2013-01-07 14:10:00' or alternatively, use the modal 'pop up' window
-and select a date from the calendar.
-
-- **Finish Publishing**. Date the Banner will stop being published and
-  will no longer be available for website.
-
-Enter the date (time optional) in format *year-month-date hrs:min:sec*
-as '2013-01-07 14:10:00' or alternatively, use the modal 'pop up' window
-and select a date from the calendar.
-
-- **Created Date**. Date the item(Article, Category, Weblink, etc.) was
-  created.
-- **Created By**. Name of the Joomla User who created this item. This
-  will default to the currently logged-in user. If you want to change
-  this to a different user, click the Select User button to select a
-  different user.
-- **Created by Alias**. This optional field allows you to enter in an
-  alias for this Author for this Article. This allows you to display a
-  different Author name for this Article.
-- **Modified Date**. Date of last modification.
-- **Modified By**. Username who performed the last modification.
-- **Revision**. Number of revisions to this item.
-- **Keywords**. Optional entry for keywords. Must be entered separated
-  by commas (for example, "cats, dogs, pets") and may be entered in
-  upper or lower case. (For example, "CATS" will match "cats" or
-  "Cats"). Keywords can be used in several ways:
-  1.  To help Search Engines and other systems classify the content of
-      the Article.
-  2.  In combination with Banner tags, to display specific Banners based
-      on the Article content. For example, say you have one Banner with
-      an ad for dog products and another Banner for cat products. You
-      can have your dog Banner display when a User is viewing a
-      dog-related Article and your cat Banner display for a cat-related
-      Article. To do this, you would:
-      - Add the keywords "dog" and "cat" to the appropriate Articles.
-      - Add the Tags "dog" and "cat" to the appropriate Banners in
-        Banners: Edit.
-      - Set the Banner module Parameter 'Search By Tags' to "Yes" in
-        the Site Modules: Banners list.
-  3.  For articles only, in combination with the Articles - Related module,
-      to display Articles that share at least one keyword in common. For
-      example, if the current Article displayed has the keywords "cats,
-      dogs, monkeys", any other Articles with at least one of these
-      keywords will show in the 'Articles - Related' module.
-- **Use Own Prefix.** Whether or not to use the banner's prefix or that
-  of the client. Select *No* if you want to use the prefix of the banner
-  client.
-- **Meta Keyword Prefix:** When matching meta keywords, only search for
-  meta keywords with these optional prefixes. This improves performance.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Save & New**. Saves the item and keeps the editing screen open and
-  ready to create another item.
-- **Save as Copy**. Saves your changes to a copy of the current item.
-  Does not affect the current item. This toolbar icon is not shown if
-  you are creating a new item.
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. Or
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Versions**. Opens the Item Version History window to show any prior
-  versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See Version History
-  for more information.
-- **Help**. Opens this help screen.
-
-## Tips
-
-- Banners are placed on specific pages by adding Modules of type
-  'Banners' using the Modules list.
-- If you have a series of Banners that you would like to display on one
-  or more pages in random order:
-  1.  Create the Banners you wish to include, making sure they have the
-      same Client and Category.
-  2.  Create a Banner Module for this Client and Category, and in the
-      Menu Assignment pick the Menu Selections for the module to display
-      on.
-  3.  In the Banner Module, set the 'Randomise' value to 'Sticky,
-      Randomise'.
-
-With these settings, the different Banners for that Client and Category
-will display on the selected pages in random order.
-
+<!-- Translated from English with ChatGPT 2024-09-01 -->
