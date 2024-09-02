@@ -27,30 +27,27 @@ zusammenfassen lassen:
   Elementen, Farben, Schriftarten und so weiter. Templates ermöglichen
   die Trennung des Erscheinungsbildes einer Website von ihrem Inhalt.
 
+## Gemeinsame Elemente ¶
+
+Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
+
+* [Symbolleisten](jdocmanual?article=help/common-elements/toolbars).
+
 ## Wie darauf zugreifen
 
 - Im Administrator-Menü die Option
   **System → Erweiterungen → Erweiterungen** wählen.
 
-Es wird vermutlich eine kurze Verzögerung geben, da Joomla die erste
-Vorauswahl an Daten über Erweiterungen aus dem „Joomla Extensions
-Directory“ herunterlädt.
+Es stehen vier Installationsmethoden zur Verfügung. Wenn **Install from Web** als erstes in der Liste steht oder als letzte Methode ausgewählt wurde, gibt es eine kurze Verzögerung, während Joomla eine erste Auswahl an Erweiterungsdaten aus dem Joomla Extensions Directory herunterlädt.
 
-## Bildschirmfoto
+Die normale Registerkartenreihenfolge für die Installationsmethoden ist wie folgt:
 
-<img
-src="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Extensions-Extension-Manager-Install-screen-de.png/800px-Help-4x-Extensions-Extension-Manager-Install-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Extensions-Extension-Manager-Install-screen-de.png/1200px-Help-4x-Extensions-Extension-Manager-Install-screen-de.png 1.5x, https://docs.joomla.org/images/e/e3/Help-4x-Extensions-Extension-Manager-Install-screen-de.png 2x"
-data-file-width="1564" data-file-height="1272" width="800" height="651"
-alt="Extensions Extension Manager Install screen" />
+* Paketdatei hochladen
+* Aus Ordner installieren
+* Von URL installieren
+* Aus dem Web installieren
 
-## Formular Felder
-
-Joomla!-Erweiterungen werden über eine der vier unten erläuterten
-Möglichkeiten installiert. Eine davon genügt, um eine Erweiterung zu
-installieren. Der übliche Weg, eine Joomla!-Erweiterung zu installieren
-ist wie folgt:
+Es ist nur eine Methode erforderlich, um eine bestimmte Erweiterung zu installieren. Das übliche Verfahren zur Installation einer Joomla!-Erweiterung ist wie folgt:
 
 1.  Download einer oder mehrerer Archiv-Dateien (meistens ".zip" oder
     "tar.gz") von der Herstellerseite der Erweiterung in ein lokales
@@ -65,27 +62,11 @@ ist wie folgt:
     War die Installation nicht erfolgreich, wird eine Fehlermeldung
     angezeigt.
 4.  Je nach Erweiterung kann es notwendig werden, die Erweiterung zu
-    aktivieren (z.B. in der Liste der
-    Module
-    oder Liste der
-    Plugins).
-
-### Aus Webkatalog installieren
-
-Falls installiert, erscheint der Reiter „Aus Webkatalog installieren“,
-wie im Screenshot dargestellt, um eine Erweiterung direkt aus dem Joomla
-Extension Directory (JED) zu installieren. Die Erweiterungen können nach
-Kategorie ausgewählt werden oder können nach einem Teil des Namens
-gesucht werden.
+    aktivieren (z.B. in der Liste der Module oder Liste der Plugins).
 
 ### Paketdatei hochladen
 
-<img
-src="https://docs.joomla.org/images/thumb/1/12/Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-de.png/600px-Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/12/Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-de.png/900px-Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-de.png 1.5x, https://docs.joomla.org/images/1/12/Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-de.png 2x"
-data-file-width="1176" data-file-height="814" width="600" height="415"
-alt="Extensions Manager Install UploadPackageFilescreen" />
+![Extension install upload package file tab](../../../de/images/extensions/install-upload-package-file.png)
 
 - Per Drag & Drop die Archivdatei der Erweiterung in den Kasten ziehen
   oder auf die Schaltfläche klicken, um eine Datei zum Hochladen
@@ -98,12 +79,7 @@ größeren Dateien, die Option *Aus Verzeichnis installieren* verwenden.
 
 ### Aus Verzeichnis installieren
 
-<img
-src="https://docs.joomla.org/images/thumb/8/8e/Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-de.png/600px-Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/8e/Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-de.png/900px-Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-de.png 1.5x, https://docs.joomla.org/images/8/8e/Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-de.png 2x"
-data-file-width="1151" data-file-height="581" width="600" height="303"
-alt="Extensions Manager Install InstallfromFolder screen" />
+![Extension install from folder tab](../../../de/images/extensions/install-from-folder.png)
 
 1.  Ein temporäres Verzeichnis auf der lokalen Festplatte anlegen und
     die Archivdatei der Erweiterung in dieses temporäre Verzeichnis
@@ -123,12 +99,7 @@ in das tmp-Verzeichnis der Joomla Site zu legen.
 
 ### Von URL installieren
 
-<img
-src="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-de.png/600px-Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-de.png/900px-Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-de.png 1.5x, https://docs.joomla.org/images/0/0a/Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-de.png 2x"
-data-file-width="1158" data-file-height="587" width="600" height="304"
-alt="Extensions Manager Install InstallfromUrl screen" />
+![Extension install from url tab](../../../de/images/extensions/install-from-url.png)
 
 Anstatt die Archivdatei auf den lokalen Rechner herunterzuladen, kann
 man die Ziel-URL der Archivdatei angeben. Danach auf die Schaltfläche
@@ -137,29 +108,11 @@ Erweiterung automatisch direkt von dieser URL. Hinweis: Bei dieser
 Methode befindet sich keine Kopie der Archivdatei auf dem lokalen
 Computer.
 
-## Werkzeugleiste
+## Registerkarte "Vom Web installieren"
 
-Das [Bildschirmfoto](#Bildschirmfoto) am Anfang der Seite zeigt die
-Werkzeugleiste im oberen Bereich. Die Funktionen sind:
+Um eine Erweiterung direkt aus dem Joomla Extension Directory (JED) zu installieren. Sie können Erweiterungen nach Kategorie auflisten oder nach einem Teilnamen suchen.
 
-- **Optionen.** Öffnet das Optionen-Fenster, in dem Einstellungen, wie
-  die Standard-Parameter, bearbeitet werden können.
-- **Hilfe**. Öffnet die Hilfeseite.
-
-## Links zu anderen Seiten
-
-- **Installieren.** Link führt zu
-- **Update.** Link führt zu
-- **Verwalten.** Link führt zu
-- **Überprüfen.** Link führt zu
-- **Datenbank.** Link führt zu
-- **Warnungen.** Link führt zu
-- **Sprachen installieren.** Link führt zu Install Languages Screen.
-- **Website aktualisieren.** Link führt zu <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Extensions Extension Manager Update Sites/en (page does not exist)">Update
-  Sites Screen</a>.
+![Erweiterung vom Web installieren Registerkarte](../../../de/images/extensions/install-from-web.png)
 
 ## Tipps
 
@@ -189,3 +142,5 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   Grund wird allgemein empfohlen, bei der Installation neuer
   Erweiterungen die Optionen „Aus Webkatalog installieren“, „Paketdatei
   hochladen“ oder „Aus Verzeichnis installieren“ zu verwenden.
+
+<!-- Translated from English with ChatGPT 2024-09-02 ->
