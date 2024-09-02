@@ -69,8 +69,8 @@ Ein Banner kann ein klickbares Bild oder ein benutzerdefinierter Code sein. Der 
 
 ## Tipps
 
-- Banner werden auf bestimmten Seiten platziert, indem Module vom Typ 'Banner' über die Modulliste hinzugefügt werden.
-- Wenn Sie eine Reihe von Bannern haben, die Sie auf einer oder mehreren Seiten in zufälliger Reihenfolge anzeigen möchten:
+* Banner werden auf bestimmten Seiten platziert, indem Module vom Typ *Banner* über die Modulliste hinzugefügt werden.
+* Wenn Sie eine Reihe von Bannern haben, die Sie auf einer oder mehreren Seiten in zufälliger Reihenfolge anzeigen möchten:
   1.  Erstellen Sie die Banner, die Sie einfügen möchten, und stellen Sie sicher, dass sie denselben Kunden und dieselbe Kategorie haben.
   2.  Erstellen Sie ein Banner-Modul für diesen Kunden und diese Kategorie, und wählen Sie in der Menüzuweisung die Menüpunkte aus, auf denen das Modul angezeigt werden soll.
   3.  Stellen Sie im Banner-Modul den Wert *Zufällig* auf *Sticky, zufällig*.
