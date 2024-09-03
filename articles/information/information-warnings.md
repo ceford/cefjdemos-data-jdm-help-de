@@ -1,28 +1,17 @@
-<!-- Filename: Help4.x:Information:_Warnings / Display title: Information: Warnungen -->
+<!-- Filename: Help4.x:Information:_Warnings / Display title: Informationen: Warnungen -->
 
 ## Beschreibung
 
-Die Seite zeigt Warnungen installierter Erweiterungen. Das können
-Konflikte in der Installation oder Abhängigkeitsfehler sein.
+Diese Seite zeigt alle Warnungen an, die sich auf die in deiner Joomla!-Installation installierten Erweiterungen beziehen. Hier können Warnungen wie mögliche Konflikte in deiner Installation oder Abhängigkeitsfehler erscheinen.
 
-## Wie darauf zugreifen
+## Zugriff
 
-- Im Administrator-Menü **System → Informationen → Warnungen**
-  auswählen.
+- Wähle **System → Informationspanel → Warnungen** im Administrator-Menü.
 
-## Bildschirmfoto
+## Screenshot
 
-<img
-src="https://docs.joomla.org/images/2/26/Help4x-Extensions-Extension-Manager-Warnings-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="301"
-width="800" height="301"
-alt="Help4x Extensions Extension Manager Warnings screen en.png" />
+![Informationen Warnungen](../../../de/images/information/warnings.png)
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#Bildschirmfoto) am Anfang der Seite zeigt die
-Werkzeugleiste im oberen Bereich. Die Funktionen sind:
-
-- **Optionen.** Öffnet das Optionen-Fenster, in dem Einstellungen, wie
-  die Standard-Parameter, bearbeitet werden können.
-- **Hilfe**. Öffnet die Hilfeseite.
+- **Optionen** Öffnet die Seite *Installer: Optionen*.
