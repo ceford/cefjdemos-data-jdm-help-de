@@ -1,237 +1,98 @@
-<!-- Filename: Help4.x:Fields:_Edit / Display title: Felder: Bearbeiten -->
+<!-- Filename: Help4.x:Fields:_Edit / Display title: Komponente: Feld bearbeiten -->
 
 ## Beschreibung
 
-Hinzufügen oder Bearbeiten von Feldern in Beiträge, Kontakte und
-Benutzer.
+Die Seite *Komponente: Feld bearbeiten* ist für alle Komponenten, die Felder implementieren, ähnlich, aber der Seitentitel ändert sich je nach Kontext: *Artikel: Feld bearbeiten*, *Kontakte: Feld bearbeiten* oder *Benutzer: Feld bearbeiten*.
 
-Die Hilfeseite zeigt als Beispiel 'Benutzer'.
+Die **Allgemein**-Registerkarte ändert sich je nach dem bearbeiteten Feldtyp, und sobald ein Feld gespeichert wurde, kann der Feldtyp nicht mehr geändert werden. Es ist jedoch einfach, Felder zu löschen und neue zu erstellen.
 
-## Wie darauf zugreifen
-Wählen **Benutzer → Felder**
+### Gemeinsame Elemente
 
-Ein Feld hinzufügen:
+Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
-- auf den Button **Neu** der Werkzeugleiste klicken.
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Die Veröffentlichungs-Registerkarte](jdocmanual?article=help/common-elements/edit-publishing).
+* [Die Berechtigungs-Registerkarte](jdocmanual?article=help/common-elements/edit-permissions).
 
-Ein Feld bearbeiten:
+## Zugriff
 
-- einen **Titel** aus der Liste wählen.
+* Wählen Sie **Inhalt → Felder** aus dem Administrator-Menü. Oder...
+* Wählen Sie **Kontakt → Felder** aus dem Administrator-Menü. Oder...
+* Wählen Sie **Benutzer → Felder** aus dem Administrator-Menü. Dann...
+  * Klicken Sie auf die **Neu**-Schaltfläche in der Werkzeugleiste, um ein neues Feld zu erstellen. Oder...
+  * Wählen Sie einen **Titel** aus der Liste, um ein bestehendes Feld zu bearbeiten.
 
-## Bildschirmfoto
+**Hinweis:** Es gibt eine Dropdown-Liste, die die Erstellung von Feldern für eine Kategorie und Mail im Kontaktmodul ermöglicht. Dies erfordert jedoch einige Programmierkenntnisse, um geeignete Template-Overrides vorzubereiten.
 
-<img
-src="https://docs.joomla.org/images/thumb/2/23/Help-4x-Fields-Edit-screen-de.png/800px-Help-4x-Fields-Edit-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/23/Help-4x-Fields-Edit-screen-de.png/1200px-Help-4x-Fields-Edit-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/2/23/Help-4x-Fields-Edit-screen-de.png/1600px-Help-4x-Fields-Edit-screen-de.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Fields Edit screen" />
+## Screenshot
 
-## Formular Felder
+![Artikel Feld bearbeiten](../../../de/images/fields/articles-edit-field.png)
 
-- **Titel**. Der Titel des Feldes.
+## Formularfelder
 
-### Allgemein
+- **Titel** Der Titel für dieses Feld.
 
-#### Linke Seite
+### Allgemein-Registerkarte
 
-Parameter für alle Eigenen Felder:
+#### Linkes Panel
 
-- **Typ**. Beim Anlegen eines Feldes kann aus 16 Feldtypen gewählt
-  werden. Nach dem Speichern ist der Typ des Feldes dauerhaft. Mehr
-  erfahren.
-- **Name**. Der Name wird benutzt um das Feld zu bestimmen. Wird das
-  Feld frei gelassen, nimmt Joomla als Standardwert den Titel des
-  Feldes.
-- **Beschriftung**. Einen beschreibenden Text als Beschriftung des
-  Feldes verwenden. Dieser Text ist bei einer mehrsprachigen Website
-  nicht übersetzbar. Wenn kein Text für die Beschriftung angegeben
-  wurde, wird der Titeltext auch als Beschriftung verwendet.
-- **Beschreibung**. Eine Beschreibung für das Feld, die in einem Tooltip
-  über dem Eingabefeld angezeigt wird. Die Beschreibung erscheint, wenn
-  der Nutzer bei der Eingabe im Backend die Maus über das Feld bewegt -
-  z.B. beim Erstellen eines Beitrages, Kontaktes oder bei einer
-  Komponente, die Felder unterstützt. Die Beschreibung ist bei einer
-  mehrsprachigen Website nicht übersetzbar. Im Frontend ist die
-  Beschreibung nicht sichtbar.
-- **Erforderlich**. Ist das ein Pflichtfeld? In diesem Fall muss das
-  Feld ausgefüllt werden, bevor ein Beitrag, ein Kontakt oder ein
-  Formular einer Komponente, die Felder verwendet, abgesendet werden
-  kann.
+Parameter für alle Felder:
 
-#### Rechte Seite
+- **Typ** Wenn Sie ein Feld erstellen, können Sie einen der 16 Feldtypen auswählen. Sobald das Feld gespeichert ist, bleibt dieser Typ dauerhaft.
+- **Name** Der Name wird verwendet, um das Feld zu identifizieren. Lassen Sie dieses Feld leer, und Joomla füllt automatisch einen Standardwert basierend auf dem Titel aus.
+- **Beschriftung** Verwenden Sie einen beschreibenden Text für die Beschriftung des Feldes. Dieser Text ist nicht übersetzbar. Wenn Sie keinen Text für eine Beschriftung eingeben, wird der Titeltext auch als Beschriftungstext verwendet.
+- **Beschreibung** Die Beschreibung des Feldes. Ein Text, der als Tooltip angezeigt wird, wenn der Benutzer die Maus über das Textfeld bewegt, während er es im Backend verwendet, um einen Artikel oder einen Kontakt oder eine Drittanbieter-Komponente, die Felder unterstützt, zu erstellen. Dieser Text ist nicht übersetzbar. Diese Beschreibung wird im Frontend nicht angezeigt.
+- **Erforderlich** Ist dieses Feld ein Pflichtfeld? In diesem Fall muss das Feld ausgefüllt werden, bevor ein Artikel, ein Kontakt oder eine Drittanbieter-Komponente, die Felder unterstützt, übermittelt werden kann.
 
-- **Status**. Der Veröffentlichungs-Status des Feldes.
-  - Veröffentlicht: Das Feld ist beim Bearbeiten eines Beitrages oder
-    Kontaktes sichtbar. Im Frontend ist es ebenfalls sichtbar.
-  - Versteckt: Das Feld wird Nutzern bei der Bearbeitung von Beiträgen
-    oder Kontakten nicht angezeigt.
-  - Archiviert: Das Feld wird nicht beim Bearbeiten eines Beitrages oder
-    Kontaktes angezeigt. Es kann in
-    Felder
-    geöffnet werden, wenn der Statusfilter auf 'Archiviert' gesetzt
-    wurde.
-  - Papierkorb: Das Feld wurde gelöscht, befindet sich aber noch in der
-    Datenbank. Dauerhaft und vollständig gelöscht wird es in
-    Felder
-    über den Button 'Papierkorb leeren'. Mehr
-    erfahren.
-- **Feld Gruppe**. Ein Feld kann einer oder mehreren Feldgruppen
-  zugeordnet werden.
-- **Kategorie**. Ein Feld kann einer oder mehreren Kategorien zugeordnet
-  werden. Hinweis: Der Standard 'Alle' schließt nicht die
-  'Unkategorisierten' Beiträge mit ein.
-- **Zugriff**. Die Zugriffsebene des Feldes wählen. Sie werden in
-  Benutzer:
-  Zugriffsebenen
-  eingerichtet.
-- **Sprache**. Die Sprache des Feldes wählen. Wird
-  Mehrsprachigkeit
-  nicht verwendet, den Standardwert 'Alle' beibehalten.
-- **Notiz**. Ein optionales Feld das zur Beschreibung oder als Hinweis
-  für das Feld.
+#### Rechtes Panel
 
-### Optionen
+- **Status** Der Veröffentlichungsstatus dieses Feldes.
+  - *Veröffentlicht* Das Feld ist beim Bearbeiten eines Artikels oder Kontakts sichtbar und es wird im Frontend angezeigt.
+  - *Nicht veröffentlicht* Das Feld wird beim Bearbeiten eines Artikels oder Kontakts für Benutzer nicht sichtbar sein.
+  - *Archiviert* Das Feld wird beim Bearbeiten eines Artikels oder Kontakts nicht mehr angezeigt. Sie können es in den Feldern öffnen, wenn Sie den Filter auf archiviert setzen.
+  - *Papierkorb* Das Feld ist gelöscht, aber noch in der Datenbank vorhanden. Es kann dauerhaft aus der Datenbank in den Feldern mit der Funktion *Papierkorb leeren* gelöscht werden.
+- **Feldgruppe** Sie können ein Feld einer Feldgruppe zuweisen.
+- **Kategorie** Sie können ein Feld einer oder mehreren Kategorien zuweisen. Beachten Sie, dass die Standardoption *Alle* keine *Nicht kategorisierten* Artikel enthält.
+- **Zugriff** Wählen Sie die Ansichtsebene für dieses Feld aus. Die Zugriffsebenen hängen davon ab, was in den *Benutzern: Zugriffsebenen* eingerichtet wurde.
+- **Sprache** Wählen Sie die Sprache für dieses Feld aus. Wenn Sie die Mehrsprachigkeitsfunktion von Joomla nicht verwenden, belassen Sie die Standardeinstellung *Alle*.
+- **Notiz** Ein optionales Feld, um Ihre persönlichen Notizen zu diesem Feld zu machen.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Fields-Edit-options-subscreen-de.png/600px-Help-4x-Fields-Edit-options-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Fields-Edit-options-subscreen-de.png/900px-Help-4x-Fields-Edit-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/b/b5/Help-4x-Fields-Edit-options-subscreen-de.png/1200px-Help-4x-Fields-Edit-options-subscreen-de.png 2x"
-data-file-width="2880" data-file-height="1378" width="600" height="287"
-alt="Fields Edit options subscreen" />
+### Optionen-Registerkarte
 
-#### Eingabemaske-Optionen
+![Artikel Feld Bearbeiten Optionen Registerkarte](../../../de/images/fields/articles-edit-field-options-tab.png)
 
-- **Platzhalter**. Ein Platzhalter-Text erscheint innerhalb eines Feldes
-  als Hinweis für die Eingabe. Der Platzhalter wird im Backend beim
-  Anlegen eines Beitrages, Kontaktes oder einer Komponente, die Felder
-  unterstützt, angezeigt. Im Frontend wird der Text nicht angezeigt.
-- **CSS-Klasse Feld**. Das Klassen-Attribut des Feldes, nachdem es
-  gerendert wurde.
-- **CSS-Klasse Label**. CSS-Klasse der Feld-Beschriftung im
-  Bearbeiten-Modus (Inhalte in das Feld eingeben).
-- **Einsatzbereich**. Das Feld im Backend, Frontend oder beiden
-  anzeigen.
-- **Showon Attribute**. Conditionally show or hide the field depending
-  on the value of other fields. The syntax to use here, for example:
-  `list-of-items:value1[OR]list-of-items:value2`
-  - list-of-items – It is the *name* of an already created field on
-    which this field will depends to be show.
-  - value1 – Is the value need have the field on which it depends to be
-    show.
-  - \[OR\] – To create a choice among multiple fields. In the example,
-    this field will show when *list-of-items* field have the value:
-    *value1* OR *value2*
-  - \[AND\] – To combine multiple fields. This field will show only when
-    *list-of-items* field have the value: *value1* AND *value2*
-  - You can also use value 'does not equal' as in
-    **list-of-items!:value1**. The syntax will show this field only when
-    *list-of-items* is not equal to *value1*
-  - To show this field when *list-of-items* field has been selected and
-    have not a empty value, use the syntax *list-of-items!:* (without a
-    value specified).
+#### Formularoptionen
 
-**Note:** Subform fields handle different the identifier *name* of
-*list-of-items*. If you create a Subform custom field and you add this
-conditional field you are creating to there, you need use *field\[ID\]*
-instead of *list-of-items*, where ID is the id of the field
-*list-of-items*. Therefore, the showon attribute for this conditional
-field you are creating need be: `field36:value1[OR]field36:value2` where
-36 is the ID of the field 'List of items'.
+- **Platzhalter** Ein Platzhaltertext, der als Hinweis für die Eingabe im Feld angezeigt wird. Der Platzhalter ist im Backend aktiv, wenn ein Artikel oder ein Kontakt oder eine Drittanbieter-Komponente, die Felder unterstützt, erstellt wird. Sie sehen ihn nicht im Frontend.
+- **Feldklasse** Die Klassenattribute des Feldes, wenn das Feld gerendert wird. Wenn verschiedene Klassen benötigt werden, listen Sie sie mit Leerzeichen auf.
+- **Beschriftungsklasse (Formular)** CSS-Klasse, die auf die Feldbeschriftung angewendet wird, wenn sich das Feld im Bearbeitungsmodus befindet (Eingabe in ein Feld).
+- **Bearbeitbar In** In welchem Teil der Website sollte das Feld angezeigt werden? Im Backend, im Frontend oder in beiden?
+- **Showon-Attribut** Bedingtes Anzeigen oder Ausblenden des Feldes, abhängig vom Wert anderer Felder. Die Syntax, die hier verwendet werden soll, lautet beispielsweise: `list-of-items:value1[OR]list-of-items:value2`
+  - list-of-items: Der *Name* eines bereits erstellten Feldes, von dem dieses Feld abhängig ist, um angezeigt zu werden.
+  - value1: Der Wert, der benötigt wird, um das Feld anzuzeigen, von dem es abhängt.
+  - `[OR]`: Um eine Auswahl zwischen mehreren Feldern zu erstellen. In diesem Beispiel wird dieses Feld angezeigt, wenn das *list-of-items*-Feld den Wert *value1* ODER *value2* hat.
+  - `[AND]`: Um mehrere Felder zu kombinieren. Dieses Feld wird nur angezeigt, wenn das *list-of-items*-Feld den Wert *value1* UND *value2* hat.
+  - Sie können auch den Wert *ist nicht gleich* verwenden, wie in *list-of-items!:value1*. Die Syntax zeigt dieses Feld nur an, wenn *list-of-items* nicht gleich *value1* ist.
+  - Um dieses Feld anzuzeigen, wenn das *list-of-items*-Feld ausgewählt wurde und keinen leeren Wert hat, verwenden Sie die Syntax *list-of-items!:* (ohne einen angegebenen Wert).
 
-#### Ausgabe-Optionen
+**Hinweis:** Unterformularfelder behandeln den Identifikator *name* von *list-of-items* anders. Wenn Sie ein benutzerdefiniertes Unterformularfeld erstellen und dieses bedingte Feld dort hinzufügen, müssen Sie *field\[ID\]* anstelle von *list-of-items* verwenden, wobei ID die ID des Feldes *list-of-items* ist. Daher muss das *showon*-Attribut für dieses bedingte Feld, das Sie erstellen, lauten: `field36:value1[OR]field36:value2`, wobei 36 die ID des Feldes *List of items* ist.
 
-- **CSS-Klasse Ausgabe**. Das CSS-Klassenattribut für das Feld, wenn es
-  ausgegeben wird. Mehrere Klassen mit Leerzeichen trennen.
-- **CSS-Klasse**. Das CSS-Klassenattribut für den Wert, wenn er
-  ausgegeben wird. Mehrere Klassen mit Leerzeichen trennen.
-- **Beschriftung**. Die Beschriftung des Feldes zeigen.
-- **CSS-Klasse Beschriftung**. CSS-Klasse der Feld-Beschriftung, wenn es
-  gezeigt wird (Inhalte des Feldes anzeigen).
-- **Automatische Anzeige**. Wie das Feld im Inhalt integriert werden
-  soll.
-  - Nach Titel (After Title)
-  - Vor Inhalt (Before Display Content)
-  - Nach Inhalt (After Display Content)
-  - Keine automatische Anzeige
-- **Präfix**. Vor dem Feld gezeigter, vorgegebener Text wie zum Beispiel
-  £.
-- **Suffix**. Nach dem Feld gezeigter, vorgegebener Text wie zum
-  Beispiel EUR.
-- **Layout**. Benutzerdefiniertes Layout wählen.
-- **Anzeigen wenn schreibgeschützt**. Soll ein schreibgeschütztes Feld
-  (fehlende Zugriffsberechtigung des Benutzers) gezeigt werden.
+#### Anzeigeoptionen
 
-### Veröffentlichung
+- **Anzeigeklasse** Die Klasse des Feldcontainers in der Ausgabe.
+- **Wertklasse** Die Klasse des Feldwerts in der Ausgabe.
+- **Beschriftung** Zeigen Sie die Beschriftung an, wenn das Feld gerendert wird.
+- **Beschriftungsklasse (Ausgabe)** CSS-Klasse, die auf die Feldbeschriftung angewendet wird, wenn sie angezeigt wird (Ausgabe eines Feldes).
+- **Automatische Anzeige** Joomla bietet einige Inhaltsereignisse, die während des Inhalts-Erstellungsprozesses ausgelöst werden. Dies ist der Ort, an dem Sie definieren können, wie die Felder in Inhalte integriert werden sollen. Sie können wählen
+  - Nach dem Titel
+  - Vor dem Anzeigen des Inhalts
+  - Nach dem Anzeigen des Inhalts
+  - Nicht automatisch anzeigen
+- **Präfix** Fester Text, der vor einem Feld angezeigt wird, z. B. £.
+- **Suffix** Fester Text, der nach einem Feld angezeigt wird, z. B. €.
+- **Layout** Wenn ein benutzerdefiniertes Layout vorhanden ist, würde es hier ausgewählt werden.
+- **Anzeigen bei schreibgeschützt** Wenn das Feld schreibgeschützt ist (möglicherweise hat der Benutzer nicht die erforderliche Zugriffsebene), sollte das Feld angezeigt oder ausgeblendet werden.
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Fields-Edit-publishing-subscreen-de.png/600px-Help-4x-Fields-Edit-publishing-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Fields-Edit-publishing-subscreen-de.png/900px-Help-4x-Fields-Edit-publishing-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f3/Help-4x-Fields-Edit-publishing-subscreen-de.png/1200px-Help-4x-Fields-Edit-publishing-subscreen-de.png 2x"
-data-file-width="2880" data-file-height="980" width="600" height="204"
-alt="Fields Edit publishing subscreen" />
+#### Intelligente Suche
 
-- **Erstellungsdatum**. Das Erstellungsdatum des Feldes. Ein anderes
-  Datum oder Uhrzeit eingeben oder auf das Kalender-Symbol klicken.
-- **Autor**. Der Name des Benutzers, der das Feld erstellt hat. Standard
-  ist der aktuell eingewählte Benutzer. Um einen anderen Benutzer
-  auszuwählen, auf den Button 'Benutzer auswählen' klicken.
-- **Bearbeitungsdatum**. Datum der letzten Bearbeitung.
-- **Bearbeitet von**. Benutzer, der die letzte Bearbeitung ausgeführt
-  hat.
-- **ID**. Einmalig vergebene Identifikations-Nummer für das Feld, die
-  nicht geändert werden kann. Beim Erstellen eines neuen Feldes zeigt
-  das Feld "0" an, bis man speichert.
-
-### Berechtigungen
-
-Hier können die Berechtigungen für das Feld eingegeben werden. Mehr
-erfahren.
-
-<img
-src="https://docs.joomla.org/images/thumb/0/09/Help-4x-Fields-Edit-permissions-subscreen-de.png/600px-Help-4x-Fields-Edit-permissions-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/09/Help-4x-Fields-Edit-permissions-subscreen-de.png/900px-Help-4x-Fields-Edit-permissions-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/0/09/Help-4x-Fields-Edit-permissions-subscreen-de.png/1200px-Help-4x-Fields-Edit-permissions-subscreen-de.png 2x"
-data-file-width="2880" data-file-height="1260" width="600" height="263"
-alt="Fields Edit permissions subscreen" />
-
-Um Berechtigungen dieses Feldes zu ändern:
-
-1.  Die **Gruppe** durch Anklicken des Namens auf der linken Seite
-    auswählen.
-2.  Die gewünschte **Aktion** aussuchen.
-    - **Löschen**. Benutzer können dieses Feld löschen.
-    - **Bearbeiten**. Benutzer können dieses Feld bearbeiten.
-    - **Status bearbeiten**. Benutzer können den Status dieses Feldes
-      bearbeiten.
-    - **Inhalt von eigenen Feldern bearbeiten**. Benutzer können dieses
-      Feld bearbeiten.
-3.  Die Berechtigungen der gewählten Aktion wählen.
-    - **Vererbt**. Für Benutzer dieser Gruppe von der
-      Konfiguration,
-      der übergeordneten Gruppe und der Kategorie vererbt .
-    - **Erlaubt**. Für Benutzer dieser Gruppe erlaubt.Hinweis: Wenn die
-      Aktion auf einer höheren Ebene 'Verweigert' wird, ist die
-      'Erlaubt'-Berechtigung hier dadurch überschrieben. Eine
-      'Verweigert'-Einstellung kann nicht überschrieben werden.
-    - **Verweigert**. Für Benutzer dieser Gruppe verweigert .
-4.  Auf **Speichern** in der **Werkzeugleiste** oben klicken. Danach
-    aktualisiert sich die Anzeige, erst dann werden die errechneten
-    Einstellungen angezeigt.
-
-## Werkzeugleiste
-
-Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
-Bereich.
-
-- **Speichern**. Speichert das Feld und bleibt auf der aktuellen Seite.
-- **Speichern & Schließen**. Speichert das Feld und schließt die
-  aktuelle Seite.
-  - **Speichern & Neu**. Speichert das Feld und hält die Seite offen,
-    damit ein neues Feld erstellt werden kann.
-  - **Als Kopie speichern**. Speichert Änderungen in einer Kopie des
-    aktuellen Feldes. Das aktuelle Feld wird davon nicht beeinflusst.
-- **Schließen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück.
-- **Hilfe**. Öffnet die Hilfeseite.
-
+- **Suchindex**  Warnung: Wenn *Durchsuchbar machen* ausgewählt ist, wird der Inhalt des Feldes mit den Ansichtsebenen des Inhaltselements indiziert. Dies könnte zu unerwarteter Informationsfreigabe führen.
