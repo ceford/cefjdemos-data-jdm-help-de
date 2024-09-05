@@ -2,99 +2,30 @@
 
 ## Beschreibung
 
-Menü-Optionen ermöglichen die Einstellung von Parametern, die global für
-alle Menüs verwendet werden, wie z.B. Titel, CSS-Klasse und
-Berechtigungen.
+Die Seite *Menüs: Optionen* wird verwendet, um globale Parameter für alle Menüs festzulegen, es sei denn, sie sind über ein Menüelement oder eine Komponente verfügbar. Der Titel kann im Browser-Tab erscheinen und sollte daher kurz sein.
 
-## Wie darauf zugreifen
+### Allgemeine Elemente
 
-- Im Administrator-Menü **Menüs → Verwalten** auswählen, dann ...
-  - die Schaltfläche **Optionen** in der Symbolleiste anklicken.
+Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
-## Bildschirmfoto
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Der Berechtigungs-Tab](jdocmanual?article=help/common-elements/edit-permissions).
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Menus-Menu-Manager-Options-screen-de.png/800px-Help-4x-Menus-Menu-Manager-Options-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Menus-Menu-Manager-Options-screen-de.png/1200px-Help-4x-Menus-Menu-Manager-Options-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f6/Help-4x-Menus-Menu-Manager-Options-screen-de.png/1600px-Help-4x-Menus-Menu-Manager-Options-screen-de.png 2x"
-data-file-width="1627" data-file-height="669" width="800" height="329"
-alt="Menus Menu Manager Options screen" />
+## Zugriff
 
-## Formular Felder
+- Wählen Sie **Menüs → Verwalten** im Administrationsmenü. Dann...
+  - Klicken Sie auf die Schaltfläche **Optionen** in der Werkzeugleiste.
 
-### Seitenanzeige
+## Screenshot
 
-- **Seitentitel im Browser**. Optionaler Text, der in der Kopfzeile des
-  Browsers angezeigt wird. Ist kein Text angegeben, wird der Name des
-  Menüeintrags angezeigt.
-- **Seitenüberschrift anzeigen**. Falls „Ja“ ausgewählt wurde und unten
-  ist keine alternative Seitenüberschrift angegeben, erscheint
-  standardmäßig der Text des aktuellen Menüeintrags als Überschrift. Die
-  Seitenüberschrift wird innerhalb des HTML-Tags „h1“ angezeigt.
-- **Seitenüberschrift**. Optionaler Text für die Seitenüberschrift.
-- **CSS-Klasse Seite**. Optionale CSS-Klasse, die zu Elementen auf
-  dieser Seite hinzugefügt werden kann. Dies ermöglicht ein
-  Seiten-bezogenes CSS-Design.
+![Menüoptionen](../../../de/images/menus/menu-options-page-display-tab.png)
 
-### Berechtigungen
+## Formularfelder
 
-<img
-src="https://docs.joomla.org/images/thumb/2/29/Help-4x-Menu-Options-screen-permissions-tab-de.png/600px-Help-4x-Menu-Options-screen-permissions-tab-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/29/Help-4x-Menu-Options-screen-permissions-tab-de.png/900px-Help-4x-Menu-Options-screen-permissions-tab-de.png 1.5x, https://docs.joomla.org/images/2/29/Help-4x-Menu-Options-screen-permissions-tab-de.png 2x"
-data-file-width="952" data-file-height="1025" width="600" height="646"
-alt="Menu Options screen permissions tab" />
+### Seitendarstellung-Tab
 
-Um Berechtigungen dieser Erweiterung zu ändern:
-
-- Die **Gruppe** durch Anklicken des Namens auf der linken Seite
-  auswählen.
-- Die gewünschte **Aktion** aussuchen. Mögliche Aktionen sind:
-  - **ACL & Optionen konfigurieren**. Ermöglicht Benutzern das
-    Bearbeiten der Optionen und Berechtigungen (ACL) dieser Erweiterung.
-  - **Nur Optionen konfigurieren**. Ermöglicht Benutzern die Optionen,
-    außer den Berechtigungen (ACL), dieser Erweiterung zu bearbeiten.
-  - **Administrationszugriff**. Ermöglicht Benutzern den Zugriff auf
-    diese Erweiterung.
-  - **Erstellen**. Benutzer können Inhalte für diese Erweiterung
-    erstellen.
-  - **Löschen**. Benutzer können Inhalte dieser Erweiterung löschen.
-  - **Bearbeiten**. Benutzer können den Inhalt dieser Erweiterung
-    bearbeiten.
-  - **Status bearbeiten**. Der Benutzer kann den Status der
-    Veröffentlichung und die zugehörigen Informationen zum Inhalt dieser
-    Erweiterung ändern.
-  - **Eigene Inhalte bearbeiten:** Ermöglicht Benutzern das Bearbeiten
-    von selbst erstellten Inhalten in dieser Erweiterung.
-
-- Die gewünschte Berechtigungen der gewählten Aktion aussuchen. Mögliche
-  Einstellungen sind:
-  - ***Vererbt***. Wird von der globalen Konfigurationseinstellung
-    dieser Erweiterung für Benutzer dieser Gruppe vererbt.
-  - ***Erlaubt:*** Erlaubt für Benutzer dieser Gruppe. Wenn diese Aktion
-    auf einer der höheren Ebenen verweigert wird, ist die Berechtigung
-    „Erlaubt“ hier nicht wirksam. Eine Verweigert-Einstellung kann nicht
-    außer Kraft gesetzt werden.
-  - ***Verweigert***. Verweigert für Benutzer dieser Gruppe.
-
-- Auf **Speichern** in der **Werkzeugleiste** oben klicken. Danach
-  aktualisiert sich die Anzeige, erst dann werden die errechneten
-  Einstellungen angezeigt.
-
-## Werkzeugleiste
-
-Das [Bildschirmfoto](#Bildschirmfoto) am Anfang der Seite zeigt die
-Werkzeugleiste im oberen Bereich. Die Funktionen sind:
-
-- **Speichern**. Speichert den Eintrag und bleibt auf der aktuellen
-  Seite.
-- **Speichern & Schließen**. Speichert den Eintrag und schließt die
-  aktuelle Seite.
-- **Schließen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück. Dieses Symbol wird nicht
-  angezeigt, wenn ein neuer Eintrag erstellt wird.
-- **Hilfe**. Öffnet die Hilfeseite.
-
-## Tipps
-
-- Zur Erinnerung: diese Einstellungen werden global angewendet.
+- **Browser-Seitentitel** Optionaler Text für das `<title>`-Element der Seite.
+  Der Titel des Menüelements wird verwendet, falls verfügbar. Andernfalls wird der Artikeltitel verwendet, wenn das entsprechende Feld im Tab Artikeloptionen leer ist.
+- **Seitenüberschrift anzeigen** Legt fest, ob die Seitenüberschrift im Kopfbereich der Seite angezeigt wird. Die Seitenüberschrift wird normalerweise in einem h1-HTML-Element angezeigt.
+- **Seitenüberschrift** Optionaler alternativer Text für die Seitenüberschrift, der angezeigt wird, wenn *Seitenüberschrift anzeigen* auf *Anzeigen* gesetzt ist.
+- **Seitenklasse** Optionale CSS-Klasse, die den Elementen auf dieser Seite hinzugefügt wird. Dies ermöglicht eine CSS-Stilgestaltung, die spezifisch für diese Seite ist.
