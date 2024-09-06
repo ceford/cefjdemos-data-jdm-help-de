@@ -2,160 +2,80 @@
 
 ## Beschreibung
 
-Der Menüeintrag 'Beitrag erstellen' ermöglicht Benutzern, einen Beitrag
-über die Website einzureichen. Normalerweise steht dies nur Benutzern
-zur Verfügung, die im Frontend der Website angemeldet sind.
+Der Menüpunkt *Artikel erstellen* ermöglicht es Benutzern, einen Artikel über die Website-Oberfläche einzureichen. Normalerweise ist dies nur für Benutzer verfügbar, die sich im Frontend der Website angemeldet haben. Benutzer müssen die Berechtigung haben, Artikel zu erstellen.
 
-Benutzer müssen die Berechtigung haben, Beiträge zu erstellen. Wenn die
-Seite 'Beitrag erstellen' im Frontend angezeigt wird, wird der
-Bildschirm wie im Abschnitt [Frontend Bildschirmfotos](#frontend) unten
-gezeigt.
+### Gemeinsame Elemente
 
-## Wie darauf zugreifen
-Wählen **Menüs → \[Name des Menüs\]**
+Einige Aspekte dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
-Einen Menüeintrag hinzufügen:
+* [Symbolleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Der Details-Tab](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [Der Link-Typ-Tab](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [Der Seitendarstellung-Tab](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [Der Metadaten-Tab](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [Der Verknüpfungen-Tab](jdocmanual?article=help/common-elements/edit-associations).
+* [Der Modulzuweisung-Tab](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
 
-1.  auf den Button **Neu** der Werkzeugleiste klicken.
-2.  bei 'Menüeintragstyp' auf den Button **Auswählen** klicken.
-3.  **Beiträge** wählen.
-4.  **Beitrag erstellen** wählen.
+## Zugriff
 
-Einen Menüeintrag bearbeiten:
+Wählen Sie **Menüs → \[Name des Menüs\]** im Administrator-Menü.
 
-- einen **Titel** aus der Liste wählen.
+Um einen Menüpunkt hinzuzufügen:
 
-## Bildschirmfoto
+1. Wählen Sie die Schaltfläche **Neu** in der Symbolleiste.
+2. Wählen Sie die Schaltfläche **Auswählen** beim *Menüpunkt-Typ*.
+3. Wählen Sie im Popup-Dialog den Eintrag **Beiträge** aus.
+4. Wählen Sie den Eintrag **Artikel erstellen**.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-Item-Articles-Create-Article-screen-de.png/800px-Help-4x-Menus-Item-Articles-Create-Article-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-Item-Articles-Create-Article-screen-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-Item-Articles-Create-Article-screen-de.png/1600px-Help-4x-Menus-Item-Articles-Create-Article-screen-de.png 2x"
-data-file-width="2880" data-file-height="1305" width="800" height="363"
-alt="Menus Item Articles Create Article screen" />
+Um einen Menüpunkt zu bearbeiten:
 
-## Formular Felder
+- Wählen Sie einen **Titel** aus der Liste.
 
-- **Titel**. Der Titel, der für den Menüeintrag gezeigt wird.
-- **Alias**. Der interne Name des Menüeintrags. Das Feld kann
-  leergelassen werden und Joomla wird den Standardwert Titel in
-  Kleinbuchstaben und Bindestrichen statt Leerzeichen eintragen. Mehr
-  erfahren.
+## Screenshot
+
+![Menüpunkt Artikel erstellen Details-Tab](../../../de/images/menu-items/articles-create-article-details-tab.png)
+
+## Formularfelder
+
+- **Titel** Der Titel, der für diesen Menüpunkt angezeigt wird.
+- **Alias** Der interne Name des Menüpunkts. Normalerweise kann dieses Feld leer gelassen werden, und Joomla füllt einen Standardwert basierend auf dem Titel in Kleinbuchstaben und mit Bindestrichen anstelle von Leerzeichen aus.
 
 ### Details
 
-#### Linke Seite
+#### Linkes Panel
 
-- **Menüeintragstyp**. Der Menüeintragstyp wird beim Erstellen des
-  Menüeintrages gewählt. Das kann einer der Core-Menüeintragstypen oder
-  ein Menüeintragstyp einer installierten Erweiterung sein.
-- **Link**. Vom System erstellter Link für den Menüeintrag. Das Feld
-  kann nicht verändert werden, es dient ausschließlich der Information.
-- **Zielfenster**. Aus der Dropdown-Liste wählen.
-- **Template-Stil**. Aus der Dropdown-Liste wählen.
+- **Menüpunkt-Typ** Der Menüpunkt-Typ, der ausgewählt wurde, als dieser Menüpunkt erstellt wurde. Dies kann einer der Kern-Menüpunkt-Typen oder ein Menüpunkt-Typ sein, der von einer installierten Erweiterung bereitgestellt wird.
+- **Link** Der systemgenerierte Link für diesen Menüpunkt. Dieses Feld kann nicht geändert werden und dient nur zur Information.
+- **Ziel-Fenster** Wählen Sie aus der Dropdown-Liste.
+- **Template-Stil** Wählen Sie aus der Dropdown-Liste.
 
-#### Rechte Seite
+#### Rechtes Panel
 
-- **Menü**. Zeigt, in welchem Menü der Link erscheinen wird.
+- **Menü** Zeigt an, in welchem Menü der Link erscheinen wird.
 
 ### Optionen
 
-<img
-src="https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png 2x"
-data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Menus Item Articles Create Article options subscreen" />
+![Menüpunkt Artikel erstellen Optionen-Tab](../../../de/images/menu-items/articles-create-article-options-tab.png)
 
-- **Spezifische Kategorie**.
-  - Ja: Beiträge werden der spezifischen Kategorie zugewiesen. Nutzer
-    können keine Kategorie wählen.
-  - Nein: Nutzer können die Kategorie wählen. Dem Nutzer werden
-    Kategorien gezeigt, für die er die Berechtigung 'Erstellen' hat.
-- **Einreichungs-/Abbruchsweiterleitung**. Eine Seite wählen, zu der
-  Nutzer nach erfolgreicher Beitragseinreichung weitergeleitet werden.
-- **Eigene Weiterleitung beim Abbruch**.
-  - Ja: Eigene Weiterleitungsseite wählen, wenn Nutzer die
-    Beitragseinreichung abbrechen.
-  - Nein: Nutzer bei Abbruch der Beitragseinreichung auf die von
-    'Einreichungs-/Abbruchsweiterleitung' leiten.
+- **Spezifische Kategorie**
+  - *Ja* Artikel werden der angegebenen Kategorie zugeordnet. Der Benutzer kann keine Kategorie auswählen.
+  - *Nein* Der Benutzer kann die Kategorie aus der Liste auswählen. Es werden nur Kategorien angezeigt, für die der Benutzer die *Erstellen*-Berechtigung hat.
+- **Weiterleitung nach Übermittlung/Abbruch** Wählen Sie die Seite, auf die der Benutzer nach erfolgreicher Artikelerstellung weitergeleitet wird.
+- **Benutzerdefinierte Weiterleitung bei Abbruch**
+  - *Ja* Legen Sie eine Seite fest, zu der weitergeleitet wird, wenn der Benutzer die Artikelerstellung abbricht.
+  - *Nein* Wenn der Benutzer die Artikelerstellung abbricht, wird der Benutzer zur Seite *Weiterleitung nach Übermittlung/Abbruch* weitergeleitet.
 
-### Allgemeine Optionen
+## Beispiel-Screenshot im Frontend
 
-Siehe Menüs: Neuer
-Eintrag
-für Hilfe zu Feldern, die bei allen Menüeintragstypen gleich sind:
-
-- Rechte
-  Seite
-- Linktyp
-- Seitenanzeige
-- Metadaten
-- Verknüpfungen
-- Modulzuweisung
-
-## Werkzeugleiste
-
-Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
-Bereich.
-
-- **Speichern**. Speichert den Menüeintrag und bleibt auf der aktuellen
-  Seite.
-- **Speichern & Schließen**. Speichert den Menüeintrag und schließt die
-  aktuelle Seite.
-  - **Speichern & Neu**. Speichert den Menüeintrag und hält die Seite
-    offen, damit ein neuer Eintrag erstellt werden kann.
-- **Abbrechen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück.
-- **Hilfe**. Öffnet die Hilfeseite.
-
-## Frontend Bildschirmfotos
-
-Die Bildschirmfotos verwenden das Joomla Frontend-Template
-**Cassiopeia**, alle Optionen des
-Bearbeitungslayout
-sind 'Verborgen'.
-
-#### Inhalt
+Dieser Screenshot zeigt das Joomla-Kern-Frontend-Template **Cassiopeia** mit allen Bearbeitungs-Layout-Optionen auf „Ausblenden“ gesetzt.
 
 <img
-src="https://docs.joomla.org/images/thumb/a/a3/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png"
+src="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png"
 decoding="async"
-srcset="https://docs.joomla.org/images/thumb/a/a3/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png 1.5x, https://docs.joomla.org/images/thumb/a/a3/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png 2x"
-data-file-width="1728" data-file-height="1143" width="600" height="397"
-alt="Menus Item Articles Create Article frontend content" />
-
-#### Felder
-
-<img
-src="https://docs.joomla.org/images/thumb/0/07/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/07/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png 1.5x, https://docs.joomla.org/images/thumb/0/07/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png 2x"
-data-file-width="1729" data-file-height="564" width="600" height="196"
-alt="Menus Item Articles Create Article frontend fields" />
-
-#### Veröffentlichen
-
-<img
-src="https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png 1.5x, https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png 2x"
-data-file-width="1727" data-file-height="1114" width="600" height="387"
-alt="Menus Item Articles Create Article frontend publishing" />
-
-#### Sprache
-
-<img
-src="https://docs.joomla.org/images/thumb/c/c2/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c2/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png 1.5x, https://docs.joomla.org/images/thumb/c/c2/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png 2x"
-data-file-width="1728" data-file-height="329" width="600" height="114"
-alt="Menus Item Articles Create Article frontend language" />
+srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png 1.5x, https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png 2x"
+data-file-width="1728" data-file-height="1253" width="600" height="435"
+alt=" Menüpunkt Artikel erstellen Frontend-Inhalt" />
 
 ## Tipps
 
-Unberechtigte Benutzer erhalten meist eine Fehlermeldung, wenn sie auf
-einen Menüeintrag 'Beitrag erstellen' klicken. Deswegen ist es üblich,
-dem Menüeintrag eine
-Zugriffsebene
-zuzuweisen, die nur berechtigte Benutzer sehen.
+Ein nicht autorisierter Benutzer erhält normalerweise einen Fehler, wenn er einen Menüpunkt *Artikel erstellen* auswählt. Aus diesem Grund ist es üblich, dem Menüpunkt eine Zugriffsebene zuzuweisen, die nur von Benutzern gesehen werden kann, die berechtigt sind, Artikel hinzuzufügen.

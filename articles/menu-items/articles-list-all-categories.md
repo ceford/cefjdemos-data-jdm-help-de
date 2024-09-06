@@ -2,390 +2,121 @@
 
 ## Beschreibung
 
-Der Menüeintrag zeigt Kategorien in einer hierarchischen Liste. Abhängig
-von den gewählten Einstellungen kann auf den Kategorie-Titel geklickt
-werden, um die Beiträge der Kategorie zu zeigen.
+Der Menüpunkt *Alle Kategorien in einem Artikelkategorienbaum auflisten* wird verwendet, um Kategorien in einer hierarchischen Liste anzuzeigen. Je nach den ausgewählten Optionen für dieses Layout können Sie auf einen Kategorietitel klicken, um die Artikel in dieser Kategorie anzuzeigen.
 
-## Wie darauf zugreifen
-Wählen **Menüs → \[Name des Menüs\]**
+### Allgemeine Elemente
 
-Einen Menüeintrag hinzufügen:
+Einige Aspekte dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
-1.  auf den Button **Neu** der Werkzeugleiste klicken.
-2.  bei 'Menüeintragstyp' auf den Button **Auswählen** klicken.
-3.  **Beiträge** wählen.
-4.  **Alle Kategorien in einer Beitragskategorie auflisten** wählen.
+* [Symbolleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Der Details-Tab](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [Der Kategorie-Tab](jdocmanual?article=help/menu-items-common/menu-item-category).
+* [Der Blog-Layout-Tab](jdocmanual?article=help/menu-items-common/menu-item-blog-layout).
+* [Der Optionen-Tab](jdocmanual?article=help/menu-items-common/menu-item-article-options).
+* [Der Integrations-Tab](jdocmanual?article=help/menu-items-common/menu-item-integration).
+* [Der Linktyp-Tab](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [Der Seitendarstellung-Tab](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [Der Metadaten-Tab](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [Der Verknüpfungen-Tab](jdocmanual?article=help/common-elements/edit-associations).
+* [Der Modulzuweisung-Tab](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
 
-Einen Menüeintrag bearbeiten:
+## So greifen Sie darauf zu
 
-- einen **Titel** aus der Liste wählen.
+Wählen Sie **Menüs → \[Name des Menüs\]** aus dem Administrator-Menü.
 
-## Bildschirmfoto
+Um einen Menüpunkt hinzuzufügen:
 
-<img
-src="https://docs.joomla.org/images/thumb/0/0b/Help-4x-Menus-Item-Articles-List-All-Categories-screen-de.png/800px-Help-4x-Menus-Item-Articles-List-All-Categories-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/0b/Help-4x-Menus-Item-Articles-List-All-Categories-screen-de.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/0/0b/Help-4x-Menus-Item-Articles-List-All-Categories-screen-de.png/1600px-Help-4x-Menus-Item-Articles-List-All-Categories-screen-de.png 2x"
-data-file-width="2880" data-file-height="1304" width="800" height="362"
-alt="Menus Item Articles List All Categories screen" />
+1.  Wählen Sie die Schaltfläche **Neu** in der Symbolleiste.
+2.  Wählen Sie die Schaltfläche **Auswählen** beim Menüpunkt-Typ.
+3.  Wählen Sie den Eintrag **Beiträge**.
+4.  Wählen Sie den Eintrag **Alle Kategorien in einem Artikelkategorienbaum auflisten**.
 
-## Formular Felder
+Um einen Menüpunkt zu bearbeiten:
 
-- **Titel**. Der Titel, der für den Menüeintrag gezeigt wird.
-- **Alias**. Der interne Name des Menüeintrags. Normalerweise kann
-  dieses Feld leergelassen werden und Joomla wird den Standardwert
-  'Titel' in Kleinbuchstaben und mit Bindestrichen anstelle von
-  Leerzeichen eintragen. Mehr
-  erfahren.
+- Wählen Sie einen **Titel** aus der Liste aus.
 
-### Details
+## Screenshot
 
-#### Linke Seite
+![Menüpunkt Beiträge Alle Kategorien auflisten Details-Tab](../../../de/images/menu-items/articles-list-all-categories-details-tab.png)
 
-- **Menüeintragstyp**. Der Menüeintragstyp wird beim Erstellen des
-  Menüeintrages gewählt. Das kann einer der Core-Menüeintragstypen oder
-  ein Menüeintragstyp einer installierten Erweiterung sein.
-- **Oberkategorie wählen**.
-  - Root: Alle Beitragskategorien wählen.
-  - Eine Oberkategorie wählen. Alle Unterkategorien der gewählten
-    Oberkategorie werden im Menüeintrag gezeigt.
-- **Link**. Vom System erstellter Link für den Menüeintrag. Das Feld
-  kann nicht verändert werden, es dient ausschließlich der Information.
-- **Zielfenster**. Aus der Dropdown-Liste wählen.
-- **Template-Stil**. Aus der Dropdown-Liste wählen.
+## Formularfelder
 
-#### Rechte Seite
+- **Titel** Der Titel, der für diesen Menüpunkt angezeigt wird.
+- **Alias** Der interne Name des Menüpunkts. Normalerweise können Sie dieses Feld leer lassen, und Joomla füllt einen Standardwert mit dem Titel in Kleinbuchstaben und Bindestrichen anstelle von Leerzeichen aus.
 
-- **Menü**. Zeigt, in welchem Menü der Link erscheinen wird.
+### Details-Tab
 
-### Kategorien
+#### Linkes Panel
 
-Die Optionen legen die Darstellung der Kategorien im Menüeintrag fest.
+- **Menüpunkt-Typ** Der Menüpunkt-Typ, der beim Erstellen dieses Menüpunkts ausgewählt wurde. Dies kann einer der Standard-Menüpunkttypen oder ein Menüpunkttyp sein, der von einer installierten Erweiterung bereitgestellt wird.
+- **Obere Kategorie auswählen**
+  - *Stamm* Schließt alle Artikelkategorien ein.
+  - Andernfalls wählen Sie die gewünschte oberste Kategorie aus. Alle untergeordneten Kategorien der ausgewählten Kategorie werden im Menüpunkt angezeigt.
+- **Link** Der systemgenerierte Link für diesen Menüpunkt. Dieses Feld kann nicht geändert werden und dient nur zur Information.
+- **Zielfenster** Auswahl aus der Dropdown-Liste.
+- **Vorlagenstil** Auswahl aus der Dropdown-Liste.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b7/Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b7/Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/b/b7/Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-de.png 2x"
-data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Menus Item Articles List All Categories categories subscreen" />
+#### Rechtes Panel
 
-Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus
+- **Menü** Zeigt an, in welchem Menü der Link erscheinen wird.
 
-- **Beschreibung der obersten Kategorie**. Die Beschreibung der obersten
-  Kategorie zeigen.
-- **Beschreibung der Oberkategorie**. Die Beschreibung für diesen
-  Menüeintrag ändern.
-- **Unterkategorieebenen**. Die Anzahl der Unterkategorieebenen
-  einstellen, die gezeigt werden.
-- **Leere Kategorien**. Kategorien ohne Beiträge oder Unterkategorien
-  zeigen.
-- **Beschreibung der Unterkategorien**. Die Beschreibung der
-  Unterkategorien zeigen.
-- **\# Beiträge in Kategorie**. Die Anzahl der Beiträge in den gewählten
-  Kategorien zeigen.
+### Kategorie-Tab
 
-### Kategorie
+![Menüpunkt Beiträge Alle Kategorien Kategorien-Tab](../../../de/images/menu-items/articles-list-all-categories-categories-tab.png)
 
-Die Optionen kontrollieren, wie Kategorieinformationen im Menüeintrag
-gezeigt werden.
+- **Beschreibung der obersten Kategorie** Zeigt die Beschreibung der obersten Kategorie an.
+- **Alternative Beschreibung** Geben Sie eine Beschreibung ein, um die Kategoriebeschreibung für den Menüpunkt zu überschreiben.
+- **Unterkategorie-Ebenen** Steuerung, wie viele Ebenen von Unterkategorien angezeigt werden.
+- **Leere Kategorien** Kategorien anzeigen, die keine Artikel oder Unterkategorien enthalten.
+- **Beschreibungen der Unterkategorien** Zeigt die Beschreibung der Unterkategorien an.
+- **Anzahl der Artikel in der Kategorie** Zeigt die Anzahl der Artikel in jeder Kategorie an.
 
-<img
-src="https://docs.joomla.org/images/thumb/2/29/Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/29/Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/2/29/Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-de.png 2x"
-data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Menus Item Articles List All Categories category subscreen" />
+### Blog-Layout-Tab
 
-- **Kategorietitel**. Den Kategorietitel zeigen.
-- **Kategoriebeschreibung**. Die Beschreibung der Kategorie zeigen.
-- **Kategoriebild**. Das Kategoriebild zeigen.
-- **Unterkategorieebenen**. Die Anzahl der Unterkategorieebenen
-  einstellen, die gezeigt werden.
-- **Leere Kategorien**. Kategorien ohne Beiträge oder Unterkategorien
-  zeigen.
-- **Meldung "Keine Beiträge"**. Die Meldung "Es gibt keine Beiträge in
-  dieser Kategorie" zeigen.
-- **Beschreibung der Unterkategorien**. Die Beschreibung der
-  Unterkategorien zeigen.
-- **\# Beiträge in Kategorie**. Die Anzahl der Beiträge in den gewählten
-  Kategorien zeigen.
+Die Blog-Layout-Optionen steuern das Erscheinungsbild, wenn das Herunterklicken auf eine Kategorie zu einem Blog-Layout führt.
 
-### Blog-Layout
+Das Blog-Layout-Formular hat ein anderes Layout als das im Abschnitt „Allgemeine Elemente“, aber die Felder sind ähnlich.
 
-Diese Einstellungen werden verwendet, wenn ein Kategorielink ein
-Blog-Layout aufruft.
+### Listen-Layouts-Tab
 
-Hinweis: Ist eine Kategorie mit einem Menüeintrag verlinkt,
-kontrollieren dessen Einstellungen das Layout. Die hier gewählten
-Einstellungen gelten nur für Kategorien ohne Menüeintrag.
+Die Optionen steuern das Erscheinungsbild der Seite beim Herunterklicken, wenn diese als Kategorienliste angezeigt wird.
 
-<img
-src="https://docs.joomla.org/images/thumb/3/39/Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/39/Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/3/39/Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-de.png 2x"
-data-file-width="2878" data-file-height="1202" width="600" height="251"
-alt="Menus Item Articles List All Categories blog layout subscreen" />
+![Menüpunkt Beiträge Alle Kategorien Listen-Layouts-Tab](../../../de/images/menu-items/articles-list-all-categories-list-layouts-tab.png)
 
-- **CSS-Klasse Beitrag (Führender Beitrag)**. CSS-Klasse für eigene
-  Styling-Ideen hinzugefügen.Für die Bildposition kann z. B.
-  'image-left' und 'image-right' verwendet werden. Die Klasse
-  'image-alternate' hinzufügen, um Einleitungsbilder in alternativer
-  Reihenfolge anzuordnen.
-- **CSS-Klasse Beitrag**. CSS-Klasse für eigene Styling-Ideen
-  hinzugefügen.Für die Bildposition kann z. B. 'image-left' und
-  'image-right' verwendet werden. Die Klasse 'image-alternate'
-  hinzufügen, um Einleitungsbilder in alternativer Reihenfolge
-  anzuordnen.
-- **\# Führende**. Anzahl der führenden Beiträge, deren Einleitungstexte
-  in voller Breite gezeigt wird. Bei "0" werden keine Beiträge
-  angezeigt. Beiträge mit einem "Weiterlesen"-Link zeigen nur den
-  Einleitungstext.
-- **\# Einleitung**. Anzahl der Beiträge, die in Spalten nach den
-  führenden Beiträgen gezeigt werden. Die Anzahl der Spalten wird im
-  Parameter darunter angegeben. Beiträge mit einem "Weiterlesen"-Link
-  zeigen nur den Einleitungstext, gefolgt vom "Weiterlesen"-Link. Die
-  Sortierung der Beiträge wird von der Option "Mehrspaltige Sortierung"
-  bestimmt.
-- **\# Links**. Anzahl der Beiträge, deren Überschriften als Links
-  gezeigt werden, normalerweise unterhalb der Einleitungstexte. Damit
-  können Benutzer weitere Beiträge aufrufen, falls mehr Beiträge
-  vorhanden sind als Platz im Blog-Layout ist.
-- **Unterkategorien einbinden**.
-  - Keine: Nur Beiträge dieser Kategorie werden angezeigt.
-  - Alle: Alle Beiträge dieser Kategorie und Unterkategorien werden
-    angezeigt.
-  - 1-5: Alle Beiträge dieser Kategorieebene und Unterkategorien werden
-    angezeigt.
-- **Kategoriesortierung**.
-  - Keine Sortierung: Beiträge sind nur nach der Beitrags-Sortierung,
-    ohne Berücksichtigung der Kategorie, sortiert.
-  - Titel von A bis Z: Kategorien werden alphabetisch sortiert gezeigt.
-  - Titel von Z bis A: Kategorien werden alphabetisch sortiert gezeigt.
-  - Kategoriereihenfolge: Die Sortierung der Kategorien entspricht der
-    Spalte 'Reihenfolge' in
-- **Beitragssortierung**.
-  - Reihenfolge Hauptbeiträge: Die Sortierung der Kategorien entspricht
-    der Spalte 'Reihenfolge' in
-  - Neuesten zuerst: Die Sortierung beginnt mit dem neuesten und endet
-    mit dem ältesten Beitrag.
-  - Ältesten zuerst: Die Sortierung beginnt mit dem ältesten und endet
-    mit dem neuesten Beitrag.
-  - Titel von A bis Z: Beiträge nach Titel alphabetisch sortiert zeigen.
-  - Titel von Z bis A: Beiträge nach Titel alphabetisch sortiert zeigen.
-  - Autor von A bis Z: Beiträge nach Autor alphabetisch sortiert zeigen.
-  - Autor von Z bis A: Beiträge nach Autor alphabetisch sortiert zeigen.
-  - Meisten Zugriffe: Die Sortierung beginnt mit dem Beitrag mit den
-    meisten Zugriffen und endet mit dem Beitrag mit den wenigsten
-    Zugriffen.
-  - Wenigsten Zugriffe: Die Sortierung beginnt mit dem Beitrag mit den
-    wenigsten Zugriffen und endet mit dem Beitrag mit den meisten
-    Zugriffen.
-  - Beitragsreihenfolge: Die Sortierung entspricht der Spalte
-    'Reihenfolge' in
-    Beiträge.
-  - Umgekehrte Beitragsreihenfolge: Die Sortierung ist umgekehrt zur
-    Spalte 'Reihenfolge' in
-    Beiträge.
-- **Sortierdatum**. Sortierdatum, wenn Beiträge nach Datum sortiert
-  sind.
-  - Erstellt: Das Erstellungsdatum des Beitrages verwenden.
-  - Bearbeitet: Das Bearbeitungsdatum des Beitrages verwenden.
-  - Veröffentlicht: Das Veröffentlichungsdatum des Beitrages verwenden.
+- **Anzeigeoption auswählen** Zeigt die Steuerung „Anzahl anzeigen“ an, mit der der Benutzer die Anzahl der anzuzeigenden Artikel auswählen kann.
+- **Filterfeld** Zeigt ein Textfeld im Frontend an, in dem ein Benutzer die Artikel filtern kann. Optionen im Backend-Menüpunkt bearbeiten.
+  - *Verbergen* Kein Filterfeld anzeigen.
+  - *Titel* Nach Artikel-Titel filtern.
+  - *Autor* Nach Autorennamen filtern.
+  - *Aufrufe* Nach der Anzahl der Artikelaufrufe filtern.
+- **Tabellenüberschriften** Zeigt eine Überschrift in der Artikelliste im Frontend an.
+- **Datum** Zeigt ein Datum in der Liste an.
+  - *Verbergen* Kein Datum anzeigen.
+  - *Erstellt* Das Erstellungsdatum anzeigen.
+  - *Geändert* Das Datum der letzten Änderung anzeigen.
+  - *Veröffentlicht* Das Veröffentlichungsdatum anzeigen.
+- **Datumsformat** Optionale Formatzeichenfolge, um das Datumsformat zu steuern.
+- **Aufrufe** Zeigt die Anzahl der Aufrufe der Artikel an.
+- **Autor** Zeigt den Namen des Autors an.
+- **Anzahl der Artikel in der Liste** Anzahl der in der Liste angezeigten Artikel.
 
-### Listenlayout
+### Gemeinsame Optionen-Tab
 
-Diese Einstellungen werden verwendet, wenn ein Kategorielink ein
-Listenlayout aufruft.
+Die gemeinsamen Optionen gelten für Blog, Liste und Hervorgehobene Artikel, es sei denn, sie werden durch die Menüeinstellungen geändert.
 
-<img
-src="https://docs.joomla.org/images/thumb/f/ff/Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/ff/Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/ff/Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-de.png 2x"
-data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Menus Item Articles List All Categories list layouts subscreen" />
+![Menüpunkt Beiträge Alle Kategorien Gemeinsame Optionen-Tab](../../../de/images/menu-items/articles-list-all-categories-shared-tab.png)
 
-- **"Anzeige"-Filter**. Besucher können die Anzahl der gezeigten
-  Beiträge wählen.
-- **Filterfeld**. Besucher können im Frontend Beiträge filtern.Optionen
-  des Menüeintrages im Backend.
-  - Verbergen: Kein Filterfeld anzeigen.
-  - Titel: Filter nach Titel.
-  - Autor: Filter nach Autor.
-  - Zugriffe: Filter nach Zugriffen.
-- **Tabellenüberschriften**. Im Frontend eine Überschrift in der
-  Beitragsliste zeigen.
-- **Datum**. Zeigt das Datum in der Liste.
-  - Verbergen: Kein Datum anzeigen.
-  - Erstellt: Das Erstellungsdatum anzeigen.
-  - Bearbeitet: Das Bearbeitungsdatum anzeigen.
-  - Veröffentlicht: Das Veröffentlichungsdatum anzeigen.
-- **Datumsformat**. Optionaler Formatstring für die Datumsanzeige.
-  [Tipp](#dateformat)
-- **Zugriffe**. Die Zahl der Aufrufe für den Beitrag zeigen.
-- **Autor in Liste**. Den Namen des Autors zeigen.
-- **\# Beiträge**. Die Anzahl der Beiträge, die in der Liste gezeigt
-  werden.
-
-### Gemeinsam genutzt
-
-Die Einstellungen gelten für die Beitragslisten-, die Blogansichten und
-die Haupteinträge, wenn sie nicht von einem Menüeintrag überschrieben
-werden.
-
-<img
-src="https://docs.joomla.org/images/thumb/8/8b/Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/8b/Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/8/8b/Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-de.png 2x"
-data-file-width="2878" data-file-height="810" width="600" height="169"
-alt="Menus Item Articles List All Categories shared subscreen" />
-
-- **Seitenzahlen**. Seitenzahlen sind Links am Seitenfuß, die Besuchern
-  die Navigation zu weiteren Seiten ermöglichen.
-  - Verbergen: Seitenzahlen werden nicht angezeigt. Hinweis: Benutzer
-    können nicht zu weiteren Seiten navigieren.
-  - Anzeigen: Seitenzahlen werden nur wenn notwendig angezeigt.
-  - Auto: Seitenzahlen werden nur wenn notwendig angezeigt.
-- **Gesamtseitenzahlen**. Die aktuelle Seitennummer und
-  Gesamtseitenzahlen (z.B. "Seite 1 von 4") am Seitenfuß zeigen.
-
-### Optionen
-
-Die Optionen legen fest, wie Beiträge im Menüeintrag gezeigt werden.
-
-<img
-src="https://docs.joomla.org/images/thumb/c/c7/Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c7/Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/c/c7/Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-de.png 2x"
-data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Menus Item Articles List All Categories options subscreen" />
-
-#### Layout
-
-- **Layout auswählen**. Aus der Dropdown-Liste wählen.
-- **Titel**. Den Titel des Beitrages zeigen.
-- **Titel verlinken**. Den Titel als Link zeigen.
-- **Einleitungstext**.
-  - Anzeigen: Der Beitrag wird inklusive Einleitungstext gezeigt.
-  - Verbergen: Der Beitrag wird ohne Einleitungstext gezeigt.
-
-#### Kategorie
-
-- **Kategorie**. Den Kategorietitel des Beitrags zeigen.
-- **Kategorie verlinken**. Den Kategorietitel als Link zeigen.Hinweis:
-  Im Tab 'Kategorie' kann mit Layout
-  auswählen
-  'Blog' oder 'Liste' festgelegt werden.
-- **Übergeordnete Kategorie**. Den Titel der übergeordneten Kategorie
-  des Beitrages zeigen.
-- **Übergeordnete Kategorie verlinken**. Den Titel der Kategorie als
-  Link zeigen.Hinweis: Im Tab 'Kategorie' kann mit Layout
-  auswählen
-  'Blog' oder 'Liste' festgelegt werden.
-
-#### Autor
-
-- **Autor**. Zeigt den Autor des Beitrags.
-- **Autor verlinken**. Zum Kontakt des Autors verlinken.Hinweis: Der
-  Autor muss als
-  Kontakt
-  angelegt sein. Wurde ein
-  Autoralias
-  eingegeben, wird der Link nicht angezeigt.
-
-#### Datum
-
-- **Erstellungsdatum**. Zeigt das Erstellungsdatum des Beitrages.
-- **Bearbeitungsdatum**. Zeigt das Bearbeitungsdatum des Beitrages.
-- **Veröffentlichungsdatum**. Zeigt das Veröffentlichungsdatum des
-  Beitrages.
-
-#### Optionen
-
-- **Seitennavigation**. Zeigt die Navigationslinks 'Zurück' oder
-  'Weiter', wenn der Beitrag gezeigt wird.
-- **"Weiterlesen"**. Zeigt den Link "Weiterlesen" vor der Trennung von
-  Einleitungs- und Haupttext.
-- **"Weiterlesen"-Titel**.
-  - Anzeigen: Der Link wird als "Weiterlesen: \[Titel des Beitrages\]"
-    gezeigt.
-  - Verbergen: Der Link wird als "Weiterlesen" gezeigt.
-- **Zugriffe**. Zeigt, wie oft der Beitrag von Benutzern aufgerufen
-  wurde.
-- **Nicht zugängliche Links**.
-  - Ja: Der Einleitungstext wird angezeigt. Nach Klick auf den Link
-    "Weiterlesen" muss sich der Besucher anmelden, um den vollständigen
-    Beitrag zu sehen.
-  - Nein: Beiträge, die ein Besucher nicht sehen darf, werden nicht
-    angezeigt. Die Anzeige hängt von der Zugriffsebene des Beitrages ab.
-
-### Integration
-
-Bestimmt, ob ein Newsfeed für die Seite verfügbar sein wird und welche
-Informationen angezeigt werden.
-
-<img
-src="https://docs.joomla.org/images/thumb/1/12/Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/12/Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/1/12/Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-de.png 2x"
-data-file-width="2878" data-file-height="710" width="600" height="148"
-alt="Menus Item Articles List All Categories integration subscreen" />
-
-- **Feed-Link**. Bei 'Anzeigen' wird ein Feed-Link mit einem Feed-Icon
-  in der Adressleiste der meisten Browser gezeigt.
-- **In jedem Feed-Eintrag**.
-  - Einleitungstext: Nur den Einleitungstext in den Newsfeed einbinden.
-  - Gesamter Text: Den gesamten Beitrag in den Newsfeed einbinden.
-
-### Allgemeine Optionen
-
-Siehe Menüs: Neuer
-Eintrag
-für Hilfe zu Feldern, die bei allen Menüeintragstypen gleich sind:
-
-- Rechte
-  Seite
-- Linktyp
-- Seitenanzeige
-- Metadaten
-- Verknüpfungen
-- Modulzuweisung
-
-## Werkzeugleiste
-
-Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
-Bereich.
-
-- **Speichern**. Speichert den Menüeintrag und bleibt auf der aktuellen
-  Seite.
-- **Speichern & Schließen**. Speichert den Menüeintrag und schließt die
-  aktuelle Seite.
-  - **Speichern & Neu**. Speichert den Menüeintrag und hält die Seite
-    offen, damit ein neuer Eintrag erstellt werden kann.
-- **Abbrechen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück.
-- **Hilfe**. Öffnet die Hilfeseite.
+- **Seitennummerierung** Die Seitennummerierung bietet Links am unteren Rand der Seite, mit denen der Benutzer zu weiteren Seiten navigieren kann. Diese sind erforderlich, wenn die Artikel nicht auf eine Seite passen.
+  - *Verbergen: Seitennummerierungs-Links nicht anzeigen. Hinweis* Benutzer können nicht zu weiteren Seiten navigieren.
+  - *Anzeigen* Seitennummerierungs-Links bei Bedarf anzeigen.
+  - *Automatisch* Seitennummerierungs-Links bei Bedarf anzeigen.
+- **Zusammenfassung der Seitennummerierung** Zeigt die aktuelle Seitenzahl und die Gesamtseitenzahl an (z. B. „Seite 1 von 2“) am unteren Rand jeder Seite.
 
 ## Tipps
 
-- Kategorien können ähnlich Verzeichnissen auf der Festplatte in Ebenen
-  verschachtelt werden. Theoretisch gibt es kein Limit für die
-  Verschachtelungs-Tiefe. Aus praktischen Gründen ist aber empfohlen,
-  die Ebenen möglichst gering zu halten. Das "Alle Kategorien
-  auflisten"-Layout kann eventuell nicht korrekt arbeiten, wenn die
-  Anzahl der Ebenen mehr als 5 beträgt.
-- Sind Kategorie-Titel anklickbar, kann sich der Benutzer den Inhalt
-  dieser Kategorie anzeigen lassen. Dann wird je nach gewählter Option
-  ein Kategorieblog oder -liste gezeigt. Ist ein Menüeintrag für diese
-  Kategorie vorhanden, werden dessen Einstellungen verwendet.
-- Zwischen Liste oder Blog wird an 2 Stellen gewählt.
-  - In Beiträge:
-    Optionen
-    für alle Kategorien.
-  - In Kategorie:
-    Bearbeiten
-    für die jeweilige Kategorie.
-- Das 'Datumsformat' anpassen: "D M Y" für "Tag Monat Jahr" oder "d.m.y"
-  für "17.08.05" (siehe
-  <a href="https://php.net/search.php?show=quickref&amp;pattern=date"
-  class="extiw" title="php:date">PHP: Date - Examples</a>). Bei einem
-  leeren String wird das Datumsformat 'DATE_FORMAT_LC1' verwendet.
+- Kategorien können in Ebenen „verschachtelt“ werden, ähnlich wie Ordner auf einer Festplatte. Theoretisch gibt es keine absolute Begrenzung der Ebenenanzahl. Aus praktischen Gründen wird jedoch empfohlen, die Ebenenanzahl möglichst gering zu halten. Das Layout „Alle Kategorien anzeigen“ funktioniert möglicherweise nicht korrekt, wenn die Anzahl der angezeigten Ebenen größer als 5 ist.
+- Wenn Sie Kategorietitel als verlinkbar einrichten, kann der Benutzer auf die Kategorie klicken, um tiefer in die Kategorieansicht zu gelangen. Normalerweise sieht der Benutzer dann entweder einen Kategorienlisten- oder Kategorienblog-Menüpunkt, je nachdem, welche Option ausgewählt wurde. Wenn für diese Kategorie bereits ein Menüpunkt vorhanden ist (z. B. ein Kategorienblog-Menüpunkt), wird dieser Menüpunkt in der Kategorieansicht angezeigt, und die für diesen Menüpunkt festgelegten Optionen steuern die Seitendarstellung. Andernfalls steuern die für den aktuellen Menüpunkt „Alle Kategorien anzeigen“ festgelegten Optionen die Seitendarstellung.
+- Sie können die Option zum Herunterklicken in eine Liste oder einen Blog an zwei Stellen festlegen.
+  - In „Beiträge: Optionen“ können Sie den Standardwert für alle Kategorien festlegen.
+  - In „Kategorie: Bearbeiten“ können Sie einen Wert für eine bestimmte Kategorie festlegen. Wenn dies festgelegt ist, überschreibt es den Standardwert.
+- Um ein *Datumsformat* anzupassen, können Sie D M Y für Tag Monat Jahr oder d-m-y für eine Kurzversion verwenden, z. B. 17-08-05. Wenn das Feld leer bleibt, wird der Übersetzungsschlüssel DATE_FORMAT_LC1 aus Ihrer Sprachdatei verwendet.

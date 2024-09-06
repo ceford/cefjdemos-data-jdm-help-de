@@ -1,335 +1,119 @@
 <!-- Filename: Help4.x:Menu_Item:_Category_Blog / Display title: Menüeintrag: Kategorieblog -->
+<!-- Dateiname: Help4.x:Menu_Element:_Kategorie_Blog / Titel anzeigen: Kategorie Blog -->
 
 ## Beschreibung
 
-Der Menüeintrag Blog zeigt ein oder zwei Beiträge über die Seitebreite,
-weitere Beiträge in ein bis drei Spalten und Beitragslinks derselben
-Kategorie.
+Ein *Kategorie-Blog* Menüpunkt zeigt typischerweise einen oder zwei führende Artikel an, die die volle Breite des Inhaltsbereichs einnehmen. Darunter folgen weitere Artikel in ein, zwei oder drei Spalten sowie zusätzliche Links zu weiteren Artikeln derselben Kategorie.
 
-## Wie darauf zugreifen
-Wählen **Menüs → \[Name des Menüs\]**
+### Gemeinsame Elemente
 
-Einen Menüeintrag hinzufügen:
+Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
-1.  auf den Button **Neu** der Werkzeugleiste klicken.
-2.  bei 'Menüeintragstyp' auf den Button **Auswählen** klicken.
-3.  **Beiträge** wählen.
-4.  **Kategorieblog** wählen.
+* [Symbolleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Der Details-Tab](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [Der Optionen-Tab](jdocmanual?article=help/menu-items-common/menu-item-article-options).
+* [Der Integration-Tab](jdocmanual?article=help/menu-items-common/menu-item-integration).
+* [Der Linktyp-Tab](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [Der Seitendarstellung-Tab](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [Der Metadaten-Tab](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [Der Zuordnungen-Tab](jdocmanual?article=help/common-elements/edit-associations).
+* [Der Modulzuweisung-Tab](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
 
-Einen Menüeintrag bearbeiten:
+## Zugriff
 
-- einen **Titel** aus der Liste wählen.
+Wählen Sie **Menüs → \[Name des Menüs\]** aus dem Administrationsmenü.
 
-## Bildschirmfoto
+Um einen Menüpunkt hinzuzufügen:
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b7/Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png/800px-Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b7/Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/b/b7/Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png/1600px-Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png 2x"
-data-file-width="2880" data-file-height="1445" width="800" height="401"
-alt="Menus Item Articles Category Blog screen" />
+1. Wählen Sie die Schaltfläche **Neu** in der Symbolleiste.
+2. Wählen Sie die Schaltfläche **Auswählen** beim *Menüpunkt-Typ*.
+3. Wählen Sie den Eintrag **Beiträge** im Popup-Dialog.
+4. Wählen Sie den Eintrag **Kategorie-Blog**.
 
-## Formular Felder
+Um einen Menüpunkt zu bearbeiten:
 
-- **Titel**. Der Titel, der für den Menüeintrag gezeigt wird.
-- **Alias**. Der interne Name des Menüeintrags. Das Feld kann
-  leergelassen werden und Joomla wird den Standardwert Titel in
-  Kleinbuchstaben und Bindestrichen statt Leerzeichen eintragen. Mehr
-  erfahren.
+- Wählen Sie einen **Titel** aus der Liste.
 
-### Details
+## Screenshot
 
-#### Linke Seite
+![Menüpunkt Kategorie-Blog](../../../de/images/menu-items/articles-category-blog-details-tab.png)
 
-- **Menüeintragstyp**. Der Menüeintragstyp wird beim Erstellen des
-  Menüeintrages gewählt. Das kann einer der Core-Menüeintragstypen oder
-  ein Menüeintragstyp einer installierten Erweiterung sein.
-- **Kategorie auswählen**. Beiträge der Kategorie werden angezeigt.
-- **Schlagwörter**. Nur Beiträge mit den gewählten Schlagwörtern zeigen.
-- **Link**. Vom System erstellter Link für den Menüeintrag. Das Feld
-  kann nicht verändert werden, es dient ausschließlich der Information.
-- **Zielfenster**. Aus der Dropdown-Liste wählen.
-- **Template-Stil**. Aus der Dropdown-Liste wählen.
+## Formularfelder
 
-#### Rechte Seite
+- **Titel** Der Titel, der für diesen Menüpunkt angezeigt wird.
+- **Alias** Der interne Name des Menüpunkts. Normalerweise kann dieses Feld leer gelassen werden, und Joomla generiert automatisch einen Alias basierend auf dem Titel in Kleinbuchstaben und mit Bindestrichen anstelle von Leerzeichen.
 
-- **Menü**. Zeigt, in welchem Menü der Link erscheinen wird.
+### Details-Tab
 
-### Kategorie
+#### Linke Spalte
 
-Die Optionen kontrollieren, wie Kategorieinformationen im Menüeintrag
-gezeigt werden.
-Die Auswahl "Global" übernimmt Einstellungen aus
+- **Menüpunkt-Typ** Der bei der Erstellung dieses Menüpunkts gewählte Menüpunkt-Typ. Dies kann einer der Joomla-Kernmenütypen oder ein Menütyp einer installierten Erweiterung sein.
+- **Kategorie wählen** Die Artikel innerhalb dieser Kategorie werden angezeigt.
+- **Tags** Optional kann die Anzeige auf Artikel mit den ausgewählten Tags eingeschränkt werden.
+- **Link** Der systemgenerierte Link für diesen Menüpunkt. Dieses Feld kann nicht geändert werden und dient nur zur Information.
+- **Ziel-Fenster** Auswahl aus der Dropdown-Liste.
+- **Vorlagen-Stil** Auswahl aus der Dropdown-Liste.
 
-<img
-src="https://docs.joomla.org/images/thumb/f/fb/Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/fb/Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/fb/Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png 2x"
-data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Menus Item Articles Category Blog category subscreen" />
+#### Rechte Spalte
 
-- **Kategorietitel**. Den Kategorietitel zeigen.
-- **Kategoriebeschreibung**. Die Beschreibung der Kategorie zeigen.
-- **Kategoriebild**. Das Kategoriebild zeigen.
-- **Unterkategorieebenen**. Die Anzahl der Unterkategorieebenen
-  einstellen, die gezeigt werden.
-- **Leere Kategorien**. Kategorien ohne Beiträge oder Unterkategorien
-  zeigen.
-- **Meldung "Keine Beiträge"**. Die Meldung "Es gibt keine Beiträge in
-  dieser Kategorie" zeigen.
-- **Unterkategorien-Überschrift**. Unterkategorien als Überschrift
-  zeigen.
-- **Beschreibung der Unterkategorien**. Die Beschreibung der
-  Unterkategorien zeigen.
-- **\# Beiträge in Kategorie**. Die Anzahl der Beiträge in den gewählten
-  Kategorien zeigen.
-- **Schlagwörter anzeigen**. Die Schlagwörter der Kategorie zeigen.
+- **Menü** Zeigt, in welchem Menü der Link erscheinen wird.
 
-### Blog-Layout
+### Kategorie-Tab
 
-Die Optionen kontrollieren das Layout des Menüeintrags.
+Diese Parameter steuern die Anzeige der Kategoriedaten auf der Seite, die durch diesen Menüpunkt-Typ erzeugt wird.
 
-<img
-src="https://docs.joomla.org/images/thumb/7/76/Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/76/Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/7/76/Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png 2x"
-data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Menus Item Articles Category Blog blog layout subscreen" />
+![Kategorie-Tab für Menüelement](../../../de/images/menu-items/articles-category-blog-category-tab.png)
 
-- **\# Führende**. Anzahl der führenden Beiträge, deren Einleitungstexte
-  in voller Breite gezeigt wird. Bei "0" werden keine Beiträge
-  angezeigt. Beiträge mit einem "Weiterlesen"-Link zeigen nur den
-  Einleitungstext.
-- **CSS-Klasse Beitrag (Führender Beitrag)**. CSS-Klasse für eigene
-  Styling-Ideen hinzugefügen. Eine Linie oberhalb des Beitrages mit der
-  Klasse boxed zeigen.Für die Bildposition kann z. B. 'image-left' und
-  'image-right' verwendet werden. Die Klasse 'image-alternate'
-  hinzufügen, um Einleitungsbilder in alternativer Reihenfolge
-  anzuordnen.
-- **\# Einleitung**. Anzahl der Beiträge, die in Spalten nach den
-  führenden Beiträgen gezeigt werden. Die Anzahl der Spalten wird im
-  Parameter darunter angegeben. Beiträge mit einem "Weiterlesen"-Link
-  zeigen nur den Einleitungstext, gefolgt vom "Weiterlesen"-Link. Die
-  Sortierung der Beiträge wird von der Option "Mehrspaltige Sortierung"
-  bestimmt.
-- **CSS-Klasse Beitrag**. CSS-Klasse für eigene Styling-Ideen
-  hinzugefügen. Eine Linie oberhalb des Beitrages mit der Klasse boxed
-  zeigen.Für die Bildposition kann z. B. 'image-left' und 'image-right'
-  verwendet werden. Die Klasse 'image-alternate' hinzufügen, um
-  Einleitungsbilder in alternativer Reihenfolge anzuordnen.
-- **\# Spalten**. Die Anzahl der Spalten für Einleitungsbeiträge. Oft
-  zwischen 1 und 3 (hängt vom verwendetem Template ab). Bei '1' werden
-  Beiträge wie führende Beiträge in voller Breite gezeigt.
-- **Mehrspaltige Anordnung**. Die Beiträge werden innerhalb der Spalten
-  untereinander (Option: Abwärts) oder nebeneinander (Option: Seitlich)
-  angezeigt.
-  - Abwärts: Beiträge werden innerhalb der ersten Spalte abwärts
-    sortiert, dann in der nächsten Spalte. Zum Beispiel:
+- **Kategorietitel** Zeigt den Titel der Kategorie an oder blendet ihn aus.
+- **Kategoriebeschreibung** Zeigt die Beschreibung der Kategorie an oder blendet sie aus.
+- **Kategorie-Bild** Zeigt das Bild der Kategorie an oder blendet es aus.
+- **Unterkategorien-Ebenen** Bestimmt, wie viele Ebenen von Unterkategorien angezeigt werden.
+- **Leere Kategorien** Zeigt Kategorien an oder blendet sie aus, die keine Artikel oder Unterkategorien enthalten.
+- **Keine Artikel-Meldung** Zeigt oder blendet eine Nachricht *Es gibt keine Artikel in dieser Kategorie* ein.
+- **Unterkategorien-Überschrift** Zeigt oder blendet die Unterkategorien als Unterüberschrift auf der Seite ein.
+- **Unterkategorien-Beschreibungen** Zeigt oder blendet die Beschreibungen der Unterkategorien ein.
+- **\# Artikel in der Kategorie** Zeigt oder blendet die Anzahl der Artikel in jeder Kategorie ein.
+- **Tags** Zeigt oder blendet die Tags der Kategorie ein.
 
--
-  - Seitlich: Beiträge werden quer durch die Spalten sortiert, dann
-    zurück in die erste Spalte. Zum Beispiel:
+### Blog-Layout-Tab
 
--
-- **\# Links**. Anzahl der Beiträge, deren Überschriften als Links
-  gezeigt werden, normalerweise unterhalb der Einleitungstexte. Damit
-  können Benutzer weitere Beiträge aufrufen, falls mehr Beiträge
-  vorhanden sind als Platz im Blog-Layout ist.
-- **Hauptbeitrag**.
-  - Anzeigen: Hauptbeiträge mit anderen Beiträgen zeigen.
-  - Verbergen: Hauptbeiträge verbergen.
-  - Nur: Nur Hauptbeiträge zeigen.
-- **Verlinktes Einleitungsbild**. Bei 'Ja' öffnet ein Klick auf das Bild
-  den Beitrag.
-- **Unterkategorien einbinden**.
-  - Keine: Nur Beiträge dieser Kategorie werden angezeigt.
-  - Alle: Alle Beiträge dieser Kategorie und Unterkategorien werden
-    angezeigt.
-  - 1-5: Alle Beiträge dieser Kategorieebene und Unterkategorien werden
-    angezeigt.
-- **Kategoriesortierung**.
-  - Keine Sortierung: Beiträge sind nur nach der Beitrags-Sortierung,
-    ohne Berücksichtigung der Kategorie, sortiert.
-  - Titel von A bis Z: Kategorien werden alphabetisch sortiert gezeigt.
-  - Titel von Z bis A: Kategorien werden alphabetisch sortiert gezeigt.
-  - Kategoriereihenfolge: Die Sortierung der Kategorien entspricht der
-    Spalte 'Reihenfolge' in
-- **Beitragssortierung**.
-  - Reihenfolge Hauptbeiträge: Die Sortierung der Kategorien entspricht
-    der Spalte 'Reihenfolge' in
-  - Neuesten zuerst: Die Sortierung beginnt mit dem neuesten und endet
-    mit dem ältesten Beitrag.
-  - Ältesten zuerst: Die Sortierung beginnt mit dem ältesten und endet
-    mit dem neuesten Beitrag.
-  - Titel von A bis Z: Beiträge nach Titel alphabetisch sortiert zeigen.
-  - Titel von Z bis A: Beiträge nach Titel alphabetisch sortiert zeigen.
-  - Autor von A bis Z: Beiträge nach Autor alphabetisch sortiert zeigen.
-  - Autor von Z bis A: Beiträge nach Autor alphabetisch sortiert zeigen.
-  - Meisten Zugriffe: Die Sortierung beginnt mit dem Beitrag mit den
-    meisten Zugriffen und endet mit dem Beitrag mit den wenigsten
-    Zugriffen.
-  - Wenigsten Zugriffe: Die Sortierung beginnt mit dem Beitrag mit den
-    wenigsten Zugriffen und endet mit dem Beitrag mit den meisten
-    Zugriffen.
-  - Zufällige Reihenfolge: Die Beiträge werden in zufälliger Reihenfolge
-    angezeigt.
-  - Beitragssortierung: Die Sortierung entspricht der Spalte
-    'Reihenfolge' in
-    Beiträge.
-  - Umgekehrte Beitragsreihenfolge: Die Sortierung ist umgekehrt zur
-    Spalte 'Reihenfolge' in
-    Beiträge.
-- **Sortierdatum**. Sortierdatum, wenn Beiträge nach Datum sortiert
-  sind.
-  - Erstellt: Das Erstellungsdatum des Beitrages verwenden.
-  - Bearbeitet: Das Bearbeitungsdatum des Beitrages verwenden.
-  - Veröffentlicht: Das Veröffentlichungsdatum des Beitrages verwenden.
-  - Versteckt: Das Bearbeitungsdatum des Beitrages verwenden.
-- **Seitenzahlen**. Seitenzahlen sind Links am Seitenfuß, die Besuchern
-  die Navigation zu weiteren Seiten ermöglichen.
-  - Verbergen: Seitenzahlen werden nicht angezeigt. Hinweis: Benutzer
-    können nicht zu weiteren Seiten navigieren.
-  - Anzeigen: Seitenzahlen werden nur wenn notwendig angezeigt.
-  - Auto: Seitenzahlen werden nur wenn notwendig angezeigt.
-- **Gesamtseitenzahlen**. Die aktuelle Seitennummer und
-  Gesamtseitenzahlen (z.B. "Seite 1 von 4") am Seitenfuß zeigen.
+Diese Parameter steuern das Layout der Seite, die durch diesen Menüpunkt-Typ erzeugt wird.
 
-### Optionen
+![Blog-Layout-Tab für Menüelement](../../../de/images/menu-items/articles-category-blog-blog-layout-tab.png)
 
-Die Optionen legen fest, wie Beiträge im Frontend gezeigt werden.
-Die Auswahl "Beitragseinstellungen verwenden" übernimmt Einstellungen
-aus
-
-<img
-src="https://docs.joomla.org/images/thumb/6/6e/Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/6e/Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/6/6e/Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png 2x"
-data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Menus Item Articles Category Blog options subscreen" />
-
-#### Layout
-
-- **Layout auswählen**. Aus der Dropdown-Liste wählen.
-- **Titel**. Den Titel des Beitrages zeigen.
-- **Titel verlinken**. Den Titel als Link zeigen.
-- **Einleitungstext**.
-  - Show: Der Beitrag wird inklusive Einleitungstext gezeigt.
-  - Verbergen: Der Beitrag wird ohne Einleitungstext gezeigt.
-- **Position der Beitragsinfo**.
-  - Darüber: Der Block mit den Beitragsinformationen steht oberhalb des
-    Beitrags.
-  - Darunter: Der Block mit den Beitragsinformationen steht unterhalb
-    des Beitrags.
-  - Aufteilen: Die Beitragsinformationen werden in einen Block oberhalb
-    und einen Block unterhalb des Beitrags aufgeteilt.
-- **Beitragsinfotitel**. Zeigt 'Details' über dem Block der
-  Beitragsinformation an.
-
-#### Kategorie
-
-- **Kategorie**. Den Kategorietitel des Beitrags zeigen.
-- **Kategorie verlinken**. Den Kategorietitel als Link zeigen.Hinweis:
-  Im Tab 'Kategorie' kann mit Layout
-  auswählen
-  'Blog' oder 'Liste' festgelegt werden.
-- **Übergeordnete Kategorie**. Den Titel der übergeordneten Kategorie
-  des Beitrages zeigen.
-- **Übergeordnete Kategorie verlinken**. Den Kategorietitel als Link
-  zeigen.Hinweis: Im Tab 'Kategorie' kann mit Layout
-  auswählen
-  'Blog' oder 'Liste' festgelegt werden.
-
-#### Verknüpfungen
-
-- **Verknüpfungen anzeigen**. Zeigt verknüpfte Flaggen oder den
-  Sprachcode.
-
-#### Autor
-
-- **Autor**. Zeigt den Autor des Beitrags.
-- **Autor verlinken**. Zum Kontakt des Autors verlinken.Hinweis: Der
-  Autor muss als
-  Kontakt
-  angelegt sein. Wurde ein
-  Autoralias
-  eingegeben, wird der Link nicht angezeigt.
-
-#### Datum
-
-- **Erstellungsdatum**. Das Erstellungsdatum des Beitrages zeigen.
-- **Bearbeitungsdatum**. Das Bearbeitungsdatum des Beitrages zeigen.
-- **Veröffentlichungsdatum**. Das Veröffentlichungsdatum des Beitrages
-  zeigen.
-
-#### Optionen
-
-- **Seitennavigation**. Zeigt die Navigationslinks 'Zurück' oder
-  'Weiter', wenn der Beitrag gezeigt wird.
-- **"Weiterlesen"**. Zeigt den Link "Weiterlesen" vor der Trennung von
-  Einleitungs- und Haupttext.
-- **"Weiterlesen"-Titel**.
-  - Anzeigen: Der Link wird als "Weiterlesen: \[Titel des Beitrages\]"
-    gezeigt.
-  - Verbergen: Der Link wird als "Weiterlesen" gezeigt.
-- **Zugriffe**. Zeigt, wie oft der Beitrag von Benutzern aufgerufen
-  wurde.
-- **Schlagwörter**. Die Schlagwörter für jeden Beitrag anzeigen.
-- **Nicht zugängliche Links**.
-  - Ja: Der Einleitungstext wird angezeigt. Nach Klick auf den Link
-    "Weiterlesen" muss sich der Besucher anmelden, um den vollständigen
-    Beitrag zu sehen.
-  - Nein: Beiträge, die ein Besucher nicht sehen darf, werden nicht
-    angezeigt. Die Anzeige hängt von der Zugriffsebene des Beitrages ab.
-
-### Integration
-
-Bestimmt, ob ein Newsfeed für die Seite verfügbar sein wird und welche
-Informationen angezeigt werden.
-
-<img
-src="https://docs.joomla.org/images/thumb/f/f7/Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f7/Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f7/Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png 2x"
-data-file-width="2880" data-file-height="710" width="600" height="148"
-alt="Menus Item Articles Category Blog integration subscreen" />
-
-- **Feed-Link**. Bei 'Anzeigen' wird ein Feed-Link mit einem Feed-Icon
-  in der Adressleiste der meisten Browser gezeigt.
-- **In jedem Feed-Eintrag**.
-  - Einleitungstext: Nur den Einleitungstext in den Newsfeed einbinden.
-  - Gesamter Text: Den gesamten Beitrag in den Newsfeed einbinden.
-
-### Allgemeine Optionen
-
-Siehe Menüs: Neuer
-Eintrag
-für Hilfe zu Feldern, die bei allen Menüeintragstypen gleich sind:
-
-- Rechte
-  Seite
-- Linktyp
-- Seitenanzeige
-- Metadaten
-- Verknüpfungen
-- Modulzuweisung
-
-## Werkzeugleiste
-
-Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
-Bereich.
-
-- **Speichern**. Speichert den Menüeintrag und bleibt auf der aktuellen
-  Seite.
-- **Speichern & Schließen**. Speichert den Menüeintrag und schließt die
-  aktuelle Seite.
-  - **Speichern & Neu**. Speichert den Menüeintrag und hält die Seite
-    offen, damit ein neuer Eintrag erstellt werden kann.
-- **Abbrechen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück.
-- **Hilfe**. Öffnet die Hilfeseite.
-
-## Tipps
-
--
-- Ein neues Menü erstellen:
-  Menüs.
+- **\# Führende Artikel** Die Anzahl der Artikel, die in voller Breite im Hauptanzeigebereich angezeigt werden. `0` bedeutet, dass keine Artikel in voller Breite angezeigt werden. Wenn ein Artikel einen *Weiterlesen...*-Trenner enthält, wird nur der Teil des Textes vor dem Trenner (der Einführungstext) angezeigt.
+- **Führender Artikel CSS-Klasse** Sie können eine beliebige CSS-Klasse für eigene Gestaltungsideen hinzufügen. Beispiel: boxed für eine obere Umrandung. Für die Position des Bildes verwenden Sie z. B. image-start oder image-end. Fügen Sie image-alternate für eine wechselnde Anordnung von Vorschaubildern hinzu.
+- **\# Einleitungsartikel** Bestimmt die Anzahl der Artikel, die nach dem führenden Artikel angezeigt werden. Diese Artikel werden in der im Parameter „Spalten“ festgelegten Anzahl von Spalten angezeigt. Wenn ein Artikel einen *Weiterlesen...*-Trenner enthält, wird nur der Text vor dem Trenner (Einleitungstext) angezeigt, gefolgt von einem *Weiterlesen...*-Link. Die Reihenfolge, in der die Artikel angezeigt werden, wird durch die Parameter „Kategorien-Reihenfolge“ und „Artikel-Reihenfolge“ unten festgelegt.
+- **Artikel CSS-Klasse** Sie können eine beliebige CSS-Klasse für eigene Gestaltungsideen hinzufügen.
+- **\# Spalten** Die Anzahl der Spalten, die im Bereich der Einleitungsartikel verwendet werden sollen. Normalerweise liegt dies zwischen 1 und 3 (abhängig vom verwendeten Template). Wenn 1 verwendet wird, werden die Einleitungsartikel über die gesamte Breite des Anzeigebereichs angezeigt, genau wie die führenden Artikel.
+- **Mehrspaltige Richtung** In mehrspaltigen Blog-Layouts kann gewählt werden, ob die Artikel nach unten oder über die Spalten hinweg angeordnet werden sollen.
+  - *Nach unten* Artikel werden in der ersten Spalte nach unten angeordnet und wechseln dann zur nächsten Spalte.
+  - *Über die Spalten* Artikel werden über die Spalten hinweg angeordnet und kehren dann zur ersten Spalte zurück.
+- **\# Links** Die Anzahl der Links, die im Link-Bereich der Seite angezeigt werden. Diese Links ermöglichen es dem Benutzer, zu zusätzlichen Artikeln zu verlinken, wenn es mehr Artikel gibt, als auf die erste Seite des Blog-Layouts passen.
+- **Hervorgehobene Artikel**
+  - *Anzeigen* Zeigt hervorgehobene und nicht hervorgehobene Artikel an.
+  - *Verbergen* Zeigt nur nicht hervorgehobene Artikel an.
+  - *Nur* Zeigt nur hervorgehobene Artikel an.
+- **Verlinktes Einleitungsbild** Wenn auf *Ja* gesetzt, zeigt ein Klick auf das Einleitungsbild den Artikel an.
+- **Unterkategorien einbeziehen**
+  - *Keine* Nur Artikel aus der aktuellen Kategorie werden angezeigt.
+  - *Alle* Alle Artikel aus der aktuellen Kategorie und allen Unterkategorien werden angezeigt.
+  - *1-5* Alle Artikel aus der aktuellen Kategorie und Unterkategorien bis einschließlich dieser Ebene werden angezeigt.
+- **Kategorien-Reihenfolge**
+  - *Keine Reihenfolge* Artikel werden nur nach der Artikel-Reihenfolge und ohne Berücksichtigung der Kategorie sortiert.
+  - *Alphabetisch* Kategorien werden alphabetisch (A bis Z) angezeigt.
+  - *Alphabetisch rückwärts* Kategorien werden in umgekehrter alphabetischer Reihenfolge (Z bis A) angezeigt.
+  - *Kategorien-Reihenfolge* Kategorien werden gemäß der Reihenfolge sortiert, die in *Beiträge: Kategorien* festgelegt wurde.
+- **Artikel-Reihenfolge**
+  - *Reihenfolge der hervorgehobenen Artikel* Artikel werden gemäß der Reihenfolge sortiert, die in *Beiträge: Hervorgehoben* festgelegt wurde.
+  - *Neueste zuerst* Artikel werden von den neuesten bis zu den ältesten angezeigt.
+  - *Älteste zuerst* Artikel werden von den ältesten bis zu den neuesten angezeigt.
+  - *Alphabetisch* Artikel werden alphabetisch nach Titel sortiert (A bis Z).
+  - *Alphabetisch rückwärts* Artikel werden alphabetisch rückwärts nach Titel sortiert (Z bis A).
+  - *Autor alphabetisch* Artikel werden alphabetisch nach Autor sortiert (A bis Z).
+  - *Autor alphabetisch rückwärts* Artikel werden alphabetisch rückwärts nach Autor sortiert (Z bis A).
+  - *Meiste Klicks* Artikel werden nach der Anzahl der Klicks sortiert, beginnend mit den meisten Klicks.
+  - *Wenigste Klicks* Artikel werden nach der Anzahl der Klicks sortiert, beginnend mit den wenigsten Klicks.
+  - *Zufällige Reihenfolge* Artikel werden in zufälliger Reihenfolge angezeigt.
+  - *Artikel-Reihenfolge* Artikel werden gemäß der Reihenfolge sortiert, die in *Beiträge*
+  
