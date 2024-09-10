@@ -2,114 +2,52 @@
 
 ## Beschreibung
 
-Sprachverknüpfungen ermöglichen die Bearbeitung verknüpfter Einträge,
-die nebeneinander gezeigt werden.
+Auf mehrsprachigen Websites ist es möglich, einen Inhalt in einer Sprache zu erstellen und diesen mit einem entsprechenden Inhalt in einer oder mehreren anderen Sprachen zu verknüpfen. Diese Verknüpfung wird als **Zuordnung** bezeichnet und muss manuell erstellt werden.
 
-Auf der Seite werden Verknüpfungen zwischen Einträgen und installieren
-Seitensprachen bearbeitet.
+Zuordnungen können für Artikel und deren Kategorien, Kontakte und deren Kategorien, Menüeinträge und Nachrichtenfeeds sowie deren Kategorien erstellt werden. Auch Erweiterungen von Drittanbietern können Zuordnungen unterstützen.
 
-## Wie darauf zugreifen
+Die Komponente „Mehrsprachige Zuordnungen“ ermöglicht eine nebeneinanderliegende Bearbeitung von zugeordneten Elementen, ohne dass man zwischen den Seiten hin- und herwechseln muss.
 
-- **Komponenten → Sprachverknüpfungen**
-  1.  **Eintragstyp** wählen.
-  2.  **Sprache** wählen.
+Es folgt eine genauere Erklärung nach dem Screenshot unten.
 
-## Bildschirmfoto
+### Allgemeine Elemente
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Components-Associations-de.png/800px-Help-4x-Components-Associations-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Components-Associations-de.png/1200px-Help-4x-Components-Associations-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f6/Help-4x-Components-Associations-de.png/1600px-Help-4x-Components-Associations-de.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Components Associations" />
+Einige Elemente dieser Seite werden in separaten Hilfedokumenten behandelt:
 
-## Spalten-Überschriften
+* [Symbolleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Listenfilter](jdocmanual?article=help/common-elements/list-filters).
+* [Listenspaltenüberschriften](jdocmanual?article=help/common-elements/list-column-headers).
+* [Listenreihenfolge](jdocmanual?article=help/common-elements/list-ordering).
+* [Listen-Paginierung](jdocmanual?article=help/common-elements/list-pagination).
 
-- **Status**. Der Veröffentlichungs-Status des Menüeintrags.
-- **Titel**. Der Titel des Menüeintrags. Mit Klick auf den Titel öffnen.
-- **Sprache**. Die Sprache des Menüeintrags.
-- **Verknüpfungen**. Zeigt an, mit welcher Sprache dieser Menüeintrag
-  verknüpft ist.
-- **Nicht verknüpft**. Zeigt an, mit welcher Sprache der Menüeintrag
-  nicht verknüpft ist.
-- **Menü**. Zeigt an, welchem Menü der Menüeintrag zugeordnet ist.
-- **Zugriffsebene**. Die
-  Zugriffsebene
-  für die Anzeige des Menüeintrags.
-- **ID**. Einmalig vergebene Identifikations-Nummer des Menüeintrags,
-  die nicht geändert werden kann.
+## Zugriff
 
-## Listen-Filter
+* Wählen Sie **Komponenten → Mehrsprachige Zuordnungen** aus dem Administrationsmenü.
+* Wählen Sie einen Eintrag aus der Dropdown-Liste **- Elementtyp auswählen -**.
+* Wählen Sie eine Sprache aus der Dropdown-Liste **- Sprache auswählen -**.
 
-**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
-im oberen Bereich.
+## Screenshot
 
-- **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
-  Symbol für Suche klicken. Wird der Mauszeiger *über das Eingabefeld
-  bewegt*, zeigt ein *Hilfetext* durchsuchbare Bereiche.Um 'Nach der ID'
-  zu suchen, "id:x" eingeben ("x" ist die ID-Nummer, z.B. "id:19").
-- **Filter-Optionen**. Durch Anklicken zusätzliche Filter zeigen.
-- **Zurücksetzen**. Durch Klicken werden Filter zurückgesetzt und die
-  Liste im ungefilterten Zustand gezeigt.
-- **Reihenfolge**. Zeigt das aktuelle Feld für die Reihenfolge an. Es
-  gibt 2 Möglichkeiten, die Reihenfolge zu ändern:
-  - Im Dropdown-Menü wählen. Die Reihenfolge ist aufsteigend oder
-    absteigend möglich.
-  - Eine Spaltenüberschrift anklicken. Ein Klick auf die
-    Spaltenüberschrift wechselt zwischen aufsteigender und absteigender
-    Reihenfolge.
-- **Anzuzeigende Anzahl**. Zeigt die Anzahl der Menüeinträge an. Zur
-  Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
-  Standardwert für die Site ist '20', er kann in der
-  Konfiguration
-  geändert werden.
+![Liste der mehrsprachigen Zuordnungen](../../../de/images/multilingual-associations/multilingual-associations-list.png)
 
-### Filter-Optionen
+In diesem Screenshot wurde ein Artikel mit einem Artikel in einer anderen Sprache zugeordnet. Die Liste enthält nur Elemente, bei denen die Sprache festgelegt wurde. Artikel, deren Sprache auf *Alle* gesetzt ist, sind nicht vorhanden.
 
-Das Bildschirmfoto zeigt die Filterleiste im oberen
-Bereich.
+## Referenzartikel
 
-- **Status wählen**. Auswahl von Papierkorb / Versteckt / Veröffentlicht
-  / Archiviert / Alle.
-- **Kategorie wählen**. Aus den verfügbaren Kategorien wählen.
-- **Menü wählen**. Aus den verfügbaren Menüs wählen.
-- **Zugriffsebene wählen**. Aus den verfügbaren Zugriffsebenen wählen.
-- **Max. Ebenen wählen**. Aus den verfügbaren Ebenen wählen.
+Die Einträge in der Spalte **Titel** sind die Referenzartikel für die ausgewählte Sprache. Wenn Sie die Liste mit einer alternativen Sprache anzeigen, sehen Sie dieselben Elemente, da alle zugeordneten Artikel in beiden Sprachen verfügbar sind.
 
-### Seitennavigation
+Wenn Sie die Liste mit einer anderen Administratorsprache im Anmeldeformular anzeigen, sehen Sie wahrscheinlich andere Elemente.
 
-**Seitenkontrolle**. Gibt es mehr Menüeinträge als auf der Seite
-gezeigt, wird im unteren Bereich die Seitenkontrollleiste wie auf dem
-Bildschirmfoto eingeblendet. Die aktuelle Seitenzahl ist
-mit dunkler Farbe unterlegt.
+Wenn Sie einen Eintrag aus der Spalte **Titel** auswählen, wird das Referenzelement im Bearbeitungsformular angezeigt, aber kein Ziel ist ausgewählt. Dies ist nützlich, wenn Sie das Referenzelement in der ausgewählten Sprache bearbeiten möchten. Es ist auch erforderlich, wenn Sie ein neues zugeordnetes Element erstellen möchten.
 
-- **Start**. Anklicken, um die erste Seite anzuzeigen.
-- **Vorherige**. Anklicken, um die vorherige Seite anzuzeigen.
-- **Seitennummer**. Anklicken, um die anzuzeigende Seite auszuwählen.
-- **Weiter**. Anklicken, um die nächste Seite anzuzeigen.
-- **Ende**. Anklicken, um die letzte Seite anzuzeigen.
+## Zuordnungen
 
-## Werkzeugleiste
+Wenn Sie eine bestehende Zuordnung im Nebeneinander-Modus bearbeiten möchten, wählen Sie eine der Schaltflächen in der Spalte **Zuordnungen**. Dadurch werden die *Referenz*- und *Ziel*-Elemente nebeneinander geladen.
 
-Die Werkzeugleiste zeigt 4 Buttons, nach der Auswahl von 'Eintragstyp'
-und 'Sprache' werden die ersten beiden nicht mehr angezeigt. <img
-src="https://docs.joomla.org/images/thumb/4/42/Help-4x-Components-Associations-toolbar-subscreen-de.png/800px-Help-4x-Components-Associations-toolbar-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-Components-Associations-toolbar-subscreen-de.png/1200px-Help-4x-Components-Associations-toolbar-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/4/42/Help-4x-Components-Associations-toolbar-subscreen-de.png/1600px-Help-4x-Components-Associations-toolbar-subscreen-de.png 2x"
-data-file-width="2791" data-file-height="269" width="800" height="77"
-alt="Components Associations toolbar subscreen" />
+## Nicht zugeordnet
 
-- **Alle Verknüpfungen löschen**. Nach einer Sicherheitsabfrage werden
-  alle Verknüpfungen gelöscht.
-- **Verwaiste Einträge löschen**. Löschen aller verwaisten Einträge.
-- **Optionen**. Öffnet die Hilfeseite
-- **Hilfe**. Öffnet die Hilfeseite.
+Wählen Sie eine Schaltfläche in der Spalte *Nicht zugeordnet*, um einen neuen Artikel zu erstellen, der mit dem Referenzartikel verknüpft ist. Es wird ein Bearbeitungsformular mit dem Referenzelement und einem neuen leeren zugeordneten Element geladen. Die Sprache ist vorausgefüllt und kann nicht geändert werden.
 
 ## Tipps
 
-- Ein Menüeintrag in Deutsch kann leichter auf Englisch übersetzt
-  werden, da Original und Übersetzungsziel parallel angezeigt werden.
-  Für weitere Übersetzungen die Zielsprache ändern. Mehr
-  erfahren.
-- Die Hilfeseite nutzt 'Menüeinträge' als Beispiel. Alle Eintragstypen
-  werden im Bildschirmfoto gezeigt.
+- Ein Menüeintrag in Englisch kann einfacher ins Französische übersetzt werden, wenn das Original und die Übersetzung nebeneinander angezeigt werden. Anschließend können Sie Persisch auswählen, um die Übersetzung von Englisch ins Persische ebenfalls durchzuführen.

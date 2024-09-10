@@ -2,130 +2,37 @@
 
 ## Beschreibung
 
-Erstellen oder Bearbeiten von Verknüpfungen zwischen den Sprachen einer
-mehrsprachigen Website.
+Die Seite *Mehrsprachige Zuordnungen: Zuordnungen bearbeiten* zeigt ein Referenzelement und ein Zielelement nebeneinander auf breiten Bildschirmen und gestapelt auf schmalen Bildschirmen. Der nebeneinander liegende Modus ermöglicht es Ihnen, die Referenz und das Ziel für eine einfachere Übersetzung auszurichten.
 
-## Wie darauf zugreifen
+Die Felder in der Referenz und im Ziel sind dieselben wie im Bearbeitungsformular für ein einzelnes Element, jedoch wurde das Layout an die eingeschränkte Spaltenbreite angepasst.
 
-Eine Sprachverknüpfung hinzufügen:
+### Allgemeine Elemente
 
-- **Komponenten → Sprachverknüpfungen**
-  1.  **Eintragstyp** wählen.
-  2.  **Sprache** wählen.
-  3.  Die Zielsprache in der Spalte **Nicht verknüpft** wählen.
+Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
-Eine Sprachverknüpfung bearbeiten:
+* [Symbolleisten](jdocmanual?article=help/common-elements/toolbars).
 
-- **Komponenten → Sprachverknüpfungen**
-  1.  **Eintragstyp** wählen.
-  2.  **Sprache** wählen.
-  3.  Eine Zielsprache in der Spalte **Verknüpfungen** wählen.
+## Zugriff
 
-## Bildschirmfoto
+* Wählen Sie **Komponenten → Mehrsprachige Zuordnungen** aus dem Administrationsmenü.
+  * Wählen Sie einen **Elementtyp** aus der Dropdown-Liste *- Elementtyp auswählen -*.
+  * Wählen Sie **Sprache** aus der Dropdown-Liste *- Sprache auswählen -*. Dies wird die Referenzsprache.
+* Um eine Zuordnung zu bearbeiten: Wählen Sie eine Zielsprache aus der Spalte **Zugeordnet**.
+* Um eine Zuordnung hinzuzufügen: Wählen Sie eine Zielsprache aus der Spalte **Nicht zugeordnet**.
 
-<img
-src="https://docs.joomla.org/images/thumb/7/78/Help-4x-Components-Assocations-Edit-screen-de.png/800px-Help-4x-Components-Assocations-Edit-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/78/Help-4x-Components-Assocations-Edit-screen-de.png/1200px-Help-4x-Components-Assocations-Edit-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/7/78/Help-4x-Components-Assocations-Edit-screen-de.png/1600px-Help-4x-Components-Assocations-Edit-screen-de.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Components Assocations Edit screen" />
+## Screenshot
 
-Die Sprachverknüpfungen zeigen 'Referenz' und 'Ziel' nebeneinander.
-Beides sind scrollbare Fenster mit allen Formular Feldern.
+![Referenz- und Zielelemente nebeneinander](../../../de/images/multilingual-associations/multilingual-associations-edit.png)
 
-## Formular Felder
+In diesem Beispiel handelt es sich um Artikel. Jedes ist ein scrollbares Fenster mit den Optionen des Elements unterhalb des Textbearbeitungsbereichs (nicht gezeigt).
 
-Der Inhalt hängt vom gewählten Eintrag ab:
+## Formularfelder
 
-### Content
+Die Formularfelder entsprechen dem ausgewählten Elementtyp und werden hier nicht behandelt.
 
-- Beiträge
-- Beiträge:
-  Kategorien
-- Kontakte
-- Kontakte:
-  Kategorien
-- Menüs
-- Newsfeeds
-- Newsfeeds:
-  Kategorien
+## Symbolleiste
 
-### Bilder und Links
-
-- Beiträge
-
-### Optionen
-
-- Beiträge
-- Beiträge:
-  Kategorien
-- Kontakte:
-  Kategorien
-- Newsfeeds
-- Newsfeeds:
-  Kategorien
-
-### Veröffentlichung
-
-- Beiträge
-- Beiträge:
-  Kategorien
-- Kontakte
-- Kontakte:
-  Kategorien
-- Newsfeeds
-- Newsfeeds:
-  Kategorien
-
-### Verknüpfungen
-
-- Beiträge
-- Beiträge:
-  Kategorien
-- Kontakte
-- Kontakte:
-  Kategorien
-- Newsfeeds
-- Newsfeeds:
-  Kategorien
-
-### Konfigurieren des Editorfensters
-
-- Beiträge
-
-### Berechtigungen
-
-- Beiträge
-- Beiträge:
-  Kategorien
-- Kontakte:
-  Kategorien
-- Newsfeeds:
-  Kategorien
-
-### Weitere Informationen
-
-- Kontakte
-
-### Anzeige
-
-- Kontakte
-
-### Formular
-
-- Kontakte
-
-## Werkzeugleiste
-
-Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
-Bereich.
-
-- **Referenz speichern**. Speichert die Referenz und bleibt auf der
-  aktuellen Seite.
-- **Ziel speichern**. Speichert das Ziel und bleibt auf der aktuellen
-  Seite.
-- **Referenz in Ziel kopieren**. Kopiert alle Felder in die Felder des
-  Ziels.
-- **Schließen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück.
-- **Hilfe**. Öffnet die Hilfeseite.
+- **Referenz speichern** Speichert die Referenz und bleibt auf dem aktuellen Bildschirm.
+- **Ziel speichern** Speichert das Ziel und bleibt auf dem aktuellen Bildschirm.
+- **Referenz auf Ziel kopieren** Kopiert alle Referenzfelder in die Zielfelder.
+- **Schließen** Schließt den aktuellen Bildschirm und kehrt zum vorherigen Bildschirm zurück, ohne Änderungen zu speichern, die Sie möglicherweise vorgenommen haben.

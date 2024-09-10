@@ -35,4 +35,6 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 #### Linke Spalte
 
-- **Editor** Der Editor erlaubt die Eingabe bestimmter HTML-Tags nicht. Dies kann in der globalen Konfiguration unter dem Tab *Textfilter* und im spezifischen Editor-Plugin konfiguriert werden.
+- **Editor** Die Joomla-Textfilter und der TinyMCE-Editor erlauben jeweils nicht die Eingabe bestimmter HTML-Tags.
+  - Die Textfilter können im Tab *Textfilter* der globalen Konfiguration konfiguriert werden. Zum Beispiel dürfen standardmäßig die Benutzergruppen Gäste, Öffentlich und Registrierte keine HTML-Tags in Formularfeldern eingeben.
+  - Die TinyMCE-Filter können im entsprechenden Plugin konfiguriert werden. Standardmäßig verbietet es die Eingabe von Script-, Applet- und Iframe-Tags.

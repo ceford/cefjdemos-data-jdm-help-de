@@ -2,179 +2,78 @@
 
 ## Beschreibung
 
-Die Plugin-Seite erlaubt es, Details und Optionen eines Plugins zu
-bearbeiten. Gemeinsame Optionen für alle Plugins befinden sich im
-rechten Teil des Plugin-Reiters und werden weiter unten beschrieben.
+Die Seite *Plugin* bietet Zugriff auf die Bearbeitung der Details und Optionen aller Plugins. Allgemeine Optionen für alle Plugins befinden sich im rechten Teil des *Plugin-Tabs*, wie unten beschrieben.
 
-Plugins nach Gruppe:
+### Plugin-Gruppen
 
-- **Aktionsprotokoll-Gruppe** (1
-  Plugin)
-- **API-Authentifizierungs-Gruppe** (2
-  Plugins)
-- **Authentication Group.** (3
-  Plugins)
-- **Behaviour Group.** (2
-  Plugins)
-- **CAPTCHA Gruppe**. (2
-  Plugins)
-- **Inhaltsgruppe (1
-  Plugin)**
-- **Editors Group.** (3
-  Plugins)
-- **Editor Button Group.** (8
-  Plugins)
-- **Erweiterungen-Gruppe** (3
-  Plugins)
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit Fields Group/de (page does not exist)"><strong>Fields
-  Group.</strong> (6 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit FileSystem Group/de (page does not exist)"><strong>FileSystem
-  Group.</strong> (1 Plugin)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit Smart Search Group/de (page does not exist)"><strong>Finder
-  Group.</strong> (5 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Installer_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit Installer Group/de (page does not exist)"><strong>Installer
-  Group.</strong> (5 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Media_Action_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit Media Action Group/de (page does not exist)"><strong>Media
-  Action Group.</strong> (3 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Privacy_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit Privacy Group/de (page does not exist)"><strong>Privacy
-  Group.</strong> (6 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Quick_Icon_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit Quick Icon Group/de (page does not exist)"><strong>Quick
-  Icon Group.</strong> (6 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Sample_Data_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit Sample Data Group/de (page does not exist)"><strong>Sample
-  Data Group.</strong> (2 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_System_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit System Group/de (page does not exist)"><strong>System
-  Group.</strong> (22 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Two_Factor_Authentication_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit Two Factor Authentication Group/de (page does not exist)"><strong>Two
-  Factor Authentication Group.</strong> (2 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_User_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit User Group/de (page does not exist)"><strong>User
-  Group.</strong> (5 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Web_Services_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit Web Services Group/de (page does not exist)"><strong>Web
-  Services Group.</strong> (5 Plugins)</a>
-- <a
-  href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Chunk4x:Extensions Plugin Manager Edit Workflow Group/de (page does not exist)"><strong>Workflow
-  Group.</strong> (3 Plugins)</a>
+Es gibt eine große Anzahl an Kern-Plugins. Diese sind nach Gruppen aufgelistet und mit Links zu separaten Dokumentationen versehen:
 
-Die vollständige Liste der obigen Plugin-Gruppen ist in einem
-umfangreichen Dokument verfügbar: **Liste der
-Plugins**.
+* [Aktionsprotokoll-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group) (1 Plugin)
+* [API-Authentifizierungsgruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group) (2 Plugins)
+* [Authentifizierungsgruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Authentication_Group) (3 Plugins)
+* [Verhaltensgruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Behaviour_Group) (3 Plugins)
+* [Inhaltsgruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group) (10 Plugins)
+* [Editoren-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group) (3 Plugins)
+* [Editor-Button-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group) (8 Plugins)
+* [Erweiterungsgruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Extension_Group) (3 Plugins)
+* [Feld-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group) (16 Plugins)
+* [Dateisystem-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group) (1 Plugin)
+* [Finder-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group) (5 Plugins)
+* [Installer-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Installer_Group) (5 Plugins)
+* [Medien-Aktionsgruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Media_Action_Group) (3 Plugins)
+* Multi-Faktor-Authentifizierungsgruppe (5 Plugins)
+* [Datenschutzgruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Privacy_Group) (6 Plugins)
+* [Quick-Icon-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Quick_Icon_Group) (7 Plugins)
+* [Beispieldaten-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Sample_Data_Group) (2 Plugins, 3 Plugins für Entwicklungsinstallationen)
+* Schema.org-Gruppe (9 Plugins)
+* [System-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_System_Group) (24 Plugins)
+* Aufgaben-Gruppe (9 Plugins)
+* [Benutzergruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_User_Group) (5 Plugins)
+* [Webdienst-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Web_Services_Group) (17 Plugins)
+* [Workflow-Gruppe.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group) (3 Plugins)
 
-## Wie darauf zugreifen
+Die vollständige Liste der Plugins ist in einer [einzelnen langen Liste](https://docs.joomla.org/Chunk4x:List_of_Plugins) verfügbar.
 
-Vom Administrator-Menü ausgehend:
+### Allgemeine Elemente
 
-- **Dashboard → Site → Plugins** wählen oder ...
-- **System → Verwalten → Plugins** wählen, dann ...
-  - aus der Liste der Plugins den Namen des Plugins auswählen.
+Einige Elemente dieser Seite werden in separaten Hilfedokumenten behandelt:
 
-## Bildschirmfoto
+* [Symbolleisten](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/2/24/Help-4x-Extensions-Plugin-Manager-Edit-screen-de.png/800px-Help-4x-Extensions-Plugin-Manager-Edit-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/24/Help-4x-Extensions-Plugin-Manager-Edit-screen-de.png/1200px-Help-4x-Extensions-Plugin-Manager-Edit-screen-de.png 1.5x, https://docs.joomla.org/images/2/24/Help-4x-Extensions-Plugin-Manager-Edit-screen-de.png 2x"
-data-file-width="1497" data-file-height="1035" width="800" height="553"
-alt="Extensions Plugin Manager Edit screen" />
+## Zugriff
 
-## Formular Felder
+Ausgehend vom Administrationsmenü:
 
-### Plugin
+- Wählen Sie **Start-Dashboard → Plugins** oder...
+- Wählen Sie **System → Verwaltungsbereich → Plugins**. Dann...
+  - Wählen Sie den Namen des Plugins aus der Plugin-Liste.
 
-#### Linke Seite
+## Screenshot
 
-Wenn das Plugin konfigurierbare Optionen hat, erscheinen diese hier. Das
-im Screenshot gezeigte Beispiel ist das Plugin *Inhalt -
-Datenschutzerklärung*, das mehrere konfigurierbare Parameter hat, die
-sich ändern, wenn Optionen ausgewählt werden.
+![Plugins Plugin-Tab](../../../de/images/plugins/plugins-plugin-tab.png)
 
-#### Rechte Seite
+## Formularfelder
 
-Der Detailbereich rechts ist bei allen Plugins gleich und hat diese
-Felder:
+### Plugin-Tab
 
-- **Status**. Zeigt ob ein Element aktiv ist oder nicht.
-- **Zugriffsebene**. Zeigt welche Zugriffsebenen der Benutzer auf diesen
-  Eintrag Zugriff haben. Die Zugriffsebene eines Eintrags kann durch
-  Anklicken seines Namens geändert und zur Bearbeitung geöffnet werden.
-  Die Zugriffsebenen der Benutzer, die mit Joomla! vorkonfiguriert sind,
-  sind:
-  - Öffentlich: Alle haben Zugriff, einschließlich der Website-Besucher,
-    welche nicht eingeloggt sind.
-  - Registriert: Nur Benutzer mit dem Status „registriert“ oder höher
-    haben Zugriff
-  - Spezial: Nur Benutzer mit Autorenstatus oder höher haben Zugriff
-- **Reihenfolge**. Eine Dropdown-Liste der Plugins des gleichen Typs.
-  Die Liste der Plugins ist nach ihrer aktuellen Reihenfolge sortiert.
-  Die Reihenfolge dieses Plugins in Bezug zu den anderen Plugins kann
-  geändert werden, indem das Plugin in der Dropdown-Liste ausgewählt
-  wird, hinter dem dieses Plugin angeordnet werden soll.
-- **Plugintyp**. Der Typ des Plugins. Dieser Eintrag kann nicht
-  verändert werden.
-- **Plugindatei**. Der Name der Plugin-Datei. Zu jedem Plugin gehören
-  zwei Dateien mit seinem Namen. Einmal eine Datei mit der Endung '.php'
-  und eine weitere mit der Endung '.xml'.
-- **Beschreibung**. Die Beschreibung der Funktion dieses Plugins. Sie
-  kann nicht verändert werden. Der Entwickler des Plugins bestimmt die
-  Beschreibung. Ist die Beschreibung leer, wurde keine Beschreibung vom
-  Entwickler angegeben.
+#### Linkes Panel
 
-## Werkzeugleiste
+- **Plugin-Titel** als `<h2>` Überschrift festgelegt.
+- **Typ/Datei** als *Badges* dargestellt, um die Plugin-Dateien im Quellcode zu finden.
+- **Beschreibung** Eine kurze Beschreibung dessen, was dieses Plugin macht. Sie kann nicht geändert werden, da sie vom Entwickler des Plugins festgelegt wird. Sie kann leer sein, wenn der Entwickler keine Beschreibung für das Plugin angegeben hat.
 
-Das [Bildschirmfoto](#Bildschirmfoto) am Anfang der Seite zeigt die
-Werkzeugleiste im oberen Bereich. Die Funktionen sind:
+Wenn das Plugin konfigurierbare Optionen hat, werden diese hier angezeigt. Viele Plugins haben keine konfigurierbaren Optionen.
 
-- **Speichern**. Speichert den Eintrag und bleibt auf der aktuellen
-  Seite.
-- **Speichern & Schließen**. Speichert den Eintrag und schließt die
-  aktuelle Seite.
-- **Schließen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück. Dieses Symbol wird nicht
-  angezeigt, wenn ein neuer Eintrag erstellt wird.
-- **Hilfe**. Öffnet die Hilfeseite.
+#### Rechtes Panel
+
+Das rechte Panel ist bei allen Plugins gleich und enthält die folgenden Felder:
+
+- **Status** Ob das Plugin aktiviert ist oder nicht.
+- **Zugriff** Die Benutzer-*Zugriffsebenen* für dieses Plugin.
+- **Reihenfolge** Ein Dropdown-Menü mit Plugins desselben Typs. Die Liste der Plugins ist nach der aktuellen Reihenfolge sortiert. Sie können die Reihenfolge dieses Plugins im Verhältnis zu den anderen Plugins ändern, indem Sie das Plugin im Dropdown-Menü auswählen, unter dem dieses Plugin einsortiert werden soll.
+- **Plugin-Typ** Der Typ des Plugins. Dieser Wert kann nicht geändert werden.
+- **Plugin-Datei** Der Name der Plugin-Datei. Jedes Plugin hat zwei Dateien mit diesem Namen: Eine mit der Dateierweiterung '.php' und eine mit der Erweiterung '.xml'.
 
 ## Tipps
 
-- Wird TinyMCE als Editor verwendet, kann die Werkzeugleiste mit den
-  Parametern des Plugins "Editor - TinyMCE" eingestellt werden.
-- Konfigurierbare Plugin-Einstellungen werden als „Optionen“ bezeichnet.
-  In früheren Versionen von Joomla! wurden diese konfigurierbaren
-  Einstellungen als „Parameter“ bezeichnet. Die Begriffe „Optionen“ und
-  „Parameter“ werden in der Hilfedokumentation und in den Anleitungen,
-  möglicherweise abwechselnd verwendet.
+- Konfigurierbare Plug-in-Einstellungen werden als *Optionen* bezeichnet. Sie können in Hilfedokumentationen und Tutorials, auf die Sie stoßen, auf die Begriffe *Optionen* und *Parameter* stoßen, die austauschbar verwendet werden.
