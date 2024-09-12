@@ -2,81 +2,30 @@
 
 ## Beschreibung
 
-Dieser Bildschirm zeigt eine Liste von Benutzer-Zugriffsebenen an.
+Zugriffsebenen steuern, welche Benutzer welche Inhalte auf einer Website sehen können. Inhalte umfassen Menüeinträge, Module, Kategorien und Komponenten (Artikel, Kontakte usw.). Jedem Objekt auf der Website wird eine Zugriffsebene zugewiesen. Benutzergruppen werden ebenfalls jeder Zugriffsebene zugewiesen.
 
-## Wie darauf zugreifen
+Wenn ein Benutzer Mitglied einer Gruppe ist, die Zugriff auf eine bestimmte Ebene hat, kann dieser Benutzer alle Inhalte sehen, die dieser Zugriffsebene zugeordnet sind. Es ist wichtig zu verstehen, dass Benutzergruppen in einer Eltern-Kind-Hierarchie angeordnet werden können. In diesem Fall hat eine Kind-Gruppe Zugriff auf alle Ebenen, auf die auch die Eltern-Gruppe Zugriff hat. Sie müssen also einer Kind-Gruppe keinen Zugriff auf Ebenen gewähren, auf die die Eltern-Gruppe bereits Zugriff hat.
 
-Aus dem Administrator-Menü **Benutzer → Zugriffsebenen** wählen.
+Die Seite *Benutzer: Anzeigezugriffsebenen* zeigt eine Liste der Benutzer-Zugriffsebenen an.
 
-## Bildschirmfoto
+### Allgemeine Elemente
 
-<img
-src="https://docs.joomla.org/images/thumb/4/42/Help-4x-users-user-manager-viewing-access-levels-de.png/800px-Help-4x-users-user-manager-viewing-access-levels-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-users-user-manager-viewing-access-levels-de.png/1200px-Help-4x-users-user-manager-viewing-access-levels-de.png 1.5x, https://docs.joomla.org/images/4/42/Help-4x-users-user-manager-viewing-access-levels-de.png 2x"
-data-file-width="1357" data-file-height="583" width="800" height="344"
-alt="users user manager viewing access levels" />
+Einige Elemente dieser Seite werden in separaten Hilfedokumenten behandelt:
 
-## Spalten-Überschriften
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Listenfilter](jdocmanual?article=help/common-elements/list-filters).
+* [Listen-Spaltenüberschriften](jdocmanual?article=help/common-elements/list-column-headers).
+* [Listenseitenzahlen](jdocmanual?article=help/common-elements/list-pagination).
 
-In der Tabelle der Zugriffsebenen der Joomla!-Site sind unterschiedliche
-Spalten. Hier wird ihre Bedeutung erklärt und was in den Spalten
-angezeigt wird.
+## Zugriff
 
-- **Checkbox**. Dieses Kästchen markieren, um einen oder mehrere
-  Einträge auszuwählen. Um alle Einträge auszuwählen, das Kästchen im
-  Spaltenkopf markieren. Nachdem ein oder mehrere Kästchen markiert
-  sind, auf eine Schaltfläche in der Werkzeugleiste klicken, um eine
-  Aktion für den ausgewählten Eintrag oder die ausgewählten Einträge
-  durchzuführen. Viele Aktionen, wie z.B. Veröffentlichen und
-  Verstecken, können mit mehreren Einträgen arbeiten. Andere, wie z.B.
-  Bearbeiten, funktionieren gleichzeitig jeweils nur mit einem Eintrag.
-  Wenn mehrere Einträge markiert sind und Sie auf „Bearbeiten“ drücken,
-  wird der erste der markierten Einträge zur Bearbeitung geöffnet.
-- **Reihenfolge:** (standard). Wie die Einträge in der Spalte der
-  Tabelle sortiert werden. Die Werte sind die gleichen wie die der
-  Spaltenköpfe.
-- **Ebenenname.** Der Name der Zugriffsebene.
-- **Benutzergruppen mit Zugriff.** Die Gruppen mit Anzeige-Zugriff.
-- **ID**. Einmalig vergebene Identifikations-Nummer für den Eintrag. Sie
-  wird von Joomla automatisch vergeben und dient zur internen
-  Identifikation des Eintrages. Man kann die Nummer nicht ändern. Beim
-  Neu-Erstellen eines Eintrags zeigt das Feld "0" an, bis man speichert,
-  dabei wird dann die neue ID vergeben.
+Wählen Sie **Benutzer → Zugriffsebenen** aus dem Administrator-Menü.
 
-## Listen-Filter
+## Screenshot
 
-Der Screenshot am Anfang der Seite zeigt die Filterleiste im oberen
-Bereich. Die Schaltflächen sind:
-
-- **Suche.** Einen Teil des Namens der Zugriffsebene eingeben und das
-  Symbol „Suchen“ drücken, um nach den passenden Titeln zu suchen.
-  Drücken Sie *Zurücksetzen*, um das Suchfeld zu löschen und die
-  komplette Ebenen-Liste wieder herzustellen.
-
-## Werkzeugleiste
-
-Das [Bildschirmfoto](#Bildschirmfoto) am Anfang der Seite zeigt die
-Werkzeugleiste im oberen Bereich. Die Funktionen sind:
-
-- **Neu**: Öffnet das Bearbeitungs-Formular, um access level zu
-  erstellen.
-- **Bearbeiten:** Öffnet das Bearbeitungs-Formular für das ausgewählte
-  access level. Falls mehr als ein access level ausgewählt wurde (wo
-  anwendbar), wird nur das erste access level geöffnet. Das
-  Bearbeitungs-Formular kann auch durch Klicken auf den access
-  level-Namen geöffnet werden.
-- **Löschen:** Löscht markierte access levels. Funktioniert mit einem
-  oder mehreren ausgewählten access levels. **Anmerkung:** Eine momentan
-  verwendete Zugriffsebene kann nicht gelöscht werden. Wenn versucht
-  wird, eine momentan verwendete Zugriffsebene zu löschen, wird eine
-  Nachricht mit Hinweis auf die Verwendung angezeigt.
-- **Optionen.** Öffnet das Optionen-Fenster, in dem Einstellungen, wie
-  die Standard-Parameter, bearbeitet werden können.
-- **Hilfe**. Öffnet die Hilfeseite.
+![Benutzer Anzeigezugriffsebenen](../../../de/images/users/users-viewing-access-levels.png)
 
 ## Tipps
 
-- Auf den Namen der Zugriffsebene klicken, um sie zu bearbeiten.
-- Auf den Spaltenkopf klicken, um Zugriffsebenen nach dieser Spalte auf-
-  oder absteigend zu sortieren.
+- Klicken Sie auf den Namen einer Zugriffsebene, um sie zu bearbeiten.
+- Klicken Sie auf die Spaltenüberschriften, um die Benutzer nach dieser Spalte auf- oder absteigend zu sortieren.

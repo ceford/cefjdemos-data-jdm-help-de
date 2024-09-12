@@ -1,82 +1,38 @@
-<!-- Filename: Help4.x:User_Notes:_New_or_Edit / Display title: Benutzerhinweise: Bearbeiten -->
+<!-- Filename: Help4.x:User_Notes:_New_or_Edit / Display title: Benutzerhinweise: Neu oder Bearbeiten -->
 
 ## Beschreibung
 
-Benutzerhinweise sind Informationen, die einem registrierten Benutzer
-der Joomla!-Site zugewiesen werden können. Diese Hinweise können zum
-Beispiel Kommentare über „beleidigende“ oder „schwierige“, Benutzer usw.
-enthalten.
+Benutzerhinweise sind Informationsstücke, die registrierten Benutzern auf einer Joomla!-Seite zugewiesen werden können. Zum Beispiel können Benutzerhinweise Kommentare über "auffällige" oder "schwierige" Benutzer enthalten.
 
-Auf dieser Seite können Benutzer-Hinweise erstellt oder bearbeitet
-werden. Der „Editor“ für die Hinweise ist der gewählte globale Editor.
-Beispiele: TinyMCE, JCE, CodeMirror.
+Die Seite *Benutzerhinweise: Neu oder Bearbeiten* wird verwendet, um einen neuen Benutzerhinweis zu erstellen oder einen bestehenden Benutzerhinweis zu bearbeiten.
 
-## Wie darauf zugreifen
+### Allgemeine Elemente
 
-- Im Administrator-Menü **Benutzer → Benutzerhinweise** auswählen,
-  dann ...
-  - aus der Werkzeugleiste **Neu** wählen, um einen neuen Hinweis
-    anzulegen oder ...
-  - einen Link aus der Spalte **Betreff** auswählen, um einen
-    vorhandenen Benutzerhinweis zu bearbeiten.
-- Oder im Administrator-Menü **Benutzer → Verwalten** auswählen,
-  dann ...
-  - einen Benutzer über Benutzername oder E-Mail aussuchen, dann ...
-  - **+ Hinweis hinzufügen** wählen, um einen neuen Hinweis zu erstellen
-    oder...
-  - Select **Show Notes List** from the drop-down list, only shown if
-    notes exist for this user. Or...
-  - Select **Display Note** from the drop-down list to show notes in a
-    popup window.
+Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
+
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
+
+## So greifen Sie darauf zu
+
+- Wählen Sie **Benutzer → Benutzerhinweise** aus dem Administrator-Menü. Dann...
+  - Wählen Sie **Neu** aus der Werkzeugleiste, um einen neuen Hinweis zu erstellen. Oder...
+  - Wählen Sie einen Link aus der Spalte **Betreff** aus, um einen vorhandenen Hinweis zu bearbeiten.
+- Oder wählen Sie **Benutzer → Verwalten** aus dem Administrator-Menü. Dann...
+  - Suchen Sie nach einem Benutzer durch Benutzernamen oder E-Mail. Dann...
+  - Wählen Sie **Hinweis hinzufügen**, um einen neuen Hinweis zu erstellen. Oder...
+  - Wählen Sie **Hinweisliste anzeigen** aus der Dropdown-Liste, die nur angezeigt wird, wenn Hinweise für diesen Benutzer existieren. Oder...
+  - Wählen Sie **Hinweis anzeigen** aus der Dropdown-Liste, um Hinweise in einem Popup-Fenster anzuzeigen.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/7/71/Help-4x-users-notes-de.png/800px-Help-4x-users-notes-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/71/Help-4x-users-notes-de.png/1200px-Help-4x-users-notes-de.png 1.5x, https://docs.joomla.org/images/7/71/Help-4x-users-notes-de.png 2x"
-data-file-width="1453" data-file-height="1162" width="800" height="640"
-alt="users notes" />
+![Benutzer Benutzerhinweise neu oder bearbeiten](../../../de/images/users/users-user-notes-new-or-edit.png)
 
-## Details
+## Formularfelder
 
-- **Betreff**. Der Betreff des Benutzerhinweises.
-- **Benutzer**. Der Benutzer für den Benutzerhinweis. Ein bestehender
-  Benutzer kann ausgewählt werden.
-- **Kategorie**. (*Unkategorisiert*). Die Kategorie des
-  Benutzerhinweises.
-- **Status**. (*Veröffentlicht*/*Versteckt*/*Archiviert*/*Papierkorb*).
-  Den Veröffentlichungs-Status einstellen.
-- **Prüfungsdatum**. Das Prüfungsdatum kann manuell nach dem
-  individuellen Ablaufplan eingegeben werden. Beispiel: Es kann das
-  Datum der nächsten Prüfung oder das der letzten Prüfung des Benutzers
-  eingegeben werden.
-- **Versionshinweis**. Einen optionalen Hinweis für diese Version des
-  Eintrags eingeben.
-- **Hinweis**. Den Hinweistext eingeben.
-
-## Werkzeugleiste
-
-Das [Bildschirmfoto](#Bildschirmfoto) am Anfang der Seite zeigt die
-Werkzeugleiste im oberen Bereich. Die Funktionen sind:
-
-- **Speichern**. Speichert den Benutzerhinweis und bleibt auf der
-  aktuellen Seite.
-- **Speichern & Schließen**. Speichert den Benutzerhinweis und schließt
-  den aktuellen Bildschirm.
-- **Speichern & Neu** Speichert den Benutzerhinweis und hält den
-  Bildschirm zum Bearbeiten offen damit ein neuer Hinweis erstellt
-  werden kann.
-- **Als Kopie speichern**. Speichert Änderungen in einer Kopie des
-  aktuellen Benutzerhinweises. Nicht beeinflusst wird dabei der aktuelle
-  Hinweis. Diese Option wird nicht angezeigt, wenn ein neuer
-  Benutzerhinweis erstellt wird.
-- **Versionen**. Öffnet den Versionsverlauf, der ältere Versionen des
-  Eintrags zeigt. Damit können ältere Versionen des Elements angezeigt
-  und gegebenenfalls wiederhergestellt werden. Siehe
-  Versionsverlauf
-  für weitere Informationen.
-- **Schließen**. Schließt den aktuellen Bildschirm und kehrt zum
-  vorherigen Bildschirm zurück, ohne die vorgenommenen Änderungen zu
-  speichern.
-- **Hilfe**. Öffnet die Hilfeseite.
+- **Betreff** Der Betreff des Hinweises.
+- **Benutzer** Wählen Sie einen vorhandenen Benutzer für diesen Hinweis aus. Ein Benutzer kann mehrere Hinweise haben.
+- **Kategorie** Die Kategorie, der dieses Element zugewiesen ist.
+- **Status** Legen Sie den Veröffentlichungsstatus fest.
+- **Überprüfungsdatum** Das Überprüfungsdatum ist ein manuell eingegebenes Datum, das Sie je nach Ihrem Workflow verwenden können. Beispiele wären ein Datum, an dem Sie einen Benutzer überprüfen möchten, oder das letzte Datum, an dem Sie den Benutzer überprüft haben.
+- **Versionshinweis** Geben Sie eine optionale Notiz für diese Version des Elements ein.
+- **Hinweis** Geben Sie den Hinweis ein.

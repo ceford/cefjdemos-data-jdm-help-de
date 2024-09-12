@@ -2,476 +2,208 @@
 
 ## Beschreibung
 
-Der Bildschirm (globale) Konfiguration ermöglicht es, die Joomla-Website
-mit persönlichen Einstellungen zu konfigurieren. Die in diesem
-Bildschirm vorgenommenen Einstellungen gelten für die gesamte Website.
+Der Bildschirm *Globale Konfiguration* ermöglicht es Ihnen, die Joomla-Website mit Ihren persönlichen Einstellungen zu konfigurieren. Einstellungen, die in diesem Bildschirm vorgenommen werden, gelten für die gesamte Website.
 
-## Wie darauf zugreifen
+### Allgemeine Elemente
 
-- **System → Einstellungen → Konfiguration**
+Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
-## Bildschirmfoto
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Der Berechtigungs-Tab](jdocmanual?article=help/common-elements/edit-permissions).
 
-<img
-src="https://docs.joomla.org/images/thumb/8/8d/Help-4x-global-configuration-screen-de.png/750px-Help-4x-global-configuration-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/8d/Help-4x-global-configuration-screen-de.png/1125px-Help-4x-global-configuration-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/8/8d/Help-4x-global-configuration-screen-de.png/1500px-Help-4x-global-configuration-screen-de.png 2x"
-data-file-width="2720" data-file-height="1700" width="750" height="469"
-alt="global configuration screen" />
+## So greifen Sie zu
 
-## Formular Felder
+- Wählen Sie **System-Panel → Globale Konfiguration** vom Start-Dashboard. Oder...
+- Wählen Sie **System → Setup-Panel → Globale Konfiguration** im Administrator-Menü.
 
-### Site
+## Screenshot
 
-Vollständiges
-Bildschirmfoto.
+![Globale Konfiguration Site-Tab](../../../de/images/site/global-configuration-site-tab.png)
 
-#### Site
+## Formularfelder
 
-- **Name der Website**. Den Name der Website eingeben. Er wird an
-  verschiedenen Stellen verwendet (zum Beispiel in der Titelleiste des
-  Browsers im Backend und den Offline-Seiten).
-- **Website offline**. Zugriff auf das Frontend ermöglichen. Mehr
-  erfahren.
-  - **Offline-Text**.
-    - Eigenen Text benutzen: Den Text unter 'Eigener Text' eingeben.
-    - Standardtext benutzen: Der Standardtext wird aus der Sprachdatei
-      geladen.
-  - **Offline-Bild**. Ein Bild, das auf der Standard Offline-Seite
-    angezeigt wird. Es soll nicht breiter als 400 Pixel sein.
-- **Frontend-Bearbeitung**. Die Bearbeitung von Modulen und
-  Menüeinträgen ermöglichen.
-- **Standard Editor**. Den Standard-Texteditor wählen. Registrierte
-  Benutzer können die Einstellung in ihrem Profil ändern.
-- **Standard Captcha**. Die Standard Captcha-Einstellung für die Site
-  auswählen. Weitere Daten im
-  Captcha-Plugin
-  eingeben.
-- **Standard Zugriffsebene**. Die Standard-Zugriffsebene für neue
-  Einträge wählen.
-- **Standard Listenlänge**. Die Standard-Listenlänge im Backend für alle
-  Benutzer wählen.
-- **Standard Feed-Länge**. Die Anzahl der Beiträge wählen, die in Feeds
-  gezeigt werden.
-- **Feed-E-Mail**. Der RSS- und Atom-Feed enthalten die E-Mail-Adresse
-  des Autors.
-  - Autor-E-Mail: Nutzt die E-Mail-Adresse des Autors aus
-    Benutzer.
-  - Website-E-Mail: Nutzt für jeden Beitrag die
-    [Absenderadresse](#fromemail).
+### Site-Tab
 
-#### Metadaten
+#### Site-Panel
 
-- **Meta-Beschreibung**. Eine Beschreibung der gesamten Website für
-  Suchmaschinen.
-- **Robots**. Robots Anweisungen.
-  - index, follow: Seite indizieren, den Links auf der Seite folgen.
-  - noindex, follow: Seite nicht indizieren, den Links auf der Seite
-    folgen. Beispiel ist eine Sitemap-Seite, deren Links indiziert, die
-    Seite selbst aber nicht in Suchmaschinen gezeigt werden soll.
-  - index, nofollow: Seite indizieren, den Links auf der Seite nicht
-    folgen. Beispiel ist eine Seite mit einem Veranstaltungs-Kalender,
-    die in Suchmaschinen gezeigt werden soll, aber nicht jede
-    Veranstaltung soll indiziert werden.
-  - noindex, nofollow: Seite nicht indizieren, den Links auf der Seite
-    nicht folgen.
-- **Inhaltsrechte**. Legt fest, welche Rechte andere Personen beim
-  Gebrauch dieses Beitragsinhalts haben. Dies wird den Suchmaschinen mit
-  Hilfe des Meta-Tags 'rights' im Header des HTML-Dokuments mitgeteilt.
-- **Autor-Meta-Tag anzeigen**. Zeigt den Autor-Meta-Tag bei der Anzeige
-  von Beiträgen an.
-- **Joomla-Version anzeigen**. Steuert, ob der Meta-Tag 'generator' im
-  Header des HTML-Dokuments im Frontend und in Atom-Feeds die genaue
-  Version der Joomla-Site enthält. Es wird empfohlen, diese Option aus
-  Sicherheitsgründen zu deaktivieren.
+- **Websitename** Geben Sie den Namen der Website ein. Dieser wird an verschiedenen Stellen verwendet (z.B. im Titel des Backend-Browsers und auf Offline-Seiten der Website).
+- **Website offline** Wählen Sie, ob der Zugriff auf das Frontend verfügbar ist.
+- **Offline-Nachricht**
+    - *Verstecken*
+    - *Benutzerdefinierte Nachricht verwenden* Die Nachricht verwendet den Wert, der im Feld *Benutzerdefinierte Nachricht* definiert ist.
+    - *Standardeinstellung der Website-Sprache verwenden* Die Nachricht verwendet den Wert, der in der Sprach-INI-Datei der Website definiert ist.
+- **Offline-Bild** Wählen Sie ein Bild aus, das auf der Offline-Seite angezeigt wird. Achten Sie darauf, dass das Bild weniger als 400px breit ist.
+- **Frontend-Bearbeitung** Wählen Sie die Bearbeitung für Module und Menüelemente.
+- **Standard-Editor** Wählen Sie den Standard-Texteditor. Registrierte Benutzer können ihre Präferenz in ihren persönlichen Daten ändern.
+- **Standard-Captcha** Wählen Sie das Standard-Captcha für Ihre Website. Möglicherweise müssen Sie erforderliche Informationen im Captcha-Plugin eingeben.
+- **Standard-Zugriffsebene** Wählen Sie die Standard-Zugriffsebene für neue Elemente.
+- **Standardlisten-Limit** Legt die Standardlänge von Listen im Backend für alle Benutzer fest.
+- **Standard-Feed-Limit** Wählen Sie die Anzahl der Inhaltsartikel aus, die in den Feeds angezeigt werden sollen.
+- **Feed-E-Mail-Adresse** Die RSS- und Atom-Newsfeeds enthalten die E-Mail-Adresse des Autors.
+  - *Autor-E-Mail* Die E-Mail-Adresse des Autors des Artikels aus dem Benutzerprofil in den Newsfeed aufnehmen.
+  - *Seiten-E-Mail* Verwenden Sie die E-Mail-Adresse *Von der Website* für jeden Artikel.
 
-#### SEO
+#### Metadaten-Panel
 
-Suchmaschinenoptimierung
+- **Meta-Beschreibung der Website** Geben Sie eine Beschreibung der gesamten Website ein, die von Suchmaschinen verwendet wird.
+- **Robots** Anweisungen für Suchmaschinenroboter.
+  - *index, follow* Diese Seite indexieren und den Links auf dieser Seite folgen.
+  - *noindex, follow* Diese Seite nicht indexieren, aber den Links auf der Seite folgen. Zum Beispiel für eine Sitemap-Seite, bei der Sie möchten, dass die Links indexiert werden, aber diese Seite nicht in den Suchmaschinen angezeigt wird.
+  - *index, nofollow* Diese Seite indexieren, aber keinen Links auf der Seite folgen. Zum Beispiel für einen Veranstaltungskalender, bei dem Sie möchten, dass die Seite in den Suchmaschinen angezeigt wird, aber nicht jedes Ereignis indexiert wird.
+  - *noindex, nofollow* Diese Seite nicht indexieren und keinen Links auf der Seite folgen.
+- **Nutzungsrechte** Beschreiben Sie, welche Rechte andere an diesem Inhalt haben. Dies wird den Suchmaschinen über das `rights`-Meta-Tag im HTML-Kopf übermittelt.
+- **Autor-Meta-Tag** Zeigen Sie das Autor-Meta-Tag beim Ansehen von Artikeln an.
+- **Joomla-Version** Steuert, ob das `generator`-Meta-Tag im HTML-Kopf des Frontends und in Atom-Feeds die genaue Joomla-Version der Website enthält. Aus Sicherheitsgründen wird empfohlen, diese auszublenden.
 
-- **Suchmaschinen-freundliche URL**. Optimiert die Webadressen (URLs)
-  für Suchmaschinen.
-- **URL-Rewrite nutzen**.
-  - Apache und Litespeed: 'htaccess.txt' in '.htaccess' umbenennen
-    <a href="https://httpd.apache.org/docs/2.4/howto/htaccess.html"
-    class="external text" target="_blank"
-    rel="nofollow noreferrer noopener">Mehr erfahren.</a>
-  - IIS: 'web.config.txt' in 'web.config' umbenennen
-  - NginX: Server
-    konfigurieren
-  - Für andere Server oder wenn etwas unklar ist, bitte den
-    Hosting-Provider kontaktieren.
-- **Dateiendung an URL anfügen**. In der Einstellung "Ja" fügt das
-  System eine zum Dokumenttyp passende Endung an die Webadresse an.
-- **Unicode Aliase**. Eine Auswahl zwischen Umschreibung
-  (transliteration) und Unicode-Aliase treffen. Die Standardeinstellung
-  ist die Umschreibung von Aliasen.
-- **Websitename auch im Seitentitel**. Alle Seitentitel mit dem
-  Websitenamen beginnen oder beenden (zum Beispiel "Mein Websitename -
-  Mein Beitragsname").
+#### SEO-Panel
 
-#### Cookies
+- **Suchmaschinenfreundliche URLs** Wählen Sie, ob die URLs für Suchmaschinen optimiert sind.
+- **URL-Umschreibung verwenden**
+  - *Apache und Litespeed* Benennen Sie `htaccess.txt` in `.htaccess` um.
+  - *IIS* Benennen Sie `web.config.txt` in `web.config` um.
+  - *NginX* Sie müssen Ihren Server konfigurieren.
+  - *Andere* Wenn Sie sich unsicher sind, konsultieren Sie bitte Ihren Hosting-Anbieter.
+- **Suffix zur URL hinzufügen** Wenn ja, wird das System einen Suffix zur URL basierend auf dem Dokumenttyp hinzufügen.
+- **Unicode-Aliase** Wählen Sie zwischen Transliteration und Unicode-Aliassen. Die Transliteration ist der Standard.
+- **Website-Name in Seitentiteln** Beginnen oder beenden Sie alle Seitentitel mit dem Website-Namen (z.B. *Mein Seitenname - Mein Artikelname*).
 
-- **Domaincookie**. Die Domain eingeben, die für Sitzungscookies genutzt
-  werden soll. Mit einem Punkt '.' starten, wenn der Sitzungscookie auch
-  für alle Subdomains gelten soll.
-- **Cookie-Pfad**. Der Pfad, für den der Cookie gültig ist.
+#### Cookie-Panel
 
-### System
+- **Cookie-Domain** Domain, die verwendet wird, wenn Sitzungscookies gesetzt werden. Vor der Domain ein '.' einfügen, wenn das Cookie für alle Subdomains gültig sein soll.
+- **Cookie-Pfad** Pfad, für den das Cookie gültig sein soll.
 
-Vollständiges
-Bildschirmfoto.
+### System-Tab
 
-#### Fehlersuche
+![Globale Konfiguration System-Tab](../../../de/images/site/global-configuration-system-tab.png)
 
-Debug
+#### Debug-Panel
 
-- **System debuggen**. Wenn aktiviert, werden, falls vorhanden,
-  diagnostische Informationen, Übersetzungen und SQL-Fehler angezeigt.
-  Die Informationen werden am unteren Ende auf jeder Seite im
-  Joomla!-Backend und Frontend angezeigt. Es wird ausdrücklich davon
-  abgeraten, den Debug-Modus auf einer Live-Seite anzuwenden.
-- **Sprache debuggen**. Auswählen, ob die Fehleranzeiger
-  \*\*...\*\*oder ??...?? für die Joomla-Sprachdateien angezeigt werden
-  sollen. 'Sprache debuggen' funktioniert auch ohne die Aktivierung von
-  'System debuggen', zeigt dann allerdings nicht die benötigten
-  zusätzlichen Informationen an, die bei der Korrektur der Fehler
-  hilfreich wären.
-  - **Sprachanzeige**. Auswählen, ob die Sprachkonstante oder der
-    Sprachwert angezeigt werden sollen, wenn die Sprache debuggt wird.
+- **System-Debug** Wenn aktiviert, werden diagnostische Informationen, Sprachübersetzungen und SQL-Fehler (falls vorhanden) angezeigt. Die Informationen werden am Fuß jeder Seite angezeigt, die Sie im Joomla-Backend und -Frontend aufrufen. Es wird nicht empfohlen, den Debug-Modus bei einer Live-Website aktiviert zu lassen.
+- **Sprach-Debug** Aktivieren, um die Debug-Indikatoren `**...**` oder `??...??` in der Seitenausgabe zu sehen, wo Joomla-Sprachdateien verwendet werden, um Zeichenfolgen in ihre übersetzten Werte zu übersetzen. Das erste Format zeigt an, dass die Zeichenfolge erfolgreich übersetzt wurde. Das zweite zeigt an, dass der Text in einfacher Sprache eingegeben wurde und nicht übersetzt werden kann.
+  - **Sprachanzeige** Wählen Sie aus, ob beim Debuggen der Sprachzeichenfolgen die Sprachkonstante oder der Sprachwert angezeigt werden soll.
 
-#### Cache
+#### Cache-Panel
 
-Zwischenspeicher
+- **System-Cache** Cache aktivieren und Cache-Stufe festlegen.
+  - *Konservative Stufe* kleinerer System-Cache.
+  - *Progressive Stufe* schnellerer, größerer System-Cache, einschließlich Modul-Renderer-Cache. Nicht geeignet für extrem große Websites.
+  - **Cache-Handler**
+    - *Datei* Der native Cache-Mechanismus ist dateibasiert. Stellen Sie sicher, dass die Cache-Ordner beschreibbar sind.
+  - **Plattformspezifisches Caching** Aktivieren, wenn die HTML-Ausgabe auf mobilen Geräten von anderen Geräten abweicht.
+  - **Cache-Zeit (Minuten)** Die maximale Zeit in Minuten, die eine Cache-Datei gespeichert wird, bevor sie aktualisiert wird.
+  - **Pfad zum Cache-Ordner** Geben Sie einen beschreibbaren Ordner an, in dem Cache-Dateien gespeichert werden sollen, wenn Sie den Standardordner nicht verwenden möchten.
 
-- **Cache**. Den Zwischenspeicher (Cache) aktivieren und den Cache-Level
-  angeben. Mehr erfahren.
-  - Normales Caching: Kleiner System-Cache.
-  - Erweitertes Caching: Schnellerer, größerer System-Cache, inklusive
-    eines Modul-Caches. Nicht für extrem große Webseiten zu empfehlen.
-  - **Cache-Speicher**.
-    - Datei: Der Caching-Mechanismus ist dateibasiert. Es muss darauf
-      geachtet werden, dass die Cache-Verzeichnisse beschreibbar sind.
-  - **Plattformspezifischer Cache**. Aktivieren, wenn sich die
-    HTML-Ausgabe auf mobilen Geräten von anderen Geräten unterscheidet.
-  - **Cache-Dauer**. Die maximale Dauer in Minuten, die eine Cache-Datei
-    gespeichert bleibt, bevor sie aktualisiert wird.
-  - **Cache-Verzeichnis**. Bitte ein beschreibbares Verzeichnis angeben,
-    in dem die zwischengespeicherten (Cache)-Dateien abgelegt werden
-    sollen.
+#### Sitzungs-Panel
 
-#### Sitzung
+- **Sitzungs-Handler** Der Mechanismus, mit dem Joomla einen Benutzer identifiziert, sobald er mit der Website über nicht persistente Cookies verbunden ist.
+  - *Datenbank* Der Datenbank-Sitzungs-Handler ist der Standard-Handler, da Joomla ihn vollständig konfigurieren und selbst steuern kann.
+  - *Dateisystem* Der Dateisystem-Handler ist etwas performanter als der Datenbank-Handler, erfordert jedoch eine ordnungsgemäße PHP-Konfiguration. Andernfalls wird es abstürzen und Joomla wird vollständig unbenutzbar.
+    - **Pfad zum Sitzungs-Speicherort** Geben Sie einen vollständigen Dateisystempfad ein. Stellen Sie sicher, dass der Pfad die entsprechenden Berechtigungen zum Lesen und Schreiben von Dateien durch PHP hat, und wenn die `session garbage collection` aktiviert ist, um Dateien daraus zu löschen. Wenn dieser Pfad nicht festgelegt ist, verlässt sich Joomla auf die PHP-Konfiguration `session.save_path INI` oder auf das temporäre Systemverzeichnis (wie durch die Funktion sys_get_temp_dir() in PHP definiert). Wenn keiner dieser Pfade konfiguriert oder die Berechtigungen falsch sind, ist das Spiel vorbei. Um sich zu erholen, bearbeiten Sie die Datei `configuration.php` und setzen Sie `$session_handler = 'database'`.
+  - *Andere Handler* APCu, Memcached, Redis und WinCache hängen alle von optionalen PHP-Erweiterungen ab und sind möglicherweise verfügbar, wenn Ihr System sie unterstützt. APCu oder WinCache bieten möglicherweise keine bessere Leistung als die *einfache* Dateisystem-Option. Die Memcached- und Redis-Handler sind in einer typischen Shared-Hosting-Umgebung für Joomla überdimensioniert. Diese Handler sind nützlich, wenn Sie Joomla in einer Load-Balanced-Umgebung einsetzen, in der mehrere Server beteiligt sind und die Sitzungsdaten für die Anwendung auf allen Servern verfügbar sein müssen.
+- **Sitzungsdauer (Minuten)** Automatisches Abmelden eines Benutzers, nachdem er für die eingegebene Anzahl von Minuten inaktiv war. Nicht zu hoch einstellen.
+- **Gemeinsame Sitzungen** Wenn aktiviert, wird die Sitzung eines Benutzers zwischen dem Frontend und dem Backend der Website geteilt. Beachten Sie, dass das Ändern dieses Werts alle bestehenden Sitzungen auf der Website ungültig macht. Dies ist nicht verfügbar, wenn die Option [HTTPS erzwingen](#forcehttps) auf *Nur Administrator* gesetzt ist.
+- **Sitzungs-Metadaten verfolgen**
+  - *Ja* Zusätzliche Metadaten zur Sitzung eines Benutzers (einschließlich Benutzername, Benutzer-ID und in welcher Anwendung er eingeloggt ist) werden in die Sitzungs-Datenbanktabelle protokolliert.
+  - *Nein* Funktionen, die auf diesen Daten basieren, sind nicht verfügbar.
 
-Session
+### Server-Tab
 
-- **Sitzungsspeicher**. Der Mechanismus, mit dem Joomla! einen Benutzer
-  identifiziert, sobald dieser mit der Website verbunden ist, wobei
-  nicht-persistente Cookies verwendet werden.
-  - Datenbank: Der Datenbank-Session-Handler ist der Standard-Handler,
-    weil er der einzige ist, den Joomla vollständig selbst konfigurieren
-    und steuern kann.
-  - Der Dateisystem-Handler ist etwas leistungsfähiger als der
-    Datenbank-Handler, aber er erfordert, dass PHP richtig konfiguriert
-    ist, sonst stürzt er ab und Joomla ist völlig unbrauchbar.
-    - **Session-Speicherpfad**. Einen vollständigen Dateisystempfad
-      eingeben. Dieser Pfad muss die entsprechenden Rechte für PHP
-      haben, um Dateien lesen und schreiben zu können. Wenn 'session
-      garbage collection' aktiviert ist, können Dateien von diesem Pfad
-      gelöscht werden.Falls dieser Pfad nicht gesetzt ist, verlässt sich
-      Joomla auf die PHP session.save_path INI-Konfiguration oder greift
-      auf das temporäre Systemverzeichnis zurück (wie es durch die
-      PHP-Funktion sys_get_temp_dir() definiert ist).Wenn keiner dieser
-      Pfade konfiguriert ist oder die Berechtigungen falsch sind, ist
-      alles zu Ende. Um das Problem zu beheben, muss die Datei
-      configuration.php bearbeitet werden und der Wert \$session_handler
-      = 'database' gesetzt werden.
-  - Andere Handler (APCu, Memcached, Redis und WinCache) basieren alle
-    auf optionalen PHP-Erweiterungen und sind möglicherweise verfügbar,
-    falls das betreffende System sie unterstützt. APCu oder WinCache
-    sind möglicherweise nicht besser als die „einfache“
-    Dateisystemoption. Die Memcached- und Redis-Handler sind Overkill
-    für Joomla in einer typischen Shared-Hosting-Umgebung. Diese Arten
-    von Handlern sind geeignet, wenn man Joomla in einer Umgebung mit
-    Lastverteilung einsetzt, in der mehrere Server beteiligt sind und
-    die Sitzungsdaten für die Anwendung auf allen Servern verfügbar sein
-    müssen.
-- **Sitzungslänge**. Eine automatische Abmeldung, die nach Ablauf der
-  eingegebenen Zeit (in Minuten) der Inaktivität eines Benutzers
-  durchgeführt wird. Ein zu groß gewählter Wert ist ein
-  Sicherheitsrisiko.
-- **Gemeinsame Sitzungen**. Wenn diese Option aktiviert ist, wird die
-  Sitzung eines Benutzers zwischen dem Frontend- und dem
-  Administrationsbereich der Site geteilt. Die Änderung dieses Wertes
-  macht alle bestehenden Sitzungen auf der Site ungültig.Die Option ist
-  nicht verfügbar, wenn die Option [HTTPS erzwingen](#forcehttps) auf
-  'Nur Administrator' eingestellt ist.
-- **Sitzungs-Metadaten verfolgen**.
-  - Ja: Zusätzliche Metadaten über die Sitzung eines Benutzers
-    (einschließlich seines Benutzernamens, seiner Benutzer-ID und der
-    Anwendung, bei der er angemeldet ist) werden in der
-    Sitzungsdatenbanktabelle protokolliert.
-  - Nein: Von diesen Daten abhängige Funktionen sind nicht verfügbar.
+![Global Configuration Server Tab](../../../de/images/site/global-configuration-server-tab.png)
 
-### Server
+#### Server-Panel
 
-Vollständiges
-Bildschirmfoto.
+- **Pfad zum Temp-Ordner** Bitte geben Sie einen beschreibbaren Ordner an, in dem temporäre Dateien gespeichert werden.
+- **Gzip-Seitenkomprimierung**
+  - *Ja* Komprimiert die generierten HTML-Seiten automatisch mit Gzip, wodurch sie kleiner werden und die Geschwindigkeit Ihrer Website erhöht wird.
+  - *Nein* Wenn Ihr Server dies bereits übernimmt oder wenn es zu Konflikten mit Erweiterungen von Drittanbietern kommt.
+- **Fehlerberichterstattung** Dieser Parameter legt das Fehlerberichtslevel fest, das von PHP auf der Joomla-Website verwendet wird.
+  - *System-Standard* Überlässt das Fehlerberichtslevel der Serverkonfiguration.
+  - *Keine* Schaltet die Fehlerberichterstattung aus.
+  - *Einfach* Überschreibt die Servereinstellung und gibt ein einfaches Fehlerberichtslevel an.
+  - *Maximal* Überschreibt die Servereinstellung und erlaubt die Berichterstattung aller Fehler. Sollte Ihre Joomla-Seite so stark beeinträchtigt sein, dass es nicht möglich ist, die Administratorseite zur Aktivierung der Fehlerberichterstattung zu nutzen, können Sie die vollständige Fehlerberichterstattung aktivieren, indem Sie die Datei `configuration.php` bearbeiten. Das Setzen von `$error_reporting = 'maximum'` entspricht dem Setzen von *Fehlerberichterstattung* auf *Maximal*.
+- **HTTPS erzwingen** Erzwingt den Zugriff auf die ausgewählten Bereiche der Website ausschließlich über HTTPS (verschlüsselte HTTP-Verbindungen mit dem https://-Protokoll) und zwingt die Verwendung von sicheren Cookies. Beachten Sie, dass Sie HTTPS auf Ihrem Server aktiviert haben müssen, um diese Option nutzen zu können.
 
-#### Server
+#### Standort-Panel
 
-- **Tempverzeichnis**. Bitte ein beschreibbares Verzeichnis für
-  temporäre Dateien angeben.
-- **Gzip-Komprimierung**.
-  - Ja: Komprimiert die generierte HTML-Seite. JavaScript, CSS, Bilder
-    etc. werden nicht komprimiert.
-  - Nein: Wenn der Server komprimiert oder Konflikte mit Erweiterungen
-    von Drittherstellern entstehen.
-- **Fehler berichten**. Legt fest, wie ausführlich Fehlermeldungen von
-  PHP auf der Joomla-Website sind.
-  - Standard: Belässt die Stufe der Fehlermeldung so, wie sie auf dem
-    Server eingestellt ist.
-  - Keine: Schaltet die Fehlerausgabe aus.
-  - Einfach: Setzt die Servereinstellung außer Kraft, sodass eine
-    einfache Ausgabe möglich ist.
-  - Maximum: Setzt die Servereinstellung außer Kraft, sodass die Ausgabe
-    aller Fehler möglich ist.Sollte die Joomla-Seite so fehlerhaft sein,
-    dass es nicht möglich ist, die Fehlermeldungen über die
-    Administrator-Seite zu aktivieren, kann man die volle
-    Fehlerberichterstattung einschalten, indem man die Datei
-    'configuration.php' bearbeitet. Das Ändern des Parameters
-    '\$error_reporting' in dieser Datei auf den Wert 'maximum' ist das
-    Pendant zur Einstellung der Fehlermeldungen auf 'Maximum'.
-- **HTTPS erzwingen**. Diese Option erzwingt, dass die Website in den
-  ausgewählten Bereichen nur noch über HTTPS (verschlüsselte
-  HTTP-Verbindungen mit dem Protokollpräfix https://) aufgerufen werden
-  kann und sichere Cookies verwendet werden. Hinweis: Auf dem Server
-  muss das HTTPS-Protokoll aktiviert sein, um diese Option verwenden zu
-  können.
+- **Zeitzone der Website** Wählen Sie eine Stadt aus der Liste aus, um Datum und Uhrzeit für die Anzeige zu konfigurieren.
 
-#### Zeitzone
+#### Webdienst-Panel
 
-- **Websitezeitzone**. Den gewünschten Ort auswählen, um die Anzeige für
-  Datum und Uhrzeit einzurichten.
+- **CORS aktivieren** Cross-Origin Resource Sharing oder 
+  [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) ermöglicht es, dass Skripte, die in einem Browser laufen, mit Ressourcen von einer anderen Quelle interagieren.
+  - **Access-Control-Allow-Origin** Gibt die Ursprungsquelle an, die auf die Webdienste dieser Seite zugreifen darf. Diese Information wird als Antwort auf eine Preflight-Anfrage zurückgesendet. Standard: `*` (=alle).
+  - **Access-Control-Allow-Headers** Gibt die Header(s) an, die als Antwort auf eine Preflight-Anfrage zurückgesendet werden. Standard: `Content-Type,X-Joomla-Token`.
+  - **Access-Control-Allow-Methods** Gibt die auf dieser Seite erlaubten Webdienst-Methoden an, die als Antwort auf eine Preflight-Anfrage zurückgesendet werden. Standard: Alle verfügbaren Methoden für die angeforderte Route.
 
-#### Web Services
+#### Proxy-Panel
 
-- **CORS aktivieren**. Cross-Origin Resource Sharing
-  (<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">CORS</a>) ermöglicht es Skripten,
-  die in einem Browser laufen, mit Ressourcen von einer anderen Domain
-  zu interagieren.
-  - **Access-Control-Allow-Origin**. Gibt die Origins an, welche auf die
-    Web Services dieser Website zugreifen dürfen. Standard: \* (keine
-    Einschränkungen).
-  - **Access-Control-Allow-Headers**. Gibt die Header an, die als
-    Antwort auf eine Preflight-Anfrage zurückgesendet werden. Standard:
-    Content-Type,X-Joomla-Token.
-  - **Access-Control-Allow-Methods**. Gibt die Web Service-Methode(n)
-    an, auf die zugegriffen werden darf. Standard: Alle für die
-    angeforderte Route verfügbaren Methoden.
+- **Hinter Load Balancer** Wenn Ihre Website hinter einem Load Balancer oder einem Reverse Proxy liegt, aktivieren Sie diese Einstellung, damit IP-Adressen und andere Konfigurationen innerhalb von Joomla dies automatisch berücksichtigen.
+- **Ausgehenden Proxy aktivieren** Einige Hosts erlauben standardmäßig keinen Netzwerkzugriff von Ihrer Website auf die Außenwelt und erfordern, dass Sie einen ausgehenden Proxy manuell konfigurieren.
+  - **Proxy-Host (ausgehend)** Host (Domainname) oder IP-Adresse.
+  - **Proxy-Port (ausgehend)** Portnummer.
+  - **Proxy-Benutzername (ausgehend)** Lassen Sie dieses Feld leer, wenn der ausgehende Proxy keine Authentifizierung erfordert.
+  - **Proxy-Passwort (ausgehend)**
 
-#### Proxy
+#### Datenbank-Panel
 
-- **Load Balancer aktivieren**. Wenn die Website hinter einem Load
-  Balancer oder Reverse Proxy liegt, diese Einstellung aktivieren, damit
-  IP-Adressen und andere Konfigurationen innerhalb von Joomla dies
-  automatisch berücksichtigen.
-- **Proxy aktivieren**. Sorgt dafür, dass Joomla! einen Proxyserver zur
-  Verbindung mit externen URLs nutzt. Dies ist in manchen
-  Serverumgebungen notwendig, damit zum Beispiel die
-  Joomla-Update-Komponente Daten abrufen kann.
-  - **Hostname**. Den Namen oder die IP-Adresse des Proxy-Servers
-    eingeben.
-  - **Port**.
-  - **Benutzer**. Der Benutzername für den Proxy-Server.
-  - **Passwort**.
-
-#### Datenbank
-
-- **Typ**. Der verwendete Typ der Datenbank, der während der
-  Installation eingegeben wurde.Dieses Feld sollte nicht verändert
-  werden, außer in speziellen Fällen, wie beim Umzug der Datenbank zu
-  einem neuen Webhoster.
-- **Server**. Der Servername der Datenbank, der während der Installation
-  eingegeben wurde.Dieses Feld sollte nicht verändert werden, außer in
-  speziellen Fällen, wie beim Umzug der Datenbank zu einem neuen
-  Webhoster.
-- **Benutzer**. Der Benutzername für den Datenbankzugriff, der während
-  der Installation eingegeben wurde.Dieses Feld sollte nicht verändert
-  werden, außer in speziellen Fällen, wie beim Umzug der Datenbank zu
-  einem neuen Webhoster.
-- **Passwort**. Das Passwort, das für den Zugriff auf die Datenbank
-  verwendet wird.Dieses Feld sollte nicht verändert werden, außer in
-  speziellen Fällen, wie beim Umzug der Datenbank zu einem neuen
-  Webhoster.
-- **Datenbank**. Der Name der Datenbank, der während der Installation
-  eingegeben wurde.Dieses Feld sollte nicht verändert werden, außer in
-  speziellen Fällen, wie beim Umzug der Datenbank zu einem neuen
-  Webhoster.
-- **Präfix**. Das Präfix für die Datenbanktabellen. Es wurde während des
-  Installationsvorgangs erstellt.Dieses Feld sollte nicht verändert
-  werden, außer in speziellen Fällen, wie beim Umzug der Datenbank zu
-  einem neuen Webhoster.
-- **Verbindungsverschlüsselung**.
+- **Datenbanktyp** Der während des Installationsprozesses ausgewählte Datenbanktyp. Bearbeiten Sie dieses Feld nur, wenn unbedingt erforderlich (z. B. bei der Übertragung der Datenbank zu einem neuen Hosting-Anbieter).
+- **Host** Der Hostname Ihrer Datenbank, der während des Installationsprozesses eingegeben wurde. Bearbeiten Sie dieses Feld nur, wenn unbedingt erforderlich (z. B. bei der Übertragung der Datenbank zu einem neuen Hosting-Anbieter).
+- **Datenbank-Benutzername** Der Benutzername für den Zugriff auf Ihre Datenbank, der während des Installationsprozesses eingegeben wurde. Bearbeiten Sie dieses Feld nur, wenn unbedingt erforderlich (z. B. bei der Übertragung der Datenbank zu einem neuen Hosting-Anbieter).
+- **Datenbank-Passwort** Das Passwort, das für den Zugriff auf die Datenbank verwendet wird. Bearbeiten Sie dieses Feld nur, wenn unbedingt erforderlich (z. B. bei der Übertragung der Datenbank zu einem neuen Hosting-Anbieter).
+- **Datenbankname** Der Name Ihrer Datenbank, der während des Installationsprozesses eingegeben wurde. Bearbeiten Sie dieses Feld nur, wenn unbedingt erforderlich (z. B. bei der Übertragung der Datenbank zu einem neuen Hosting-Anbieter).
+- **Tabellenpräfix der Datenbank** Das Präfix, das für Ihre Datenbanktabellen verwendet wird und während des Installationsprozesses erstellt wurde. Bearbeiten Sie dieses Feld nur, wenn unbedingt erforderlich (z. B. bei der Übertragung der Datenbank zu einem neuen Hosting-Anbieter).
+- **Verbindungssicherheit**
   - Standard (servergesteuert)
-  - Einwege-Authentifizierung
-    - **Server-Zertifikat verifizieren**.
-      - **Pfad zur CA-Datei**. Pfad im Dateisystem.
-  - Zwei-Wege-Authentifizierung
-    - **Pfad zur privaten Schlüsseldatei**. Speicherort im Dateisystem.
-    - **Pfad zur Zertifikatsdatei**. Speicherort im Dateisystem.
-    - **Server-Zertifikat verifizieren**.
-      - **Pfad zur CA-Datei**. Pfad im Dateisystem.
-    - **Unterstützte Cipher Suite (optional)**. Kein Eintrag notwendig
-      (nur für erfahrene User empfohlen) – mehr Details sind in der
-      Dokumentation zur Datenbank zu finden.
+  - Einseitige Authentifizierung
+    - **Serverzertifikat überprüfen**
+      - **Pfad zur CA-Datei** Dateisystempfad.
+  - Zweiseitige Authentifizierung
+    - **Pfad zur privaten Schlüsseldatei** Dateisystemstandort.
+    - **Pfad zur Zertifikatsdatei** Dateisystemstandort.
+    - **Serverzertifikat überprüfen**
+      - **Pfad zur CA-Datei** Dateisystempfad.
+    - **Unterstützte Chiffersuite (optional)** Keine Eingabe erforderlich (nur empfohlen für erfahrene Benutzer). Weitere Details finden Sie in der Dokumentation Ihrer Datenbank.
 
-#### E-Mailing
+#### Mail-Panel
 
-- **Mails senden**.
-  - Ja: Aktiviert das Versenden von E-Mails durch Joomla.
-  - Nein: Deaktiviert das Versenden von E-Mails. Es wird empfohlen die
-    Website offline zu nehmen, wenn die Mail-Funktion deaktiviert wird.
-- **Serienmails deaktivieren**.
-  - Ja: Die Serienmail-Funktion deaktivieren.
-  - Nein: Die Funktion von berechtigten Benutzern verwendet werden.
-- **Absenderadresse**. Diese E-Mail-Adresse erscheint bei den von der
-  Website verschickten E-Mails.
-- **Absendername**. Dieser Text wird zusätzlich im "Von:"-Bereich einer
-  vom System gesendeten E-Mail ergänzt. Normalerweise der Site-Name.
-- **Antwortadresse**. Die Standard-Antwortadresse, an die Antworten von
-  Benutzern gesendet werden.
-- **Antwortname** Dieser Text wird zusätzlich im "An:"-Bereich einer vom
-  System gesendeten E-Mail ergänzt.
-- **Mailer**. Die Mailerfunktion, mit der E-Mails verschickt werden.
+- **E-Mails senden**
+  - *Ja* Aktiviert das Versenden von E-Mails.
+  - *Nein* Deaktiviert das Versenden von E-Mails. Es wird empfohlen, die Website offline zu schalten, wenn die Mail-Funktion deaktiviert wird.
+- **Massen-E-Mail deaktivieren**
+  - *Ja* Deaktiviert die Funktion "Massen-E-Mails an Benutzer senden".
+  - *Nein* Macht die Funktion "Massen-E-Mails an Benutzer senden" aktiv.
+- **Von-E-Mail-Adresse** Die E-Mail-Adresse, die zum Senden von E-Mails der Website verwendet wird.
+- **Von-Name** Der Text, der im *Von:* Feld im Header angezeigt wird, wenn eine Website-E-Mail gesendet wird. In der Regel der Name der Website.
+- **Antwort-E-Mail-Adresse** Die E-Mail-Adresse, an die die Antworten der Benutzer gesendet werden.
+- **Antwort-Name** Der Text, der im *An:* Feld im Header angezeigt wird, wenn Benutzer auf empfangene E-Mails antworten.
+- **Mailer** Wählen Sie den Mailer aus, der für die Zustellung der E-Mails der Website verwendet wird.
 
-### Protokollierung
+### Protokollierung-Tab
 
-Vollständiges
-Bildschirmfoto.
+![Global Configuration Logging Tab](../../../de/images/site/global-configuration-logging-tab.png)
 
-#### Protokollierung
+#### Protokollierungs-Panel
 
-- **Protokollverzeichnis**. Joomla kann optional eine Protokolldatei
-  über seine eigenen Operationen und die von Erweiterungen von
-  Drittanbietern speichern. Einen absoluten Pfad zu einem Ordner
-  angeben, der von PHP beschreibbar ist; wenn er fehlt oder nicht
-  beschreibbar ist, wird Joomla überhaupt nicht geladen. Aus
-  Sicherheitsgründen sollte kein Ordner mit systemweitem Zugriff wie
-  '/tmp' verwendet werden.
-- **Protokollieren**. Protokolliert alles außer veralteten APIs.
-- **Veraltete (deprecated) API protokollieren**. Protokolliert veraltete
-  APIs.
+- **Pfad zum Protokollordner** Joomla kann optional ein Protokoll seiner eigenen und von Drittanbieter-Erweiterungen durchgeführten Vorgänge führen. Geben Sie den absoluten Pfad zu einem Ordner an, der von PHP beschreibbar ist. Falls der Ordner fehlt oder nicht beschreibbar ist, wird Joomla überhaupt nicht geladen. Aus Sicherheitsgründen sollten Sie keinen Ordner mit systemweitem Zugriff wie `/tmp` verwenden.
+- **Fast alles protokollieren** Protokolliert alles, außer veraltete APIs.
+- **Veraltete API protokollieren** Protokolliert veraltete APIs.
 
-#### Benutzerdefiniert
+#### Benutzerdefiniertes Protokollierungs-Panel
 
-- **Protokollprioritäten**. Kann zur Verwaltung der benutzerdefinierten
-  Protokollierung verwendet werden. Die Ereignisse für die
-  Protokolldatei wählen. Standard ist 'Alle'. Das Element kann durch
-  Anklicken des Dropdown-Feldes aus- oder abgewählt werden.
-- **Protokollkategorien**. Eine durch Kommas getrennte Liste von
-  Protokollkategorien, die ein- oder ausgeschlossen werden sollen.
-  Übliche Protokollkategorien sind unter anderem: 'database',
-  'databasequery', 'database-error', 'deprecated' und 'jerror'. Wenn
-  leer, ist die benutzerdefinierte Protokollierung deaktiviert.
-- **Protokollkategoriemodus**. Setzt den Modus für die Liste der
-  Protokollkategorien oben.
+- **Protokoll-Prioritäten** Kann verwendet werden, um die benutzerdefinierte Protokollierung zu verwalten. Wählen Sie die Ereignisse aus, die Sie im Protokoll sehen möchten. Standard ist *Alle*. Die Elemente können durch Klicken auf die Dropdown-Liste ausgewählt oder abgewählt werden.
+- **Protokoll-Kategorien** Eine durch Kommas getrennte Liste von Protokollkategorien, die eingeschlossen oder ausgeschlossen werden sollen. Häufige Protokollkategorien umfassen, sind aber nicht beschränkt auf: `database`, `databasequery`, `database-error`, `deprecated` und `jerror`. Wenn das Feld leer ist, ist die benutzerdefinierte Protokollierung deaktiviert.
+- **Protokoll-Kategoriemodus** Legt den Modus für die obige Liste der Protokollkategorien fest.
 
-### Textfilter
+### Textfilter-Tab
 
-Vollständiges
-Bildschirmfoto.
+![Global Configuration Text Filters Tab](../../../de/images/site/global-configuration-text-filters-tab.png)
 
-Diese Textfiltereinstellungen werden auf alle Texteditorfelder
-angewandt, die von Benutzern der gewählten Gruppe eingereicht werden.
+Diese Textfilter-Einstellungen werden auf alle Texteingabefelder angewendet, die von Benutzern in den ausgewählten Gruppen übermittelt werden.
 
-Diese Einstellungen ermöglichen die Kontrolle über den HTML-Code, den
-Beitragsautoren einreichen können. Die Voreinstellung bietet einen
-brauchbaren Schutz gegen übliche Angriffe auf die Website und deren
-Code.
-
-### Berechtigungen
-
-Vollständiges
-Bildschirmfoto.
-
-Verwalten der Zugriffsrechte von Benutzergruppen.
-
-- **Site-Anmeldung**. Die Anmeldung an der Website für Benutzer der
-  gewählten Gruppe zulassen oder verweigern.
-- **Administratoranmeldung**. Die Anmeldung als Administrator für
-  Benutzer der gewählten Gruppe zulassen oder verweigern.
-- **Web-Services-Anmeldung**. Die Anmeldung für Web-Services für
-  Benutzer der gewählten Gruppe zulassen oder verweigern.
-- **Offlinezugang**. Die Offline-Anmeldung für Benutzer der gewählten
-  Gruppe zulassen oder verweigern. Erlaubt den Benutzern der Gruppe den
-  Zugang zum Frontend, wenn die Site offline ist.
-- **Super Benutzer**. Die Berechtigungen für 'Super-Benutzer' für
-  Benutzer der gewählten Gruppe zulassen oder verweigern. Erlaubt den
-  Benutzern der Gruppe, unabhängig von anderen
-  Berechtigungseinstellungen, alle Aktionen auf der gesamten Site
-  durchzuführen.
-- **Nur Optionen konfigurieren**. Nur die Konfiguration von Optionen für
-  Benutzer der gewählten Gruppe zulassen oder verweigern. Erlaubt
-  Benutzern der Gruppe, Optionen zu bearbeiten, mit Ausnahme der
-  Berechtigungen für beliebige Erweiterungen.
-- **Administrationszugriff**. Zugriff auf die Administrationsoberfläche
-  für Benutzer der gewählten Gruppe zulassen oder verweigern. Erlaubt
-  den Benutzern der Gruppe den Zugriff auf die gesamte
-  Administrationsoberfläche mit Ausnahme der 'Konfiguration'.
-- **Erstellen**. Erstellung für Benutzer der gewählten Gruppe zulassen
-  oder verweigern. Ermöglicht Benutzern der Gruppe das Erstellen
-  beliebiger Inhalte in beliebigen Erweiterungen.
-- **Löschen**. Das Löschen für Benutzer der gewählten Gruppe zulassen
-  oder verweigern. Ermöglicht Benutzern der Gruppe das Löschen
-  beliebiger Inhalte in einer beliebigen Erweiterung.
-- **Bearbeiten**. Die Bearbeitung für Benutzer der gewählten Gruppe
-  zulassen oder verweigern. Ermöglicht Benutzern der Gruppe, jeden
-  Inhalt in jeder Erweiterung zu bearbeiten.
-- **Status bearbeiten**. Bearbeiten des Status für Benutzer der
-  gewählten Gruppe zulassen oder verweigern. Ermöglicht es Benutzern der
-  Gruppe, den Status eines beliebigen Inhalts in einer beliebigen
-  Erweiterung zu bearbeiten.
-- **Eigene Inhalte bearbeiten**. Die Bearbeitung eigener Inhalte für
-  Benutzer der gewählten Gruppe zulassen oder verweigern. Ermöglicht
-  Benutzern der Gruppe die Bearbeitung von Inhalten, die sie in einer
-  beliebigen Erweiterung selbst erstellt haben.
-- **Inhalt von eigenen Feldern bearbeiten**. Erlaubt Benutzern der
-  gewählten Gruppe, jeden Wert von eigenen Feldern zu bearbeiten, die in
-  einer beliebigen Erweiterung eingegeben wurden.
-
-Hier vorgenommene Einstellungen wirken sich auf die aktuelle Gruppe,
-Untergruppen, Komponenten und Inhalte aus.
-
-- **Verweigert** sorgt dafür, dass jede vererbte Einstellung und die
-  Einstellungen jeder Untergruppe, Komponente oder Inhaltselementen
-  überschrieben wird. Im Falle eines Einstellungskonflikts wird
-  **Verweigert** mit Vorrang behandelt.
-- **Nicht gesetzt** ist vergleichbar mit **Verweigert**, kann aber in
-  Untergruppen, Komponenten und Inhaltselementen geändert werden.
-
-## Werkzeugleiste
-
-Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
-Bereich.
-
-- **Speichern**. Speichert die Konfigurations-Optionen und bleibt auf
-  der aktuellen Seite.
-- **Speichern & Schließen**. Speichert die Konfigurations-Optionen und
-  schließt die aktuelle Seite.
-- **Schließen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück.
-- **Inline-Hilfe umschalten**. Hilfetext unter einigen Optionen ein-
-  oder ausschalten.
-- **Hilfe**. Öffnet die Hilfeseite.
+Diese Filteroptionen bieten mehr Kontrolle über das HTML, das Ihre Inhaltsanbieter einreichen. Sie können die Regeln so streng oder locker gestalten, wie es die Anforderungen Ihrer Website erfordern. Die Filterung ist eine Opt-in-Option, und die Standardeinstellungen bieten einen guten Schutz vor Markup, das häufig mit Website-Angriffen in Verbindung gebracht wird.
 
 ## Tipps
 
-- Die meisten Einstellungen können einmal gesetzt und müssen nicht mehr
-  aufgerufen werden.
-- Wenn größere Änderungen vorgenommen werden, sollte die Website offline
-  genommen und getestet werden, ob alles in Ordnung ist.
-- Die Einstellungen werden in '\[Joomla\]/configuration.php'
-  gespeichert. Um Änderungen speichern zu können, müssen FTP aktiviert
-  oder für 'configuration.php' Schreibzugriff erlaubt sein.
+- Die meisten dieser Einstellungen können einmal festgelegt und dann in Ruhe gelassen werden.
+- Wenn wesentliche Änderungen vorgenommen werden müssen, sollten Sie in Erwägung ziehen, die Website offline zu schalten, um sie zu testen und sicherzustellen, dass alles ordnungsgemäß funktioniert.
+- Die Einstellungen werden in der Datei `configuration.php` im Stammverzeichnis der Website gespeichert. Die Berechtigungen dieser Datei werden nach Änderungen über die Seite Globale Konfiguration auf schreibgeschützt (444) gesetzt und müssen auf Schreibberechtigung für den Eigentümer (644) geändert werden, bevor sie mit einem Texteditor bearbeitet werden können.

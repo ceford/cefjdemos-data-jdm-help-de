@@ -2,134 +2,80 @@
 
 ## Beschreibung
 
-Hier kann der Quellcode eines Templates bearbeitet werden. Von diesem
-Bildschirm aus werden die Masterdateien und Stylesheets des Templates
-geändert und angepasst.
+Auf der Seite *Templates: Anpassen* kann der Quellcode eines Templates bearbeitet werden. Sie können Overrides für PHP-Dateien erstellen sowie user.css- und user.js-Dateien hinzufügen, die die Systemversionen ergänzen. Außerdem können Sie Child-Templates erstellen, um die Masterdateien des Overrides-Templates zu bearbeiten.
 
-## Wie darauf zugreifen
+## Zugriff
 
-- Im Administrator-Menü die Option **System → Templates → Site
-  Templates** wählen oder ...
-- im Administrator-Menü die Option
-  **System → Templates → Administrator Templates** wählen. Dann
-  ...
-  - aus der Spalte **Templates** einen Template-Namen auswählen.
+- Wählen Sie **System → Template-Bereich → Seiten-Templates** aus dem Administrationsmenü. Oder...
+- Wählen Sie **System → Template-Bereich → Administrator-Templates** aus dem Administrationsmenü. Dann...
+  - Wählen Sie einen Templatenamen aus der Spalte **Template**.
 
-## Bildschirmfoto
+## Screenshot
 
-Die Seiten für die Administrator- und Site-Templates verwenden dasselbe
-Layout. Hier ist die Seite mit dem Site-Template abgebildet.
+Die Administrator- und Seiten-Templates-Bildschirme verwenden das gleiche Layout. Der Bildschirm für Seiten-Templates wird hier illustriert.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-de.png/800px-Help-4x-Extensions-Template-Manager-Templates-Edit-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-de.png/1200px-Help-4x-Extensions-Template-Manager-Templates-Edit-screen-de.png 1.5x, https://docs.joomla.org/images/b/b1/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-de.png 2x"
-data-file-width="1341" data-file-height="907" width="800" height="541"
-alt="Extensions Template Manager Templates Edit screen" />
+![Templates Anpassen Cassiopeia Editor Tab](../../../de/images/templates/templates-customise-cassiopeia-editor-tab.png)
 
-## Formular Felder
+## Formularfelder
 
-### Editor
+### Editor-Reiter
 
-- Eine Datei zur Bearbeitung auswählen. Der Bearbeitungsbereich zeigt
-  die Text-Syntax bei bestimmten Dateitypen farblich hervorgehobenen an.
+- Wählen Sie eine Datei zum Bearbeiten aus. Der Bearbeitungsbereich zeigt Text mit Syntaxhervorhebung für die meisten Dateitypen an.
 
-### Overrides erstellen
+### Reiter "Overrides erstellen"
 
-- Ein Element auswählen, das übersteuert werden soll. Das erfolgt sofort
-  und ohne Rückfrage zur Bestätigung. Die Überschreibung wird an der
-  entsprechenden Position eingefügt. Falls ein Override für
-  mod_whosonline vorgenommen werden soll, erscheint beispielsweise
-  folgende Nachricht:
+![Templates Anpassen Cassiopeia Overrides erstellen Tab](../../../de/images/templates/templates-customise-cassiopeia-create-overrides-tab.png)
 
-### Aktualisierte Dateien
+- Wählen Sie ein Element zum Überschreiben aus. Elemente, die mit einem durchgehenden Dateisymbol markiert sind, öffnen sich, um eine Liste von Elementen anzuzeigen. Elemente, die mit überlagerten offenen und gefüllten Seitensymbolen markiert sind, erstellen sofort ein Override ohne Bestätigungsaufforderung. Das Override wird an der entsprechenden Stelle abgelegt. Es erscheint eine Bestätigungsmeldung, zum Beispiel: 
+  *Override erstellt in /templates/cassiopeia/html/mod_whosonline*.
 
-Wenn es seit der Erstellung der Overrides keine Aktualisierungen an dem
-Template gegeben hat, enthält dieser Bereich eine einfache Meldung:
+### Reiter "Aktualisierte Dateien"
 
-- **Hinweis:** Die überschriebenen Dateien sind auf dem neuesten Stand.
-  Durch die letzten Erweiterungs- und Joomla-Aktualisierungen wurde
-  nichts geändert.
+![Templates Anpassen Cassiopeia Aktualisierte Dateien Tab](../../../de/images/templates/templates-customise-cassiopeia-updated-files-tab.png)
 
-Wenn es Aktualisierungen gegeben hat, zeigt eine Tabelle eine Liste der
-Overrides an, die überprüft werden müssen.
+Falls es seit dem Erstellen der Overrides keine Aktualisierungen am Template gegeben hat, enthält dieser Tab eine einfache Nachricht:
 
-### Template-Beschreibung
+<div class="alert alert-success">
+Überschriebene Dateien sind auf dem neuesten Stand. Es wurden keine Änderungen im letzten Erweiterungs- oder Joomla-Update vorgenommen.
+</div>
 
-- **Vorschau-Bild und Beschreibung.** Informationen zu diesem Template.
+Falls es Aktualisierungen gab, zeigt eine Tabelle eine Liste von Overrides an, die überprüft werden müssen.
+
+### Reiter "Template-Beschreibung"
+
+![Templates Anpassen Cassiopeia Template-Beschreibung Tab](../../../de/images/templates/templates-customise-cassiopeia-template-description-tab.png)
+
+- **Vorschaubild und Beschreibung** Informationen zu diesem Template.
 
 ## Werkzeugleiste
 
-**Hinweis:** Die Schaltflächen der Symbolleiste ändern sich, wenn eine
-Datei zur Bearbeitung ausgewählt wird.
+Beachten Sie, dass sich die Schaltflächen in der Werkzeugleiste ändern, wenn eine Datei zur Bearbeitung ausgewählt wird.
 
 ### Keine Datei ausgewählt
 
-Das [Bildschirmfoto](#Bildschirmfoto) am Anfang der Seite zeigt die
-Werkzeugleiste im oberen Bereich. Die Funktionen sind:
+Am oberen Rand der Seite sehen Sie die in der obigen Abbildung dargestellte Werkzeugleiste. Die Funktionen sind:
 
-- **Template kopieren**. Das aktuelle Template unter neuem Namen
-  kopieren. Diese Option dient dazu, eine vollständig neue Kopie des
-  Templates zu erstellen. Es erscheint eine Abfrage zur Eingabe eines
-  neuen Template-Namens. Sie bietet auch die Möglichkeit zum Schließen,
-  ohne ein neues Template zu erstellen. Um das neue Template zu
-  entfernen: Geht man über Erweiterungen -\> Verwalten, markiert Sie das
-  Kontrollkästchen Template und wählt in der Symbolleiste
-  Deinstallieren.
-- **Template-Vorschau**. Diese Option öffnet die Standardansicht der
-  Website mit diesem Template.
-- **Verzeichnisse verwalten**. Diese Option ermöglicht das Anlegen eines
-  neuen Verzeichnisses innerhalb der Template-Hierarchie. Es erscheint
-  ein Popup-Fenster:
-
-<img
-src="https://docs.joomla.org/images/thumb/b/be/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png/500px-Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/be/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png/750px-Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png 1.5x, https://docs.joomla.org/images/thumb/b/be/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png/1000px-Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png 2x"
-data-file-width="1189" data-file-height="697" width="500" height="293"
-alt="Extensions Template Manager Templates Edit new folder dialog" />
-
-- **Neue Datei** Auswählen um eine Datei neu zu erstellen oder vom
-  lokalen Computer in die Joomla! Template-Hierarchie hochzuladen. Es
-  erscheint ein Popup-Fenster:
-
-<img
-src="https://docs.joomla.org/images/thumb/3/35/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png/500px-Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/35/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png/750px-Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png 1.5x, https://docs.joomla.org/images/thumb/3/35/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png/1000px-Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png 2x"
-data-file-width="1187" data-file-height="793" width="500" height="334"
-alt="Extensions Template Manager Templates Edit upload file dialog" />
-
-- **Check Overrides.** Activated when an Override is selected in the
-  **Overrides** tab. The options are:
-  - Mark Checked
-  - Mark Unchecked
-  - Remove Record
-- **Schließen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück. Dieses Symbol wird nicht
-  angezeigt, wenn ein neuer Eintrag erstellt wird.
-- **Hilfe**. Öffnet die Hilfeseite.
+- **Child-Template erstellen** Wählen Sie diese Option, um ein neues Child-Template zu erstellen. Sie werden nach einem neuen Child-Template-Namen gefragt. Es gibt auch die Möglichkeit, das Erstellen eines Child-Templates abzubrechen. Um das neue Child-Template zu entfernen: Wählen Sie die Schaltfläche **Schließen**, dann die Schaltfläche "Styles" in der Toolbar der Template-Liste, markieren Sie das Kästchen des neuen Child-Templates und wählen Sie Löschen in der Werkzeugleiste.
+- **Template-Vorschau** Wählen Sie diese Option, um die Standardansicht der Website mit diesem Template in einem neuen Browser-Tab zu öffnen.
+- **Ordner verwalten** Wählen Sie diese Option, um einen neuen Ordner innerhalb der Template-Hierarchie zu erstellen. Ein Popup-Fenster erscheint. **Wichtig:** Wählen Sie den Ordner aus, in dem der neue Ordner erscheinen soll, bevor Sie den neuen Ordner erstellen.
+- **Neue Datei** Wählen Sie diese Option, um eine neue Datei zu erstellen oder eine Datei von Ihrem Computer in die Joomla!-Template-Hierarchie hochzuladen. Ein Popup-Fenster erscheint. **Wichtig** Wählen Sie den Ordner aus, in dem die neue Datei erscheinen soll, bevor Sie die neue Datei erstellen.
+- **Overrides prüfen** Wird aktiviert, wenn im Reiter *Overrides* ein Override ausgewählt wird. Die Optionen sind:
+  - Als überprüft markieren
+  - Als nicht überprüft markieren
+  - Eintrag entfernen
+- **Schließen** Schließt den aktuellen Bildschirm und kehrt zum vorherigen Bildschirm zurück, ohne Änderungen zu speichern. Diese Schaltfläche wird nicht angezeigt, wenn Sie ein neues Element erstellen.
+- **Hilfe** Öffnet diesen Hilfebildschirm.
 
 ### Datei ausgewählt
 
-- **Speichern**. Speichert den Eintrag und bleibt auf der aktuellen
-  Seite.
-- **Speichern & Schließen**. Speichert den Eintrag und schließt die
-  aktuelle Seite.
-- **Datei umbenennen.** Eine Datei zur Bearbeitung auswählen. Drücken
-  der Schaltfläche „Datei umbenennen“, um zur Eingabe eines neuen Namens
-  zu gelangen.
-- **Datei löschen.** Es erscheint eine Aufforderung zum Bestätigen oder
-  Abbrechen.
-- **Check Overrides.** Activated when an Override is selected in the
-  **Overrides** tab.
-- **Datei schließen.** Schließt die geöffnete Datei und kehrt zum Reiter
-  „Editor“ zurück.
-- **Hilfe**. Öffnet die Hilfeseite.
+- **Speichern** Speichert das Element und bleibt auf der aktuellen Seite.
+- **Speichern & Schließen** Speichert das Element und schließt die aktuelle Seite.
+- **Datei umbenennen** Wählen Sie eine Datei zum Bearbeiten aus. Klicken Sie auf die Schaltfläche "Umbenennen", um einen neuen Namen einzugeben.
+- **Datei löschen** Sie werden aufgefordert, die Aktion zu bestätigen oder abzubrechen.
+- **Overrides prüfen** Wird aktiviert, wenn im Reiter *Overrides* ein Override ausgewählt wird.
+- **Datei schließen** Schließt die geöffnete Datei und kehrt zum Editor-Reiter zurück.
+- **Hilfe** Öffnet diesen Hilfebildschirm.
 
 ## Tipps
 
-- Bevor die HTML- und CSS-Dateien des Templates bearbeitet werden, ist
-  es sinnvoll, ein Backup der betreffenden Datei, zu erstellen. Diese
-  Dateien können auch außerhalb von Joomla! mit einem beliebigen HTML-
-  oder CSS-Editor bearbeitet werden.
+- Bevor Sie die HTML- oder CSS-Dateien des Templates bearbeiten, ist es ratsam, eine Sicherungskopie der zu bearbeitenden Datei zu erstellen. Alternativ können Sie diese Dateien auch außerhalb von Joomla! mit dem HTML- oder CSS-Editor Ihrer Wahl bearbeiten.

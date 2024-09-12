@@ -2,33 +2,25 @@
 
 ## Beschreibung
 
-Displays a list of phrases used by site visitors for site searching. The
-Smart Search component Option - **Gather Search Statistics** needs to be
-set to **Yes** to allow statistics to be collected.
+Die Seite *Smart Search: Suchbegriffsanalyse* zeigt eine Liste von Begriffen an, die von Besuchern der Website zur Suche verwendet wurden. Damit Statistiken gesammelt werden können, muss die Smart Search Komponente Option **Suchstatistiken erfassen** auf **Ja** gesetzt sein.
 
-## How to Access
+## Zugriff
 
-- Select **Components → SmartSearch → Statistics** from the
-  Administrator menu.
+- Wählen Sie **Komponenten → Smart Search → Suchbegriffe** aus dem Administrator-Menü.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/e/e7/Help-4x-Component-Smart-Search-Searches-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="416"
-width="800" height="416"
-alt="Component Smart Search Searches screen" />
+![smart search search term analysis](../../../de/images/smart-search/smart-search-search-term-analysis.png)
 
-## Columns
+## Spalten
 
-- **Search Phrase.** The search term entered by the site user.
-- **Hits.** The number of times this term has been used.
-- **Results.** The number of items resulting from the search.
+- **Suchbegriff** Der Suchbegriff, der von dem Benutzer der Website eingegeben wurde.
+- **Treffer** Die Anzahl der Male, die dieser Begriff verwendet wurde.
+- **Ergebnisse** Die Anzahl der Artikel, die durch die Suche gefunden wurden.
 
-## Toolbar
+## Werkzeugleiste
 
-At the top of the page you will see the toolbar shown in the Screenshot
-above. The functions are:
+Oben auf der Seite sehen Sie die in der Abbildung gezeigte Werkzeugleiste. Die Funktionen sind:
 
-- **Reset**. Resets the search log to its initial, empty state.
-  *Warning: This will erase all prior search statistics information.*
+- **Zurücksetzen**. Setzt das Suchprotokoll in seinen ursprünglichen, leeren Zustand zurück.
+  *Warnung: Dadurch werden alle vorherigen Suchstatistiken gelöscht.*

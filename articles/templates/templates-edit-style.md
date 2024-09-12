@@ -2,108 +2,56 @@
 
 ## Beschreibung
 
-Hier werden Template-Stile bearbeitet. Bei der ersten Installation eines
-Templates wird ein Standardstil erstellt. Der Name ist der des Templates
-plus „- Default“ (Standard). Um weitere Stilvarianten zu generieren, das
-Kontrollkästchen des Standardstils markieren, die Schaltfläche
-*Kopieren* in der Symbolleiste anklicken und die Kopie bearbeiten.
+Die Seite *Templates: Stil bearbeiten* wird verwendet, um Template-Stile zu bearbeiten. Wenn ein Template zum ersten Mal installiert wird, wird ein Standardstil dafür erstellt. Der Standardstil des Templates hat denselben Namen wie das Template mit dem Suffix *- Default*. Um eine andere Variante des Standard-Template-Stils zu erstellen, markieren Sie das Kontrollkästchen des Standardstils und klicken Sie auf das *Duplizieren*-Symbol in der Werkzeugleiste. Anschließend können Sie das Duplikat bearbeiten.
 
-## Wie darauf zugreifen
+### Allgemeine Elemente
 
-- Im Administrator-Menü die Option **System → Templates → Site
-  Templates Stile** wählen oder ...
-- im Administrator-Menü die Option
-  **System → Templates → Administrator Templates Stile** wählen.
-  Dann ...
-  - den Namen des zu bearbeitenden Template-Stils in der Spalte „Stil“
-    wählen.
+Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
-## Bildschirmfoto
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Extensions-Template-Manager-Styles-Edit-screen-de.png/800px-Help-4x-Extensions-Template-Manager-Styles-Edit-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Extensions-Template-Manager-Styles-Edit-screen-de.png/1200px-Help-4x-Extensions-Template-Manager-Styles-Edit-screen-de.png 1.5x, https://docs.joomla.org/images/f/f3/Help-4x-Extensions-Template-Manager-Styles-Edit-screen-de.png 2x"
-data-file-width="1498" data-file-height="689" width="800" height="368"
-alt="Extensions Template Manager Styles Edit screen" />
+## So greifen Sie darauf zu
 
-## Formular Felder
+- Wählen Sie **System → Vorlagen-Panel → Website-Template-Stile** aus dem Administrator-Menü. Oder...
+- Wählen Sie **System → Vorlagen-Panel → Administrator-Template-Stile** aus dem Administrator-Menü. Dann...
+  - Wählen Sie den Namen des zu bearbeitenden Template-Stils in der Spalte "Stil".
 
-- **Stil**. Der Name des Stils. Dies ist der Name, der in der Spalte
-  *Stil* der Templates-Liste angezeigt wird.
+## Screenshot
 
-### Details Tab
+![templates cassiopeia stil bearbeiten editor tab](../../../de/images/templates/templates-site-edit-style-details-tab.png)
 
-- **Template-Name.** Der Name des Templates, das Indikatorfeld „Site“
-  oder „Administrator“ und eine kurze Beschreibung.
-- **Standard**. Gibt an, ob der Stil der Standardstil für die Website
-  ist oder nicht.
-- **Template**. Der Name des Templates, von dem der Stil abstammt.
+## Formularfelder
 
-### Erweitert
+- **Stilname** Der Name des Stils. Dieser Name wird in der Spalte "Stil" des Bildschirms *Template: Stile* angezeigt.
 
-Dieser Reiter ist möglicherweise nicht bei allen Stilen vorhanden. Wenn
-ein Stil, von dem einem Template abstammt, das konfigurierbare Optionen
-besitzt, werden diese hier angezeigt. Es sind diese zusätzlichen
-konfigurierbaren Optionen, die es ermöglichen, mehrere verschiedene
-Templates-Stile mit Varianten dieser Optionen zu nutzen. Die verfügbaren
-Optionen hängen davon ab, was der Template-Entwickler bereitstellt.
+### Reiter Details
+
+- **Informationen** Der Name des Templates, der Hinweis "Website" oder "Administrator" und eine kurze Beschreibung.
+
+### Reiter Erweitert
+
+![templates cassiopeia stil bearbeiten editor tab](../../../de/images/templates/templates-site-edit-style-advanced-tab.png)
+
+Dieser Abschnitt ist möglicherweise nicht für alle Stile vorhanden. Wenn ein Template, von dem ein Stil abgeleitet ist, konfigurierbare Optionen enthält, werden diese hier angezeigt. Es sind diese zusätzlichen konfigurierbaren Optionen, die es ermöglichen, mehrere verschiedene Stile von Templates mit Variationen dieser Optionen zu erstellen. Die verfügbaren Optionen variieren je nach den vom Template-Entwickler bereitgestellten Möglichkeiten.
 
 ### Atum Farbeinstellungen
 
-Mit dem Standard-Template für den Administrator kann man mit
-Farbvariationen experimentieren. Abspeichern und beobachten!
+Das Standard-Administrator-Template ermöglicht es Ihnen, mit Farbvariationen zu experimentieren. Speichern und sehen Sie die Ergebnisse!
 
-### Atum Bild-Einstellungen
+### Atum Bildeinstellungen
 
-Man kann ein Bild auswählen, welches das **Login-Logo** im
-Anmeldeformular des Administrators und das **Firmenlogo** in der
-Titelleiste des Administrators im erweiterten und im komprimierten Modus
-ersetzt. Standardmäßig sind die Joomla Markenzeichen voreingestellt. In
-der Titelleiste ist das Wort Joomla! in der **Brand Large** Version
-vorhanden und in der **Brand Small** Version ausgelassen. Um die
-Änderung zu sehen, auf **Toggle Menu** klicken.
+Sie können ein Bild auswählen, um das **Login-Logo** im Administrator-Login-Formular und das **Brand-Logo** in der Titelzeile des Administrators im erweiterten und kompakten Modus zu ersetzen. Standardmäßig sind dies die Joomla-Brand-Logos. In der Titelzeile ist im **Brand Large**-Modus das Wort Joomla! zu sehen, im **Brand Small**-Modus wird es weggelassen. Wählen Sie **Menü umschalten**, um die Änderung zu sehen.
 
-Wenn ein eigenes Markenzeichen (Brand Small) verwendet wird, muss die
-Breite des Bildes ebenfalls angepasst werden. Hierzu legt man eine
-user.css-Datei im Stammverzeichnis des Templates an und fügt Folgendes
-ein, wobei man 3rem durch eine passende Breite für das eigene Bild
-ersetzt:
+Wenn Sie Ihr eigenes Brand Small-Logo bereitstellen, müssen Sie auch eine Breitenstil-Überschreibung hinzufügen. Erstellen Sie dazu eine user.css-Datei im Stammverzeichnis des Templates und fügen Sie folgendes ein, wobei Sie "3rem" durch eine geeignete Breite für Ihr Bild ersetzen:
 
        .header .logo.small {
            width: 3rem;
        }
 
-### Menüzugehörigkeit
+### Reiter Menüzuweisung
 
-Dieser Reiter enthält alle auf der Joomla! Website konfigurierten
-Menüeinträge. Um den aktuellen Stil auf die entsprechende Webseite eines
-Menüpunkts anzuwenden, das Kästchen neben dem Menüpunkt aktivieren. Die
-Schaltfläche *Auswahl umkehren* drücken, um die Auswahl der Menüpunkte
-umzutauschen.
+![templates cassiopeia stil bearbeiten editor tab](../../../de/images/templates/templates-site-edit-style-menu-assignment-tab.png)
 
-**Hinweis**: Wenn ein Kontrollkästchen ausgegraut ist und nicht
-angekreuzt werden kann, könnte es daran liegen, dass der Menüeintrag von
-einem anderen Benutzer verwendet wird. Um das zu überprüfen, die
-Menü-Manager-Seite für das betreffende
-Menü
-aufrufen. Wenn sich neben dem Menüeintrag ein Schloss-Symbol befindet,
-wird der Menüeintrag gerade von einem anderen Benutzer verwendet.
+Dieser Abschnitt enthält alle Menüeinträge, die in Ihrer Joomla!-Website konfiguriert sind. Um den aktuellen Stil auf die entsprechende Webseite eines Menüeintrags anzuwenden, aktivieren Sie das Kontrollkästchen neben dem Menüeintrag. Sie können den Button *Auswahl umschalten* drücken, um die Auswahl der Menüeinträge zu invertieren.
 
-## Werkzeugleiste
-
-Das [Bildschirmfoto](#Bildschirmfoto) am Anfang der Seite zeigt die
-Werkzeugleiste im oberen Bereich. Die Funktionen sind:
-
-- **Speichern**. Speichert den Eintrag und bleibt auf der aktuellen
-  Seite.
-- **Speichern & Schließen**. Speichert den Eintrag und schließt die
-  aktuelle Seite.
-- **Als Kopie speichern**. Speichert Änderungen in einer Kopie des
-  aktuellen Eintrags. Der aktuelle Eintrag wird davon nicht beeinflusst.
-  Dieses Symbol wird nicht angezeigt, wenn ein neuer Eintrag erstellt
-  wird.
-- **Abbrechen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück.
-- **Hilfe**. Öffnet die Hilfeseite.
-
+**Hinweis** Wenn ein Kontrollkästchen ausgegraut ist und nicht aktiviert werden kann, könnte dies daran liegen, dass der Menüeintrag von einem anderen Benutzer verwendet wird. Sie können dies überprüfen, indem Sie zum Menümanager-Bildschirm für das entsprechende Menü gehen. Wenn neben dem Menüeintrag ein Schloss-Symbol angezeigt wird, wird er derzeit von einem anderen Benutzer verwendet.

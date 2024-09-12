@@ -2,76 +2,34 @@
 
 ## Beschreibung
 
-Benutzergruppen steuern, welche Aktionen ein Benutzer auf der Website
-durchführen darf und welche Objekte ein Benutzer sehen kann. Über diese
-Oberfläche kann man Benutzergruppen erstellen, ansehen, bearbeiten und
-löschen.
+Benutzergruppen steuern, welche Aktionen ein Benutzer auf einer Website ausführen kann. Zu den Aktionen gehören Dinge wie das Anzeigen eines Artikels, das Erstellen eines Artikels, das Ändern von Optionen für eine Komponente oder das Anmelden. Der Site-Administrator weist jeder Gruppe Berechtigungen für verschiedene Aktionen zu. Berechtigungen für Aktionen können an verschiedenen Stellen in der Komponentenhierarchie zugewiesen werden, z. B. in der globalen Konfiguration, den Komponentenoptionen oder den Moduloptionen. Wenn eine Benutzergruppe keine Berechtigung für eine bestimmte Aktion hat, kann der Benutzer in dieser Gruppe diese Aktion nicht ausführen.
 
-## Wie darauf zugreifen
+Die Anzeigezugriffssteuerung wird durch die Verwendung von **Zugriffsleveln** implementiert, denen eine oder mehrere Benutzergruppen zugewiesen sind. Assets wie Artikel, Menüpunkte oder Module werden einem Zugriffslevel zugewiesen. Ein Benutzer, der Mitglied einer Gruppe ist, die einem bestimmten Zugriffslevel zugeordnet ist, kann jedes Asset anzeigen, das diesem Zugriffslevel zugewiesen ist.
 
-- Im Administrator-Menü **Benutzer → Gruppen** auswählen.
+Benutzergruppen können in einer Hierarchie angeordnet werden, in der alle Kindgruppen die Aktionsberechtigungen und Zugriffslevel einer Elterngruppe erben. Wenn diese Funktion weise genutzt wird, kann dies viel Zeit sparen, da die Duplizierung beim Einrichten eines Site-Sicherheitssystems vermieden wird.
 
-## Bildschirmfoto
+Die Seite *Benutzer: Gruppen* listet die aktuellen Benutzergruppen in einer Hierarchie auf. Sie kann verwendet werden, um neue Benutzergruppen zu erstellen und nicht mehr benötigte Gruppen zu löschen. Löschen Sie keine der Standard-Benutzergruppen!
 
-<img
-src="https://docs.joomla.org/images/thumb/d/de/Help-4x-users-user-manager-user-groups-de.png/800px-Help-4x-users-user-manager-user-groups-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/de/Help-4x-users-user-manager-user-groups-de.png/1200px-Help-4x-users-user-manager-user-groups-de.png 1.5x, https://docs.joomla.org/images/d/de/Help-4x-users-user-manager-user-groups-de.png 2x"
-data-file-width="1228" data-file-height="855" width="800" height="557"
-alt="users user manager user groups" />
+### Allgemeine Elemente
 
-## Spalten-Überschriften
+Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
-In der Tabelle mit den Benutzern der Joomla!-Website sind
-unterschiedliche Spalten. Hier wird ihre Bedeutung erklärt und gezeigt
-was in den Spalten steht.
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Listenfilter](jdocmanual?article=help/common-elements/list-filters).
+* [Listenspaltenüberschriften](jdocmanual?article=help/common-elements/list-column-headers).
+* [Seitenumbruch in Listen](jdocmanual?article=help/common-elements/list-pagination).
 
-- **Checkbox**. Dieses Kästchen markieren, um einen oder mehrere
-  Einträge auszuwählen. Um alle Einträge auszuwählen, das Kästchen im
-  Spaltenkopf markieren. Nachdem ein oder mehrere Kästchen markiert
-  sind, auf eine Schaltfläche in der Werkzeugleiste klicken, um eine
-  Aktion für den ausgewählten Eintrag oder die ausgewählten Einträge
-  durchzuführen. Viele Aktionen, wie z.B. Veröffentlichen und
-  Verstecken, können mit mehreren Einträgen arbeiten. Andere, wie z.B.
-  Bearbeiten, funktionieren gleichzeitig jeweils nur mit einem Eintrag.
-  Wenn mehrere Einträge markiert sind und Sie auf „Bearbeiten“ drücken,
-  wird der erste der markierten Einträge zur Bearbeitung geöffnet.
-- **Gruppentitel.** Der Name der Gruppe.
-- **Berechtigungen**. Link zum Erweiterten Berechtigungsbericht, der die
-  genauen Berechtigungen für eine bestimmte Benutzergruppe über alle
-  Assets auf der Joomla!-Installation abbildet.
-- **Enabled users**. (Tick) The number of enabled users in this group.
-- **Disabled users**. (X) The number of disabled users in this group.
-- **ID**. This is a unique identification number for this item assigned
-  automatically by Joomla. It is used to identify the item internally,
-  and you cannot change this number. When creating a new item, this
-  field displays "0" until you save the new entry, at which point a new
-  ID is assigned to it.
+## So greifen Sie darauf zu
 
-## List Filters
+- Wählen Sie **Benutzer → Gruppen** aus dem Administrator-Menü.
 
-At the top you will see the search bar shown in the Screenshot above.
-The functions are:
+## Screenshot
 
-- **Search**. Filter by Partial Group Name or Group ID. Enter part of
-  the group's name and press the Search icon to find matching names.
-  Press Clear to clear the search field and restore the list of groups.
+![Benutzer Gruppen](../../../de/images/users/users-groups-list.png)
 
-## Toolbar
+## Tipps
 
-At the top you will see the toolbar shown in the Screenshot above. The
-functions are:
-
-- **New**. Opens the editing screen to create a new user group.
-- **Delete:** Deletes the selected user groups. Works with one or
-  multiple user groups selected. If you delete a group that has users
-  assigned to it, those users will lose the permissions they had from
-  that group. It is recommended to remove all users from a group before
-  you delete the group.
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
-
-## Tips
-
-- Click on the name of a group to edit the group's properties.
+- Wählen Sie den Namen einer Gruppe, um die Eigenschaften der Gruppe zu bearbeiten.
+- Wählen Sie das Berechtigungssymbol, um die Gruppenberechtigungen für den Zugriff auf jedes Asset zu überprüfen. Dies wird häufig verwendet, um Probleme mit den Zugriffsberechtigungen zu beheben.
+- Wählen Sie eine Anzahl aktivierter Benutzer, um eine Liste der aktivierten Benutzer in dieser Gruppe anzuzeigen.
+- Wählen Sie eine Anzahl blockierter Benutzer, um eine Liste der blockierten Benutzer in dieser Gruppe anzuzeigen.

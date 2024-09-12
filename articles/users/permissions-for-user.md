@@ -2,107 +2,47 @@
 
 ## Beschreibung
 
-Der Bericht über die Benutzerrechte zeigt eine Übersicht über die
-genauen Berechtigungen für einen bestimmten Benutzer über alle
-Erweiterungen der Joomla! Installation hinweg.
+Die Seite *Berechtigungen für Benutzer* zeigt einen Berechtigungsbericht, der die genauen Berechtigungen für einen bestimmten Benutzer über alle Website-Assets hinweg anzeigt. Sie ist nützlich, um Zugriffsprobleme von Benutzern zu debuggen.
 
-## Wie darauf zugreifen
+### Allgemeine Elemente
 
-- Select **Users → Manage** from the Administrator menu. Then...
-  - Select the icon in the **Permissions** column for a specific user.
+Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
+
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Listenfilter](jdocmanual?article=help/common-elements/list-filters).
+* [Listen-Spaltenüberschriften](jdocmanual?article=help/common-elements/list-column-headers).
+* [Listen-Paginierung](jdocmanual?article=help/common-elements/list-pagination).
+
+## So greifen Sie darauf zu
+
+- Wählen Sie **Benutzer → Verwalten** aus dem Administrator-Menü. Dann...
+  - Wählen Sie die Schaltfläche **Berechtigungen** für einen bestimmten Benutzer.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/0/02/Help-4x-permissions-for-user-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="800"
-width="800" height="800"
-alt="permissions for user screen" />
+![Benutzer Berechtigungen für Benutzer](../../../de/images/users/users-permissions-for-user.png)
 
-## Column Headers
+Oberhalb der Berechtigungstabelle werden ausgewählte Elemente angezeigt, die die Zugriffsberechtigungen mithilfe von Symbolen für *Erlaubt*, *Nicht Erlaubt* und *Verboten* darstellen. Die Symbollegende befindet sich unter der Tabelle.
 
-In the table containing the users from your Joomla! site, you will see
-different columns. Here you can read what they mean and what is
-displayed in that column.
+- **Website-Login** Kann sich der Benutzer im Frontend der Website anmelden.
+- **Administrator-Login** Kann sich der Benutzer im Backend der Website anmelden.
+- **Web-Services-Login** Kann der Benutzer über einen Super-User-API-Token auf die Joomla-Web-Services-API zugreifen.
+- **Offline-Zugriff** Kann der Benutzer auf das Frontend der Website zugreifen, wenn es offline ist.
 
-- **Asset Title.** The asset as we know it.
-- **Asset Name.** The asset as known internally.
-- **Site Login.** Allows users in the group to login to the Frontend
-  site.
-- **Administrator Login.** Allows users in the group to login to the
-  Backend Administrator site.
-- **Offline Access.** Allows users in the group to access the Frontend
-  site when site is offline.
-- **Super User.** Allows users in the group to perform any action over
-  the whole site regardless of any other perrmission settings.
-- **Configure Options Only.** Allows users in the group to edit the
-  options (except permissions) of any extension.
-- **Access Administration Interface.** Allows users in the group to
-  access all of the administration interface except Global
-  Configuration.
-- **Create.** Allows users in the group to create any content in any
-  extension.
-- **Delete.** Allows users in the group to delete any content in any
-  extension.
-- **Edit.** Allows users in the group to edit any content in any
-  extension.
-- **Edit State.** Allows users in the group to edit the state of any
-  content in any extension.
-- **Edit Own.** Allows users in the group to edit any content they own
-  in any extension.
-- **Edit Custom Field Value.** Allows users in the group to edit any
-  value of custom fields submitted in any extension.
-- **LFT.** The left and right values in the hierarchy. See Using nested
-  sets
-  in English.
-- **ID**. This is a unique identification number for this item assigned
-  automatically by Joomla. It is used to identify the item internally,
-  and you cannot change this number. When creating a new item, this
-  field displays "0" until you save the new entry, at which point a new
-  ID is assigned to it.
+### Spaltenüberschriften
 
-## List Filters
+In der Tabelle mit den Website-Assets werden die Berechtigungen für den ausgewählten Benutzer angezeigt.
 
-Near the top of the page you will see the filter bar shown in the
-Screenshot above. The functions are:
-
-- **Search**. Enter part of the asset name and press the Search icon to
-  find matching assets. Press Clear to clear the search field and
-  restore the list of assets.
-- **Component**. Filter by any installed component in Joomla.
-- **Start Level**. Start level of the item.
-- **End Level**. End level of the item.
-
-**Page Controls**. When the number of items is more than one page, you
-will see a page control bar near the bottom of the page shown in the
-Screenshot above. The current page number being viewed
-has a dark colour background.
-
-- **Start**. Click to go to the first page.
-- **Prev**. Click to go to the previous page.
-- **Page numbers**. Click to go to the desired page.
-- **Next**. Click to go to the next page.
-- **End**. Click to go to the last page.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
-
-## Legend
-
-At the bottom you will see the legend:
-
-<img
-src="https://docs.joomla.org/images/a/a5/Help31-Help-Permissions-Report-Legend-en.png"
-decoding="async" data-file-width="320" data-file-height="36" width="320"
-height="36" alt="Help31 Help Permissions Report Legend en.png" />
-
-- **Not Allowed**. Action not allowed.
-- **Allowed**. Action allowed.
-- **Forbidden**. Action forbidden.
-
+- **Asset-Titel** Der Asset-Name in Klartext.
+- **Asset-Name** Der interne Asset-Name.
+- **Super User** Kann der Benutzer Super-User-Aktionen für das Asset unabhängig von anderen Berechtigungseinstellungen ausführen.
+- **Konfigurationsoptionen bearbeiten** Kann der Benutzer die Optionen des Assets (außer Berechtigungen) bearbeiten.
+- **Zugriff auf die Administrationsoberfläche** Kann der Benutzer auf die Administrationsoberfläche des Assets zugreifen.
+- **Erstellen** Kann der Benutzer Inhalte im Asset erstellen.
+- **Löschen** Kann der Benutzer Inhalte im Asset löschen.
+- **Bearbeiten** Kann der Benutzer Inhalte im Asset bearbeiten.
+- **Status bearbeiten** Kann der Benutzer den Status des Assets bearbeiten.
+- **Eigene Inhalte bearbeiten** Kann der Benutzer eigene Inhalte im Asset bearbeiten.
+- **Benutzerdefinierte Feldwerte bearbeiten** Kann der Benutzer benutzerdefinierte Feldwerte im Asset bearbeiten.
+- **LFT** Die linken und rechten Werte in der Verschachtelungshierarchie. Dies wird für die Asset-Verschachtelung und -Reihenfolge verwendet.
+- **ID** Dies ist eine eindeutige Identifikationsnummer, die Joomla diesem Element automatisch zuweist. Sie dient zur internen Identifizierung des Elements und kann nicht geändert werden. 

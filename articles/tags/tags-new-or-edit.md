@@ -2,162 +2,90 @@
 
 ## Beschreibung
 
-Hinzufügen oder bearbeiten von Schlagwörtern, die zum Anzeigen von
-Inhalten nach Schlagwortnamen verwendet werden.
+Die Seite *Tags: Neu oder Bearbeiten* wird verwendet, um Tags hinzuzufügen oder zu bearbeiten, die zur Anzeige von Website-Inhalten nach Tag-Namen verwendet werden können.
 
-## Wie darauf zugreifen
+### Gemeinsame Elemente
 
-- Select **Components → Tags** in the Administrator menu. Then
-  - Select the '**New'** button in the Toolbar to create a new Tag.
-  - Select a Tags's Title from the **Title** column of the list to edit
-    an existing tag.
+Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
+
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
+
+## Zugriff
+
+- Wählen Sie **Komponenten → Tags** im Administrator-Menü. Dann
+  - Wählen Sie die Schaltfläche '**Neu**' in der Werkzeugleiste, um ein neues Tag zu erstellen.
+  - Wählen Sie den Titel eines Tags aus der **Titel**-Spalte der Liste, um ein vorhandenes Tag zu bearbeiten.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/b/b8/Help-4x-Components-Tags-Tags-Edit-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="572"
-width="800" height="572"
-alt="Components Tags Tags Edit screen" />
+![tags edit tag details tab](../../../de/images/tags/tags-edit-tag-details-tab.png)
 
-## Form Fields
+## Formularfelder
 
-- **Title.** The Name of this item. This field is required.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+- **Titel** Der Name dieses Elements. Dieses Feld ist erforderlich.
+- **Alias** Der interne Name des Elements. Normalerweise können Sie dieses Feld leer lassen und Joomla füllt es automatisch aus, indem der Titel in Kleinbuchstaben und mit Bindestrichen anstelle von Leerzeichen verwendet wird.
 
-### Tag Details Tab
+### Tag-Details-Tab
 
-- **Description.** State the purpose of this tag.
+#### Linkes Panel
 
-### Tag Details Sidebar
+- **Beschreibung** Geben Sie den Zweck dieses Tags an.
 
-- **Parent**. The item (category, menu item, and so on) that is the
-  parent of the item being edited.
-- **Status**. The published status of the item.
-- **Access**. The viewing Access  Level   for this item.
-- **Language**. Item language.
-- **Note**. This is normally for the site administrator's use (for
-  example, to document information about this item) and does not show in
-  the Frontend of the site.
-- **Version Note**. Optional field to identify this version of the item
-  in the item's Version History
-  window.
+#### Rechtes Panel
 
-### Options Tab
+- **Übergeordnetes Element** Das übergeordnete Element (Kategorie, Menüpunkt usw.), das dem bearbeiteten Element übergeordnet ist.
+- **Status** Der Veröffentlichungsstatus des Elements.
+- **Zugriff** Die Zugriffsebene für dieses Element.
+- **Sprache** Sprache des Elements.
+- **Notiz** Dies dient in der Regel zur internen Verwendung durch den Administrator (z. B. zum Dokumentieren von Informationen über dieses Element) und wird nicht auf der Website angezeigt.
+- **Versionshinweis** Ein optionales Feld, um diese Version des Elements im Versionsverlauf des Elements zu identifizieren.
 
-<img
-src="https://docs.joomla.org/images/d/d6/Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-en.png"
-decoding="async" data-file-width="800" data-file-height="387"
-width="800" height="387"
-alt="Components Tags Tags Edit Options Details Tab" />
+### Optionen-Tab
 
-#### Options Panel
+![tags edit tag options tab](../../../de/images/tags/tags-edit-options-tab.png)
 
-- **Layout**. Use a layout from the supplied component view or overrides
-  in the templates.
-- **CSS Class for tag link**. Add specific CSS classes for the tag link.
-  If empty 'label label-info' will be added by the default tag layout.
+#### Optionen-Panel
 
-#### Images Panels
+- **Layout** Verwenden Sie ein Layout aus der mitgelieferten Komponentensicht oder aus Template-Overrides.
+- **CSS-Klasse für Tag-Link** Fügen Sie spezifische CSS-Klassen für den Tag-Link hinzu. Wenn leer, wird standardmäßig *label label-info* vom Tag-Layout hinzugefügt.
 
-- **Teaser Image.** The image that will be displayed as part of the
-  list.
-- **Float.** Float attribute for the image.
-- **Alt.** Alt text for the image.
-- **Caption.** The caption for the image.
-- **Full Image.** An image that will be displayed in the single tag
-  view.
+#### Bilder-Panel
 
-### Publishing Tab
+- **Teaserbild** Das Bild, das als Teil der Liste angezeigt wird.
+- **Float** Float-Attribut für das Bild.
+- **Alt** Alt-Text für das Bild.
+- **Bildunterschrift** Die Bildunterschrift für das Bild.
+- **Vollbild** Ein Bild, das in der Einzel-Tag-Ansicht angezeigt wird.
 
-<img
-src="https://docs.joomla.org/images/6/61/Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-en.png"
-decoding="async" data-file-width="800" data-file-height="355"
-width="800" height="355"
-alt="Components Tags Tags Edit Publishing Options Tab" />
+### Veröffentlichungs-Tab
 
-- **Created Date**. Date the item(Article, Category, Weblink, etc.) was
-  created.
-- **Created By**. Name of the Joomla User who created this item. This
-  will default to the currently logged-in user. If you want to change
-  this to a different user, click the Select User button to select a
-  different user.
-- **Created by Alias**. This optional field allows you to enter in an
-  alias for this Author for this Article. This allows you to display a
-  different Author name for this Article.
-- **Modified Date**. Date of last modification.
-- **Modified By**. Username who performed the last modification.
-- **Hits**. The number of times an item has been viewed.
-- **ID**. This is a unique identification number for this item assigned
-  automatically by Joomla. It is used to identify the item internally,
-  and you cannot change this number. When creating a new item, this
-  field displays "0" until you save the new entry, at which point a new
-  ID is assigned to it.
-- **Meta Description**. An optional paragraph to be used as the
-  description of the page in the HTML output. This will generally
-  display in the results of search engines. If entered, this creates an
-  HTML meta element with a name attribute of 'description' and a content
-  attribute equal to the entered text.
-- **Keywords**. Optional entry for keywords. Must be entered separated
-  by commas (for example, "cats, dogs, pets") and may be entered in
-  upper or lower case. (For example, "CATS" will match "cats" or
-  "Cats"). Keywords can be used in several ways:
-  1.  To help Search Engines and other systems classify the content of
-      the Article.
-  2.  In combination with Banner tags, to display specific Banners based
-      on the Article content. For example, say you have one Banner with
-      an ad for dog products and another Banner for cat products. You
-      can have your dog Banner display when a User is viewing a
-      dog-related Article and your cat Banner display for a cat-related
-      Article. To do this, you would:
-      - Add the keywords "dog" and "cat" to the appropriate Articles.
-      - Add the Tags "dog" and "cat" to the appropriate Banners in
-        Banners: Edit.
-      - Set the Banner module Parameter 'Search By Tags' to "Yes" in
-        the Site Modules: Banners list.
-  3.  For articles only, in combination with the Articles - Related module,
-      to display Articles that share at least one keyword in common. For
-      example, if the current Article displayed has the keywords "cats,
-      dogs, monkeys", any other Articles with at least one of these
-      keywords will show in the 'Articles - Related' module.
-- **Author**. Optional entry for an Author name within the metadata. If
-  entered, this creates an HTML meta element with the name attribute of
-  'author' and the content attribute as entered here.
-- **Robots**. The instructions for web 'robots' that browse to this
-  page.
-  - *index, follow:* Index this page and follow the links on this page.
-  - *noindex, follow:* Do not index this page, but still follow the
-    links on the page. For example, you might do this for a site map
-    page where you want the links to be indexed but you don't want this
-    page to show in search engines.
-  - *index, nofollow:* Index this page, but do not follow any links on
-    the page. For example, you might want to do this for an events
-    calendar, where you want the page to show in search engines but you
-    do not want to index each event.
-  - *noindex, nofollow:* Do not index this page or follow any links on
-    the page.
-  - *Use Global:* Set in Global Configuration: Metadata
- Settings.
+![tags edit tag publishing tab](../../../de/images/tags/tags-edit-publishing-tab.png)
 
-## Toolbar
+#### Veröffentlichungs-Panel
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
+- **Erstellungsdatum** Datum, an dem das Element (Artikel, Kategorie usw.) erstellt wurde.
+- **Erstellt von** Name des Joomla-Benutzers, der dieses Element erstellt hat. Standardmäßig wird der derzeit angemeldete Benutzer angezeigt. Wenn Sie dies ändern möchten, klicken Sie auf die Schaltfläche Benutzer auswählen, um einen anderen Benutzer auszuwählen.
+- **Alias des Erstellers** Dieses optionale Feld ermöglicht es Ihnen, für diesen Artikel einen Alias für den Autor einzugeben. Dadurch können Sie einen anderen Autorennamen für diesen Artikel anzeigen.
+- **Änderungsdatum** Datum der letzten Änderung.
+- **Geändert von** Benutzername der Person, die die letzte Änderung vorgenommen hat.
+- **Revision** ...
+- **Aufrufe** Die Anzahl der Ansichten dieses Elements.
+- **ID** Dies ist eine eindeutige Identifikationsnummer für dieses Element, die automatisch von Joomla vergeben wird. Sie wird intern verwendet und kann nicht geändert werden. Bei der Erstellung eines neuen Elements zeigt dieses Feld "0" an, bis der neue Eintrag gespeichert wird und eine neue ID zugewiesen wird.
 
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Save & New**. Saves the item and keeps the editing screen open and
-  ready to create another item.
-- **Save as Copy**. Saves your changes to a copy of the current item.
-  Does not affect the current item. This toolbar icon is not shown if
-  you are creating a new item.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Versions**. Opens the Item Version History window to show any prior
-  versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See Version History
-  for more information.
-- **Help**. Opens this help screen.
+#### Metadaten-Panel
+
+- **Meta-Beschreibung** Ein optionaler Absatz, der als Seitenbeschreibung im HTML-Output verwendet wird. Dies wird in der Regel in den Ergebnissen von Suchmaschinen angezeigt. Wenn eingegeben, wird ein HTML-Meta-Element mit einem name-Attribut von `<description>` und einem content-Attribut mit dem eingegebenen Text erstellt.
+- **Schlüsselwörter** Optionaler Eintrag für Schlüsselwörter. Müssen durch Kommas getrennt eingegeben werden (zum Beispiel: katzen, hunde, haustiere) und können in Groß- oder Kleinbuchstaben geschrieben werden. Schlüsselwörter können auf verschiedene Weisen verwendet werden:
+  1.  Um Suchmaschinen und anderen Systemen zu helfen, den Inhalt des Artikels zu klassifizieren.
+  2.  In Kombination mit Banner-Tags, um spezifische Banner basierend auf dem Artikelinhalt anzuzeigen. Zum Beispiel können Sie ein Banner mit Werbung für Hundeprodukte und ein anderes Banner für Katzenprodukte haben. Sie können festlegen, dass das Hundebanner angezeigt wird, wenn ein Benutzer einen hundebezogenen Artikel liest, und das Katzenbanner für einen katzenbezogenen Artikel. Dazu würden Sie:
+      - Die Schlüsselwörter "hund" und "katze" zu den entsprechenden Artikeln hinzufügen.
+      - Die Tags "hund" und "katze" zu den entsprechenden Bannern im Banner: Bearbeiten hinzufügen.
+      - Den Parameter 'Nach Tags suchen' im Banner-Modul auf "Ja" setzen.
+  3.  Für Artikel nur in Kombination mit dem Modul Artikel - Verwandte, um Artikel anzuzeigen, die mindestens ein gemeinsames Schlüsselwort haben. Wenn zum Beispiel der aktuell angezeigte Artikel die Schlüsselwörter "katzen, hunde, affen" enthält, werden alle anderen Artikel, die mindestens eines dieser Schlüsselwörter haben, im Modul "Artikel - Verwandte" angezeigt.
+- **Autor** Optionaler Eintrag für den Namen des Autors innerhalb der Metadaten. Wenn eingegeben, wird ein HTML-Meta-Element mit dem Namen 'author' und dem Inhalt des hier eingegebenen Werts erstellt.
+- **Robots** Die Anweisungen für Web-"Robots", die auf diese Seite zugreifen:
+  - *index, follow* Diese Seite indizieren und die Links auf dieser Seite folgen.
+  - *noindex, follow* Diese Seite nicht indizieren, aber den Links auf der Seite folgen. Zum Beispiel könnten Sie dies für eine Sitemap-Seite tun, auf der Sie die Links indizieren lassen möchten, aber nicht wollen, dass die Seite in Suchmaschinen erscheint.
+  - *index, nofollow* Diese Seite indizieren, aber keinen Links auf der Seite folgen. Dies könnte zum Beispiel für einen Veranstaltungskalender nützlich sein, bei dem die Seite in Suchmaschinen erscheinen soll, aber nicht jede Veranstaltung indiziert werden soll.
+  - *noindex, nofollow* Diese Seite weder indizieren noch den Links auf der Seite folgen.
+  - *Globale Einstellungen verwenden* In den globalen Metadaten-Einstellungen festgelegt.

@@ -1,55 +1,29 @@
-<!-- Filename: Help4.x:Mass_Mail_Users / Display title: Serien-Mail an Benutzer -->
+<!-- Filename: Help4.x:Mass_Mail_Users / Display title: Serienmail-Benutzer -->
 
 ## Beschreibung
 
-Die Serien-Mail-Funktion erlaubt Mitgliedern der "Super
-Benutzer"-Gruppe, E-Mails an registrierte Benutzer der Seite zu senden.
-Benutzer können, basierend auf ihrer Gruppe, ausgewählt werden.
+Die Seite *Massenmail an Benutzer* ermöglicht es Mitgliedern der Gruppe *Super Users*, eine E-Mail-Nachricht an registrierte Benutzer der Website zu senden. Die Empfänger können basierend auf Benutzergruppen ausgewählt werden.
 
-## Wie darauf zugreifen
+### Allgemeine Elemente
 
-- Im Administrator-Menü **Benutzer → Serien-Mail an Benutzer**
-  auswählen.
+Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
-## Bildschirmfoto
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/2/2b/Help-4x-users-mass-mail-en.png"
-decoding="async" data-file-width="800" data-file-height="416"
-width="800" height="416" alt="users mass mail" />
+## So greifen Sie darauf zu
 
-## Details and Message
+Wählen Sie **Benutzer → Massenmail an Benutzer** aus dem Administrator-Menü.
 
-- **Mail to Child Groups.** Whether or not to send the Email to members
-  of all child groups of the selected group. For example, if this box is
-  checked and the "Public" group is selected, the email would be sent to
-  all users, since all groups are child groups of "Public".
-- **Send in HTML mode.** Whether or not to send the Email with headers
-  that identify it as an HTML document. Email clients that support this
-  will render any HTML codes.
-- **Send to Disabled Users.** If checked, disabled users will be
-  included when sending mail.
-- **Recipients as BCC.** If checked, all recipients will be included as
-  BCC entries, so none will see any of the other recipients' Email
-  addresses. Because many mail routers treat Email without a *To:* entry
-  as spam, the site email will be used for the *To:* entry.
-- **Group.** Select the groups you want to send the Email to.
-- **Subject** Enter the Subject of the Email. Try to make it as
-  descriptive as possible. Any text entered in the *Subject Prefix*
-  parameter in Options (User Options → Mass Mail
-  will be placed in front of the subject you enter here.
-- **Message.** Enter the body of the Email. Any text entered in the
-  *Mailbody Suffix* parameter in Options (User Options → Mass Mail
-  will be added to the text you enter here.
+## Screenshot
 
-## Toolbar
+![Massenmail an Benutzer](../../../de/images/users/mass-mail-users.png)
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
+## Details und Nachricht
 
-- **Send email**. Send the email and return to the main Mass Mail screen
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
+- **E-Mail an untergeordnete Gruppen** Ob die E-Mail auch an Mitglieder aller untergeordneten Gruppen der ausgewählten Gruppe gesendet werden soll. Zum Beispiel: Wenn dieses Feld markiert ist und die Gruppe *Öffentlich* ausgewählt wird, wird die E-Mail an fast alle Benutzer gesendet, da die meisten Gruppen untergeordnete Gruppen von *Öffentlich* sind.
+- **Im HTML-Modus senden** Ob die E-Mail mit Kopfzeilen gesendet werden soll, die sie als HTML-Dokument kennzeichnen. E-Mail-Clients, die dies unterstützen, stellen dann die HTML-Codes entsprechend dar.
+- **An deaktivierte Benutzer senden** Wenn markiert, werden deaktivierte Benutzer in den E-Mail-Versand einbezogen.
+- **Empfänger als BCC** Wenn markiert, werden alle Empfänger als BCC (Blindkopie) hinzugefügt, sodass keiner die E-Mail-Adressen der anderen Empfänger sieht. Da viele Mailserver E-Mails ohne *An:* Eintrag als Spam behandeln, wird die Website-E-Mail-Adresse für den *An:* Eintrag verwendet.
+- **Gruppe** Wählen Sie die Gruppen aus, an die Sie die E-Mail senden möchten.
+- **Betreff** Geben Sie den Betreff der E-Mail ein. Versuchen Sie, ihn so beschreibend wie möglich zu gestalten. Jeder Text, der im Parameter *Betreff-Präfix* in den Optionen (Benutzeroptionen → Massenmail) eingegeben wurde, wird vor dem hier eingegebenen Betreff eingefügt.
+- **Nachricht** Geben Sie den Text der E-Mail ein. Jeder Text, der im Parameter *Nachrichts-Suffix* in den Optionen (Benutzeroptionen → Massenmail) eingegeben wurde, wird zu dem hier eingegebenen Text hinzugefügt.

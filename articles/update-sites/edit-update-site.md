@@ -2,41 +2,25 @@
 
 ## Beschreibung
 
-Das Fenster „Update-Site bearbeiten“ zeigt einige Informationen über die
-Update-Site an. Die Joomla!-Quellen können nicht bearbeitet werden, aber
-andere Quellen erlauben möglicherweise eine Bearbeitung.
+Die Seite *Update-Site bearbeiten* zeigt Informationen über eine Update-Seite an. Die Joomla!-Quellen können nicht bearbeitet werden, aber andere Quellen könnten das Bearbeiten zulassen.
 
-## Wie darauf zugreifen
+### Allgemeine Elemente
 
-- Im Administrator-Menü die Option **System → Update
-  panel → Update Sites** wählen. Dann...
-  - In der Spalte „Aktualisierungsquelle“ den Titel-Link anklicken.
+Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
-## Bildschirmfoto
+* [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
 
-<img
-src="https://docs.joomla.org/images/thumb/e/eb/Help-4x-edit-update-site-screenshot-de.png/800px-Help-4x-edit-update-site-screenshot-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/eb/Help-4x-edit-update-site-screenshot-de.png/1200px-Help-4x-edit-update-site-screenshot-de.png 1.5x, https://docs.joomla.org/images/e/eb/Help-4x-edit-update-site-screenshot-de.png 2x"
-data-file-width="1334" data-file-height="447" width="800" height="268"
-alt="edit update site screenshot" />
+## So greifen Sie darauf zu
 
-## Formular Felder
+- Wählen Sie **System → Update-Panel → Update-Sites** aus dem Administrator-Menü. Dann...
+  - Wählen Sie einen Titel-Link in der Spalte „Update-Site“ aus.
 
-- **Name.** Der Name der Website.
-- **Type.** Die Art der Site.
-- **Location.** Die URL der XML-Datei, die das Update steuert.
+## Screenshot
 
-## Werkzeugleiste
+![Update-Sites Update-Site bearbeiten](../../../de/images/update-sites/update-sites-edit-update-site.png)
 
-Das [Bildschirmfoto](#Bildschirmfoto) am Anfang der Seite zeigt die
-Werkzeugleiste im oberen Bereich. Die Funktionen sind:
+## Formularfelder
 
-- **Speichern**. Speichert den Eintrag und bleibt auf der aktuellen
-  Seite.
-- **Speichern & Schließen**. Speichert den Eintrag und schließt die
-  aktuelle Seite.
-- **Schließen**. Schließt die aktuelle Seite und kehrt zur vorherigen
-  Seite ohne Speichern der Änderungen zurück. Dieses Symbol wird nicht
-  angezeigt, wenn ein neuer Eintrag erstellt wird.
-- **Hilfe**. Öffnet die Hilfe-Seite.
+- **Name** Der Name der Seite.
+- **Typ** Der Typ der Seite.
+- **Ort** Die URL der XML-Datei, die das Update steuert.
