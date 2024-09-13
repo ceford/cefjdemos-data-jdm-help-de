@@ -4,7 +4,7 @@
 
 Kategorien werden verwendet, um Banner zur einfachen Verwaltung und Anzeige zu organisieren. Sie können in baumartige Strukturen wie Dateisysteme aufgebaut werden. Jeder Banner muss einer Kategorie zugewiesen werden. Der Standard ist „Nicht kategorisiert“.
 
-Die Kategorieliste-Seite wird verwendet, um Kategorien zu verwalten. Dazu gehört das Erstellen neuer Kategorien, das Finden von Kategorien zum Bearbeiten und das Ändern von Kategorieeigenschaften wie „Veröffentlicht“ oder nicht und der Kategorie-Reihenfolge. Außerdem können einige Eigenschaften für eine Gruppe von Kategorien mithilfe eines Batch-Prozesses geändert werden.
+Die Kategorieliste-Seite wird verwendet, um Kategorien zu verwalten. Dazu gehört das Erstellen neuer Kategorien, das Finden von Kategorien zum Bearbeiten und das Ändern von Kategorieeigenschaften wie „Veröffentlicht“ oder „Versteckt“ und der Kategorie-Reihenfolge. Außerdem können einige Eigenschaften für eine Gruppe von Kategorien mithilfe eines Batch-Prozesses geändert werden.
 
 Es muss mindestens ein Banner-Kunde und eine Banner-Kategorie **vor** dem Erstellen eines Banners vorhanden sein.
 
