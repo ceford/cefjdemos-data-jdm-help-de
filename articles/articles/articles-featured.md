@@ -23,7 +23,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Screenshot der Liste hervorgehobener Beiträge](../../../en/images/articles/articles-featured-list.png)
+![Screenshot der Liste hervorgehobener Beiträge](../../../de/images/articles/articles-featured-list.png)
 
 ## Tipps
 

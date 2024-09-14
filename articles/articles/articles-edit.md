@@ -27,7 +27,7 @@ Oder in Benutzerartikeln:
 
 ## Screenshot
 
-![Beiträge bearbeiten Screenshot](../../../en/images/articles/articles-edit-content-tab.png)
+![Beiträge bearbeiten Screenshot](../../../de/images/articles/articles-edit-content-tab.png)
 
 ## Formularfelder
 
@@ -64,7 +64,7 @@ Oder in Benutzerartikeln:
 
 **Hinweis:** Diese Registerkarte kann in den *Beiträgeoptionen* von einem Benutzer mit Administratorrechten ausgeblendet werden. Sie ermöglicht die Anzeige von Bildern und Links in Beiträgen unter Verwendung standardisierter Layouts.
 
-![Beiträge bearbeiten: Bilder und Links-Registerkarte](../../../en/images/articles/articles-edit-images-tab.png)
+![Beiträge bearbeiten: Bilder und Links-Registerkarte](../../../de/images/articles/articles-edit-images-tab.png)
 
 #### Einleitungsbild
 
@@ -100,7 +100,7 @@ Oder in Benutzerartikeln:
 
 **Hinweis:** Diese Registerkarte kann von einem Benutzer mit Administratorrechten in den *Beiträgeoptionen* ausgeblendet werden. Sie enthält eine Reihe von Optionen, um zu steuern, wie dieser Beiträge im Frontend angezeigt wird.
 
-![Optionen-Registerkarte](../../../en/images/articles/articles-edit-options-tab.png)
+![Optionen-Registerkarte](../../../de/images/articles/articles-edit-options-tab.png)
 
 #### Layout
 
@@ -156,14 +156,14 @@ Oder in Benutzerartikeln:
 
 Dieser Abschnitt zeigt die benutzerdefinierten Felder, die für diesen Beiträge definiert wurden. Dies sind Felder, die nicht einer Feldgruppe zugewiesen sind. Jede Feldgruppe, falls definiert, erscheint als separate Registerkarte.
 
-![Felder-Registerkarte](../../../en/images/articles/articles-edit-fields-tab.png)
+![Felder-Registerkarte](../../../de/images/articles/articles-edit-fields-tab.png)
 
 
 ### Registerkarte "Bearbeitungsbildschirm konfigurieren"
 
 **Hinweis:** Dies kann von einem Benutzer mit Administratorrechten in den *Beiträgeoptionen* ausgeblendet werden.
 
-![Bearbeitungsbildschirm konfigurieren](../../../en/images/articles/articles-edit-editor-tab.png)
+![Bearbeitungsbildschirm konfigurieren](../../../de/images/articles/articles-edit-editor-tab.png)
 
 - **Veröffentlichungsoptionen** Wenn Ausblenden, wird die Veröffentlichungs-Registerkarte im Backend nicht angezeigt. Dies bedeutet, dass Backend-Benutzer die Felder in dieser Registerkarte nicht bearbeiten können. Diese Felder werden immer auf ihre Standardwerte gesetzt.
 - **Beitragseinstellungen anzeigen** Wenn Ausblenden, wird die Beiträgeoptionen-Registerkarte im Backend nicht angezeigt. Dies bedeutet, dass Backend-Benutzer die Felder in dieser Registerkarte nicht bearbeiten können.
