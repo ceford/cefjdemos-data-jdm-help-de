@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Hervorgehobene Beiträge sind Beiträge, die ausgewählt wurden, um in einem Blog-Layout für hervorgehobene Beiträge angezeigt zu werden, das oft für die Startseite einer Website oder eine spezielle Seite, wie z. B. für Ausschussmitglieder, verwendet wird. Ansonsten sind hervorgehobene Beiträge identisch mit nicht hervorgehobenen Beiträgen.
+Hauptbeiträge sind Beiträge, die ausgewählt wurden, um in einem Blog-Layout für hervorgehobene Beiträge angezeigt zu werden, das häufig für die Startseite einer Website oder eine spezielle Seite, z. B. für Ausschussmitglieder, verwendet wird. Ansonsten sind Hauptbeiträge mit normalen Beiträgen identisch.
 
 ### Gemeinsame Elemente
 
@@ -17,9 +17,9 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## So greifen Sie zu
 
-* Wählen Sie **Inhalt → Hervorgehobene Beiträge** im Administrator-Menü. Dann...
+* Wählen Sie **Inhalt → Hauptbeiträge** im Administrator-Menü. Dann...
     * Wählen Sie einen vorhandenen Beiträge **Titel** in der Liste, um ihn zu bearbeiten. Oder...
-    * Wählen Sie die Schaltfläche **Neu** in der Werkzeugleiste, um einen neuen Beiträge zu erstellen, den Sie als Hervorgehoben markieren müssen.
+    * Wählen Sie die Schaltfläche **Neu** in der Werkzeugleiste, um einen neuen Beiträge zu erstellen, den Sie als Hauptbeitrag markieren wollen.
 
 ## Screenshot
 
@@ -27,4 +27,4 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Tipps
 
-- Wählen Sie das Symbol in der Spalte **Hervorgehoben**, um zwischen hervorgehoben und nicht hervorgehoben zu wechseln, aber beachten Sie, dass dies die Reihenfolge der hervorgehobenen Beiträge beeinflussen kann.
+- Wählen Sie das Symbol in der Spalte **Haupteinträge**, um zwischen hervorgehoben und nicht hervorgehoben zu wechseln, aber beachten Sie, dass dies die Reihenfolge der hervorgehobenen Beiträge beeinflussen kann.
