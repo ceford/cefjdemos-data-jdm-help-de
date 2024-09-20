@@ -14,6 +14,7 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 * [Der Veröffentlichungs-Tab](jdocmanual?article=help/common-elements/edit-publishing).
 * [Der Verknüpfungen-Tab](jdocmanual?article=help/common-elements/edit-associations).
 * [Der Berechtigungen-Tab](jdocmanual?article=help/common-elements/edit-permissions).
+* [Das Versionsverlauf-Popup](jdocmanual?article=help/common-elements/edit-version-history).
 
 ## Zugriffsmethode
 

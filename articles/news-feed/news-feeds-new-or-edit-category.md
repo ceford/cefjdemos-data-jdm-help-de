@@ -11,6 +11,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfedokumenten behandelt:
 * [Symbolleisten](jdocmanual?article=help/common-elements/toolbars).
 * [Der Veröffentlichungs-Tab](jdocmanual?article=help/common-elements/edit-publishing).
 * [Der Zuordnungs-Tab](jdocmanual?article=help/common-elements/edit-associations).
+* [Das Versionsverlauf-Popup](jdocmanual?article=help/common-elements/edit-version-history).
 
 ## Zugriff
 

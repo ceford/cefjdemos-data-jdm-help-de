@@ -10,6 +10,7 @@ Mindestens ein Banner-Kunde ist erforderlich, bevor ein Banner erstellt werden k
 Einige Aspekte dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 * [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
+* [Das Versionsverlauf-Popup](jdocmanual?article=help/common-elements/edit-version-history).
 
 ## Zugriff
 
