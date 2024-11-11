@@ -17,3 +17,9 @@ Die Seite *Geführte Touren: Optionen* wird in separaten Hilfsartikeln behandelt
 - Wählen Sie die **Optionen**-Schaltfläche in der Werkzeugleiste.
 
 Die Optionen-Seite hat nur einen Tab, den Veröffentlichungs-Tab, der in den oben genannten gemeinsamen Elementen behandelt wird.
+
+## Bildschirmfoto
+
+![Optionen für geführte Touren](../../../en/images/guided-tours/guided-tours-options.png)
+
+Die Elemente im Tab "Geführte Touren" sind in der Inline-Hilfe gut erklärt.
