@@ -13,6 +13,7 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 * [Der Optionen-Tab](jdocmanual?article=help/common-elements/edit-category-options).
 * [Der Veröffentlichungs-Tab](jdocmanual?article=help/common-elements/edit-publishing).
 * [Der Berechtigungen-Tab](jdocmanual?article=help/common-elements/edit-permissions).
+* [Das Versionsverlauf-Popup](jdocmanual?article=help/common-elements/edit-version-history).
 
 ## Zugriff
 

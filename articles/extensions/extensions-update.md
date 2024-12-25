@@ -22,7 +22,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Erweiterungen aktualisieren Liste](../../../nl/images/extensions/update-list.png)
+![Erweiterungen aktualisieren Liste](../../../de/images/extensions/update-list.png)
 
 ## Tipps
 

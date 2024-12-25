@@ -69,12 +69,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 Dieser Screenshot zeigt das Joomla-Kern-Frontend-Template **Cassiopeia** mit allen Bearbeitungs-Layout-Optionen auf „Ausblenden“ gesetzt.
 
-<img
-src="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png 1.5x, https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png 2x"
-data-file-width="1728" data-file-height="1253" width="600" height="435"
-alt=" Menüpunkt Artikel erstellen Frontend-Inhalt" />
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
 ## Tipps
 

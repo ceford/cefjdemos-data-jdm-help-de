@@ -29,18 +29,18 @@ Es gibt zwei Wege zur Kategorien-Listen-Seite:
 
 ## Spaltenüberschriften
 
-- **Kontrollkästchen**. Aktivieren Sie dieses Kästchen, um Kategorien auszuwählen. Um alle Kategorien auszuwählen, aktivieren Sie das Kästchen in der Spaltenüberschrift. Nachdem Kästchen aktiviert wurden, wird die Schaltfläche "Aktionen" in der Werkzeugleiste aktiv.
-- **Sortierung**. Sie können die Reihenfolge einer Kategorie innerhalb einer Liste wie folgt ändern:
+- **Kontrollkästchen** Aktivieren Sie dieses Kästchen, um Kategorien auszuwählen. Um alle Kategorien auszuwählen, aktivieren Sie das Kästchen in der Spaltenüberschrift. Nachdem Kästchen aktiviert wurden, wird die Schaltfläche "Aktionen" in der Werkzeugleiste aktiv.
+- **Sortierung** Sie können die Reihenfolge einer Kategorie innerhalb einer Liste wie folgt ändern:
   - Wählen Sie das Sortiersymbol <i class="fa-solid fa-sort"></i> in der ersten Spaltenüberschrift, um es zu aktivieren.
   - Wählen Sie eines der vertikalen Ellipsensymbole <span class="icon-ellipsis-v"></span> und ziehen Sie es nach oben oder unten, um die Position dieser Zeile in der Liste zu ändern.
   - In den Filteroptionen können Sie die Liste auf Kategorien beschränken, die beispielsweise einer Sprache zugewiesen sind.
-- **Status**. Status der Kategorie. Fahren Sie mit der Maus über das Symbol, um Informationen anzuzeigen, oder nutzen Sie die Tastatur, um eine Audioäquivalenz zu erhalten.
-- **Titel**. Der Titel der Kategorie. Bearbeiten Sie die Kategorie, indem Sie auf den Titel klicken.
-- **Statusspalten**. Jede Schaltfläche in einer Spalte zeigt die Anzahl der Beiträge mit diesem Status in dieser Kategorie an. Wählen Sie eine Schaltfläche, um zur Beiträgeliste zu gelangen, die nach dieser Kategorie gefiltert ist. Die Spalten sind **Veröffentlicht**, **Nicht veröffentlicht**, **Archiviert** und **Papierkorb**.
-- **Zugriff**. Die Zugriffsebene für die Anzeige dieser Kategorie.
-- **Zuordnungen**. Zeigt die zugeordneten Kategorien an. Klicken Sie auf den Sprachcode, um die Kategorie zu öffnen. Nur für mehrsprachige Websites!
-- **Sprache**. Die Sprache der Kategorien, Standard ist 'Alle'.
-- **ID**. Eine eindeutige Identifikationsnummer für diese Kategorie, diese Nummer kann nicht geändert werden.
+- **Status** Status der Kategorie. Fahren Sie mit der Maus über das Symbol, um Informationen anzuzeigen, oder nutzen Sie die Tastatur, um eine Audioäquivalenz zu erhalten.
+- **Titel** Der Titel der Kategorie. Bearbeiten Sie die Kategorie, indem Sie auf den Titel klicken.
+- **Statusspalten** Jede Schaltfläche in einer Spalte zeigt die Anzahl der Beiträge mit diesem Status in dieser Kategorie an. Wählen Sie eine Schaltfläche, um zur Beiträgeliste zu gelangen, die nach dieser Kategorie gefiltert ist. Die Spalten sind **Veröffentlicht**, **Nicht veröffentlicht**, **Archiviert** und **Papierkorb**.
+- **Zugriff** Die Zugriffsebene für die Anzeige dieser Kategorie.
+- **Zuordnungen** Zeigt die zugeordneten Kategorien an. Klicken Sie auf den Sprachcode, um die Kategorie zu öffnen. Nur für mehrsprachige Websites!
+- **Sprache** Die Sprache der Kategorien, Standard ist 'Alle'.
+- **ID** Eine eindeutige Identifikationsnummer für diese Kategorie, diese Nummer kann nicht geändert werden.
 
 ## Tipps
 

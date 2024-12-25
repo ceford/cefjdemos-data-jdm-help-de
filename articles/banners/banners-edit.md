@@ -10,6 +10,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 * [Werkzeugleisten](jdocmanual?article=help/common-elements/toolbars).
 * [Der Veröffentlichungs-Tab](jdocmanual?article=help/common-elements/edit-publishing).
+* [Das Versionsverlauf-Popup](jdocmanual?article=help/common-elements/edit-version-history).
 
 ## Zugriff
 

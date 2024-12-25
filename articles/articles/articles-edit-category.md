@@ -16,6 +16,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 * [Die Veröffentlichungs-Registerkarte](jdocmanual?article=help/common-elements/edit-publishing).
 * [Die Zuordnungs-Registerkarte](jdocmanual?article=help/common-elements/edit-associations).
 * [Die Berechtigungs-Registerkarte](jdocmanual?article=help/common-elements/edit-permissions).
+* [Das Versionsverlauf-Popup](jdocmanual?article=help/common-elements/edit-version-history).
 
 ## Zugriff
 
