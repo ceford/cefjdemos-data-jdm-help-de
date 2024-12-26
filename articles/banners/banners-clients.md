@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Im Banner-Kunden-Manager können Sie bestehende Banner-Kunden bearbeiten oder neue erstellen. Beachten Sie, dass Sie mindestens einen Banner-Kunden und eine Banner-Kategorie definiert haben müssen, bevor Sie Ihr erstes Banner hinzufügen können.
+Im Banner-Kunden-Manager können Sie bestehende Bannerkunden bearbeiten oder neue erstellen. Beachten Sie, dass Sie mindestens einen Banner-Kunden und eine Banner-Kategorie definiert haben müssen, bevor Sie Ihr erstes Banner hinzufügen können.
 
 ### Gemeinsame Elemente
 
