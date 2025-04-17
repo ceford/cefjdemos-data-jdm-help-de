@@ -20,7 +20,7 @@ screenshot zeigt den Stapeldialog für Artikel:
 3.  Legen Sie einen oder mehrere der folgenden Werte fest:
     - Um die **Sprache** zu ändern, wählen Sie die gewünschte neue Sprache aus
       das Listenfeld Sprache festlegen. Diese Option ist nur in mehrsprachigen Sprachen verfügbar
-	  Sites.
+      Sites.
     - Um die **Zugriffsebene** zu ändern, wählen Sie den gewünschten neuen Zugriff aus
       ebene aus dem Listenfeld Zugriffsebene festlegen.
     - Um die **Kategorie** zu ändern, wählen Sie eine Kategorie aus. Um das zu verlassen

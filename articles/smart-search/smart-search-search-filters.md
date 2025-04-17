@@ -16,7 +16,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ### Tutorial
 
-* Wenn Sie neu bei Smart Search sind, sollten Sie den [Smart Search Schnellstartleitfaden](https://docs.joomla.org/Smart_Search_quickstart_guide "Smart Search quickstart guide") lesen.
+* Wenn Sie neu bei Smart Search sind, sollten Sie den [Smart Search Schnellstartleitfaden](https://docs.joomla.org/Smart_Search_quickstart_guide) lesen.
 
 ## Zugriff
 

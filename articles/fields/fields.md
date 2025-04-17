@@ -18,8 +18,8 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 * [Listenfilter](jdocmanual?article=help/common-elements/list-filters).
 * [Listenspaltenüberschriften](jdocmanual?article=help/common-elements/list-column-headers).
 * [Listenreihenfolge](jdocmanual?article=help/common-elements/list-ordering).
-* [Listenpaginierung](jdocmanual?article=help/common-elements/list-pagination "List Pagination").
-* [Listen-Batch-Prozess](jdocmanual?article=help/common-elements/list-batch-process "List Batch Process").
+* [Listenpaginierung](jdocmanual?article=help/common-elements/list-pagination).
+* [Listen-Batch-Prozess](jdocmanual?article=help/common-elements/list-batch-process).
 
 ### Verwandter Artikel
 

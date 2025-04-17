@@ -15,7 +15,7 @@ Die Registerkarte Artikel veröffentlichen:
 Die meisten Formularfelder haben Standardwerte, mit denen das Element gespeichert werden kann. Möglicherweise möchten Sie für die folgenden Bereiche geeignete Maßnahmen ergreifen:
 
 - **Meta Description** Es liegt in Ihrem eigenen Interesse, den Inhalt dieses Artikels in weniger als 64 Zeichen zu beschreiben.
-- **Schlüsselwörter** Eine Funktion von Webseiten, die vor Jahren von Suchmaschinen aufgegeben wurden. 	Lassen Sie das Feld leer, es sei denn, Sie haben eine bestimmte Anwendung, die sie verwendet.
+- **Schlüsselwörter** Eine Funktion von Webseiten, die vor Jahren von Suchmaschinen aufgegeben wurden.     Lassen Sie das Feld leer, es sei denn, Sie haben eine bestimmte Anwendung, die sie verwendet.
 
 ### Veröffentlichungs-Panel
 
