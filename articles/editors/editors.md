@@ -262,7 +262,7 @@ data-file-width="1975" data-file-height="989" width="800" height="401"
 alt="screenshot editor codemirror example" />
 
 - Buttons unterhalb des Editor-Fensters ermöglichen Links auf jeden
-  Eintrag der Seite. [Mehr erfahren.](#cmscontent)
+  Eintrag der Seite.
 - CodeMirror bietet einige Vorteile des Editor 'Keiner', macht es aber
   einigermaßen leichter, mit unbearbeitetem HTML-Code zu arbeiten.
 - Die Konfiguration erfolgt im Editor -
