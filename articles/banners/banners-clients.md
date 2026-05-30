@@ -20,7 +20,7 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Banner Kunden](../../../de/images/banners/banners-clients-list.png)
+![Banner Kunden](../../../de/images/banners/banners-clients/01-banners-clients-list.png)
 
 ## Spaltenüberschriften
 

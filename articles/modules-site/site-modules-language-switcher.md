@@ -24,7 +24,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Sprachumschalter Modul-Tab](../../../de/images/modules-site/modules-language-switcher-module-tab.png)
+![Sprachumschalter Modul-Tab](../../../de/images/modules-site/site-modules-language-switcher/01-modules-language-switcher-module-tab.png)
 
 ## Formularfelder
 

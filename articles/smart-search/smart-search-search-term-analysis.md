@@ -10,7 +10,7 @@ Die Seite *Smart Search: Suchbegriffsanalyse* zeigt eine Liste von Begriffen an,
 
 ## Screenshot
 
-![smart search search term analysis](../../../de/images/smart-search/smart-search-search-term-analysis.png)
+![smart search search term analysis](../../../de/images/smart-search/smart-search-search-term-analysis/01-smart-search-search-term-analysis.png)
 
 ## Spalten
 

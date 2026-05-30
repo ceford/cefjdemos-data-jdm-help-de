@@ -36,7 +36,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Kategorie-Blog](../../../de/images/menu-items/articles-category-blog-details-tab.png)
+![Menüpunkt Kategorie-Blog](../../../de/images/menu-items/articles-category-blog/01-articles-category-blog-details-tab.png)
 
 ## Formularfelder
 
@@ -62,7 +62,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 Diese Parameter steuern die Anzeige der Kategoriedaten auf der Seite, die durch diesen Menüpunkt-Typ erzeugt wird.
 
-![Kategorie-Tab für Menüelement](../../../de/images/menu-items/articles-category-blog-category-tab.png)
+![Kategorie-Tab für Menüelement](../../../de/images/menu-items/articles-category-blog/02-articles-category-blog-category-tab.png)
 
 - **Kategorietitel** Zeigt den Titel der Kategorie an oder blendet ihn aus.
 - **Kategoriebeschreibung** Zeigt die Beschreibung der Kategorie an oder blendet sie aus.
@@ -79,7 +79,7 @@ Diese Parameter steuern die Anzeige der Kategoriedaten auf der Seite, die durch 
 
 Diese Parameter steuern das Layout der Seite, die durch diesen Menüpunkt-Typ erzeugt wird.
 
-![Blog-Layout-Tab für Menüelement](../../../de/images/menu-items/articles-category-blog-blog-layout-tab.png)
+![Blog-Layout-Tab für Menüelement](../../../de/images/menu-items/articles-category-blog/03-articles-category-blog-blog-layout-tab.png)
 
 - **\# Führende Artikel** Die Anzahl der Artikel, die in voller Breite im Hauptanzeigebereich angezeigt werden. `0` bedeutet, dass keine Artikel in voller Breite angezeigt werden. Wenn ein Artikel einen *Weiterlesen...*-Trenner enthält, wird nur der Teil des Textes vor dem Trenner (der Einführungstext) angezeigt.
 - **Führender Artikel CSS-Klasse** Sie können eine beliebige CSS-Klasse für eigene Gestaltungsideen hinzufügen. Beispiel: boxed für eine obere Umrandung. Für die Position des Bildes verwenden Sie z. B. image-start oder image-end. Fügen Sie image-alternate für eine wechselnde Anordnung von Vorschaubildern hinzu.

@@ -23,7 +23,7 @@ Wählen Sie **Benutzer → Zugriffsebenen** aus dem Administrator-Menü.
 
 ## Screenshot
 
-![Benutzer Anzeigezugriffsebenen](../../../de/images/users/users-viewing-access-levels.png)
+![Benutzer Anzeigezugriffsebenen](../../../de/images/users/users-viewing-access-levels/01-users-viewing-access-levels.png)
 
 ## Tipps
 

@@ -33,13 +33,13 @@ Um einen bestehenden Menüpunkt **Alle News-Feed-Kategorien auflisten** zu bearb
 
 ## Screenshot
 
-![Menüpunkt Alle News-Feed-Kategorien Details-Tab](../../../de/images/menu-items/news-feeds-list-all-categories-details-tab.png)
+![Menüpunkt Alle News-Feed-Kategorien Details-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/01-news-feeds-list-all-categories-details-tab.png)
 
 ## Formularfelder
 
 ### Kategorien-Tab
 
-![Menüpunkt Alle News-Feed-Kategorien Kategorien-Tab](../../../de/images/menu-items/news-feeds-list-all-categories-tree-categories-tab.png)
+![Menüpunkt Alle News-Feed-Kategorien Kategorien-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/02-news-feeds-list-all-categories-tree-categories-tab.png)
 
 - **Beschreibung der obersten Kategorie** Zeigt oder verbirgt die Beschreibung der obersten Kategorie. Beachten Sie, dass diese Beschreibung für dieses Layout durch eine *alternative Beschreibung* überschrieben werden kann.
 - **Alternative Beschreibung** Wenn Sie Text in dieses Feld eingeben, wird er die Beschreibung der obersten Kategorie ersetzen, falls diese vorhanden ist. Wenn die Option "Beschreibung der obersten Kategorie" auf *Anzeigen* gesetzt ist, wird diese Beschreibung anstelle der normalen Kategoriebeschreibung angezeigt.
@@ -50,7 +50,7 @@ Um einen bestehenden Menüpunkt **Alle News-Feed-Kategorien auflisten** zu bearb
 
 ### Listenlayouts-Tab
 
-![Menüpunkt Alle News-Feed-Kategorien Listenlayouts-Tab](../../../de/images/menu-items/news-feeds-list-all-categories-tree-list-layouts-tab.png)
+![Menüpunkt Alle News-Feed-Kategorien Listenlayouts-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/03-news-feeds-list-all-categories-tree-list-layouts-tab.png)
 
 - **Filterfeld** Zeigt oder verbirgt ein Filterfeld für die Liste.
 - **Anzeigeauswahl** Zeigt oder verbirgt die Steuerung *Anzahl anzeigen*, die es dem Benutzer ermöglicht, die Anzahl der anzuzeigenden Elemente in der Liste auszuwählen.
@@ -67,7 +67,7 @@ Um einen bestehenden Menüpunkt **Alle News-Feed-Kategorien auflisten** zu bearb
 
 ### Feedanzeige-Optionen-Tab
 
-![Menüpunkt Alle News-Feed-Kategorien Kategorien-Tab](../../../de/images/menu-items/news-feeds-list-all-categories-tree-feed-display-options-tab.png)
+![Menüpunkt Alle News-Feed-Kategorien Kategorien-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/04-news-feeds-list-all-categories-tree-feed-display-options-tab.png)
 
 - **Feed-Bild** Zeigt oder verbirgt das Bild der News-Feeds.
 - **Feed-Beschreibung** Zeigt oder verbirgt die Beschreibung der News-Feeds.

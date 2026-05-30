@@ -24,7 +24,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![syndizierungsfeeds-modul-tab](../../../de/images/modules-site/modules-syndication-feeds-module-tab.png)
+![syndizierungsfeeds-modul-tab](../../../de/images/modules-site/site-modules-syndication-feeds/01-modules-syndication-feeds-module-tab.png)
 
 ## Formularfelder
 

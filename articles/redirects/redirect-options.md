@@ -26,7 +26,7 @@ Wählen Sie den Link **Weiterleitungs-System-Plugin** und aktivieren Sie das Plu
 
 ## Screenshot
 
-![Weiterleitungsoptionen - Erweitert Registerkarte](../../../de/images/redirects/redirect-options-advanced-tab.png)
+![Weiterleitungsoptionen - Erweitert Registerkarte](../../../de/images/redirects/redirect-options/01-redirect-options-advanced-tab.png)
 
 ## Formularfelder
 

@@ -20,4 +20,4 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Liste der Update-Sites](../../../de/images/update-sites/update-sites-list.png)
+![Liste der Update-Sites](../../../de/images/update-sites/update-sites/01-update-sites-list.png)

@@ -28,4 +28,4 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Übergänge grundlegender Workflow Liste](../../../de/images/workflows/transitions-basic-workflow-list.png)
+![Übergänge grundlegender Workflow Liste](../../../de/images/workflows/transitions-basic-workflow/01-transitions-basic-workflow-list.png)

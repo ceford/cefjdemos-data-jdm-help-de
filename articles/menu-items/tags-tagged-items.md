@@ -19,13 +19,13 @@ Um einen bestehenden Menüpunkt *Getaggte Elemente* zu bearbeiten:
 
 ## Screenshot
 
-![Details-Tab der getaggten Elemente](../../../de/images/menu-items/tags-tagged-items-details-tab.png)
+![Details-Tab der getaggten Elemente](../../../de/images/menu-items/tags-tagged-items/01-tags-tagged-items-details-tab.png)
 
 ## Formularfelder
 
 ### Tag-Optionen-Tab
 
-![Details-Tab der getaggten Elemente](../../../de/images/menu-items/tags-tagged-items-tag-options-tab.png)
+![Details-Tab der getaggten Elemente](../../../de/images/menu-items/tags-tagged-items/02-tags-tagged-items-tag-options-tab.png)
 
 - **Tag-Name** Tag-Namen für ein Layout mit einem Tag anzeigen oder ausblenden.
 - **Tag-Bild** Tag-Bild für ein Layout mit einem Tag anzeigen oder ausblenden.
@@ -39,7 +39,7 @@ Um einen bestehenden Menüpunkt *Getaggte Elemente* zu bearbeiten:
 
 ### Elementoptionen-Tab
 
-![Details-Tab der getaggten Elemente](../../../de/images/menu-items/tags-tagged-items-item-options-tab.png)
+![Details-Tab der getaggten Elemente](../../../de/images/menu-items/tags-tagged-items/03-tags-tagged-items-item-options-tab.png)
 
 - **Element-Bild** Bild für jedes Element anzeigen oder ausblenden.
 - **Element-Beschreibung** Beschreibung für jedes Element in der Liste anzeigen oder ausblenden.
@@ -48,7 +48,7 @@ Um einen bestehenden Menüpunkt *Getaggte Elemente* zu bearbeiten:
 
 ### Seitennummerierungs-Optionen-Tab
 
-![Details-Tab der getaggten Elemente](../../../de/images/menu-items/tags-tagged-items-pagination-options-tab.png)
+![Details-Tab der getaggten Elemente](../../../de/images/menu-items/tags-tagged-items/04-tags-tagged-items-pagination-options-tab.png)
 
 - **Anzeigeauswahl** Steuerung anzeigen oder ausblenden, die es dem Benutzer ermöglicht, die Anzahl der anzuzeigenden Elemente in der Liste auszuwählen. Beachten Sie, dass es bei einer großen Anzahl von Elementen hilfreich sein kann, die Filteroptionen zu verwenden, um die angezeigten Elemente zu begrenzen.
 - **Seitennummerierung** Unterstützung für Seitennummerierung anzeigen oder ausblenden. Die Seitennummerierung bietet Links am unteren Rand der Seite, die es dem Benutzer ermöglichen, zu weiteren Seiten zu navigieren.
@@ -56,7 +56,7 @@ Um einen bestehenden Menüpunkt *Getaggte Elemente* zu bearbeiten:
 
 ### Elementauswahl-Optionen-Tab
 
-![Details-Tab der getaggten Elemente](../../../de/images/menu-items/tags-tagged-items-item-selection-options-tab.png)
+![Details-Tab der getaggten Elemente](../../../de/images/menu-items/tags-tagged-items/05-tags-tagged-items-item-selection-options-tab.png)
 
 - **Übereinstimmungstyp** *Alle* gibt Elemente zurück, die alle Tags enthalten. *Beliebig* gibt Elemente zurück, die mindestens eines der Tags enthalten.
 - **Untergeordnete Tags** Untergeordnete Tags in die Ergebnisliste für ein Tag einbeziehen oder ausschließen.

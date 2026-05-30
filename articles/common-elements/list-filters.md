@@ -13,7 +13,7 @@ um Ihre Papierkorbartikel anzuzeigen, müssen Sie den Filter ** - Select Status 
 
 ## Filteroptionen für Artikellisten¶
 
-![Artikelliste](../../../de/images/common-elements/articles-list-filter-options.png)
+![Artikelliste](../../../de/images/common-elements/list-filters/01-articles-list-filter-options.png)
 
 Um die Optionen **anzuzeigen** oder **auszublenden**, wählen Sie die Schaltfläche **Filteroptionen**. Beachten
 dass die Optionen immer angezeigt werden, wenn Sie zu einer Seite zurückkehren, auf der eine Option angezeigt wird

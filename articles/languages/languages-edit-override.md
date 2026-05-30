@@ -23,7 +23,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Sprachen Override bearbeiten](../../../de/images/languages/languages-edit-override.png)
+![Sprachen Override bearbeiten](../../../de/images/languages/languages-edit-override/01-languages-edit-override.png)
 
 ## Formularfelder
 

@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![modules popular articles module tab](../../../de/images/modules-admin/modules-popular-articles-module-tab.png)
+![modules popular articles module tab](../../../de/images/modules-admin/admin-modules-popular-articles/01-modules-popular-articles-module-tab.png)
 
 ## Formularfelder
 

@@ -33,7 +33,7 @@ Um einen bestehenden Menüpunkt **Alle Kontaktkategorien auflisten** zu bearbeit
 
 ## Screenshot
 
-![Menüpunkt Kontakte: Alle Kategorien-Baum Details-Tab](../../../de/images/menu-items/contacts-list-all-categories-tree-details-tab.png)
+![Menüpunkt Kontakte: Alle Kategorien-Baum Details-Tab](../../../de/images/menu-items/contacts-list-all-contact-categories/01-contacts-list-all-categories-tree-details-tab.png)
 
 ## Formularfelder
 
@@ -41,7 +41,7 @@ Um einen bestehenden Menüpunkt **Alle Kontaktkategorien auflisten** zu bearbeit
 
 Die Optionen für Kategorien steuern, wie die Kategorieninformationen im Layout angezeigt werden. Folgende Optionen können angepasst werden:
 
-![Menüpunkt Kontakte: Alle Kategorien-Baum Kategorien-Tab](../../../de/images/menu-items/contacts-list-all-categories-tree-categories-tab.png)
+![Menüpunkt Kontakte: Alle Kategorien-Baum Kategorien-Tab](../../../de/images/menu-items/contacts-list-all-contact-categories/02-contacts-list-all-categories-tree-categories-tab.png)
 
 - **Beschreibung der obersten Kategorie** Zeigt oder verbirgt die Beschreibung der obersten Kategorie oder überschreibt diese optional mit dem Text aus dem Beschreibungsfeld des Menüpunkts. Wenn "Root" als oberste Kategorie verwendet wird, muss das Beschreibungsfeld ausgefüllt sein.
 - **Alternative Beschreibung** Wenn Sie hier Text eingeben, wird die Beschreibung der obersten Kategorie überschrieben, falls vorhanden.
@@ -54,7 +54,7 @@ Die Optionen für Kategorien steuern, wie die Kategorieninformationen im Layout 
 
 Die Listenlayout-Optionen steuern das Erscheinungsbild des Listenlayouts.
 
-![Menüpunkt Kontakte: Alle Kategorien-Baum Listenlayouts-Tab](../../../de/images/menu-items/contacts-list-all-categories-tree-list-layouts-tab.png)
+![Menüpunkt Kontakte: Alle Kategorien-Baum Listenlayouts-Tab](../../../de/images/menu-items/contacts-list-all-contact-categories/03-contacts-list-all-categories-tree-list-layouts-tab.png)
 
 - **Filterfeld** Zeigt oder verbirgt ein Filterfeld für die Liste.
 - **Anzeigeauswahl** Zeigt oder verbirgt die Steuerung für die Anzahl der Elemente, die in der Liste angezeigt werden sollen.
@@ -80,7 +80,7 @@ Die Listenlayout-Optionen steuern das Erscheinungsbild des Listenlayouts.
 
 Die Kontaktanzeige-Optionen steuern das Erscheinungsbild des Listenlayouts.
 
-![Menüpunkt Kontakte: Alle Kategorien-Baum Kontaktanzeige-Optionen-Tab](../../../de/images/menu-items/contacts-list-all-categories-tree-contact-display-options.png)
+![Menüpunkt Kontakte: Alle Kategorien-Baum Kontaktanzeige-Optionen-Tab](../../../de/images/menu-items/contacts-list-all-contact-categories/04-contacts-list-all-categories-tree-contact-display-options.png)
 
 - **Kontakts-Kategorie** Zeigt oder verbirgt die Anzeige der Kontakts-Kategorie.
     - *Global verwenden* Verwendet den Standardwert aus den Kontakteinstellungen.
@@ -112,7 +112,7 @@ Die Kontaktanzeige-Optionen steuern das Erscheinungsbild des Listenlayouts.
 
 ### E-Mail-Optionen-Tab
 
-![Menüpunkt Kontakte: Alle Kategorien-Baum E-Mail-Optionen-Tab](../../../de/images/menu-items/contacts-list-all-categories-tree-mail-options-tab.png)
+![Menüpunkt Kontakte: Alle Kategorien-Baum E-Mail-Optionen-Tab](../../../de/images/menu-items/contacts-list-all-contact-categories/05-contacts-list-all-categories-tree-mail-options-tab.png)
 
 - **Kontaktformular** Zeigt oder verbirgt das *Kontaktformular* des Kontakts.
 - **Kopie an Ab

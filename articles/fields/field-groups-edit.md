@@ -26,7 +26,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 Dieses Beispiel zeigt die Seite *Artikel: Feldgruppe bearbeiten*. Die Seiten *Kontakte: Feldgruppe bearbeiten* und *Benutzer: Feldgruppe bearbeiten* sind ähnlich.
 
-![Artikel Feldgruppe bearbeiten](../../../de/images/fields/articles-edit-field-group.png)
+![Artikel Feldgruppe bearbeiten](../../../de/images/fields/field-groups-edit/01-articles-edit-field-group.png)
 
 ## Formularfelder
 

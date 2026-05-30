@@ -21,7 +21,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Benutzer Benutzerhinweise Liste](../../../de/images/users/users-user-notes-edit-category.png)
+![Benutzer Benutzerhinweise Liste](../../../de/images/users/user-notes-new-or-edit-category/01-users-user-notes-edit-category.png)
 
 ## Formularfelder
 

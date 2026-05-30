@@ -17,7 +17,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Sprachen Inhaltsprache bearbeiten Details-Tab](../../../en/images/languages/languages-edit-content-language-details-tab.png)
+![Sprachen Inhaltsprache bearbeiten Details-Tab](../../../en/images/languages/languages-edit-content-language/01-languages-edit-content-language-details-tab.png)
 
 ## Formularfelder
 
@@ -36,7 +36,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ### Optionen-Tab
 
-![Sprachen Inhaltsprache bearbeiten Optionen-Tab](../../../en/images/languages/languages-edit-content-language-options-tab.png)
+![Sprachen Inhaltsprache bearbeiten Optionen-Tab](../../../en/images/languages/languages-edit-content-language/02-languages-edit-content-language-options-tab.png)
 
 * Der **Benutzerdefinierte Name der Website** kann in verschiedenen Sprachen unterschiedlich sein!
 * Die **Meta-Beschreibung** sollte in verschiedenen Sprachen unterschiedlich sein!

@@ -18,7 +18,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![private Nachrichten Ansicht](../../../de/images/private-messages/private-messages-view.png)
+![private Nachrichten Ansicht](../../../de/images/private-messages/private-messages-read/01-private-messages-view.png)
 
 ## Details
 

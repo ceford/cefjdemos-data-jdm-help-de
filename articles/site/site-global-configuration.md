@@ -18,7 +18,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Globale Konfiguration Site-Tab](../../../de/images/site/global-configuration-site-tab.png)
+![Globale Konfiguration Site-Tab](../../../de/images/site/site-global-configuration/01-global-configuration-site-tab.png)
 
 ## Formularfelder
 
@@ -74,7 +74,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### System-Tab
 
-![Globale Konfiguration System-Tab](../../../de/images/site/global-configuration-system-tab.png)
+![Globale Konfiguration System-Tab](../../../de/images/site/site-global-configuration/02-global-configuration-system-tab.png)
 
 #### Debug-Panel
 
@@ -108,7 +108,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Server-Tab
 
-![Global Configuration Server Tab](../../../de/images/site/global-configuration-server-tab.png)
+![Global Configuration Server Tab](../../../de/images/site/site-global-configuration/03-global-configuration-server-tab.png)
 
 #### Server-Panel
 
@@ -180,7 +180,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Protokollierung-Tab
 
-![Global Configuration Logging Tab](../../../de/images/site/global-configuration-logging-tab.png)
+![Global Configuration Logging Tab](../../../de/images/site/site-global-configuration/04-global-configuration-logging-tab.png)
 
 #### Protokollierungs-Panel
 
@@ -196,7 +196,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Textfilter-Tab
 
-![Global Configuration Text Filters Tab](../../../de/images/site/global-configuration-text-filters-tab.png)
+![Global Configuration Text Filters Tab](../../../de/images/site/site-global-configuration/05-global-configuration-text-filters-tab.png)
 
 Diese Textfilter-Einstellungen werden auf alle Texteingabefelder angewendet, die von Benutzern in den ausgewählten Gruppen übermittelt werden.
 

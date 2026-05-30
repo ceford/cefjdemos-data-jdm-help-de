@@ -33,7 +33,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Artikel erstellen Details-Tab](../../../de/images/menu-items/articles-create-article-details-tab.png)
+![Menüpunkt Artikel erstellen Details-Tab](../../../de/images/menu-items/articles-create-article/01-articles-create-article-details-tab.png)
 
 ## Formularfelder
 
@@ -55,7 +55,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ### Optionen
 
-![Menüpunkt Artikel erstellen Optionen-Tab](../../../de/images/menu-items/articles-create-article-options-tab.png)
+![Menüpunkt Artikel erstellen Optionen-Tab](../../../de/images/menu-items/articles-create-article/02-articles-create-article-options-tab.png)
 
 - **Spezifische Kategorie**
   - *Ja* Artikel werden der angegebenen Kategorie zugeordnet. Der Benutzer kann keine Kategorie auswählen.
@@ -69,7 +69,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 Dieser Screenshot zeigt das Joomla-Kern-Frontend-Template **Cassiopeia** mit allen Bearbeitungs-Layout-Optionen auf „Ausblenden“ gesetzt.
 
-![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article/03-articles-create-article-frontend.png)
 
 ## Tipps
 

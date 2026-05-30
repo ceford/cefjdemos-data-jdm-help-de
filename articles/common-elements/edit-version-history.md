@@ -19,7 +19,7 @@ Wählen Sie die Schaltfläche **Versionen** in der Symbolleiste einer Elementbea
 
 ## Screenshot
 
-![Versionsverlauf-Popup](../../../en/images/common-elements/articles-edit-versions.png)
+![Versionsverlauf-Popup](../../../en/images/common-elements/edit-version-history/01-articles-edit-versions.png)
 
 ## Spaltenüberschriften
 

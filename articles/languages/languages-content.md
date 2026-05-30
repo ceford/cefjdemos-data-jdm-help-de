@@ -19,7 +19,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Sprachen Inhalt Liste](../../../de/images/languages/languages-content.png)
+![Sprachen Inhalt Liste](../../../de/images/languages/languages-content/01-languages-content.png)
 
 ## Spaltenüberschriften
 

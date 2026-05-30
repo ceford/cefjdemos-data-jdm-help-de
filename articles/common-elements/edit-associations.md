@@ -11,7 +11,7 @@ kategorie, Kontakt, Menüpunkt und Newsfeed.
 
 ## Beispiel: Artikel: Registerkarte Assoziationen bearbeiten
 
-![Registerkarte Assoziationen zum Bearbeiten von Artikeln](../../../de/images/common-elements/articles-edit-association-tab.png)
+![Registerkarte Assoziationen zum Bearbeiten von Artikeln](../../../de/images/common-elements/edit-associations/01-articles-edit-association-tab.png)
 
 In dieser Abbildung wurde ein Artikel auf Deutsch erstellt. Es ist das eine Wesen
 bearbeiten. Die Liste der Verbände zeigt die verfügbaren Sprachen außer Deutsch.

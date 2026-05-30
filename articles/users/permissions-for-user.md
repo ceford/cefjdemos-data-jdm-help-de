@@ -20,7 +20,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Benutzer Berechtigungen für Benutzer](../../../de/images/users/users-permissions-for-user.png)
+![Benutzer Berechtigungen für Benutzer](../../../de/images/users/permissions-for-user/01-users-permissions-for-user.png)
 
 Oberhalb der Berechtigungstabelle werden ausgewählte Elemente angezeigt, die die Zugriffsberechtigungen mithilfe von Symbolen für *Erlaubt*, *Nicht Erlaubt* und *Verboten* darstellen. Die Symbollegende befindet sich unter der Tabelle.
 

@@ -8,7 +8,7 @@ kann Hunderte von Gegenständen sein, vielleicht Tausende oder sogar Millionen. 
 Unter jeder Ergebnisseite, wenn mehr Ergebnisse als das aktuelle Limit vorhanden sind,
 sie finden eine *Paginierungsleiste*:
 
-![Artikelliste Paginierungsleiste](../../../de/images/common-elements/articles-list-pagination-bar.png)
+![Artikelliste Paginierungsleiste](../../../de/images/common-elements/list-pagination/01-articles-list-pagination-bar.png)
 
 Wenn die erste Zahl in der Paginierungsleiste ausgewählt ist, werden die ersten 20 Ergebnisse angezeigt
 in der Liste angezeigt werden, oder welche Anzahl von Ergebnissen auch immer das Listenlimit war
@@ -22,7 +22,7 @@ es ist einfach, eine Seite nach der anderen weiterzugehen oder zurückzugehen.
 Hier ist ein Screenshot der Plugin-Liste, die auf Seite 10 mit dem verschoben wurde
 Listenlimit auf 5 gesetzt:
 
-![Plugins Liste Paginierungsleiste](../../../de/images/common-elements/plugins-list-pagination-bar.png)
+![Plugins Liste Paginierungsleiste](../../../de/images/common-elements/list-pagination/02-plugins-list-pagination-bar.png)
 
 ### Symbol
 

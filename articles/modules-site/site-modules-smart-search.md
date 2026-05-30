@@ -24,7 +24,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![smart search module tab](../../../de/images/modules-site/modules-smart-search-module-tab.png)
+![smart search module tab](../../../de/images/modules-site/site-modules-smart-search/01-modules-smart-search-module-tab.png)
 
 ## Formularfelder
 

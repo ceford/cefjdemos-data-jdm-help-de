@@ -24,6 +24,6 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Kontaktliste](../../../de/images/contacts/contacts-list.png)
+![Kontaktliste](../../../de/images/contacts/contacts/01-contacts-list.png)
 
 <!-- Translated from English with ChatGPT 2024-09-02 ->

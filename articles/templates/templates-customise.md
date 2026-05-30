@@ -14,7 +14,7 @@ Auf der Seite *Templates: Anpassen* kann der Quellcode eines Templates bearbeite
 
 Die Administrator- und Seiten-Templates-Bildschirme verwenden das gleiche Layout. Der Bildschirm für Seiten-Templates wird hier illustriert.
 
-![Templates Anpassen Cassiopeia Editor Tab](../../../de/images/templates/templates-customise-cassiopeia-editor-tab.png)
+![Templates Anpassen Cassiopeia Editor Tab](../../../de/images/templates/templates-customise/01-templates-customise-cassiopeia-editor-tab.png)
 
 ## Formularfelder
 
@@ -24,14 +24,14 @@ Die Administrator- und Seiten-Templates-Bildschirme verwenden das gleiche Layout
 
 ### Reiter "Overrides erstellen"
 
-![Templates Anpassen Cassiopeia Overrides erstellen Tab](../../../de/images/templates/templates-customise-cassiopeia-create-overrides-tab.png)
+![Templates Anpassen Cassiopeia Overrides erstellen Tab](../../../de/images/templates/templates-customise/02-templates-customise-cassiopeia-create-overrides-tab.png)
 
 - Wählen Sie ein Element zum Überschreiben aus. Elemente, die mit einem durchgehenden Dateisymbol markiert sind, öffnen sich, um eine Liste von Elementen anzuzeigen. Elemente, die mit überlagerten offenen und gefüllten Seitensymbolen markiert sind, erstellen sofort ein Override ohne Bestätigungsaufforderung. Das Override wird an der entsprechenden Stelle abgelegt. Es erscheint eine Bestätigungsmeldung, zum Beispiel: 
   *Override erstellt in /templates/cassiopeia/html/mod_whosonline*.
 
 ### Reiter "Aktualisierte Dateien"
 
-![Templates Anpassen Cassiopeia Aktualisierte Dateien Tab](../../../de/images/templates/templates-customise-cassiopeia-updated-files-tab.png)
+![Templates Anpassen Cassiopeia Aktualisierte Dateien Tab](../../../de/images/templates/templates-customise/03-templates-customise-cassiopeia-updated-files-tab.png)
 
 Falls es seit dem Erstellen der Overrides keine Aktualisierungen am Template gegeben hat, enthält dieser Tab eine einfache Nachricht:
 
@@ -43,7 +43,7 @@ Falls es Aktualisierungen gab, zeigt eine Tabelle eine Liste von Overrides an, d
 
 ### Reiter "Template-Beschreibung"
 
-![Templates Anpassen Cassiopeia Template-Beschreibung Tab](../../../de/images/templates/templates-customise-cassiopeia-template-description-tab.png)
+![Templates Anpassen Cassiopeia Template-Beschreibung Tab](../../../de/images/templates/templates-customise/04-templates-customise-cassiopeia-template-description-tab.png)
 
 - **Vorschaubild und Beschreibung** Informationen zu diesem Template.
 

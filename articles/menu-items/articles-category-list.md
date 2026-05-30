@@ -34,7 +34,7 @@ So bearbeiten Sie einen Menüpunkt:
 
 ## Bildschirmfoto
 
-![Menüpunkt Kategorie Liste](../../../de/images/menu-items/articles-category-list-details-tab.png)
+![Menüpunkt Kategorie Liste](../../../de/images/menu-items/articles-category-list/01-articles-category-list-details-tab.png)
 
 ## Formularfelder
 
@@ -60,7 +60,7 @@ So bearbeiten Sie einen Menüpunkt:
 
 Diese Parameter steuern, wie die Kategorieninformationen auf der durch diesen Menüpunkt-Typ erzeugten Seite angezeigt werden.
 
-![Menüpunkt Kategorie Liste - Kategorie-Tab](../../../de/images/menu-items/articles-category-list-category-tab.png)
+![Menüpunkt Kategorie Liste - Kategorie-Tab](../../../de/images/menu-items/articles-category-list/02-articles-category-list-category-tab.png)
 
 - **Kategorie-Titel** Den Titel der Kategorie anzeigen oder ausblenden.
 - **Kategoriebeschreibung** Die Beschreibung der Kategorie anzeigen oder ausblenden.
@@ -77,7 +77,7 @@ Diese Parameter steuern, wie die Kategorieninformationen auf der durch diesen Me
 
 Diese Parameter steuern das Layout der Seite, die durch diesen Menüpunkt-Typ erzeugt wird.
 
-![Menüpunkt Kategorie Liste - List Layouts-Tab](../../../de/images/menu-items/articles-category-list-list-layouts-tab.png)
+![Menüpunkt Kategorie Liste - List Layouts-Tab](../../../de/images/menu-items/articles-category-list/03-articles-category-list-list-layouts-tab.png)
 
 - **Anzahl-Anzeige** Zeigt oder verbirgt die Steuerung zur Auswahl der Anzahl der anzuzeigenden Artikel.
 - **Filterfeld** Zeigt oder verbirgt ein Textfeld im Frontend, in dem Benutzer Artikel filtern können.

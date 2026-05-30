@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![modules quick icons module tab](../../../de/images/modules-admin/modules-quick-icons-module-tab.png)
+![modules quick icons module tab](../../../de/images/modules-admin/admin-modules-quick-icons/01-modules-quick-icons-module-tab.png)
 
 ## Formularfelder
 

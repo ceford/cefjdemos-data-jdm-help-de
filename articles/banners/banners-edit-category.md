@@ -25,7 +25,7 @@ Navigieren Sie zur Banner-Kategorien-Liste:
 
 ## Screenshot
 
-![Banner Kategorie bearbeiten](../../../de/images/banners/banners-edit-category-category-tab.png)
+![Banner Kategorie bearbeiten](../../../de/images/banners/banners-edit-category/01-banners-edit-category-category-tab.png)
 
 Weitere Informationen finden Sie unter Gemeinsame Elemente.
 

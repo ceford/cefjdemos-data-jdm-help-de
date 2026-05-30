@@ -24,7 +24,7 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Kontakte Kategorie bearbeiten Tab](../../../de/images/contacts/contacts-edit-category-category-tab.png)
+![Kontakte Kategorie bearbeiten Tab](../../../de/images/contacts/contacts-edit-category/01-contacts-edit-category-category-tab.png)
 
 ## Formularfelder
 

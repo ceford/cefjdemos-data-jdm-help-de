@@ -27,4 +27,4 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Artikel Feldgruppenliste](../../../de/images/fields/articles-field-groups-list.png)
+![Artikel Feldgruppenliste](../../../de/images/fields/field-groups/01-articles-field-groups-list.png)

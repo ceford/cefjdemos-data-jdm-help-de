@@ -25,7 +25,7 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Banner-Kategorienliste](../../../de/images/banners/banners-categories-list.png)
+![Banner-Kategorienliste](../../../de/images/banners/banners-categories/01-banners-categories-list.png)
 
 ## Tipps
 

@@ -19,7 +19,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Datenschutz Optionen](../../../de/images/privacy/privacy-options.png)
+![Datenschutz Optionen](../../../de/images/privacy/privacy-options/01-privacy-options.png)
 
 ## Formularfelder
 

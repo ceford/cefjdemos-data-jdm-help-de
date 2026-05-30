@@ -31,20 +31,20 @@ Um einen bestehenden Menüpunkt *Iframe Wrapper* zu bearbeiten:
 
 ## Screenshot
 
-![Iframe-Wrapper-Details-Tab](../../../de/images/menu-items/wrapper-iframe-wrapper-details-tab.png)
+![Iframe-Wrapper-Details-Tab](../../../de/images/menu-items/wrapper-iframe-wrapper/01-wrapper-iframe-wrapper-details-tab.png)
 
 ## Formularfelder
 
 ### Scrollleisten-Parameter-Tab
 
-![Iframe-Wrapper-Scrollleisten-Parameter-Tab](../../../de/images/menu-items/wrapper-scroll-bar-parameters-tab.png)
+![Iframe-Wrapper-Scrollleisten-Parameter-Tab](../../../de/images/menu-items/wrapper-iframe-wrapper/02-wrapper-scroll-bar-parameters-tab.png)
 
 - **Breite** Breite des IFrame-Fensters. Geben Sie eine Pixelzahl oder einen Prozentsatz ein. Zum Beispiel bedeutet *550* 550 Pixel; *75%* bedeutet 75% der Breite des `<main>`-Containers. Eine absolute Pixelzahl kann breiter als der Container sein und Layoutprobleme verursachen. Im Zweifelsfall probieren Sie 100%.
 - **Höhe** Höhe des IFrame-Fensters. Geben Sie eine Pixelzahl ein. Zum Beispiel bedeutet *550* 550 Pixel.
 
 ### Erweitert-Tab
 
-![Iframe-Wrapper-Erweitert-Tab](../../../de/images/menu-items/wrapper-advanced-tab.png)
+![Iframe-Wrapper-Erweitert-Tab](../../../de/images/menu-items/wrapper-iframe-wrapper/03-wrapper-advanced-tab.png)
 
 - **Automatische Höhe** Die Höhe wird automatisch auf die Höhe der externen Seite eingestellt. *Hinweis* - dies funktioniert nur, wenn die externe Seite auf der **gleichen Domain** liegt. Zum Beispiel muss bei `http://www.beispiel.de` die externe HTML-Datei im Root-Verzeichnis von `beispiel.de` liegen. Subdomains funktionieren nicht, da sie als separate Domains betrachtet werden.
 - **Automatisch hinzufügen**. Webadresse automatisch mit http:// voranstellen. Diese Funktion erkennt automatisch, wenn eine URL bereits mit http:// oder https:// beginnt, und stellt sie nicht erneut vor.

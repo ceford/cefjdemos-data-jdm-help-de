@@ -17,7 +17,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Joomla Update Optionen](../../../en/images/joomla-update/joomla-update-options.png)
+![Joomla Update Optionen](../../../en/images/joomla-update/joomla-update-options/01-joomla-update-options.png)
 
 ## Formularfelder
 

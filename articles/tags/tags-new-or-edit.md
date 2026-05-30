@@ -18,7 +18,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![tags edit tag details tab](../../../de/images/tags/tags-edit-tag-details-tab.png)
+![tags edit tag details tab](../../../de/images/tags/tags-new-or-edit/01-tags-edit-tag-details-tab.png)
 
 ## Formularfelder
 
@@ -42,7 +42,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ### Optionen-Tab
 
-![tags edit tag options tab](../../../de/images/tags/tags-edit-options-tab.png)
+![tags edit tag options tab](../../../de/images/tags/tags-new-or-edit/02-tags-edit-options-tab.png)
 
 #### Optionen-Panel
 
@@ -59,7 +59,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ### Veröffentlichungs-Tab
 
-![tags edit tag publishing tab](../../../de/images/tags/tags-edit-publishing-tab.png)
+![tags edit tag publishing tab](../../../de/images/tags/tags-new-or-edit/03-tags-edit-publishing-tab.png)
 
 #### Veröffentlichungs-Panel
 

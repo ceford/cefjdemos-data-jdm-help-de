@@ -30,7 +30,7 @@ Um einen Benutzer zu bearbeiten:
 
 ## Screenshot
 
-![Benutzerliste](../../../de/images/users/users-list.png)
+![Benutzerliste](../../../de/images/users/users/01-users-list.png)
 
 ## Spaltenüberschriften
 

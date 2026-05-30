@@ -7,7 +7,7 @@ der Joomla-Administration den Button **Hilfe** in der Symbolleiste
 auswählen, um weitere Informationen über die Seite zu erhalten. Der
 Button befindet sich rechts unterhalb der Titelleiste. Beispiel:
 
-![help toolbar](../../../de/images/help-screens/start-here-top-bars.png)
+![help toolbar](../../../de/images/help-screens/start-here/01-start-here-top-bars.png)
 
 In der Mitte des Bildschirms wird ein modales Dialogfeld mit Hilfe angezeigt
 spezifische Informationen für diese Seite.

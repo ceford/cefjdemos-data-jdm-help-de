@@ -26,7 +26,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Artikel Feld bearbeiten](../../../de/images/fields/articles-edit-field.png)
+![Artikel Feld bearbeiten](../../../de/images/fields/fields-edit/01-articles-edit-field.png)
 
 ## Formularfelder
 
@@ -59,7 +59,7 @@ Parameter für alle Felder:
 
 ### Optionen-Registerkarte
 
-![Artikel Feld Bearbeiten Optionen Registerkarte](../../../de/images/fields/articles-edit-field-options-tab.png)
+![Artikel Feld Bearbeiten Optionen Registerkarte](../../../de/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
 
 #### Formularoptionen
 

@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Benutzer Benutzerhinweise Liste](../../../de/images/users/users-user-notes-list.png)
+![Benutzer Benutzerhinweise Liste](../../../de/images/users/user-notes/01-users-user-notes-list.png)
 
 ## Tipps
 

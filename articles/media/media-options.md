@@ -17,7 +17,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Medien Optionen](../../../de/images/media/media-options.png)
+![Medien Optionen](../../../de/images/media/media-options/01-media-options.png)
 
 ## Formularfelder
 

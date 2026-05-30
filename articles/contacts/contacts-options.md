@@ -19,7 +19,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Kontakte Optionen Screenshot](../../../de/images/contacts/contacts-options-contact-tab.png)
+![Kontakte Optionen Screenshot](../../../de/images/contacts/contacts-options/01-contacts-options-contact-tab.png)
 
 ## Formularfelder
 
@@ -70,7 +70,7 @@ Diese Einstellungen gelten für einzelne Kontakte, es sei denn, sie werden für 
 
 ### Symbole-Tab
 
-![Kontakte Optionen Symbole-Tab](../../../de/images/contacts/contacts-options-icons-tab.png)
+![Kontakte Optionen Symbole-Tab](../../../de/images/contacts/contacts-options/02-contacts-options-icons-tab.png)
 
 Diese Einstellungen gelten für einzelne Kontakte, es sei denn, sie werden für ein bestimmtes Menüelement oder einen bestimmten Kontakt geändert.
 
@@ -86,7 +86,7 @@ Diese Einstellungen gelten für einzelne Kontakte, es sei denn, sie werden für 
 
 Kategorieoptionen steuern, wie Kontakte angezeigt werden, wenn Sie zu einer Kategorie navigieren, um deren Kontakte anzuzeigen.
 
-![Kontakte Optionen Kategorie-Tab](../../../de/images/contacts/contacts-options-category-tab.png)
+![Kontakte Optionen Kategorie-Tab](../../../de/images/contacts/contacts-options/03-contacts-options-category-tab.png)
 
 - **Layout wählen** (Blog/Liste/Benutzerdefiniert). Dies ermöglicht es Ihnen, das Standardlayout auszuwählen, das angezeigt wird, wenn Sie auf einen Kategorielink klicken. Wenn Sie ein alternatives Layout für ein Kategorielayout erstellen, können Sie dieses als Standard auswählen.
 - **Kategorietitel** Den Titel der Kategorie anzeigen oder ausblenden.
@@ -102,13 +102,13 @@ Kategorieoptionen steuern, wie Kontakte angezeigt werden, wenn Sie zu einer Kate
 
 Diese Einstellungen gelten für Kontaktkategorienoptionen, es sei denn, sie werden für ein bestimmtes Menüelement geändert.
 
-![Kontakte Optionen Kategorien-Tab](../../../de/images/contacts/contacts-options-categories-tab.png)
+![Kontakte Optionen Kategorien-Tab](../../../de/images/contacts/contacts-options/04-contacts-options-categories-tab.png)
 
 ### Listenlayouts-Tab
 
 Diese Einstellungen gelten für Kontaktlistenoptionen, es sei denn, sie werden für ein bestimmtes Menüelement geändert.
 
-![Kontakte Optionen Listenlayouts-Tab](../../../de/images/contacts/contacts-options-list-layouts-tab.png)
+![Kontakte Optionen Listenlayouts-Tab](../../../de/images/contacts/contacts-options/05-contacts-options-list-layouts-tab.png)
 
 - **Filterfeld** Das Filterfeld erstellt ein Textfeld, in das ein Benutzer ein Feld eingeben kann, um die in der Liste angezeigten Artikel zu filtern. 
     Die möglichen Optionen hierfür (im Backend-Menüelement bearbeiten) werden unten angezeigt.
@@ -140,7 +140,7 @@ Diese Einstellungen gelten für Kontaktlistenoptionen, es sei denn, sie werden f
 
 Diese Einstellungen gelten für einzelne Kontakte, es sei denn, sie werden für ein bestimmtes Menüelement oder einen bestimmten Kontakt geändert.
 
-![Kontakte Optionen Formular-Tab](../../../de/images/contacts/contacts-options-form-tab.png)
+![Kontakte Optionen Formular-Tab](../../../de/images/contacts/contacts-options/06-contacts-options-form-tab.png)
 
 - **Captcha für Kontakt zulassen** Standard oder keine Auswahl. Wählen Sie das Captcha-Plugin aus, das im Kontaktformular verwendet wird. Captcha ist eine Technik, um Spam-Benutzerregistrierungen zu verhindern, indem ein Benutzer aufgefordert wird, Zeichen aus einem verzerrten Bild einzugeben oder *Ich bin kein Roboter* zu markieren. Möglicherweise müssen Sie weitere Informationen für Ihr Captcha-Plugin im Plugin-Manager eingeben.
 - **Kontaktformular** Kontaktformular anzeigen oder ausblenden.

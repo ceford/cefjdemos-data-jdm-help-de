@@ -26,7 +26,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Workflows Liste](../../../de/images/workflows/workflows-list.png)
+![Workflows Liste](../../../de/images/workflows/workflows/01-workflows-list.png)
 
 ## Spaltenüberschriften
 

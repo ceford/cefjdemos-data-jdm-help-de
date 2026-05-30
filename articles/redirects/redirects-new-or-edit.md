@@ -18,7 +18,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Weiterleitungen Links](../../../de/images/redirects/redirects-edit.png)
+![Weiterleitungen Links](../../../de/images/redirects/redirects-new-or-edit/01-redirects-edit.png)
 
 ## Formularfelder
 

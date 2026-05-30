@@ -27,7 +27,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![articles category module tab](../../../de/images/modules-site/modules-articles-category-module-tab.png)
+![articles category module tab](../../../de/images/modules-site/site-modules-articles-category/01-modules-articles-category-module-tab.png)
 
 ## Formularfelder
 
@@ -42,7 +42,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Filteroptionen-Tab
 
-![articles category filtering options tab](../../../en/images/modules-site/modules-articles-category-filtering-options-tab.png)
+![articles category filtering options tab](../../../en/images/modules-site/site-modules-articles-category/02-modules-articles-category-filtering-options-tab.png)
 
 - **Hervorgehobene Artikel** Hervorgehobene Artikel anzeigen, ausblenden oder nur hervorgehobene Artikel auswählen.
 - **Anzahl** Die Anzahl der anzuzeigenden Elemente. Der Standardwert von 0 zeigt alle Artikel an.
@@ -63,14 +63,14 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Sortieroptionen-Tab
 
-![articles category ordering options tab](../../../en/images/modules-site/modules-articles-category-ordering-options-tab.png)
+![articles category ordering options tab](../../../en/images/modules-site/site-modules-articles-category/03-modules-articles-category-ordering-options-tab.png)
 
 - **Artikel-Feld zum Sortieren nach** Wählen Sie ein Feld aus der Liste aus. Die *Hervorgehobene Sortierung* sollte nur verwendet werden, wenn die Filteroption für hervorgehobene Artikel auf *Nur* gesetzt ist.
 - **Sortierrichtung** Wählen Sie die Sortierrichtung der Artikel.
 
 ### Gruppierungsoptionen-Tab
 
-![articles category grouping options tab](../../../en/images/modules-site/modules-articles-category-grouping-options-tab.png)
+![articles category grouping options tab](../../../en/images/modules-site/site-modules-articles-category/04-modules-articles-category-grouping-options-tab.png)
 
 - **Artikelgruppierung** Wählen Sie eine Methode zur Gruppierung der Artikel aus der Liste.
 - **Gruppierungsrichtung** Wählen Sie die Sortierrichtung der Gruppen.
@@ -78,7 +78,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Anzeigeoptionen-Tab
 
-![articles category display options tab](../../../en/images/modules-site/modules-articles-category-display-options-tab.png)
+![articles category display options tab](../../../en/images/modules-site/site-modules-articles-category/05-modules-articles-category-display-options-tab.png)
 
 - **Verlinkte Titel** Zeigen Sie die Titel als Links zu den Artikeln an.
 - **Datum** Zeigen Sie das Artikeldatum an oder blenden Sie es aus.

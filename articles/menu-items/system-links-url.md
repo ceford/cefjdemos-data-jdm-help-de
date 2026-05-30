@@ -29,7 +29,7 @@ Um einen bestehenden externen URL-Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Alias](../../../de/images/menu-items/system-links-url-details-tab.png)
+![Menüpunkt Alias](../../../de/images/menu-items/system-links-url/01-system-links-url-details-tab.png)
 
 Alle Formulareingabefelder werden in den *Gemeinsamen Elementen* behandelt.
 

@@ -11,7 +11,7 @@ Zimmerkategorie.
 Die Operationen, die ausgeführt werden können, variieren mit der Liste. Das folgende
 screenshot zeigt den Stapeldialog für Artikel:
 
-![Artikelliste Batch-Screenshot](../../../de/images/common-elements/articles-list-batch.png)
+![Artikelliste Batch-Screenshot](../../../de/images/common-elements/list-batch-process/01-articles-list-batch.png)
 
 ## Beispiel: Wie man eine Gruppe von Artikeln stapelweise verarbeitet:
 

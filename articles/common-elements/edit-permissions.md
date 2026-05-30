@@ -12,13 +12,13 @@ Für detailliertere Informationen zu Benutzergruppen, Zugriffsebenen und Berecht
 
 In diesem Beispiel wurde Benutzern in der Oddjob-Gruppe die globale Berechtigung zum Anmelden an der Administratoroberfläche zugewiesen, aber sonst nichts.
 
-![Screenshot der Berechtigungen](../../../de/images/common-elements/global-configuration-permissions-tab.png)
+![Screenshot der Berechtigungen](../../../de/images/common-elements/edit-permissions/01-global-configuration-permissions-tab.png)
 
 ## Berechtigungen für die Komponentenkonfiguration
 
 Um auf eine bestimmte Komponente zuzugreifen, müssen Berechtigungen in den Komponentenoptionen festgelegt werden. In diesem Beispiel die Optionen der Medienkomponente.
 
-![Medien-Screenshot](../../../de/images/common-elements/media-options-permissions-tab.png)
+![Medien-Screenshot](../../../de/images/common-elements/edit-permissions/02-media-options-permissions-tab.png)
 
 Sie werden feststellen, dass für diese Komponente weniger Aktionen verfügbar sind und die Oddjob-Gruppe gerade genug Berechtigungen hat, um den Job auszuführen.
 
@@ -39,8 +39,8 @@ So ändern Sie die Berechtigungen für diese Komponente:
 
 Nach der Anmeldung sieht ein Benutzer in der Oddjob-Gruppe, welche Home-Dashboard-Module **Spezielle** Zugriffseinstellungen haben, und einen Menüpunkt-Link zur Medienkomponente.
 
-![Start-Dashboard für Oddjob](../../../de/images/common-elements/home-dashboard-for-oddjob.png)
+![Start-Dashboard für Oddjob](../../../de/images/common-elements/edit-permissions/03-home-dashboard-for-oddjob.png)
 
 Und der Medienbildschirm für Benutzer Oddjob ist wie erwartet:
 
-![Medienbildschirm für Oddjob](../../../de/images/common-elements/media-screen-for-oddjob.png)
+![Medienbildschirm für Oddjob](../../../de/images/common-elements/edit-permissions/04-media-screen-for-oddjob.png)

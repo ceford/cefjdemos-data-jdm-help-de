@@ -10,7 +10,7 @@ Diese Seite zeigt alle Warnungen an, die sich auf die in deiner Joomla!-Installa
 
 ## Screenshot
 
-![Informationen Warnungen](../../../de/images/information/warnings.png)
+![Informationen Warnungen](../../../de/images/information/information-warnings/01-warnings.png)
 
 ## Werkzeugleiste
 

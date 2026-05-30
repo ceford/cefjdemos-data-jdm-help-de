@@ -31,7 +31,7 @@ Um einen bestehenden Menüpunkt **Einzelner News-Feed** zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Einzelner News-Feed Details-Tab](../../../de/images/menu-items/news-feeds-single-news-feed-details-tab.png)
+![Menüpunkt Einzelner News-Feed Details-Tab](../../../de/images/menu-items/news-feeds-single-news-feed/01-news-feeds-single-news-feed-details-tab.png)
 
 ## Formularfelder
 
@@ -40,7 +40,7 @@ Um einen bestehenden Menüpunkt **Einzelner News-Feed** zu bearbeiten:
 
 ### Feedanzeige-Optionen-Tab
 
-![Menüpunkt Einzelner News-Feed Details-Tab](../../../de/images/menu-items/news-feeds-single-news-feed-feed-display-options-tab.png)
+![Menüpunkt Einzelner News-Feed Details-Tab](../../../de/images/menu-items/news-feeds-single-news-feed/02-news-feeds-single-news-feed-feed-display-options-tab.png)
 
 Zusätzlich zu Ja/Nein oder Ausblenden/Anzeigen erlauben diese Optionen die Einstellung "Global verwenden". Dies verwendet den Standardwert vom Bildschirm News-Feeds-Optionen.
 

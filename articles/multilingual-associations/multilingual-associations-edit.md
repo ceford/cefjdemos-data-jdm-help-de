@@ -22,7 +22,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Referenz- und Zielelemente nebeneinander](../../../de/images/multilingual-associations/multilingual-associations-edit.png)
+![Referenz- und Zielelemente nebeneinander](../../../de/images/multilingual-associations/multilingual-associations-edit/01-multilingual-associations-edit.png)
 
 In diesem Beispiel handelt es sich um Artikel. Jedes ist ein scrollbares Fenster mit den Optionen des Elements unterhalb des Textbearbeitungsbereichs (nicht gezeigt).
 

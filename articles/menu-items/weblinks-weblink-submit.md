@@ -30,6 +30,6 @@ Um einen bestehenden Menüpunkt **Einen Weblink einreichen** zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt-Weblinks einen Weblink einreichen](../../../en/images/menu-items/weblinks-submit-a-web-link-details-tab.png)
+![Menüpunkt-Weblinks einen Weblink einreichen](../../../en/images/menu-items/weblinks-weblink-submit/01-weblinks-submit-a-web-link-details-tab.png)
 
 Alle Eingabefelder des Formulars werden in den *Allgemeinen Elementen* behandelt.

@@ -22,7 +22,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Erweiterungen Sprachen installieren](../../../de/images/extensions/languages-install.png)
+![Erweiterungen Sprachen installieren](../../../de/images/extensions/extensions-languages/01-languages-install.png)
 
 ## Spaltenüberschriften
 

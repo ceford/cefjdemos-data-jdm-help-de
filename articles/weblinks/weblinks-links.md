@@ -21,4 +21,4 @@ Wählen Sie **Komponenten → Weblinks → Links** aus dem Administrator-Menü.
 
 ## Screenshot
 
-![Weblinks Liste](../../../de/images/weblinks/weblinks-list.png)
+![Weblinks Liste](../../../de/images/weblinks/weblinks-links/01-weblinks-list.png)

@@ -31,6 +31,6 @@ Um einen bestehenden *Benutzerprofil*-Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Details-Tab Benutzerprofil](../../../de/images/menu-items/users-user-profile-details-tab.png)
+![Details-Tab Benutzerprofil](../../../de/images/menu-items/users-user-profile/01-users-user-profile-details-tab.png)
 
 Alle Eingabefelder des Formulars werden in den *Allgemeinen Elementen* behandelt.

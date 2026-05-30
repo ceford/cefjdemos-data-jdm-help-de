@@ -34,7 +34,7 @@ Um eine vorhandene Kategorie zu bearbeiten:
 
 ## Screenshot
 
-![Kategorie bearbeiten Screenshot](../../../de/images/articles/articles-edit-category-category-tab.png)
+![Kategorie bearbeiten Screenshot](../../../de/images/articles/articles-edit-category/01-articles-edit-category-category-tab.png)
 
 ## Formularfelder
 

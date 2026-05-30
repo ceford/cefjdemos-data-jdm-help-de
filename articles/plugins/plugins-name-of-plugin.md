@@ -50,7 +50,7 @@ Ausgehend vom Administrationsmenü:
 
 ## Screenshot
 
-![Plugins Plugin-Tab](../../../de/images/plugins/plugins-plugin-tab.png)
+![Plugins Plugin-Tab](../../../de/images/plugins/plugins-name-of-plugin/01-plugins-plugin-tab.png)
 
 ## Formularfelder
 

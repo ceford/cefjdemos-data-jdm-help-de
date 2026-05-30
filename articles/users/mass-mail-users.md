@@ -16,7 +16,7 @@ Wählen Sie **Benutzer → Massenmail an Benutzer** aus dem Administrator-Men�
 
 ## Screenshot
 
-![Massenmail an Benutzer](../../../de/images/users/mass-mail-users.png)
+![Massenmail an Benutzer](../../../de/images/users/mass-mail-users/01-mass-mail-users.png)
 
 ## Details und Nachricht
 

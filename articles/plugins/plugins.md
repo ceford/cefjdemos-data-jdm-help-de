@@ -21,7 +21,7 @@ Einige Elemente dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ## Screenshot
 
-![Plugin-Liste](../../../de/images/plugins/plugins-list.png)
+![Plugin-Liste](../../../de/images/plugins/plugins/01-plugins-list.png)
 
 ## Tipps
 

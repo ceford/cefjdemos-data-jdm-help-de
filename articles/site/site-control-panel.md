@@ -11,7 +11,7 @@ Das Start-Dashboard ist das Standardziel nach der Anmeldung im Backend. Von jede
 
 ## Screenshot
 
-![Start-Dashboard](../../../de/images/site/home-dashboard.png)
+![Start-Dashboard](../../../de/images/site/site-control-panel/01-home-dashboard.png)
 
 ## Module
 

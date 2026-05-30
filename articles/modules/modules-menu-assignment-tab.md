@@ -6,7 +6,7 @@ Der *Modul: Menüzuweisung*-Tab wird mit geringfügigen Abweichungen in allen Be
 
 ## Screenshot
 
-![Module Erweitert-Tab](../../../de/images/modules/modules-custom-menu-assignment-tab.png)
+![Module Erweitert-Tab](../../../de/images/modules/modules-menu-assignment-tab/01-modules-custom-menu-assignment-tab.png)
 
 ## Formularfelder
 

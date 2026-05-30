@@ -18,7 +18,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ## Screenshot
 
-![tags options tagged items tab](../../../de/images/tags/tags-options-tagged-items-tab.png)
+![tags options tagged items tab](../../../de/images/tags/tags-options/01-tags-options-tagged-items-tab.png)
 
 ## Formularfelder
 
@@ -41,7 +41,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ### Registerkarte "Elementauswahl"
 
-![tags options tagged items tab](../../../de/images/tags/tags-options-item-selection-tab.png)
+![tags options tagged items tab](../../../de/images/tags/tags-options/02-tags-options-item-selection-tab.png)
 
 - **Minimale Suchlänge** Diese Einstellung steuert die minimale Zeichenzahl für die Suche und das Hinzufügen von Tags im Ajax-Modus des Tags-Feldes.
 - **Übereinstimmungstyp** Alle gibt Elemente zurück, die alle Tags haben. Beliebig gibt Elemente zurück, die mindestens einen der Tags haben.
@@ -51,7 +51,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ### Registerkarte "Alle Tags auflisten"
 
-![tags options list all tags tab](../../../de/images/tags/tags-options-list-all-tags-tab.png)
+![tags options list all tags tab](../../../de/images/tags/tags-options/03-tags-options-list-all-tags-tab.png)
 
 - **Standardlayout für Alle Tags auflisten** Wählen Sie ein Standardlayout für die Liste aller Tags.
 - **Reihenfolge** Reihenfolge, in der die Elemente angezeigt werden.
@@ -63,7 +63,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ### Registerkarte "Geteiltes Layout"
 
-![tags options shared layout tab](../../../de/images/tags/tags-options-shared-layout-tab.png)
+![tags options shared layout tab](../../../de/images/tags/tags-options/04-tags-options-shared-layout-tab.png)
 
 - **Filterfeld** Ob ein Filterfeld für die Liste angezeigt werden soll. Wählen Sie Ausblenden, um das Filterfeld auszublenden.
 - **Anzeigeauswahl** Ob die Dropdown-Liste für die Anzeigeauswahl angezeigt oder ausgeblendet werden soll.
@@ -72,13 +72,13 @@ Einige Aspekte dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ### Registerkarte "Daten eingeben"
 
-![tags options data entry tab](../../../de/images/tags/tags-options-data-entry-tab.png)
+![tags options data entry tab](../../../de/images/tags/tags-options/05-tags-options-data-entry-tab.png)
 
 - **Tag-Eingabemodus** Der Ajax-Modus sucht Tags beim Tippen und ermöglicht die sofortige Tag-Erstellung. Verschachtelte Tags zeigen Ihnen eine verschachtelte Ansicht aller verfügbaren Tags.
 
 ### Registerkarte "Integration"
 
-![tags options integration tab](../../../de/images/tags/tags-options-integration-tab.png)
+![tags options integration tab](../../../de/images/tags/tags-options/06-tags-options-integration-tab.png)
 
 - **Feed-Link anzeigen** Einen RSS-Feed-Link anzeigen oder ausblenden. (Ein Feed-Link wird in den meisten modernen Browsern als Feed-Symbol in der Adressleiste angezeigt).
 

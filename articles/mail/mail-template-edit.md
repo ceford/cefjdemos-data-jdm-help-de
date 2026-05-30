@@ -21,7 +21,7 @@ Ein Element dieser Seite wird in einem separaten Hilfeartikel behandelt:
 
 ## Screenshot
 
-![Mail-Vorlage Bearbeiten](../../../de/images/mail/edit-mail-template.png)
+![Mail-Vorlage Bearbeiten](../../../de/images/mail/mail-template-edit/01-edit-mail-template.png)
 
 Die Mail-Optionen ermöglichen den Versand von Nur-Text- oder HTML-Nachrichten oder beides. 
 Wenn nur eine Methode ausgewählt ist, wird die Alternative im Nachrichtenbearbeitungsformular 

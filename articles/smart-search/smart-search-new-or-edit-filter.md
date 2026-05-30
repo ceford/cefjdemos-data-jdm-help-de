@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Smart Search Filter bearbeiten](../../../de/images/smart-search/smart-search-edit-filter.png)
+![Smart Search Filter bearbeiten](../../../de/images/smart-search/smart-search-new-or-edit-filter/01-smart-search-edit-filter.png)
 
 ## Formularfelder
 
@@ -39,7 +39,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Optionen Tab
 
-![Smart Search Optionen Tab bearbeiten](../../../de/images/smart-search/smart-search-edit-filter-options-tab.png)
+![Smart Search Optionen Tab bearbeiten](../../../de/images/smart-search/smart-search-new-or-edit-filter/02-smart-search-edit-filter-options-tab.png)
 
 ### Veröffentlichungs-Panel
 

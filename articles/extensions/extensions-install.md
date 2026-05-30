@@ -66,7 +66,7 @@ Es ist nur eine Methode erforderlich, um eine bestimmte Erweiterung zu installie
 
 ### Paketdatei hochladen
 
-![Extension install upload package file tab](../../../de/images/extensions/install-upload-package-file.png)
+![Extension install upload package file tab](../../../de/images/extensions/extensions-install/01-install-upload-package-file.png)
 
 - Per Drag & Drop die Archivdatei der Erweiterung in den Kasten ziehen
   oder auf die Schaltfläche klicken, um eine Datei zum Hochladen
@@ -79,7 +79,7 @@ größeren Dateien, die Option *Aus Verzeichnis installieren* verwenden.
 
 ### Aus Verzeichnis installieren
 
-![Extension install from folder tab](../../../de/images/extensions/install-from-folder.png)
+![Extension install from folder tab](../../../de/images/extensions/extensions-install/02-install-from-folder.png)
 
 1.  Ein temporäres Verzeichnis auf der lokalen Festplatte anlegen und
     die Archivdatei der Erweiterung in dieses temporäre Verzeichnis
@@ -99,7 +99,7 @@ in das tmp-Verzeichnis der Joomla Site zu legen.
 
 ### Von URL installieren
 
-![Extension install from url tab](../../../de/images/extensions/install-from-url.png)
+![Extension install from url tab](../../../de/images/extensions/extensions-install/03-install-from-url.png)
 
 Anstatt die Archivdatei auf den lokalen Rechner herunterzuladen, kann
 man die Ziel-URL der Archivdatei angeben. Danach auf die Schaltfläche
@@ -112,7 +112,7 @@ Computer.
 
 Um eine Erweiterung direkt aus dem Joomla Extension Directory (JED) zu installieren. Sie können Erweiterungen nach Kategorie auflisten oder nach einem Teilnamen suchen.
 
-![Erweiterung vom Web installieren Registerkarte](../../../de/images/extensions/install-from-web.png)
+![Erweiterung vom Web installieren Registerkarte](../../../de/images/extensions/extensions-install/04-install-from-web.png)
 
 ## Tipps
 

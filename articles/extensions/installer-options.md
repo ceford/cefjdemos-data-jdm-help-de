@@ -18,7 +18,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Installer Optionen, Einstellungen-Tab](../../../de/images/extensions/installer-options-preferences-tab.png)
+![Installer Optionen, Einstellungen-Tab](../../../de/images/extensions/installer-options/01-installer-options-preferences-tab.png)
 
 ## Formularfelder
 

@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![modules multilingual status module tab](../../../de/images/modules-admin/modules-multilingual-status-module-tab.png)
+![modules multilingual status module tab](../../../de/images/modules-admin/admin-modules-multilingual-status/01-modules-multilingual-status-module-tab.png)
 
 ## Formularfelder
 

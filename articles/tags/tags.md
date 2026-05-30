@@ -21,7 +21,7 @@ Wählen Sie **Komponenten → Tags** im Administrator-Menü.
 
 ## Screenshot
 
-![Tags-Liste](../../../de/images/tags/tags-list.png)
+![Tags-Liste](../../../de/images/tags/tags/01-tags-list.png)
 
 ## Tipps
 

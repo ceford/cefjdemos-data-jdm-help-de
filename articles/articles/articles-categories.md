@@ -25,7 +25,7 @@ Es gibt zwei Wege zur Kategorien-Listen-Seite:
 
 ## Screenshot
 
-![Beiträge: Kategorienliste](../../../de/images/articles/articles-categories-list.png)
+![Beiträge: Kategorienliste](../../../de/images/articles/articles-categories/01-articles-categories-list.png)
 
 ## Spaltenüberschriften
 

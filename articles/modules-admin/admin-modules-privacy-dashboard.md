@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![modules privacy dashboard module tab](../../../de/images/modules-admin/modules-privacy-dashboard-module-tab.png)
+![modules privacy dashboard module tab](../../../de/images/modules-admin/admin-modules-privacy-dashboard/01-modules-privacy-dashboard-module-tab.png)
 
 ## Formularfelder
 

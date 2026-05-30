@@ -25,7 +25,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Module Artikel Neueste Tab](../../../de/images/modules-admin/modules-custom-module-tab.png)
+![Module Artikel Neueste Tab](../../../de/images/modules-admin/admin-modules-custom/01-modules-custom-module-tab.png)
 
 ## Formularfelder
 

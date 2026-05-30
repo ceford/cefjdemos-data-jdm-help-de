@@ -25,7 +25,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![most read articles module tab](../../../de/images/modules-site/modules-articles-most-read-module-tab.png)
+![most read articles module tab](../../../de/images/modules-site/site-modules-articles-most-read/01-modules-articles-most-read-module-tab.png)
 
 ## Formularfelder
 

@@ -18,15 +18,15 @@ Auch im **System → Update-Panel → Joomla** wird entweder ein Häkchen an
 
 Wenn deine Website auf dem neuesten Stand ist, siehst du diesen Bildschirm:
 
-![Hochladen & Aktualisieren](../../../en/images/joomla-update/upload-update-up-to-date.png)
+![Hochladen & Aktualisieren](../../../en/images/joomla-update/joomla-update/01-upload-update-up-to-date.png)
 
 Wenn ein Update verfügbar ist, siehst du diesen Bildschirm:
 
-![Hochladen & Aktualisieren](../../../en/images/joomla-update/upload-update-available.png)
+![Hochladen & Aktualisieren](../../../en/images/joomla-update/joomla-update/02-upload-update-available.png)
 
 Wenn du eine Haupt- oder Nebenversion aktualisierst, siehst du einen Pre-Update-Check-Bildschirm:
 
-![Pre-Update-Check](../../../en/images/joomla-update/upload-update-pre-update-check.png)
+![Pre-Update-Check](../../../en/images/joomla-update/joomla-update/03-upload-update-pre-update-check.png)
 
 Wähle jeden der drei Menüpunkte aus, um zu prüfen, ob etwas Aufmerksamkeit benötigt.
 
@@ -42,7 +42,7 @@ Du kannst diese Schaltfläche verwenden, um Joomla zu aktualisieren, wenn dein S
 
 Deine PHP-Einstellungen für *upload_max_filesize* und *post_max_size* müssen auf 64 MB und das PHP-Speicherlimit auf 256 MB gesetzt sein. Andernfalls kann das Update fehlschlagen. Ein weiterer guter Grund, ein Backup zu machen!
 
-![Hochladen und installieren](../../../en/images/joomla-update/upload-update-upload-install.png)
+![Hochladen und installieren](../../../en/images/joomla-update/joomla-update/04-upload-update-upload-install.png)
 
 ## Update-Optionen
 

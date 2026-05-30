@@ -24,8 +24,8 @@ andere Option müssen entsprechende Daten eingegeben werden. Einige Beispiele:
 
 ### Beispiel: Artikelschema
 
-![Schema-Registerkarte mit ausgewählter Artikeloption](../../../de/images/common-elements/articles-edit-schema-tab-article.png)
+![Schema-Registerkarte mit ausgewählter Artikeloption](../../../de/images/common-elements/edit-schema/01-articles-edit-schema-tab-article.png)
 
 ### Beispiel: Personenschema
 
-![Schema-Registerkarte mit ausgewählter Personenoption](../../../de/images/common-elements/articles-edit-schema-tab-person.png)
+![Schema-Registerkarte mit ausgewählter Personenoption](../../../de/images/common-elements/edit-schema/02-articles-edit-schema-tab-person.png)

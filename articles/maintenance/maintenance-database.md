@@ -19,7 +19,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Wartung Datenbank](../../../de/images/maintenance/maintenance-database.png)
+![Wartung Datenbank](../../../de/images/maintenance/maintenance-database/01-maintenance-database.png)
 
 ## Spaltenüberschriften
 

@@ -15,7 +15,7 @@ Verschiedene Komponenten bieten verschiedene Layoutoptionen aus der Dropdown-Lis
     Liste
 ```
 
-![Registerkarte Kategorieoptionen für Artikel bearbeiten](../../../de/images/common-elements/articles-edit-category-options-tab.png)
+![Registerkarte Kategorieoptionen für Artikel bearbeiten](../../../de/images/common-elements/edit-category-options/01-articles-edit-category-options-tab.png)
 
 ## Registerkarte Optionen
 

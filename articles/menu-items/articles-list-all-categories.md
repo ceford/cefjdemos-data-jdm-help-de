@@ -37,7 +37,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Beiträge Alle Kategorien auflisten Details-Tab](../../../de/images/menu-items/articles-list-all-categories-details-tab.png)
+![Menüpunkt Beiträge Alle Kategorien auflisten Details-Tab](../../../de/images/menu-items/articles-list-all-categories/01-articles-list-all-categories-details-tab.png)
 
 ## Formularfelder
 
@@ -62,7 +62,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ### Kategorie-Tab
 
-![Menüpunkt Beiträge Alle Kategorien Kategorien-Tab](../../../de/images/menu-items/articles-list-all-categories-categories-tab.png)
+![Menüpunkt Beiträge Alle Kategorien Kategorien-Tab](../../../de/images/menu-items/articles-list-all-categories/02-articles-list-all-categories-categories-tab.png)
 
 - **Beschreibung der obersten Kategorie** Zeigt die Beschreibung der obersten Kategorie an.
 - **Alternative Beschreibung** Geben Sie eine Beschreibung ein, um die Kategoriebeschreibung für den Menüpunkt zu überschreiben.
@@ -81,7 +81,7 @@ Das Blog-Layout-Formular hat ein anderes Layout als das im Abschnitt „Allgemei
 
 Die Optionen steuern das Erscheinungsbild der Seite beim Herunterklicken, wenn diese als Kategorienliste angezeigt wird.
 
-![Menüpunkt Beiträge Alle Kategorien Listen-Layouts-Tab](../../../de/images/menu-items/articles-list-all-categories-list-layouts-tab.png)
+![Menüpunkt Beiträge Alle Kategorien Listen-Layouts-Tab](../../../de/images/menu-items/articles-list-all-categories/03-articles-list-all-categories-list-layouts-tab.png)
 
 - **Anzeigeoption auswählen** Zeigt die Steuerung „Anzahl anzeigen“ an, mit der der Benutzer die Anzahl der anzuzeigenden Artikel auswählen kann.
 - **Filterfeld** Zeigt ein Textfeld im Frontend an, in dem ein Benutzer die Artikel filtern kann. Optionen im Backend-Menüpunkt bearbeiten.
@@ -104,7 +104,7 @@ Die Optionen steuern das Erscheinungsbild der Seite beim Herunterklicken, wenn d
 
 Die gemeinsamen Optionen gelten für Blog, Liste und Hervorgehobene Artikel, es sei denn, sie werden durch die Menüeinstellungen geändert.
 
-![Menüpunkt Beiträge Alle Kategorien Gemeinsame Optionen-Tab](../../../de/images/menu-items/articles-list-all-categories-shared-tab.png)
+![Menüpunkt Beiträge Alle Kategorien Gemeinsame Optionen-Tab](../../../de/images/menu-items/articles-list-all-categories/04-articles-list-all-categories-shared-tab.png)
 
 - **Seitennummerierung** Die Seitennummerierung bietet Links am unteren Rand der Seite, mit denen der Benutzer zu weiteren Seiten navigieren kann. Diese sind erforderlich, wenn die Artikel nicht auf eine Seite passen.
   - *Verbergen: Seitennummerierungs-Links nicht anzeigen. Hinweis* Benutzer können nicht zu weiteren Seiten navigieren.

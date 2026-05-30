@@ -24,7 +24,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Neueste Benutzer Modul-Tab](../../../de/images/modules-site/modules-latest-users-module-tab.png)
+![Neueste Benutzer Modul-Tab](../../../de/images/modules-site/site-modules-latest-users/01-modules-latest-users-module-tab.png)
 
 ## Formularfelder
 

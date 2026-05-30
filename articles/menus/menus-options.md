@@ -18,7 +18,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Menüoptionen](../../../de/images/menus/menu-options-page-display-tab.png)
+![Menüoptionen](../../../de/images/menus/menus-options/01-menu-options-page-display-tab.png)
 
 ## Formularfelder
 

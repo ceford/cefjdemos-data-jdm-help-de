@@ -29,7 +29,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Menü-Liste](../../../de/images/menus/menus-list.png)
+![Menü-Liste](../../../de/images/menus/menus/01-menus-list.png)
 
 ## Spaltenüberschriften
 

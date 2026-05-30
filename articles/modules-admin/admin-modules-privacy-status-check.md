@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![modules privacy status check module tab](../../../de/images/modules-admin/modules-privacy-status-check-module-tab.png)
+![modules privacy status check module tab](../../../de/images/modules-admin/admin-modules-privacy-status-check/01-modules-privacy-status-check-module-tab.png)
 
 ## Formularfelder
 

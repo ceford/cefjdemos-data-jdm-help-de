@@ -18,7 +18,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![templates cassiopeia stil bearbeiten editor tab](../../../de/images/templates/templates-site-edit-style-details-tab.png)
+![templates cassiopeia stil bearbeiten editor tab](../../../de/images/templates/templates-edit-style/01-templates-site-edit-style-details-tab.png)
 
 ## Formularfelder
 
@@ -30,7 +30,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Reiter Erweitert
 
-![templates cassiopeia stil bearbeiten editor tab](../../../de/images/templates/templates-site-edit-style-advanced-tab.png)
+![templates cassiopeia stil bearbeiten editor tab](../../../de/images/templates/templates-edit-style/02-templates-site-edit-style-advanced-tab.png)
 
 Dieser Abschnitt ist möglicherweise nicht für alle Stile vorhanden. Wenn ein Template, von dem ein Stil abgeleitet ist, konfigurierbare Optionen enthält, werden diese hier angezeigt. Es sind diese zusätzlichen konfigurierbaren Optionen, die es ermöglichen, mehrere verschiedene Stile von Templates mit Variationen dieser Optionen zu erstellen. Die verfügbaren Optionen variieren je nach den vom Template-Entwickler bereitgestellten Möglichkeiten.
 
@@ -50,7 +50,7 @@ Wenn Sie Ihr eigenes Brand Small-Logo bereitstellen, müssen Sie auch eine Breit
 
 ### Reiter Menüzuweisung
 
-![templates cassiopeia stil bearbeiten editor tab](../../../de/images/templates/templates-site-edit-style-menu-assignment-tab.png)
+![templates cassiopeia stil bearbeiten editor tab](../../../de/images/templates/templates-edit-style/03-templates-site-edit-style-menu-assignment-tab.png)
 
 Dieser Abschnitt enthält alle Menüeinträge, die in Ihrer Joomla!-Website konfiguriert sind. Um den aktuellen Stil auf die entsprechende Webseite eines Menüeintrags anzuwenden, aktivieren Sie das Kontrollkästchen neben dem Menüeintrag. Sie können den Button *Auswahl umschalten* drücken, um die Auswahl der Menüeinträge zu invertieren.
 

@@ -31,8 +31,8 @@ Um einen bestehenden Menüpunkt für die Anzeige von Template-Optionen zu bearbe
 
 ## Screenshot
 
-![Details-Tab für Template-Optionen anzeigen](../../../de/images/menu-items/configuration-display-template-options-details.png)
+![Details-Tab für Template-Optionen anzeigen](../../../de/images/menu-items/configuration-display-template-options/01-configuration-display-template-options-details.png)
 
 ## Frontend-Screenshot
 
-![Frontend-Formular für Template-Optionen anzeigen](../../../en/images/menu-items/configuration-display-template-options-frontend.png)
+![Frontend-Formular für Template-Optionen anzeigen](../../../en/images/menu-items/configuration-display-template-options/02-configuration-display-template-options-frontend.png)

@@ -12,7 +12,7 @@ Alle Menüeinträge haben ein ähnliches Layout, aber einige der Formularfelder 
 
 ## Screenshot
 
-![Registerkarte Menüpunkt-Modulzuweisung](../../../de/images/menu-items-common/menu-item-module-assignment.png)
+![Registerkarte Menüpunkt-Modulzuweisung](../../../de/images/menu-items-common/menu-item-module-assignment/01-menu-item-module-assignment.png)
 
 ## Formularfelder
 

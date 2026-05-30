@@ -31,13 +31,13 @@ Um einen bestehenden Menüpunkt Anmeldeformular zu bearbeiten:
 
 ## Screenshot
 
-![Details-Tab Anmeldeformular](../../../de/images/menu-items/users-login-form-details-tab.png)
+![Details-Tab Anmeldeformular](../../../de/images/menu-items/users-login-form/01-users-login-form-details-tab.png)
 
 ## Formularfelder
 
 ### Optionen-Tab
 
-![Details-Tab Anmeldeformular](../../../de/images/menu-items/users-login-form-options-tab.png)
+![Details-Tab Anmeldeformular](../../../de/images/menu-items/users-login-form/02-users-login-form-options-tab.png)
 
 #### Anmeldebereich
 

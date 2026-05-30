@@ -24,4 +24,4 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![smart search content maps](../../../de/images/smart-search/smart-search-search-filters.png)
+![smart search content maps](../../../de/images/smart-search/smart-search-search-filters/01-smart-search-search-filters.png)

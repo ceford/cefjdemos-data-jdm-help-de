@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Bannerliste](../../../de/images/banners/banners-list.png)
+![Bannerliste](../../../de/images/banners/banners/01-banners-list.png)
 
 ## Spaltenüberschriften
 

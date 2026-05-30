@@ -31,6 +31,6 @@ Um einen bestehenden Menüpunkt *Benutzername-Erinnerungsanforderung* zu bearbei
 
 ## Screenshot
 
-![Details-Tab Benutzerprofil](../../../de/images/menu-items/users-username-reminder-request-details-tab.png)
+![Details-Tab Benutzerprofil](../../../de/images/menu-items/users-username-reminder-request/01-users-username-reminder-request-details-tab.png)
 
 Alle Eingabefelder des Formulars werden in den *Allgemeinen Elementen* behandelt.

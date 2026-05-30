@@ -32,7 +32,7 @@ Um einen bestehenden Menüpunkt für **Kontakt erstellen** zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Kontakt erstellen](../../../de/images/menu-items/contacts-create-contact-details-tab.png)
+![Menüpunkt Kontakt erstellen](../../../de/images/menu-items/contacts-create-contact/01-contacts-create-contact-details-tab.png)
 
 ## Formularfelder
 

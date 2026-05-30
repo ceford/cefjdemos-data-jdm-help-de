@@ -29,7 +29,7 @@ Um einen bestehenden Menüpunkt vom Typ Menüüberschrift zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Überschrift Details-Tab](../../../de/images/menu-items/system-links-menu-heading-details-tab.png)
+![Menüpunkt Überschrift Details-Tab](../../../de/images/menu-items/system-links-menu-heading/01-system-links-menu-heading-details-tab.png)
 
 Alle Formulareingabefelder sind in den *Gemeinsamen Elementen* enthalten.
 

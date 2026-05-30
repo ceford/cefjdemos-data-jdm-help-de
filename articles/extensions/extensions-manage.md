@@ -20,7 +20,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Erweiterungen verwalten Liste](../../../de/images/extensions/manage-list.png)
+![Erweiterungen verwalten Liste](../../../de/images/extensions/extensions-manage/01-manage-list.png)
 
 ## Tipps
 

@@ -16,7 +16,7 @@ Wenn es viele Knöpfe gibt, werden sie auf zwei Reihen gewickelt. Einige Beispie
 
 ### Symbolleiste zum Bearbeiten von Artikeln
 
-![Artikel bearbeiten Symbolleiste](../../../de/images/common-elements/article-edit-toolbar.png)
+![Artikel bearbeiten Symbolleiste](../../../de/images/common-elements/toolbars/01-article-edit-toolbar.png)
 
 Die Tasten ohne Abwärtswinkel funktionieren alle sofort. Also **Speichern** wird
 speichern Sie die Seite und kehren Sie mit einer grünen Bestätigungsmeldung oder einem roten Fehler zurück
@@ -37,7 +37,7 @@ Bitte erkundigen Sie sich, was die verschiedenen Schaltflächen bewirken!
 
 ### Plugin-Liste Werkzeugleiste
 
-![Symbolleiste der Plugin-Liste](../../../de/images/common-elements/plugins-list-toolbar.png)
+![Symbolleiste der Plugin-Liste](../../../de/images/common-elements/toolbars/02-plugins-list-toolbar.png)
 
 In diesem Symbolleistenbeispiel sind die Schaltflächen grau, um anzuzeigen, dass sie inaktiv sind.
 Sie werden hell und aktiv, wenn ein Kontrollkästchen für Plugin-Elemente aktiviert ist

@@ -31,7 +31,7 @@ Um einen bestehenden Menüpunkt *Registrierungsformular* zu bearbeiten:
 
 ## Screenshot
 
-![Details-Tab Registrierungsformular](../../../de/images/menu-items/users-registration-form-details-tab.png)
+![Details-Tab Registrierungsformular](../../../de/images/menu-items/users-registration-form/01-users-registration-form-details-tab.png)
 
 Alle Eingabefelder des Formulars werden in den *Allgemeinen Elementen* behandelt.
 

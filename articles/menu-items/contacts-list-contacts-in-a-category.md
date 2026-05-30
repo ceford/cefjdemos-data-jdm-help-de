@@ -32,7 +32,7 @@ Um einen bestehenden Menüpunkt **Kontakte in einer Kategorie auflisten** zu bea
 
 ## Screenshot
 
-![Menüpunkt Kontakte in einer Kategorie auflisten Details-Tab](../../../de/images/menu-items/contacts-list-contacts-in-a-category-details-tab.png)
+![Menüpunkt Kontakte in einer Kategorie auflisten Details-Tab](../../../de/images/menu-items/contacts-list-contacts-in-a-category/01-contacts-list-contacts-in-a-category-details-tab.png)
 
 ## Formularfelder
 
@@ -43,7 +43,7 @@ Um einen bestehenden Menüpunkt **Kontakte in einer Kategorie auflisten** zu bea
 
 Die Kategorie-Optionen steuern, wie die Kategoriedaten im Layout angezeigt werden. Das Kategorien-Listenlayout enthält die folgenden Kategorien-Optionen, wie unten dargestellt.
 
-![Menüpunkt Kontakte in einer Kategorie auflisten Kategorie-Tab](../../../de/images/menu-items/contacts-list-contacts-in-a-category-category-tab.png)
+![Menüpunkt Kontakte in einer Kategorie auflisten Kategorie-Tab](../../../de/images/menu-items/contacts-list-contacts-in-a-category/02-contacts-list-contacts-in-a-category-category-tab.png)
 
 - **Kategorie-Titel** Zeigt oder verbirgt den Titel der Kategorie, der als Unterüberschrift auf der Seite angezeigt wird. Die Unterüberschrift wird normalerweise im "H2"-Tag angezeigt.
 - **Kategorie-Beschreibung** Zeigt oder verbirgt die Beschreibung der ausgewählten Kategorie.
@@ -57,7 +57,7 @@ Die Kategorie-Optionen steuern, wie die Kategoriedaten im Layout angezeigt werde
 
 Die Listenlayout-Optionen steuern das Erscheinungsbild des Listenlayouts.
 
-![Menüpunkt Kontakte in einer Kategorie auflisten Listenlayouts-Tab](../../../de/images/menu-items/contacts-featured-contacts-list-layouts-tab.png)
+![Menüpunkt Kontakte in einer Kategorie auflisten Listenlayouts-Tab](../../../de/images/menu-items/contacts-list-contacts-in-a-category/03-contacts-featured-contacts-list-layouts-tab.png)
 
 - **Filterfeld** Zeigt oder verbirgt das Filterfeld, das ein Textfeld für den Frontend-Benutzer erstellt, um einen Teil eines Kontaktnamens einzugeben und danach zu suchen.
 - **Anzeigeauswahl** Zeigt oder verbirgt die Steuerung zur Auswahl der Anzahl der anzuzeigenden Elemente.
@@ -83,7 +83,7 @@ Die Listenlayout-Optionen steuern das Erscheinungsbild des Listenlayouts.
 ### Kontaktanzeige-Tab
 
 Die Kontaktanzeige-Optionen steuern das Erscheinungsbild des Listenlayouts.
-![Menüpunkt Kontakte in einer Kategorie auflisten Kontaktanzeige-Tab](../../../de/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Menüpunkt Kontakte in einer Kategorie auflisten Kontaktanzeige-Tab](../../../de/images/menu-items/contacts-list-contacts-in-a-category/04-contacts-featured-contacts-form-tab.png)
 
 - **Layout auswählen** Wählen Sie aus der Liste der Vorlagen.
 - **Kontakt-Kategorie** Zeigt oder verbirgt die Anzeige der Kontaktkategorie.

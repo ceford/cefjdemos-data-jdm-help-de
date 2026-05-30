@@ -20,7 +20,7 @@ Weitere Informationen: [A Dummies Guide to Joomla Bug Testing](https://brian.tee
 
 ## Screenshot
 
-![Patchtester Optionen Formular](../../../en/images/joomla-patchtester/patchtester-options-github-repository-tab.png)
+![Patchtester Optionen Formular](../../../en/images/joomla-patchtester/patchtester-options/01-patchtester-options-github-repository-tab.png)
 
 ## Formularfelder
 
@@ -32,7 +32,7 @@ Weitere Informationen: [A Dummies Guide to Joomla Bug Testing](https://brian.tee
 
 Du benötigst ein Github-Konto und ein Github-Token. Alles kostenlos – Details findest du im GitHub-Authentifizierung Tab.
 
-![Patchtester Optionen Github Authentifizierung Tab](../../../en/images/joomla-patchtester/patchtester-options-github-authentication-tab.png)
+![Patchtester Optionen Github Authentifizierung Tab](../../../en/images/joomla-patchtester/patchtester-options/02-patchtester-options-github-authentication-tab.png)
 
 - **GitHub-Authentifizierungsmethode** Wähle die Token-Methode. Die Methode mit Anmeldedaten wird ab September 2020 nicht mehr funktionieren.
 - **GitHub Token** Füge das von GitHub erhaltene Token hier ein.
@@ -41,7 +41,7 @@ Du benötigst ein Github-Konto und ein Github-Token. Alles kostenlos – Details
 
 Diese Einstellungen werden für automatisiertes Testen verwendet. Verwende die Standardwerte für manuelles Testen.
 
-![Patchtester Optionen CI-Server-Einstellungen Tab](../../../en/images/joomla-patchtester/patchtester-options-ci-server-settings-tab.png)
+![Patchtester Optionen CI-Server-Einstellungen Tab](../../../en/images/joomla-patchtester/patchtester-options/03-patchtester-options-ci-server-settings-tab.png)
 
 - **CI-Server-Adresse** Standard: `https://ci.joomla.org`
 - **CI-Integration umschalten** Standard: Aus

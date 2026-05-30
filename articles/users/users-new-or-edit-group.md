@@ -14,7 +14,7 @@ Die Seite *Benutzer: Neue oder Bearbeiten Gruppe* wird verwendet, um eine neue B
 
 ## Screenshot
 
-![Benutzer neue Gruppe Details-Tab](../../../de/images/users/users-new-group-details-tab.png)
+![Benutzer neue Gruppe Details-Tab](../../../de/images/users/users-new-or-edit-group/01-users-new-group-details-tab.png)
 
 ## Details zur Benutzergruppe
 

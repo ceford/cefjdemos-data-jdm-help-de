@@ -30,6 +30,6 @@ Um einen bestehenden Menüpunkt **Einzelner Weblink** zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Weblinks: Einzelner Weblink](../../../de/images/menu-items/weblinks-single-weblink-details-tab.png)
+![Menüpunkt Weblinks: Einzelner Weblink](../../../de/images/menu-items/weblinks-single-weblink/01-weblinks-single-weblink-details-tab.png)
 
 Alle Eingabefelder des Formulars werden in den *Allgemeinen Elementen* behandelt.

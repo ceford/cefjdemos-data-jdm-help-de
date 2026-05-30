@@ -12,7 +12,7 @@ Alle Menüpunkte haben ein ähnliches Layout, aber einige der Formularfelder und
 
 ## Screenshot
 
-![Registerkarte Menüpunkt-Seitenanzeige](../../../de/images/menu-items-common/menu-item-page-display.png)
+![Registerkarte Menüpunkt-Seitenanzeige](../../../de/images/menu-items-common/menu-item-page-display/01-menu-item-page-display.png)
 
 ## Formularfelder
 

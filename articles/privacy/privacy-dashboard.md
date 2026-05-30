@@ -18,7 +18,7 @@ Die Seite *Datenschutz-Dashboard* listet den Typ der Datenschutzanfragen, den St
 
 ## Screenshot
 
-![Datenschutz-Dashboard](../../../de/images/privacy/privacy-dashboard.png)
+![Datenschutz-Dashboard](../../../de/images/privacy/privacy-dashboard/01-privacy-dashboard.png)
 
 ## Dashboard-Panels
 

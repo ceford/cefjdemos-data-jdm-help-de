@@ -30,4 +30,4 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Phasen grundlegender Workflow Liste](../../../de/images/workflows/stages-basic-workflow-list.png)
+![Phasen grundlegender Workflow Liste](../../../de/images/workflows/stages-basic-workflow/01-stages-basic-workflow-list.png)

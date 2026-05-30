@@ -18,7 +18,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Home Dashboard](../../../de/images/site/system-information-tab.png)
+![Home Dashboard](../../../de/images/site/site-system-information/01-system-information-tab.png)
 
 ## Formular-Tabs
 
@@ -37,7 +37,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### PHP-Einstellungen-Tab
 
-![Home Dashboard](../../../de/images/site/php-settings-tab.png)
+![Home Dashboard](../../../de/images/site/site-system-information/02-php-settings-tab.png)
 
 Diese Ansicht zeigt PHP-Einstellungen an. Wenn eine dieser Einstellungen als falsch hervorgehoben ist, sollten sie korrigiert werden.
 
@@ -61,19 +61,19 @@ Diese Ansicht zeigt PHP-Einstellungen an. Wenn eine dieser Einstellungen als fal
 
 ### Konfigurationsdatei-Tab
 
-![Home Dashboard](../../../de/images/site/configuration-file-tab.png)
+![Home Dashboard](../../../de/images/site/site-system-information/03-configuration-file-tab.png)
 
 Dieser Tab zeigt den Inhalt der aktuellen Joomla! *configuration.php*-Datei, die im `path-to-joomla-root`-Verzeichnis gespeichert ist. Diese Datei wird automatisch erstellt, wenn Sie Joomla! zum ersten Mal installieren, und die meisten Änderungen der Sektion Globale Konfiguration von Joomla! werden hier aufgezeichnet. Beachten Sie, dass keine Einstellungen von dieser Seite aus geändert werden können. Verwenden Sie die Globale Konfiguration, um mehr Informationen über diese Einstellungen zu sehen und Änderungen vorzunehmen.
 
 ### Ordnerberechtigungen-Tab
 
-![Home Dashboard](../../../de/images/site/folder-permissions-tab.png)
+![Home Dashboard](../../../de/images/site/site-system-information/04-folder-permissions-tab.png)
 
 Dieser Tab zeigt eine Liste der Verzeichnisse, auf die der Webserver Schreibzugriff haben sollte. Beachten Sie, dass alle auf dieser Seite aufgeführten Verzeichnisse **Beschreibbar** anzeigen sollten. Falls nicht, müssen Sie möglicherweise die Berechtigungen ändern, um Joomla! erfolgreich installieren und verwenden zu können. Die Konfigurationsdatei *configuration.php* wird angezeigt und als **Nicht beschreibbar** markiert.
 
 ### PHP-Informationen-Tab
 
-![Home Dashboard](../../../de/images/site/php-information-tab.png)
+![Home Dashboard](../../../de/images/site/site-system-information/05-php-information-tab.png)
 
 Dieser Tab zeigt die Konfigurationseinstellungen der PHP-Server-Skriptsprache, die von Joomla! verwendet wird, zusammen mit allen zugehörigen Systeminformationen, die zur Erstellung des Webservers beitragen. Es ist die Ausgabe eines integrierten php.info-Skripts, das in Joomla! eingebaut ist.
 

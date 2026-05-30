@@ -24,7 +24,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![statistik-modul-tab](../../../de/images/modules-site/modules-statistics-module-tab.png)
+![statistik-modul-tab](../../../de/images/modules-site/site-modules-statistics/01-modules-statistics-module-tab.png)
 
 ## Formularfelder
 

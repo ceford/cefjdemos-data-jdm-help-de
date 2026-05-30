@@ -29,7 +29,7 @@ Es gibt zwei Wege zur Beiträgelistenseite:
 
 ## Bildschirmfoto
 
-![Articles list](../../../de/images/articles/articles-list.png)
+![Articles list](../../../de/images/articles/articles/01-articles-list.png)
 
 ## Spalten-Überschriften
 

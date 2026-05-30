@@ -32,7 +32,7 @@ Um einen bestehenden Menüpunkt **Einzelner Kontakt** zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Einzelner Kontakt Details-Tab](../../../de/images/menu-items/contacts-single-contact-details-tab.png)
+![Menüpunkt Einzelner Kontakt Details-Tab](../../../de/images/menu-items/contacts-single-contact/01-contacts-single-contact-details-tab.png)
 
 ## Formularfelder
 
@@ -43,7 +43,7 @@ Um einen bestehenden Menüpunkt **Einzelner Kontakt** zu bearbeiten:
 
 Die Kontaktanzeige-Optionen steuern das Erscheinungsbild des Listenlayouts.
 
-![Menüpunkt Einzelner Kontakt Kontaktanzeige-Tab](../../../de/images/menu-items/contacts-single-contact-contact-display-options-tab.png)
+![Menüpunkt Einzelner Kontakt Kontaktanzeige-Tab](../../../de/images/menu-items/contacts-single-contact/02-contacts-single-contact-contact-display-options-tab.png)
 
 - **Kontaktkategorie** Zeigt oder verbirgt die Anzeige der Kontaktkategorie.
     Die folgenden Optionen sind verfügbar:
@@ -76,7 +76,7 @@ Die Kontaktanzeige-Optionen steuern das Erscheinungsbild des Listenlayouts.
 
 ### E-Mail-Optionen
 
-![Menüpunkt Einzelner Kontakt E-Mail-Optionen-Tab](../../../de/images/menu-items/contacts-single-contact-mail-options-tab.png)
+![Menüpunkt Einzelner Kontakt E-Mail-Optionen-Tab](../../../de/images/menu-items/contacts-single-contact/03-contacts-single-contact-mail-options-tab.png)
 
 - **Kontaktformular** Zeigt oder verbirgt das *Kontaktformular* des Kontakts.
 - **Kopie an Absender senden** Zeigt oder verbirgt das Kontrollkästchen, mit dem ein Absender eine Kopie der E-Mail an sich selbst senden kann.

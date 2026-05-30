@@ -33,13 +33,13 @@ Um einen bestehenden Menüpunkt *Kompakte Liste der getaggten Elemente* zu bearb
 
 ## Screenshot
 
-![Details-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-compact-list-of-tagged-items-details-tab.png)
+![Details-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-compact-list-of-tagged-items/01-tags-compact-list-of-tagged-items-details-tab.png)
 
 ## Formularfelder
 
 ### Tag-Optionen-Tab
 
-![Tag-Optionen-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-compact-list-of-tagged-items-tag-options-tab.png)
+![Tag-Optionen-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-compact-list-of-tagged-items/02-tags-compact-list-of-tagged-items-tag-options-tab.png)
 
 - **Tag-Name anzeigen** Bei einem Layout mit einem Tag den Tag-Namen anzeigen oder ausblenden.
 - **Tag-Bild** Bei einem Layout mit einem Tag das Tag-Bild anzeigen oder ausblenden.
@@ -51,7 +51,7 @@ Um einen bestehenden Menüpunkt *Kompakte Liste der getaggten Elemente* zu bearb
 
 ### Optionen zur Elementauswahl
 
-![Details-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-compact-list-of-tagged-items-item-selection-options-tab.png)
+![Details-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-compact-list-of-tagged-items/03-tags-compact-list-of-tagged-items-item-selection-options-tab.png)
 
 - **Übereinstimmungstyp** Wählen Sie Elemente mit einem der Tags oder allen Tags aus. *Irgendeins* zeigt Elemente an, die mindestens eines der Tags haben.
 - **Untergeordnete Tags** Untergeordnete Tags in die Ergebnisliste einbeziehen oder ausschließen.

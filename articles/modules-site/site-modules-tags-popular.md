@@ -24,7 +24,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![tags beliebt modul-tab](../../../de/images/modules-site/modules-tags-popular-module-tab.png)
+![tags beliebt modul-tab](../../../de/images/modules-site/site-modules-tags-popular/01-modules-tags-popular-module-tab.png)
 
 ## Formularfelder
 

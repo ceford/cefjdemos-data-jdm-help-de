@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Weblinks Modul Dateneingabeformular](../../../de/images/modules-site/modules-weblinks-module-tab.png)
+![Weblinks Modul Dateneingabeformular](../../../de/images/modules-site/site-modules-weblinks/01-modules-weblinks-module-tab.png)
 
 ## Formularfelder
 

@@ -13,7 +13,7 @@ Alle Menüeinträge haben ein ähnliches Layout, aber einige der Formularfelder 
 
 ## Screenshot
 
-![Registerkarte Menüpunkt-Integration](../../../de/images/menu-items-common/menu-item-category-blog-integration.png)
+![Registerkarte Menüpunkt-Integration](../../../de/images/menu-items-common/menu-item-integration/01-menu-item-category-blog-integration.png)
 
 ## Formularfelder
 

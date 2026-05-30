@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![modules post installation messages module tab](../../../de/images/modules-admin/modules-post-installation-messages-module-tab.png)
+![modules post installation messages module tab](../../../de/images/modules-admin/admin-modules-post-installation-messages/01-modules-post-installation-messages-module-tab.png)
 
 ## Formularfelder
 

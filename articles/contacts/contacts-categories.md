@@ -21,6 +21,6 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Kontaktkategorien-Liste](../../../de/images/contacts/contacts-categories-list.png)
+![Kontaktkategorien-Liste](../../../de/images/contacts/contacts-categories/01-contacts-categories-list.png)
 
 <!-- Translated from English with ChatGPT 2024-09-02 ->

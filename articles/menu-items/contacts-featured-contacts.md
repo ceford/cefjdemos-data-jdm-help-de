@@ -31,7 +31,7 @@ Um einen bestehenden Menüpunkt für **Empfohlene Kontakte** zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Empfohlene Kontakte Details-Tab](../../../de/images/menu-items/contacts-featured-contacts-details-tab.png)
+![Menüpunkt Empfohlene Kontakte Details-Tab](../../../de/images/menu-items/contacts-featured-contacts/01-contacts-featured-contacts-details-tab.png)
 
 ## Formularfelder
 
@@ -39,7 +39,7 @@ Um einen bestehenden Menüpunkt für **Empfohlene Kontakte** zu bearbeiten:
 
 Die Optionen für Listenlayouts steuern das Erscheinungsbild des Listenlayouts.
 
-![Menüpunkt Empfohlene Kontakte Listenlayouts-Tab](../../../de/images/menu-items/contacts-featured-contacts-list-layouts-tab.png)
+![Menüpunkt Empfohlene Kontakte Listenlayouts-Tab](../../../de/images/menu-items/contacts-featured-contacts/02-contacts-featured-contacts-list-layouts-tab.png)
 
 - **Filterfeld** Zeigt oder verbirgt den Listenfilter.
 - **Anzeigeauswahl** Zeigt oder verbirgt die Anzahl der Elemente, die in der Liste angezeigt werden.
@@ -63,7 +63,7 @@ Die Optionen für Listenlayouts steuern das Erscheinungsbild des Listenlayouts.
 
 ### Formular-Tab
 
-![Menüpunkt Empfohlene Kontakte Formular-Tab](../../../de/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Menüpunkt Empfohlene Kontakte Formular-Tab](../../../de/images/menu-items/contacts-featured-contacts/03-contacts-featured-contacts-form-tab.png)
 
 - **Tags** Zeigt oder verbirgt die *Tags* des Kontakts.
 - **Kontaktinformationen** Zeigt oder verbirgt die *Kontaktinformationen* des Kontakts.
@@ -78,7 +78,7 @@ Die Optionen für Listenlayouts steuern das Erscheinungsbild des Listenlayouts.
 
 Die E-Mail-Optionen steuern das Erscheinungsbild des *Kontaktformulars* eines Kontakts, falls aktiviert.
 
-![Menüpunkt Empfohlene Kontakte E-Mail-Optionen-Tab](../../../de/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
+![Menüpunkt Empfohlene Kontakte E-Mail-Optionen-Tab](../../../de/images/menu-items/contacts-featured-contacts/04-contacts-featured-contacts-mail-options-tab.png)
 
 - **Kontaktformular** Zeigt oder verbirgt das *Kontaktformular* des Kontakts.
 - **Kopie an Absender senden** Zeigt oder verbirgt ein Kontrollkästchen, um dem Absender zu ermöglichen, sich eine Kopie der E-Mail zu senden.

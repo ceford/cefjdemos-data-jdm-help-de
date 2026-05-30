@@ -13,15 +13,15 @@ Staat.
 
 ### Die Spaltenüberschriften der Artikelliste
 
-![Spaltenüberschrift der Artikelliste](../../../de/images/common-elements/articles-list-column-header.png)
+![Spaltenüberschrift der Artikelliste](../../../de/images/common-elements/list-column-headers/01-articles-list-column-header.png)
 
 ### Die Spaltenüberschriften der Kategorienliste
 
-![Spaltenüberschrift der Kategorienliste](../../../de/images/common-elements/categories-list-column-header.png)
+![Spaltenüberschrift der Kategorienliste](../../../de/images/common-elements/list-column-headers/02-categories-list-column-header.png)
 
 ### Die Spaltenüberschriften der Benutzerliste
 
-![Spaltenüberschrift der Benutzerliste](../../../en/images/common-elements/users-list-column-header.png)
+![Spaltenüberschrift der Benutzerliste](../../../en/images/common-elements/list-column-headers/03-users-list-column-header.png)
 
 ## Nach Spalten sortieren
 

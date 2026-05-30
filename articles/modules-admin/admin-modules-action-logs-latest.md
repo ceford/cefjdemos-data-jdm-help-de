@@ -26,7 +26,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Aktionsprotokolle neueste Modul-Tab](../../../de/images/modules-admin/modules-action-logs-latest-module-tab.png)
+![Aktionsprotokolle neueste Modul-Tab](../../../de/images/modules-admin/admin-modules-action-logs-latest/01-modules-action-logs-latest-module-tab.png)
 
 ## Formularfelder
 

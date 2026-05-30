@@ -52,7 +52,7 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Erweiterungen entdecken Liste](../../../de/images/extensions/discover-list.png)
+![Erweiterungen entdecken Liste](../../../de/images/extensions/extensions-discover/01-discover-list.png)
 
 ## Spalten-Überschriften
 

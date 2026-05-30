@@ -17,7 +17,7 @@ Einige Elemente dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ## Screenshot
 
-![Bildschirm für Post-Installationsnachrichten](../../../de/images/post-install-messages/post-install-messages.png)
+![Bildschirm für Post-Installationsnachrichten](../../../de/images/post-install-messages/post-installation-messages-for-joomla-cms/01-post-install-messages.png)
 
 ## Nachrichten
 

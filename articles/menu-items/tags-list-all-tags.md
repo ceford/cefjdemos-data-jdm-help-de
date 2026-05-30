@@ -32,13 +32,13 @@ Um einen bestehenden Menüpunkt *Alle Tags auflisten* zu bearbeiten:
 
 ## Screenshot
 
-![Details-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-list-all-tags-details-tab.png)
+![Details-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-list-all-tags/01-tags-list-all-tags-details-tab.png)
 
 ## Formularfelder
 
 ### Optionen-Tab
 
-![Details-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-list-all-tags-options-tab.png)
+![Details-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-list-all-tags/02-tags-list-all-tags-options-tab.png)
 
 - **Anzahl der Spalten** Die Anzahl der Spalten, in denen die Tags angeordnet werden sollen. Beachten Sie, dass dies möglicherweise nicht die angezeigte Anzahl ist, wenn 12 nicht gleichmäßig teilbar ist, da die Anzeige auf einem 12-Spalten-Raster basiert.
 - **Überschriftenbeschreibung** Beschreibung, die in der Überschrift der Tag-Liste angezeigt wird.
@@ -53,7 +53,7 @@ Um einen bestehenden Menüpunkt *Alle Tags auflisten* zu bearbeiten:
 
 ### Auswahloptionen-Tab
 
-![Details-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-list-all-tags-selection-options-tab.png)
+![Details-Tab der kompakten Liste der getaggten Elemente](../../../de/images/menu-items/tags-list-all-tags/03-tags-list-all-tags-selection-options-tab.png)
 
 - **Maximale Elemente** Die maximale Anzahl der zurückzugebenden Ergebnisse.
 - **Filterfeld** Das Filterfeld, mit dem die in der Liste angezeigten Artikel gefiltert werden, anzeigen oder ausblenden.

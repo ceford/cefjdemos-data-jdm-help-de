@@ -54,7 +54,7 @@ Um einen vorhandenen Menüpunkt für den Komponentencontainer zu bearbeiten, wä
 
 ## Screenshot
 
-![Menüpunkt Komponenten-Menücontainer](../../../en/images/menu-items/administrator-components-menu-container.png)
+![Menüpunkt Komponenten-Menücontainer](../../../en/images/menu-items/administrator-components-menu-container/01-administrator-components-menu-container.png)
 
 ## Formularfelder
 

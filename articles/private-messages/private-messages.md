@@ -19,7 +19,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Private Nachrichten](../../../de/images/private-messages/private-messages.png)
+![Private Nachrichten](../../../de/images/private-messages/private-messages/01-private-messages.png)
 
 ## Tipps
 
