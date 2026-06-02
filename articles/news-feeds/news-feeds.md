@@ -22,4 +22,4 @@ Einige Elemente dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ## Screenshot
 
-![News Feeds Liste](../../../de/images/news-feeds/news-feeds/01-news-feeds-list.png)
+![News Feeds Liste](../../../de/images/news-feeds/news-feeds/01-feeds-list.png)

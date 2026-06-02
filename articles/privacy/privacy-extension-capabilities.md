@@ -16,6 +16,6 @@ Wählen Sie **Benutzer → Datenschutz → Funktionen** aus dem Administrati
 
 ## Screenshot
 
-![Datenschutz Erweiterungsfunktionen](../../../en/images/privacy/privacy-extension-capabilities/01-privacy-capabilities.png)
+![Datenschutz Erweiterungsfunktionen](../../../en/images/privacy/privacy-extension-capabilities/01-information.png)
 
 Es gibt keine Benutzeraktionen auf dieser Seite, außer die einzelnen Berichte zu erweitern und zu lesen.

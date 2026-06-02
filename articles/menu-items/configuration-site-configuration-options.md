@@ -29,8 +29,8 @@ Um einen bestehenden Menüpunkt für *Website-Konfigurationsoptionen* zu bearbei
 
 ## Screenshot
 
-![Menüpunkt-Typ Website-Konfigurationsoptionen](../../../de/images/menu-items/configuration-site-configuration-options/01-configuration-site-configuration-options-details.png)
+![Menüpunkt-Typ Website-Konfigurationsoptionen](../../../de/images/menu-items/configuration-site-configuration-options/01-details-tab.png)
 
 ## Frontend-Screenshot
 
-![Frontend-Formular für Website-Konfigurationsoptionen](../../../en/images/menu-items/configuration-site-configuration-options/02-configuration-site-configuration-options-frontend.png)
+![Frontend-Formular für Website-Konfigurationsoptionen](../../../en/images/menu-items/configuration-site-configuration-options/02-site-configuration-options-frontend.png)

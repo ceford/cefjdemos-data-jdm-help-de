@@ -19,7 +19,7 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Banner-Track-Liste](../../../de/images/banners/banners-tracks/01-banners-tracks-list.png)
+![Banner-Track-Liste](../../../de/images/banners/banners-tracks/01-tracks-list.png)
 
 ## Spaltenüberschriften
 

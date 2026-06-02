@@ -28,7 +28,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Registerkarte Menüpunkt-Details](../../../de/images/menu-items-common/menus-new-item/01-menu-item-details.png)
+![Registerkarte Menüpunkt-Details](../../../de/images/menus/menus-new-item/01-details-tab.png)
 
 ## Formularfelder
 

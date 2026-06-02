@@ -19,7 +19,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Weblink bearbeiten Tab](../../../de/images/weblinks/weblinks-links-edit/01-web-link-edit-web-link-tab.png)
+![Weblink bearbeiten Tab](../../../de/images/weblinks/weblinks-links-edit/01-edit-web-link-tab.png)
 
 ## Formularfelder
 
@@ -30,7 +30,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Bilder-Tab
 
-![Weblink bearbeiten Bilder-Tab](../../../de/images/weblinks/weblinks-links-edit/02-web-link-edit-web-link-images-tab.png)
+![Weblink bearbeiten Bilder-Tab](../../../de/images/weblinks/weblinks-links-edit/02-images-tab.png)
 
 - **Erstes Bild** Klicken Sie auf Auswählen, um ein Bild auszuwählen, das mit diesem Element im Frontend angezeigt wird.
 - **Bildausrichtung** Wo das Bild im Verhältnis zum Text auf der Seite platziert wird.
@@ -43,7 +43,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Veröffentlichungs-Tab
 
-![Weblink bearbeiten Veröffentlichungs-Tab](../../../de/images/weblinks/weblinks-links-edit/03-web-link-edit-web-link-publishing-tab.png)
+![Weblink bearbeiten Veröffentlichungs-Tab](../../../de/images/weblinks/weblinks-links-edit/03-publishing-tab.png)
 
 - **Startveröffentlichung** Datum und Uhrzeit, wann die Veröffentlichung starten soll. Verwenden Sie dieses Feld, wenn Sie Inhalte im Voraus erstellen und zu einem späteren Zeitpunkt automatisch veröffentlichen lassen möchten.
 - **Ende der Veröffentlichung** Datum und Uhrzeit, wann die Veröffentlichung enden soll. Verwenden Sie dieses Feld, wenn Sie Inhalte automatisch in den Zustand "Unveröffentlicht" ändern möchten (z. B. wenn sie nicht mehr relevant sind).
@@ -68,7 +68,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Optionen-Tab
 
-![Weblink bearbeiten Optionen-Tab](../../../de/images/weblinks/weblinks-links-edit/04-web-link-edit-web-link-options-tab.png)
+![Weblink bearbeiten Optionen-Tab](../../../de/images/weblinks/weblinks-links-edit/04-options-tab.png)
 
 - **Ziel** Wie der Link geöffnet wird. Optionen sind:
   - Im Elternfenster öffnen. Öffnet den Link im aktuellen Browserfenster, ermöglicht die Navigation vor und zurück.

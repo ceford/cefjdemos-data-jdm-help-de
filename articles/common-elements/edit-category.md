@@ -10,7 +10,7 @@ komponenten, die Kategorien verwenden.
 
 In diesem Beispiel-Screenshot wird das Formular Artikel: Kategorie bearbeiten verwendet.
 
-![Kategorie bearbeiten Registerkarte Kategorie](../../../de/images/common-elements/edit-category/01-articles-edit-category-category-tab.png)
+![Kategorie bearbeiten Registerkarte Kategorie](../../../de/images/common-elements/edit-category/01-category-tab.png)
 
 ## Formularfelder
 

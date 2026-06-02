@@ -33,13 +33,13 @@ Um einen bestehenden Menüpunkt **News-Feeds in einer Kategorie auflisten** zu b
 
 ## Screenshot
 
-![Menüpunkt News-Feeds in einer Kategorie auflisten Details-Tab](../../../de/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-news-feeds-list-newsfeeds-in-a-category-details-tab.png)
+![Menüpunkt News-Feeds in einer Kategorie auflisten Details-Tab](../../../de/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-details-tab.png)
 
 ## Formularfelder
 
 ### Feedanzeige-Optionen-Tab
 
-![Menüpunkt News-Feeds in einer Kategorie auflisten Details-Tab](../../../de/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-news-feeds-list-newfeeds-in-a-category-feed-display-options-tab.png)
+![Menüpunkt News-Feeds in einer Kategorie auflisten Details-Tab](../../../de/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-feed-display-options-tab.png)
 
 - **Feed-Bild** Zeigt oder verbirgt das Bild der News-Feeds.
 - **Feed-Beschreibung** Zeigt oder verbirgt die Beschreibung des News-Feeds.

@@ -20,7 +20,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Mail-Vorlagen-Optionen](../../../de/images/mail/mail-templates-options/01-mail-templates-options-mails-tab.png)
+![Mail-Vorlagen-Optionen](../../../de/images/mail/mail-templates-options/01-mails-tab.png)
 
 ## Formularfelder
 

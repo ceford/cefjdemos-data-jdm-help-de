@@ -19,7 +19,7 @@ Einige Elemente dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ## Screenshot
 
-![Datenschutz Einwilligungen](../../../de/images/privacy/privacy-consents/01-privacy-consents.png)
+![Datenschutz Einwilligungen](../../../de/images/privacy/privacy-consents/01-consents-list.png)
 
 ## Spaltenüberschriften
 

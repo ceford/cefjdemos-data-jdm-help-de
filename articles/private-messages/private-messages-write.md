@@ -17,7 +17,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![private Nachrichten schreiben](../../../de/images/private-messages/private-messages-write/01-private-messages-write.png)
+![private Nachrichten schreiben](../../../de/images/private-messages/private-messages-write/01-write-form.png)
 
 ## Formularfelder
 

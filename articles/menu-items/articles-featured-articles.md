@@ -36,7 +36,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Hervorgehobene Beiträge Details-Tab](../../../de/images/menu-items/articles-featured-articles/01-articles-featured-details-tab.png)
+![Menüpunkt Hervorgehobene Beiträge Details-Tab](../../../de/images/menu-items/articles-featured-articles/01-details-tab.png)
 
 ## Tipps
 

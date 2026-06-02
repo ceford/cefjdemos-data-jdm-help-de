@@ -32,7 +32,7 @@ Um einen bestehenden Menüpunkt **Weblinks in einer Kategorie auflisten** zu bea
 
 ## Screenshot
 
-![Menüpunkt-Typ Weblinks in einer Kategorie auflisten](../../../de/images/menu-items/weblinks-weblink-category/01-weblinks-list-web-links-in-a-category-details-tab.png)
+![Menüpunkt-Typ Weblinks in einer Kategorie auflisten](../../../de/images/menu-items/weblinks-weblink-category/01-details-tab.png)
 
 Alle Eingabefelder des Formulars werden in den *Allgemeinen Elementen* behandelt.
 

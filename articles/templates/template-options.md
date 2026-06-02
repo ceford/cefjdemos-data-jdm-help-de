@@ -26,7 +26,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![templates options templates tab](../../../de/images/templates/template-options/01-templates-options-templates-tab.png)
+![templates options templates tab](../../../de/images/templates/template-options/01-templates-tab.png)
 
 ## Formularfelder
 

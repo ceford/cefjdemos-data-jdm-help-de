@@ -31,7 +31,7 @@ Um einen bestehenden Menüpunkt für **Empfohlene Kontakte** zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Empfohlene Kontakte Details-Tab](../../../de/images/menu-items/contacts-featured-contacts/01-contacts-featured-contacts-details-tab.png)
+![Menüpunkt Empfohlene Kontakte Details-Tab](../../../de/images/menu-items/contacts-featured-contacts/01-details-tab.png)
 
 ## Formularfelder
 
@@ -63,7 +63,7 @@ Die Optionen für Listenlayouts steuern das Erscheinungsbild des Listenlayouts.
 
 ### Formular-Tab
 
-![Menüpunkt Empfohlene Kontakte Formular-Tab](../../../de/images/menu-items/contacts-featured-contacts/03-contacts-featured-contacts-form-tab.png)
+![Menüpunkt Empfohlene Kontakte Formular-Tab](../../../de/images/menu-items/contacts-featured-contacts/03-featured-contacts-form-tab.png)
 
 - **Tags** Zeigt oder verbirgt die *Tags* des Kontakts.
 - **Kontaktinformationen** Zeigt oder verbirgt die *Kontaktinformationen* des Kontakts.
@@ -78,7 +78,7 @@ Die Optionen für Listenlayouts steuern das Erscheinungsbild des Listenlayouts.
 
 Die E-Mail-Optionen steuern das Erscheinungsbild des *Kontaktformulars* eines Kontakts, falls aktiviert.
 
-![Menüpunkt Empfohlene Kontakte E-Mail-Optionen-Tab](../../../de/images/menu-items/contacts-featured-contacts/04-contacts-featured-contacts-mail-options-tab.png)
+![Menüpunkt Empfohlene Kontakte E-Mail-Optionen-Tab](../../../de/images/menu-items/contacts-featured-contacts/04-featured-contacts-mail-options-tab.png)
 
 - **Kontaktformular** Zeigt oder verbirgt das *Kontaktformular* des Kontakts.
 - **Kopie an Absender senden** Zeigt oder verbirgt ein Kontrollkästchen, um dem Absender zu ermöglichen, sich eine Kopie der E-Mail zu senden.

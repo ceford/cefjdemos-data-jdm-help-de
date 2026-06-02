@@ -17,7 +17,7 @@ Wählen Sie die Schaltfläche **Optionen** in der Symbolleiste einer beliebigen 
 
 ## Screenshot
 
-![Beiträge Optionen Screenshot](../../../de/images/articles/articles-options/01-articles-options-articles-tab.png)
+![Beiträge Optionen Screenshot](../../../de/images/articles/articles-options/01-articles-tab.png)
 
 ## Formularfelder
 
@@ -67,7 +67,7 @@ Diese Einstellungen gelten für Beiträgelayouts, es sei denn, sie werden für e
 
 Diese Optionen steuern das Layout der Beiträgeseite zur Bearbeitung.
 
-![Beiträge Optionen Bearbeitungs layout tab](../../../de/images/articles/articles-options/02-articles-options-editing-layout-tab.png)
+![Beiträge Optionen Bearbeitungs layout tab](../../../de/images/articles/articles-options/02-editing-layout-tab.png)
 
 - **Captcha bei Übermittlung zulassen** Wählen Sie das Captcha-Plugin, das im Formular zur Beiträgeübermittlung verwendet wird. Wenn *Global verwenden* ausgewählt ist, stellen Sie sicher, dass in den globalen Konfigurationen ein Captcha-Plugin ausgewählt ist.
 - **Veröffentlichungsoptionen** Blendet den Veröffentlichungsoptionen-Tab im Backend bei der Bearbeitung von Beiträgen aus. Das bedeutet, dass Backend-Benutzer die Felder in diesem Tab nicht bearbeiten können. Diese Felder werden immer auf ihre Standardwerte gesetzt.
@@ -93,7 +93,7 @@ Diese Optionen steuern das Layout der Beiträgeseite zur Bearbeitung.
 
 Diese Einstellungen gelten für die Optionen der Beiträge-Kategorie, sofern sie nicht durch die individuellen Kategorie- oder Menüeinstellungen geändert werden.
 
-![Beiträgeoptionen Kategorie-Tab](../../../de/images/articles/articles-options/03-articles-options-category-tab.png)
+![Beiträgeoptionen Kategorie-Tab](../../../de/images/articles/articles-options/03-category-tab.png)
 
 - **Layout auswählen** Wählen Sie das Standardlayout, das angezeigt wird, wenn ein Kategorienlink ausgewählt wird.
 - **Kategorietitel** Zeigt den Titel der Kategorie an.
@@ -111,7 +111,7 @@ Diese Einstellungen gelten für die Optionen der Beiträge-Kategorie, sofern sie
 
 Diese Einstellungen gelten für die Optionen der Beiträge-Kategorien, sofern sie nicht durch die individuellen Kategorie- oder Menüeinstellungen geändert werden.
 
-![Beiträgeoptionen Kategorien-Tab](../../../de/images/articles/articles-options/04-articles-options-categories-tab.png)
+![Beiträgeoptionen Kategorien-Tab](../../../de/images/articles/articles-options/04-categories-tab.png)
 
 - **Beschreibung der obersten Kategorieebene** Zeigen Sie die Beschreibung für die oberste Kategorieebene an.
 - **Unterkategorie-Ebenen** Steuern Sie, wie viele Ebenen von Unterkategorien angezeigt werden.
@@ -123,7 +123,7 @@ Diese Einstellungen gelten für die Optionen der Beiträge-Kategorien, sofern si
 
 Diese Einstellungen gelten für Blog- oder Feature-Layouts, sofern sie nicht für einen spezifischen Menüpunkt geändert werden.
 
-![Beiträgeoptionen Blog und Feature Layout-Tab](../../../de/images/articles/articles-options/05-articles-options-blog-layouts-tab.png)
+![Beiträgeoptionen Blog und Feature Layout-Tab](../../../de/images/articles/articles-options/05-blog-layouts-tab.png)
 
 - **# LeitBeiträge** Anzahl der Beiträge, die in voller Breite des Hauptanzeigebereichs angezeigt werden. „0“ bedeutet, dass keine Beiträge in voller Breite angezeigt werden. Wenn ein Beiträge einen „Weiterlesen...“-Trennzeichen hat, wird nur der Teil des Textes vor dem Trennzeichen (der Introtext) angezeigt.
 - **LeitBeiträge-Klasse** Fügen Sie eine CSS-Klasse hinzu, um das Layout anzupassen. Fügen Sie zum Beispiel mit der Klasse „boxed“ einen Rahmen oben hinzu. Für die Bildposition verwenden Sie beispielsweise „image-left“, „image-right“. Fügen Sie „image-alternate“ hinzu, um eine abwechselnde Reihenfolge der Intro-Bilder zu erzielen.
@@ -144,7 +144,7 @@ Diese Einstellungen gelten für Blog- oder Feature-Layouts, sofern sie nicht fü
 
 Diese Einstellungen gelten für Listen-Layouts-Optionen, sofern sie nicht für einen spezifischen Menüpunkt oder eine Kategorie geändert werden.
 
-![Beiträgeoptionen Listen-Layouts-Tab](../../../de/images/articles/articles-options/06-articles-options-list-layouts-tab.png)
+![Beiträgeoptionen Listen-Layouts-Tab](../../../de/images/articles/articles-options/06-list-layouts-tab.png)
 
 - **Anzeigeauswahl** Zeigt die „Anzeige \#“-Steuerung an, die es dem Benutzer ermöglicht, die Anzahl der anzuzeigenden Beiträge auszuwählen.
 - **Filterfeld** Zeigt ein Textfeld im Frontend an, in dem ein Benutzer die Beiträge filtern kann. Optionen im Backend-Menüpunkt bearbeiten.
@@ -168,7 +168,7 @@ Diese Einstellungen gelten für Listen-Layouts-Optionen, sofern sie nicht für e
 
 Diese Einstellungen gelten für gemeinsame Optionen in Listen-, Blog- und Feature-Layouts, sofern sie nicht durch die Menüeinstellungen geändert werden.
 
-![Beiträgeoptionen gemeinsamer-Tab](../../../de/images/articles/articles-options/07-articles-options-shared-tab.png)
+![Beiträgeoptionen gemeinsamer-Tab](../../../de/images/articles/articles-options/07-shared-tab.png)
 
 - **Kategorienreihenfolge**
   - *Keine Reihenfolge* Beiträge werden nur nach der Beiträgereihenfolge geordnet, ohne Rücksicht auf die Kategorie.
@@ -206,7 +206,7 @@ Diese Einstellungen gelten für gemeinsame Optionen in Listen-, Blog- und Featur
 
 Diese Einstellungen bestimmen, wie die Beiträge-Komponente mit anderen Erweiterungen integriert wird.
 
-![Beiträgeoptionen Integration-Tab](../../../de/images/articles/articles-options/08-articles-options-integration-tab.png)
+![Beiträgeoptionen Integration-Tab](../../../de/images/articles/articles-options/08-integration-tab.png)
 
 #### News-Feeds-Panel
 

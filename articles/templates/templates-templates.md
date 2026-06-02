@@ -22,7 +22,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 Die Bildschirme für Administrator- und Website-Templates verwenden das gleiche Layout. Hier wird der Bildschirm für Website-Templates illustriert.
 
-![Templates Website-Templates Liste](../../../de/images/templates/templates-templates/01-templates-site-templates-list.png)
+![Templates Website-Templates Liste](../../../de/images/templates/templates-templates/01-templates-list.png)
 
 ## Listenfilter
 

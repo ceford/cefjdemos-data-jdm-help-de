@@ -12,7 +12,7 @@ Alle Menüeinträge haben ein ähnliches Layout, aber einige der Formularfelder 
 
 ## Screenshot
 
-![Registerkarte Menüpunkt-Linktyp](../../../de/images/menu-items-common/menu-item-link-type/01-menu-item-link-type.png)
+![Registerkarte Menüpunkt-Linktyp](../../../de/images/menu-items-common/menu-item-link-type/01-link-type-tab.png)
 
 ## Formularfelder
 

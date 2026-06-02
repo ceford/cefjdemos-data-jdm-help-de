@@ -32,13 +32,13 @@ Um einen bestehenden Menüpunkt **Alle Weblink-Kategorien anzeigen** zu bearbeit
 
 ## Screenshot
 
-![Menüpunkt-Typ Alle Weblink-Kategorien anzeigen](../../../de/images/menu-items/weblinks-weblink-categories/01-weblinks-list-all-web-link-categories-details-tab.png)
+![Menüpunkt-Typ Alle Weblink-Kategorien anzeigen](../../../de/images/menu-items/weblinks-weblink-categories/01-details-tab.png)
 
 ## Formularfelder
 
 ### Kategorien-Tab
 
-![Menüpunkt-Typ Alle Weblink-Kategorien anzeigen](../../../de/images/menu-items/weblinks-weblink-categories/02-weblinks-list-all-web-link-categories-categories-tab.png)
+![Menüpunkt-Typ Alle Weblink-Kategorien anzeigen](../../../de/images/menu-items/weblinks-weblink-categories/02-categories-tab.png)
 
 - **Beschreibung der obersten Kategorie** Beschreibung der obersten Kategorie anzeigen oder ausblenden. Beachten Sie, dass diese Beschreibung für dieses Layout durch die unten eingetragene alternative Beschreibung überschrieben werden kann.
 - **Alternative Beschreibung** Geben Sie eine optionale Beschreibung ein, um die Kategoriebeschreibung für dieses Layout zu ersetzen. Wenn die Option *Beschreibung der obersten Kategorie* auf *Anzeigen* gesetzt ist, wird diese Beschreibung anstelle der normalen Kategoriebeschreibung angezeigt.

@@ -15,7 +15,7 @@ Die Parameter für das Listenlayout variieren je nach Komponente. Die folgenden 
 
 ### Kategorielistenlayout für Artikel
 
-![Menüpunkt Typ Kategorieliste - Listenlayouts-Tab](../../../de/images/menu-items/menu-item-list-layouts/01-articles-category-list-list-layouts-tab.png)
+![Menüpunkt Typ Kategorieliste - Listenlayouts-Tab](../../../de/images/menu-items-common/menu-item-list-layouts/01-articles-category-list-list-layouts-tab.png)
 
 - **Anzeige auswählen** Zeigen oder verbergen Sie die Kontrolloption, die es dem Benutzer ermöglicht, die Anzahl der anzuzeigenden Artikel auszuwählen.
 - **Filterfeld** Zeigen oder verbergen Sie ein Textfeld im Frontend, in dem ein Benutzer die Artikel filtern kann.
@@ -69,7 +69,7 @@ Die Parameter für das Listenlayout variieren je nach Komponente. Die folgenden 
 
 ### Layout der hervorgehobenen Kontakte
 
-![Menüpunkt Hervorgehobene Kontakte Listenlayouts-Tab](../../../de/images/menu-items/menu-item-list-layouts/02-contacts-featured-contacts-list-layouts-tab.png)
+![Menüpunkt Hervorgehobene Kontakte Listenlayouts-Tab](../../../de/images/menu-items-common/menu-item-list-layouts/02-contacts-featured-contacts-list-layouts-tab.png)
 
 - **Filterfeld** Zeigt oder verbirgt das Listenfilterfeld.
 - **Anzeige auswählen** Zeigen oder verbergen Sie die Auswahl der Anzahl der anzuzeigenden Einträge.
@@ -93,7 +93,7 @@ Die Parameter für das Listenlayout variieren je nach Komponente. Die folgenden 
 
 ### News-Feed-Listenlayouts
 
-![Menüpunkt Alle News-Feed-Kategorien Listenlayouts-Tab](../../../de/images/menu-items/menu-item-list-layouts/03-news-feeds-list-all-categories-tree-list-layouts-tab.png)
+![Menüpunkt Alle News-Feed-Kategorien Listenlayouts-Tab](../../../de/images/menu-items-common/menu-item-list-layouts/03-news-feeds-list-layouts-tab.png)
 
 - **Filterfeld** Zeigt oder verbirgt ein Filterfeld für die Liste.
 - **Anzeige auswählen** Zeigen oder verbergen Sie die Kontrolloption, mit der der Benutzer die Anzahl der anzuzeigenden Einträge auswählen kann.

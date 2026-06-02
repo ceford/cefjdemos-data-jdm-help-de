@@ -28,7 +28,7 @@ Einige Elemente dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ## Screenshot
 
-![Liste der mehrsprachigen Zuordnungen](../../../de/images/multilingual-associations/multilingual-associations/01-multilingual-associations-list.png)
+![Liste der mehrsprachigen Zuordnungen](../../../de/images/multilingual-associations/multilingual-associations/01-associations-list.png)
 
 In diesem Screenshot wurde ein Artikel mit einem Artikel in einer anderen Sprache zugeordnet. Die Liste enthält nur Elemente, bei denen die Sprache festgelegt wurde. Artikel, deren Sprache auf *Alle* gesetzt ist, sind nicht vorhanden.
 

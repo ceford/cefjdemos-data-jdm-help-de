@@ -29,7 +29,7 @@ Um einen bestehenden Menüpunkt **Trennzeichen** zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Alias](../../../de/images/menu-items/system-links-separator/01-system-links-separator-details-tab.png)
+![Menüpunkt Alias](../../../de/images/menu-items/system-links-separator/01-details-tab.png)
 
 Alle Formulareingabefelder werden in den *Gemeinsamen Elementen* behandelt.
 

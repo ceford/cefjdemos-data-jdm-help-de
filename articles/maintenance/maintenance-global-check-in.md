@@ -19,7 +19,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Wartung globaler Check-in](../../../de/images/maintenance/maintenance-global-check-in/01-maintenance-global-check-in.png)
+![Wartung globaler Check-in](../../../de/images/maintenance/maintenance-global-check-in/01-check-in-list.png)
 
 ## Tipps
 

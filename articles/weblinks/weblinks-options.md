@@ -18,7 +18,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Weblinks-Optionen](../../../de/images/weblinks/weblinks-options/01-weblinks-options-web-link-tab.png)
+![Weblinks-Optionen](../../../de/images/weblinks/weblinks-options/01-web-link-tab.png)
 
 ### Weblink-Tab
 

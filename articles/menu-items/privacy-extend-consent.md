@@ -31,6 +31,6 @@ Um einen bestehenden Menüpunkt *Einwilligung verlängern* zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Datenschutz Anfrage erstellen Details-Tab](../../../de/images/menu-items/privacy-extend-consent/01-privacy-extend-consent-details-tab.png)
+![Menüpunkt Datenschutz Anfrage erstellen Details-Tab](../../../de/images/menu-items/privacy-extend-consent/01-details-tab.png)
 
 Alle Eingabefelder des Formulars werden in den *Gemeinsamen Elementen* behandelt.

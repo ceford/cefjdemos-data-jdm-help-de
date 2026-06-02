@@ -23,7 +23,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Liste aller Menüelemente](../../../de/images/menus/menus-items/01-menus-all-menu-items-list.png)
+![Liste aller Menüelemente](../../../de/images/menus/menus-items/01-items-list.png)
 
 ## Tipps
 

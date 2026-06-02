@@ -31,6 +31,6 @@ Um einen bestehenden Menüpunkt zur Bearbeitung des Benutzerprofils zu bearbeite
 
 ## Screenshot
 
-![Details-Tab Benutzerprofil bearbeiten](../../../de/images/menu-items/users-edit-user-profile/01-users-edit-user-profile-details-tab.png)
+![Details-Tab Benutzerprofil bearbeiten](../../../de/images/menu-items/users-edit-user-profile/01-details-tab.png)
 
 Alle Formularfelder sind in den *Allgemeinen Elementen* abgedeckt.

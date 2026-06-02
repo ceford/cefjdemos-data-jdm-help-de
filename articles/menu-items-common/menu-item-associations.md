@@ -21,7 +21,7 @@ installierten Sprachen.
 
 ## Screenshot
 
-![Menüpunkt-Zuordnungen-Register](../../../de/images/menu-items-common/menu-item-associations/01-menu-item-associations.png)
+![Menüpunkt-Zuordnungen-Register](../../../de/images/menu-items-common/menu-item-associations/01-associations-tab.png)
 
 ## Formularfelder
 

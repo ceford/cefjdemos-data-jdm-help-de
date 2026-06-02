@@ -21,7 +21,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ## Screenshot
 
-![Newsfeeds Kategorie bearbeiten, Kategorie-Tab](../../../de/images/news-feeds/news-feeds-new-or-edit-category/01-news-feeds-edit-category-category-tab.png)
+![Newsfeeds Kategorie bearbeiten, Kategorie-Tab](../../../de/images/news-feeds/news-feeds-new-or-edit-category/01-category-tab.png)
 
 ## Formularfelder
 
@@ -31,7 +31,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ### Optionen-Tab
 
-![Newsfeeds Kategorie bearbeiten, Optionen-Tab](../../../de/images/news-feeds/news-feeds-new-or-edit-category/02-news-feeds-edit-category-options-tab.png)
+![Newsfeeds Kategorie bearbeiten, Optionen-Tab](../../../de/images/news-feeds/news-feeds-new-or-edit-category/02-options-tab.png)
 
 - **Layout** Wählen Sie ein Layout aus den verfügbaren Optionen.
 - **Bild** Wählen Sie ein Bild, das zusammen mit dieser Kategorie im Frontend angezeigt wird.

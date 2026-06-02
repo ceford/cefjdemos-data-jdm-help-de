@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![module joomla version module tab](../../../de/images/modules-admin/admin-modules-joomla-version-information/01-modules-joomla-version-module-tab.png)
+![module joomla version module tab](../../../de/images/modules-admin/admin-modules-joomla-version-information/01-module-tab.png)
 
 ## Formularfelder
 

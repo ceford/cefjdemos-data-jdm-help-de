@@ -31,6 +31,6 @@ Um einen bestehenden Menüpunkt *Bestätigungsanfrage* zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Datenschutz Bestätigungsanfrage Details-Tab](../../../de/images/menu-items/privacy-confirm-request/01-privacy-confirm-request-details-tab.png)
+![Menüpunkt Datenschutz Bestätigungsanfrage Details-Tab](../../../de/images/menu-items/privacy-confirm-request/01-details-tab.png)
 
 Alle Eingabefelder des Formulars werden in den *Gemeinsamen Elementen* behandelt.

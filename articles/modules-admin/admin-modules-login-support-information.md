@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![module login support information tab](../../../de/images/modules-admin/admin-modules-login-support-information/01-modules-login-support-information-module-tab.png)
+![module login support information tab](../../../de/images/modules-admin/admin-modules-login-support-information/01-module-tab.png)
 
 ## Formularfelder
 

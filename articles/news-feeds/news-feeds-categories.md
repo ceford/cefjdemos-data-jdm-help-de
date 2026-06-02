@@ -20,4 +20,4 @@ Einige Elemente dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ## Screenshot
 
-![Newsfeeds Liste](../../../de/images/news-feeds/news-feeds-categories/01-news-feeds-categories.png)
+![Newsfeeds Liste](../../../de/images/news-feeds/news-feeds-categories/01-categories-list.png)

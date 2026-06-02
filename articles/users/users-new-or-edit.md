@@ -31,7 +31,7 @@ Um einen neuen Benutzer zu erstellen:
 
 ## Screenshot
 
-![Benutzer bearbeiten Details-Tab](../../../de/images/users/users-new-or-edit/01-users-edit-account-details-tab.png)
+![Benutzer bearbeiten Details-Tab](../../../de/images/users/users-new-or-edit/01-account-details-tab.png)
 
 ## Formularfelder
 
@@ -53,13 +53,13 @@ Um einen neuen Benutzer zu erstellen:
 
 ### Zugewiesene Benutzergruppen-Tab
 
-![Benutzer bearbeiten zugewiesene Benutzergruppen-Tab](../../../de/images/users/users-new-or-edit/02-users-edit-assigned-user-groups-tab.png)
+![Benutzer bearbeiten zugewiesene Benutzergruppen-Tab](../../../de/images/users/users-new-or-edit/02-assigned-user-groups-tab.png)
 
 Der Standardwert ist *Registriert*, kann jedoch auf der Seite *Benutzer: Optionen* geändert werden.
 
 ### Grundeinstellungen
 
-![Benutzer bearbeiten Grundeinstellungen-Tab](../../../de/images/users/users-new-or-edit/03-users-edit-basic-settings-tab.png)
+![Benutzer bearbeiten Grundeinstellungen-Tab](../../../de/images/users/users-new-or-edit/03-basic-settings-tab.png)
 
 - **Backend-Vorlagenstil** Wählen Sie einen Vorlagenstil für das Administrator-Backend. Dies wirkt sich nur auf diesen Benutzer aus.
 - **Backend-Sprache** Wählen Sie die Sprache für das Administrator-Backend. Dies wirkt sich nur auf diesen Benutzer aus.
@@ -69,7 +69,7 @@ Der Standardwert ist *Registriert*, kann jedoch auf der Seite *Benutzer: Optione
 
 ### Barrierefreiheitseinstellungen
 
-![Benutzer bearbeiten Barrierefreiheitseinstellungen-Tab](../../../de/images/users/users-new-or-edit/04-users-edit-accessibility-settings-tab.png)
+![Benutzer bearbeiten Barrierefreiheitseinstellungen-Tab](../../../de/images/users/users-new-or-edit/04-accessibility-settings-tab.png)
 
 - **Monochrom** Ja/Nein
 - **Hoher Kontrast** Ja/Nein
@@ -97,7 +97,7 @@ Der Token ist nur für Ihr eigenes Konto sichtbar.
 
 ### Multi-Faktor-Authentifizierung
 
-![Benutzer bearbeiten Multi-Faktor-Authentifizierung-Tab](../../../de/images/users/users-new-or-edit/05-users-edit-multi-factor-authentication-tab.png)
+![Benutzer bearbeiten Multi-Faktor-Authentifizierung-Tab](../../../de/images/users/users-new-or-edit/05-multi-factor-authentication-tab.png)
 
 Dieser Tab ermöglicht es Ihnen, eine oder mehrere Methoden festzulegen, um nach der Anmeldung mit Benutzername und Passwort auf Ihr Konto zuzugreifen. Er ist nur beim Bearbeiten des eigenen Profils vorhanden. Es stehen mehrere Methoden zur Verfügung. Wenn Sie aus irgendeinem Grund den Zugriff auf eine Methode verlieren, können Sie auf dem Bildschirm zur Überprüfung nach der Anmeldung eine andere Methode auswählen. Die alternativen Methoden müssen im Voraus eingerichtet worden sein!
 

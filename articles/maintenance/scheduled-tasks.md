@@ -23,7 +23,7 @@ Die anfängliche Liste geplanter Aufgaben enthält drei Beiträge.
 
 ## Screenshot
 
-![scheduled tasks list](../../../de/images/maintenance/scheduled-tasks/01-scheduled-tasks-list.png)
+![scheduled tasks list](../../../de/images/maintenance/scheduled-tasks/01-tasks-list.png)
 
 ## Spaltenüberschriften
 
@@ -39,13 +39,13 @@ Spalten, die nur bei geplanten Aufgaben einzigartig sind:
 
 Wählen Sie die Schaltfläche in der Symbolleiste, um eine Liste der einzelnen Aufgabeausführungen zu sehen.
 
-![task execution history list](../../../de/images/maintenance/scheduled-tasks/02-scheduled-tasks-logs.png)
+![task execution history list](../../../de/images/maintenance/scheduled-tasks/02-execution-history.png)
 
 ## Verfügbare Aufgaben
 
 Der folgende Screenshot zeigt eine Liste der verfügbaren Aufgaben. Einige sind Demonstrationen, einige sind nützlich.
 
-![Scheduled Tasks Available](../../../de/images/maintenance/scheduled-tasks/03-scheduled-tasks-types.png)
+![Scheduled Tasks Available](../../../de/images/maintenance/scheduled-tasks/03-task-types.png)
 
 Jede Aufgabe hat ihre eigenen aufgabenbezogenen Parameter, die selbsterklärend sein sollten. Zum Beispiel macht die Aufgabe **Site Offline** nur Sinn, wenn die **Aufgabe bearbeiten → Basisfelder → Ausführungsregel** auf **Manuelle Ausführung** eingestellt ist.
 

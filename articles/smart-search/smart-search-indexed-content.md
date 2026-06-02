@@ -25,7 +25,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Smart Search indizierte Inhalte](../../../de/images/smart-search/smart-search-indexed-content/01-smart-search-indexed-content.png)
+![Smart Search indizierte Inhalte](../../../de/images/smart-search/smart-search-indexed-content/01-indexed-content.png)
 
 ## Index erstellen
 

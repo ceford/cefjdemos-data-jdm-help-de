@@ -66,7 +66,7 @@ Es ist nur eine Methode erforderlich, um eine bestimmte Erweiterung zu installie
 
 ### Paketdatei hochladen
 
-![Extension install upload package file tab](../../../de/images/extensions/extensions-install/01-install-upload-package-file.png)
+![Extension install upload package file tab](../../../de/images/extensions/extensions-install/01-upload-package-file.png)
 
 - Per Drag & Drop die Archivdatei der Erweiterung in den Kasten ziehen
   oder auf die Schaltfläche klicken, um eine Datei zum Hochladen

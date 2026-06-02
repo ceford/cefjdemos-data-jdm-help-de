@@ -37,7 +37,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Beiträge Alle Kategorien auflisten Details-Tab](../../../de/images/menu-items/articles-list-all-categories/01-articles-list-all-categories-details-tab.png)
+![Menüpunkt Beiträge Alle Kategorien auflisten Details-Tab](../../../de/images/menu-items/articles-list-all-categories/01-details-tab.png)
 
 ## Formularfelder
 
@@ -62,7 +62,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ### Kategorie-Tab
 
-![Menüpunkt Beiträge Alle Kategorien Kategorien-Tab](../../../de/images/menu-items/articles-list-all-categories/02-articles-list-all-categories-categories-tab.png)
+![Menüpunkt Beiträge Alle Kategorien Kategorien-Tab](../../../de/images/menu-items/articles-list-all-categories/02-categories-tab.png)
 
 - **Beschreibung der obersten Kategorie** Zeigt die Beschreibung der obersten Kategorie an.
 - **Alternative Beschreibung** Geben Sie eine Beschreibung ein, um die Kategoriebeschreibung für den Menüpunkt zu überschreiben.

@@ -34,7 +34,7 @@ So bearbeiten Sie einen Menüpunkt:
 
 ## Bildschirmfoto
 
-![Menüpunkt Kategorie Liste](../../../de/images/menu-items/articles-category-list/01-articles-category-list-details-tab.png)
+![Menüpunkt Kategorie Liste](../../../de/images/menu-items/articles-category-list/01-details-tab.png)
 
 ## Formularfelder
 

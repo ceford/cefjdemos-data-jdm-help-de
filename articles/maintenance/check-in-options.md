@@ -18,7 +18,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Check-in-Optionen](../../../de/images/maintenance/check-in-options/01-check-in-options.png)
+![Check-in-Optionen](../../../de/images/maintenance/check-in-options/01-permissions-tab.png)
 
 ## Tipps
 

@@ -25,7 +25,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Datenschutz Informationsanfrage überprüfen](../../../de/images/privacy/privacy-review-information-request/01-privacy-review-information-request.png)
+![Datenschutz Informationsanfrage überprüfen](../../../de/images/privacy/privacy-review-information-request/01-information.png)
 
 ## Details
 

@@ -19,7 +19,7 @@ Einige Elemente dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ## Screenshot
 
-![Newsfeeds Optionen Newsfeed-Tab](../../../de/images/news-feeds/news-feed-options/01-news-feeds-options-news-feed-tab.png)
+![Newsfeeds Optionen Newsfeed-Tab](../../../de/images/news-feeds/news-feed-options/01-news-feed-tab.png)
 
 ## Formularfelder
 
@@ -41,7 +41,7 @@ Diese Einstellungen gelten für alle Newsfeeds, es sei denn, sie werden für ein
 
 ### Kategorien-Tab
 
-![Newsfeeds Optionen Kategorien-Tab](../../../de/images/news-feeds/news-feed-options/02-news-feeds-options-category-tab.png)
+![Newsfeeds Optionen Kategorien-Tab](../../../de/images/news-feeds/news-feed-options/02-category-tab.png)
 
 - **Layout auswählen** Wählen Sie Blog, Liste oder ein benutzerdefiniertes Layout, das standardmäßig angezeigt wird, wenn ein Kategorielink ausgewählt wird.
 - **Kategorietitel** Den Titel der Kategorie anzeigen oder ausblenden.
@@ -55,7 +55,7 @@ Diese Einstellungen gelten für alle Newsfeeds, es sei denn, sie werden für ein
 
 ### Kategorien-Tab
 
-![Newsfeeds Optionen Kategorien-Tab](../../../de/images/news-feeds/news-feed-options/03-news-feeds-options-categories-tab.png)
+![Newsfeeds Optionen Kategorien-Tab](../../../de/images/news-feeds/news-feed-options/03-categories-tab.png)
 
 - **Beschreibung der obersten Kategorie** Die Beschreibung der obersten Kategorie anzeigen oder ausblenden.
 - **Unterkategorie-Ebenen** Wie viele Ebenen in der Hierarchie angezeigt werden sollen.
@@ -65,7 +65,7 @@ Diese Einstellungen gelten für alle Newsfeeds, es sei denn, sie werden für ein
 
 ### Listen-Layouts-Tab
 
-![Newsfeeds Optionen Listen-Layouts-Tab](../../../de/images/news-feeds/news-feed-options/04-news-feeds-options-list-layouts-tab.png)
+![Newsfeeds Optionen Listen-Layouts-Tab](../../../de/images/news-feeds/news-feed-options/04-list-layouts-tab.png)
 
 - **Filterfeld** Das Filterfeld erstellt ein Textfeld, in dem ein Benutzer ein Feld eingeben kann, um die im Listenlayout angezeigten Artikel zu filtern.
     - *Ausblenden* Kein Filterfeld anzeigen.
@@ -81,7 +81,7 @@ Diese Einstellungen gelten für alle Newsfeeds, es sei denn, sie werden für ein
 
 ### Integration-Tab
 
-![Newsfeeds Optionen Integration-Tab](../../../de/images/news-feeds/news-feed-options/05-news-feeds-options-integration-tab.png)
+![Newsfeeds Optionen Integration-Tab](../../../de/images/news-feeds/news-feed-options/05-integration-tab.png)
 
 - **IDs aus URLs entfernen** Ob die Datenbank-ID eines Newsfeeds in einem Link angezeigt wird oder nicht.
 

@@ -36,7 +36,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Kategorie-Blog](../../../de/images/menu-items/articles-category-blog/01-articles-category-blog-details-tab.png)
+![Menüpunkt Kategorie-Blog](../../../de/images/menu-items/articles-category-blog/01-details-tab.png)
 
 ## Formularfelder
 

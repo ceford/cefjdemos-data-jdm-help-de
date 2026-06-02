@@ -19,4 +19,4 @@ Wählen Sie **Benutzer → Benutzeraktionsprotokoll** aus dem Administrator-Me
 
 ## Screenshot
 
-![Benutzer Benutzeraktionsprotokoll Liste](../../../de/images/users/user-actions-log/01-user-actions-log-list.png)
+![Benutzer Benutzeraktionsprotokoll Liste](../../../de/images/users/user-actions-log/01-log-list.png)

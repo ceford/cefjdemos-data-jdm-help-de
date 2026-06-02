@@ -19,7 +19,7 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Banner Optionen Client-Tab](../../../de/images/banners/banners-options/01-banners-options-client-tab.png)
+![Banner Optionen Client-Tab](../../../de/images/banners/banners-options/01-client-tab.png)
 
 ## Formularfelder
 
@@ -36,7 +36,7 @@ Einige Elemente dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 Dieser Abschnitt ermöglicht es Ihnen, die Versionsverlauf-Optionen für Banner, Banner-Clients und Banner-Kategorien festzulegen.
 
-![Banner Optionen Verlauf-Tab](../../../de/images/banners/banners-options/02-banners-options-history-tab.png)
+![Banner Optionen Verlauf-Tab](../../../de/images/banners/banners-options/02-history-tab.png)
 
 - **Versionen aktivieren** Ob Versionsverläufe für diese Komponente gespeichert werden sollen. Wenn Nein, wird der Versionsverlauf für Komponentenobjekte oder Kategorien dieser Komponente nicht gespeichert.
 - **Maximale Versionen** Die maximale Anzahl an Versionen, die für ein Objekt gespeichert werden. Wenn ein Objekt gespeichert wird und die maximale Anzahl an Versionen erreicht ist, wird die älteste Version automatisch gelöscht. Wenn auf 0 gesetzt, werden Versionen nie automatisch gelöscht. Außerdem können bestimmte Versionen als *Für immer behalten* markiert werden und werden nicht automatisch gelöscht. Beachten Sie, dass Versionen manuell über die Löschen-Schaltfläche im Versionsverlauf-Bildschirm gelöscht werden können.

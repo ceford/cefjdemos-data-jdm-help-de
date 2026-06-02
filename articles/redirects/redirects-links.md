@@ -25,7 +25,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Weiterleitungen Links](../../../de/images/redirects/redirects-links/01-redirects-links.png)
+![Weiterleitungen Links](../../../de/images/redirects/redirects-links/01-links-list.png)
 
 ## Spaltenüberschriften
 

@@ -20,4 +20,4 @@ Wählen Sie **Komponenten → Weblinks → Kategorien** aus dem Administrato
 
 ## Screenshot
 
-![Weblinks-Liste](../../../de/images/weblinks/weblinks-categories/01-web-links-categories-list.png)
+![Weblinks-Liste](../../../de/images/weblinks/weblinks-categories/01-categories-list.png)

@@ -33,7 +33,7 @@ Um einen bestehenden Menüpunkt **Alle Kontaktkategorien auflisten** zu bearbeit
 
 ## Screenshot
 
-![Menüpunkt Kontakte: Alle Kategorien-Baum Details-Tab](../../../de/images/menu-items/contacts-list-all-contact-categories/01-contacts-list-all-categories-tree-details-tab.png)
+![Menüpunkt Kontakte: Alle Kategorien-Baum Details-Tab](../../../de/images/menu-items/contacts-list-all-contact-categories/01-details-tab.png)
 
 ## Formularfelder
 
@@ -41,7 +41,7 @@ Um einen bestehenden Menüpunkt **Alle Kontaktkategorien auflisten** zu bearbeit
 
 Die Optionen für Kategorien steuern, wie die Kategorieninformationen im Layout angezeigt werden. Folgende Optionen können angepasst werden:
 
-![Menüpunkt Kontakte: Alle Kategorien-Baum Kategorien-Tab](../../../de/images/menu-items/contacts-list-all-contact-categories/02-contacts-list-all-categories-tree-categories-tab.png)
+![Menüpunkt Kontakte: Alle Kategorien-Baum Kategorien-Tab](../../../de/images/menu-items/contacts-list-all-contact-categories/02-categories-tab.png)
 
 - **Beschreibung der obersten Kategorie** Zeigt oder verbirgt die Beschreibung der obersten Kategorie oder überschreibt diese optional mit dem Text aus dem Beschreibungsfeld des Menüpunkts. Wenn "Root" als oberste Kategorie verwendet wird, muss das Beschreibungsfeld ausgefüllt sein.
 - **Alternative Beschreibung** Wenn Sie hier Text eingeben, wird die Beschreibung der obersten Kategorie überschrieben, falls vorhanden.

@@ -35,7 +35,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Beiträge - Einzelner Artikel Details-Tab](../../../de/images/menu-items/articles-single-article/01-articles-single-article-details-tab.png)
+![Menüpunkt Beiträge - Einzelner Artikel Details-Tab](../../../de/images/menu-items/articles-single-article/01-details-tab.png)
 
 ## Formularfelder
 

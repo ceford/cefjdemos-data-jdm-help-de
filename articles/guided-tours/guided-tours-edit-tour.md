@@ -19,7 +19,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Geführte Touren Tour bearbeiten](../../../de/images/guided-tours/guided-tours-edit-tour/01-guided-tours-edit-tour.png)
+![Geführte Touren Tour bearbeiten](../../../de/images/guided-tours/guided-tours-edit-tour/01-edit-tour-tab.png)
 
 ## Formularfelder
 

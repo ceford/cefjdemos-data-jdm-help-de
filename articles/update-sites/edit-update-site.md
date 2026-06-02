@@ -17,7 +17,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Update-Sites Update-Site bearbeiten](../../../de/images/update-sites/edit-update-site/01-update-sites-edit-update-site.png)
+![Update-Sites Update-Site bearbeiten](../../../de/images/update-sites/edit-update-site/01-update-site-form.png)
 
 ## Formularfelder
 

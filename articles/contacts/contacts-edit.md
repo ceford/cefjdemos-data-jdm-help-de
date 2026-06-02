@@ -26,7 +26,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Kontakte bearbeiten Kontakt-Tab](../../../de/images/contacts/contacts-edit/01-contacts-edit-contact-tab.png)
+![Kontakte bearbeiten Kontakt-Tab](../../../de/images/contacts/contacts-edit/01-contact-tab.png)
 
 ## Formularfelder
 
@@ -70,13 +70,13 @@ Hier geben Sie die grundlegenden Informationen über den Kontakt ein.
 
 ### Verschiedene Informationen-Tab
 
-![Kontakte bearbeiten Kontakt-Tab](../../../de/images/contacts/contacts-edit/02-contacts-edit-miscellaneous-tab.png)
+![Kontakte bearbeiten Kontakt-Tab](../../../de/images/contacts/contacts-edit/02-miscellaneous-tab.png)
 
 Weitere Informationen zu diesem Kontakt können mit dem Editor eingegeben werden.
 
 ### Anzeige-Tab
 
-![Kontakte bearbeiten Kontakt-Tab](../../../de/images/contacts/contacts-edit/03-contacts-edit-display-tab.png)
+![Kontakte bearbeiten Kontakt-Tab](../../../de/images/contacts/contacts-edit/03-display-tab.png)
 
 - **Kategorie anzeigen** Kategorie des Kontakts anzeigen oder ausblenden.
 - **Kontaktliste anzeigen** Kontaktliste anzeigen oder ausblenden.
@@ -104,7 +104,7 @@ Weitere Informationen zu diesem Kontakt können mit dem Editor eingegeben werden
 
 ### Formular-Tab
 
-![Kontakte bearbeiten Kontakt-Tab](../../../de/images/contacts/contacts-edit/04-contacts-edit-form-tab.png)
+![Kontakte bearbeiten Kontakt-Tab](../../../de/images/contacts/contacts-edit/04-form-tab.png)
 
 - **Kontaktformular** Kontaktformular anzeigen oder ausblenden. Wenn „Anzeigen“ ausgewählt ist, wird ein Formular angezeigt, das es dem Benutzer ermöglicht, über die Website eine E-Mail an den Kontakt zu senden.
 - **Kopie an Absender senden** Kontrollkästchen anzeigen oder ausblenden: *Eine Kopie dieser Nachricht an Ihre eigene Adresse senden.*

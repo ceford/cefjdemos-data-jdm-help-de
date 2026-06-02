@@ -31,13 +31,13 @@ Um einen bestehenden Menüpunkt Abmelden zu bearbeiten:
 
 ## Screenshot
 
-![Details-Tab Abmelden](../../../de/images/menu-items/users-logout/01-users-logout-details-tab.png)
+![Details-Tab Abmelden](../../../de/images/menu-items/users-logout/01-details-tab.png)
 
 ## Formularfelder
 
 ### Optionen-Tab
 
-![Optionen-Tab Abmelden](../../../de/images/menu-items/users-logout/02-users-logout-options-tab.png)
+![Optionen-Tab Abmelden](../../../de/images/menu-items/users-logout/02-options-tab.png)
 
 - **Seite zur Abmeldeumleitung** Wählen oder erstellen Sie die Seite, zu der der Benutzer nach Beenden der aktuellen Sitzung durch Abmeldung umgeleitet wird. Standardmäßig bleibt der Benutzer auf derselben Seite.
 

@@ -18,7 +18,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Smart Search Optionen Smart Search Tab](../../../de/images/smart-search/smart-search-options/01-smart-search-options-smart-search-tab.png)
+![Smart Search Optionen Smart Search Tab](../../../de/images/smart-search/smart-search-options/01-smart-search-tab.png)
 
 ## Formularfelder
 
@@ -47,7 +47,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ### Index Tab
 
-![Smart Search Optionen Index Tab](../../../de/images/smart-search/smart-search-options/02-smart-search-options-index-tab.png)
+![Smart Search Optionen Index Tab](../../../de/images/smart-search/smart-search-options/02-index-tab.png)
 
 - **Nach Phrasen suchen** Deaktiviert, um die Leistung zu verbessern, oder aktiviert, um die Ergebnisqualität zu erhöhen.
 - **Indexer-Batchgröße** Die Batchgröße steuert, wie viele Elemente pro Batch verarbeitet werden. Große Batchgrößen erfordern viel Speicher, während kleine Batchgrößen weniger Speicher benötigen, aber mehr Anfragen ausführen, was in der Regel länger dauert.

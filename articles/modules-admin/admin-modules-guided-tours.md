@@ -24,7 +24,7 @@ Wählen Sie **System** → **Verwaltungsbereich** → **Administrator-Module** a
 
 ## Screenshot
 
-![module guided tours module tab](../../../de/images/modules-admin/admin-modules-guided-tours/01-modules-guided-tours-module-tab.png)
+![module guided tours module tab](../../../de/images/modules-admin/admin-modules-guided-tours/01-module-tab.png)
 
 ## Formularfelder
 

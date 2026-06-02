@@ -10,7 +10,7 @@ Elementmetadaten sind auch auf der Registerkarte Veröffentlichen enthalten. Die
 
 Die Registerkarte Artikel veröffentlichen:
 
-![Die Registerkarte Artikel bearbeiten Veröffentlichung](../../../de/images/common-elements/edit-publishing/01-articles-edit-publishing-tab.png)
+![Die Registerkarte Artikel bearbeiten Veröffentlichung](../../../de/images/common-elements/edit-publishing/01-publishing-tab.png)
 
 Die meisten Formularfelder haben Standardwerte, mit denen das Element gespeichert werden kann. Möglicherweise möchten Sie für die folgenden Bereiche geeignete Maßnahmen ergreifen:
 

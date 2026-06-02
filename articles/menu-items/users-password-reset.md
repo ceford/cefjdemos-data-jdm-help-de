@@ -31,6 +31,6 @@ Um einen bestehenden Menüpunkt *Passwort zurücksetzen* zu bearbeiten:
 
 ## Screenshot
 
-![Details-Tab Passwort zurücksetzen](../../../de/images/menu-items/users-password-reset/01-users-password-reset-details-tab.png)
+![Details-Tab Passwort zurücksetzen](../../../de/images/menu-items/users-password-reset/01-details-tab.png)
 
 Alle Eingabefelder des Formulars werden in den *Allgemeinen Elementen* behandelt.

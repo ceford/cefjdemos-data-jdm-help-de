@@ -21,7 +21,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ## Screenshot
 
-![News Feeds Bearbeiten Tab](../../../de/images/news-feeds/news-feeds-new-or-edit/01-news-feeds-edit-tab.png)
+![News Feeds Bearbeiten Tab](../../../de/images/news-feeds/news-feeds-new-or-edit/01-edit-tab.png)
 
 ## Formularfelder
 
@@ -34,7 +34,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfedokumenten behandelt:
 
 ### Optionen-Tab
 
-![News Feeds Optionen-Tab](../../../de/images/news-feeds/news-feeds-new-or-edit/02-news-feeds-options-tab.png)
+![News Feeds Optionen-Tab](../../../de/images/news-feeds/news-feeds-new-or-edit/02-options-tab.png)
 
 #### Bilder-Panel
 

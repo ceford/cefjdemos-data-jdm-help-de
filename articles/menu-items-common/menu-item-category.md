@@ -13,7 +13,7 @@ Alle Menüeinträge haben ein ähnliches Layout, aber einige Formularfelder und 
 
 ## Screenshot
 
-![Menüpunkt Kategorie-Tab](../../../de/images/menu-items-common/menu-item-category/01-articles-category-blog-category-tab.png)
+![Menüpunkt Kategorie-Tab](../../../de/images/menu-items-common/menu-item-category/01-category-tab.png)
 
 ## Formularfelder
 

@@ -18,7 +18,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Moduloptionen Allgemeiner Tab](../../../en/images/modules/module-options/01-module-options-general-tab.png)
+![Moduloptionen Allgemeiner Tab](../../../en/images/modules/module-options/01-general-tab.png)
 
 ## Formularfelder
 
@@ -36,7 +36,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
   Das Bearbeitungsformular für Administrator-Module hat normalerweise keinen angezeigten Sprachwähler. Daher kann ein Modul nicht auf eine bestimmte Sprache beschränkt werden. Mit dieser Option auf *Ja* wird der Sprachwähler im Modul-Bearbeitungsformular angezeigt und kann verwendet werden, um die Sichtbarkeit eines Administrator-Moduls auf eine einzelne Sprache zu beschränken.
 
-![Moduloptionen Administrator-Module Tab](../../../en/images/modules/module-options/02-module-options-administrator-modules-tab.png)
+![Moduloptionen Administrator-Module Tab](../../../en/images/modules/module-options/02-administrator-modules-tab.png)
 
 ## Tipps
 

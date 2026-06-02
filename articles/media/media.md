@@ -25,7 +25,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Bildschirmfoto
 
-![Media](../../../de/images/media/media/01-media.png)
+![Media](../../../de/images/media/media/01-media-list.png)
 
 ## Bilderansicht
 

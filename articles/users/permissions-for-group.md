@@ -21,7 +21,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Benutzer Berechtigungen für Gruppe](../../../de/images/users/permissions-for-group/01-users-permissions-for-group.png)
+![Benutzer Berechtigungen für Gruppe](../../../de/images/users/permissions-for-group/01-permissions-list.png)
 
 Oberhalb der Berechtigungstabelle werden ausgewählte Elemente angezeigt, die die Zugriffsberechtigungen mithilfe von Symbolen für *Erlaubt*, *Nicht Erlaubt* und *Verboten* darstellen. Die Symbollegende befindet sich unter der Tabelle.
 

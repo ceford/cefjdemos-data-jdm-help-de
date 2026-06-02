@@ -20,7 +20,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Geführte Touren Schritt bearbeiten](../../../de/images/guided-tours/guided-tours-edit-step/01-guided-tours-edit-step.png)
+![Geführte Touren Schritt bearbeiten](../../../de/images/guided-tours/guided-tours-edit-step/01-edit-step-tab.png)
 
 ## Formularfelder
 
@@ -59,7 +59,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Optionen Tab
 
-![Geführte Touren Schritt bearbeiten Optionen-Tab](../../../de/images/guided-tours/guided-tours-edit-step/02-guided-tours-edit-step-options-tab.png)
+![Geführte Touren Schritt bearbeiten Optionen-Tab](../../../de/images/guided-tours/guided-tours-edit-step/02-options-tab.png)
 
 ## Tipps
 

@@ -19,4 +19,4 @@ Wählen Sie **Benutzer → Kategorien für Benutzerhinweise** aus dem Administ
 
 ## Screenshot
 
-![Benutzer Benutzerhinweise Kategorienliste](../../../de/images/users/user-notes-categories/01-users-user-notes-categories-list.png)
+![Benutzer Benutzerhinweise Kategorienliste](../../../de/images/users/user-notes-categories/01-categories-list.png)

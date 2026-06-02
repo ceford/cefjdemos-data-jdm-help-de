@@ -24,7 +24,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Wer ist online Modul-Tab](../../../de/images/modules-site/site-modules-whos-online/01-modules-whos-online-module-tab.png)
+![Wer ist online Modul-Tab](../../../de/images/modules-site/site-modules-whos-online/01-module-tab.png)
 
 ## Formularfelder
 

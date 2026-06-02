@@ -59,7 +59,7 @@ Parameter für alle Felder:
 
 ### Optionen-Registerkarte
 
-![Artikel Feld Bearbeiten Optionen Registerkarte](../../../de/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
+![Artikel Feld Bearbeiten Optionen Registerkarte](../../../de/images/fields/fields-edit/02-options-tab.png)
 
 #### Formularoptionen
 

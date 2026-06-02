@@ -6,7 +6,7 @@ Der *Modul: Erweitert*-Tab wird mit geringfügigen Abweichungen in allen Modulbe
 
 ## Screenshot
 
-![Module Erweitert-Tab](../../../de/images/modules/modules-advanced-tab/01-modules-custom-advanced-tab.png)
+![Module Erweitert-Tab](../../../de/images/modules/modules-advanced-tab/01-advanced-tab.png)
 
 ## Formularfelder
 

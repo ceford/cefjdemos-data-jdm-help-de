@@ -20,7 +20,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ## Screenshot
 
-![Banner Kunde bearbeiten](../../../de/images/banners/banners-edit-client/01-banners-edit-client-details-tab.png)
+![Banner Kunde bearbeiten](../../../de/images/banners/banners-edit-client/01-details-tab.png)
 
 ## Formularfelder
 
@@ -43,7 +43,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfe-Artikeln behandelt:
 
 ### Metadaten-Tab
 
-![Banner Kunde Metadaten bearbeiten](../../../de/images/banners/banners-edit-client/02-banners-edit-client-metadata-tab.png)
+![Banner Kunde Metadaten bearbeiten](../../../de/images/banners/banners-edit-client/02-metadata-tab.png)
 
 - **Schlüsselwörter** Optionale Eingabe für Schlüsselwörter. Muss durch Kommas getrennt eingegeben werden (zum Beispiel „katzen, hunde, haustiere“) und kann in Groß- oder Kleinbuchstaben eingegeben werden. (Zum Beispiel wird „KATZEN“ mit „katzen“ oder „Katzen“ übereinstimmen). Schlüsselwörter können auf verschiedene Weise verwendet werden:
   1. Um Suchmaschinen und anderen Systemen zu helfen, den Inhalt des Artikels zu klassifizieren.

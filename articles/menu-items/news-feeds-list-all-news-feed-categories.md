@@ -33,13 +33,13 @@ Um einen bestehenden Menüpunkt **Alle News-Feed-Kategorien auflisten** zu bearb
 
 ## Screenshot
 
-![Menüpunkt Alle News-Feed-Kategorien Details-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/01-news-feeds-list-all-categories-details-tab.png)
+![Menüpunkt Alle News-Feed-Kategorien Details-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/01-details-tab.png)
 
 ## Formularfelder
 
 ### Kategorien-Tab
 
-![Menüpunkt Alle News-Feed-Kategorien Kategorien-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/02-news-feeds-list-all-categories-tree-categories-tab.png)
+![Menüpunkt Alle News-Feed-Kategorien Kategorien-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/02-categories-tab.png)
 
 - **Beschreibung der obersten Kategorie** Zeigt oder verbirgt die Beschreibung der obersten Kategorie. Beachten Sie, dass diese Beschreibung für dieses Layout durch eine *alternative Beschreibung* überschrieben werden kann.
 - **Alternative Beschreibung** Wenn Sie Text in dieses Feld eingeben, wird er die Beschreibung der obersten Kategorie ersetzen, falls diese vorhanden ist. Wenn die Option "Beschreibung der obersten Kategorie" auf *Anzeigen* gesetzt ist, wird diese Beschreibung anstelle der normalen Kategoriebeschreibung angezeigt.
@@ -48,26 +48,9 @@ Um einen bestehenden Menüpunkt **Alle News-Feed-Kategorien auflisten** zu bearb
 - **Unterkategorien-Beschreibungen** Zeigt oder verbirgt die Beschreibung der Unterkategorien.
 - **\# Feeds in Kategorie** Zeigt oder verbirgt die Anzahl der News-Feeds in einer Kategorie.
 
-### Listenlayouts-Tab
-
-![Menüpunkt Alle News-Feed-Kategorien Listenlayouts-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/03-news-feeds-list-all-categories-tree-list-layouts-tab.png)
-
-- **Filterfeld** Zeigt oder verbirgt ein Filterfeld für die Liste.
-- **Anzeigeauswahl** Zeigt oder verbirgt die Steuerung *Anzahl anzeigen*, die es dem Benutzer ermöglicht, die Anzahl der anzuzeigenden Elemente in der Liste auszuwählen.
-- **Tabellenüberschriften** Zeigt oder verbirgt Tabellenüberschriften über einer Liste.
-- **\# Artikel** Zeigt oder verbirgt die Anzahl der Artikel in jedem News-Feed. Dieser Wert kann in jedem einzelnen News-Feed überschrieben werden.
-- **Feed-Links** Zeigt oder verbirgt die URL-Links der Feeds.
-- **Seitennummerierung** Verbirgt oder zeigt die Unterstützung für die Seitennummerierung. Die Seitennummerierung bietet Seitenlinks am unteren Rand der Seite, mit denen der Benutzer zu weiteren Seiten navigieren kann. Diese sind erforderlich, wenn die aufgelisteten Elemente nicht auf eine Seite passen.
-    Die folgenden Optionen sind verfügbar:
-    - *Global verwenden:* Verwendet den Standardwert aus dem Optionen-Bildschirm der Komponente.
-    - *Automatisch:* Seitennummerierungs-Links werden bei Bedarf angezeigt.
-    - *Anzeigen:* Seitennummerierungs-Links werden angezeigt, wenn erforderlich.
-    - *Ausblenden:* Seitennummerierungs-Links werden nicht angezeigt. Hinweis: In diesem Fall können Benutzer nicht zu weiteren Seiten navigieren.
-- **Seitennummerierungs-Ergebnisse** Zeigt oder verbirgt die aktuelle Seitenzahl und die Gesamtzahl der Seiten (zum Beispiel *Seite 1 von 2*) am unteren Rand jeder Seite. *Global verwenden* verwendet den Standardwert aus den Komponenten-Optionen.
-
 ### Feedanzeige-Optionen-Tab
 
-![Menüpunkt Alle News-Feed-Kategorien Kategorien-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/04-news-feeds-list-all-categories-tree-feed-display-options-tab.png)
+![Menüpunkt Alle News-Feed-Kategorien Kategorien-Tab](../../../de/images/menu-items/news-feeds-list-all-news-feed-categories/03-feed-display-options-tab.png)
 
 - **Feed-Bild** Zeigt oder verbirgt das Bild der News-Feeds.
 - **Feed-Beschreibung** Zeigt oder verbirgt die Beschreibung der News-Feeds.

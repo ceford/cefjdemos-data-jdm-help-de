@@ -21,11 +21,11 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot - Liste der installierten Administrator-Module
 
-![Administrator-Modulliste](../../../de/images/modules-admin/admin-modules-administrator/01-modules-administrator-list.png)
+![Administrator-Modulliste](../../../de/images/modules-admin/admin-modules-administrator/01-administrator-list.png)
 
 ## Screenshot - Liste der verfügbaren Administrator-Module
 
-![Administrator-Module verfügbar](../../../de/images/modules-admin/admin-modules-administrator/02-modules-administrator-available.png)
+![Administrator-Module verfügbar](../../../de/images/modules-admin/admin-modules-administrator/02-available-modules.png)
 
 ## Modulpositionen
 

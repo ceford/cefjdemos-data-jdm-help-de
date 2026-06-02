@@ -19,7 +19,7 @@ Um auf diesen Bildschirm zuzugreifen:
 
 ## Screenshot
 
-![Benutzeraktionsprotokoll Optionen Tab](../../../de/images/users/user-actions-log-options/01-user-actions-log-options-options-tab.png)
+![Benutzeraktionsprotokoll Optionen Tab](../../../de/images/users/user-actions-log-options/01-options-tab.png)
 
 ## Formularfelder
 

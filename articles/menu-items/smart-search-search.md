@@ -32,7 +32,7 @@ Um einen bestehenden Suchmenüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Smart Search Details-Tab](../../../de/images/menu-items/smart-search-search/01-smart-search-search-details-tab.png)
+![Menüpunkt Smart Search Details-Tab](../../../de/images/menu-items/smart-search-search/01-details-tab.png)
 
 ## Formularfelder
 
@@ -40,7 +40,7 @@ Wenn *Global verwenden* für eine Option ausgewählt ist, wird der Standardwert 
 
 ### Optionen-Tab
 
-![Menüpunkt Smart Search Optionen-Tab](../../../de/images/menu-items/smart-search-search/02-smart-search-search-options-tab.png)
+![Menüpunkt Smart Search Optionen-Tab](../../../de/images/menu-items/smart-search-search/02-search-options-tab.png)
 
 - **Datumsfilter** Anzeigen oder Ausblenden der Start- und Enddatumsfilter in der erweiterten Suche.
 - **Erweiterte Suche** Erweitertes Suchfeld anzeigen oder ausblenden.
@@ -53,7 +53,7 @@ Wenn *Global verwenden* für eine Option ausgewählt ist, wird der Standardwert 
 
 ### Erweitert-Tab
 
-![Menüpunkt Smart Search Erweitert-Tab](../../../de/images/menu-items/smart-search-search/03-smart-search-search-advanced-tab.png)
+![Menüpunkt Smart Search Erweitert-Tab](../../../de/images/menu-items/smart-search-search/03-advanced-tab.png)
 
 - **Anzeigeauswahl** Zeigt oder versteckt die Anzeige # Kontrolle, die es dem Benutzer ermöglicht, die Anzahl der anzuzeigenden Elemente zu wählen.
 - **Seitennavigation** Zeigt oder versteckt die Seitennavigation. Die Seitennavigation bietet Links am unteren Ende der Seite, die es dem Benutzer ermöglichen, zu weiteren Seiten zu navigieren. Diese werden benötigt, wenn die aufgelisteten Elemente nicht auf eine Seite passen.

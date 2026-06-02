@@ -27,7 +27,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![verwandte artikel modul tab](../../../de/images/modules-site/site-modules-articles-related/01-modules-articles-related-module-tab.png)
+![verwandte artikel modul tab](../../../de/images/modules-site/site-modules-articles-related/01-module-tab.png)
 
 ## Formularfelder
 

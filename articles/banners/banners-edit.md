@@ -23,7 +23,7 @@ Aus dem Administrator-Menü:
 
 Ein Banner kann ein klickbares Bild oder ein benutzerdefinierter Code sein. Der Bildtyp wird im folgenden Screenshot angezeigt. Der benutzerdefinierte Typ ersetzt das Bildauswahlfeld durch ein Code-Textfeld.
 
-![Banner bearbeiten Details-Tab](../../../de/images/banners/banners-edit/01-banners-edit-details-tab.png)
+![Banner bearbeiten Details-Tab](../../../de/images/banners/banners-edit/01-details-tab.png)
 
 ## Formularfelder
 
@@ -58,7 +58,7 @@ Ein Banner kann ein klickbares Bild oder ein benutzerdefinierter Code sein. Der 
 
 ### Banner-Details-Tab
 
-![Banner bearbeiten Banner-Details-Tab](../../../de/images/banners/banners-edit/02-banners-edit-banner-details-tab.png)
+![Banner bearbeiten Banner-Details-Tab](../../../de/images/banners/banners-edit/02-banner-details-tab.png)
 
 - **Max. Impressionen** Die Anzahl der für dieses Banner gekauften Impressionen. Impressionen sind die Anzahl der Male, die ein Banner auf einer Seite angezeigt wird. Aktivieren Sie das Kontrollkästchen 'Unbegrenzt', wenn eine unbegrenzte Anzahl von Impressionen erlaubt ist.
 - **Gesamtimpressionen** Die Anzahl der Male, die dieses Banner einem Benutzer auf einer Webseite angezeigt wurde. Keine Eingabe erlaubt. Sie können diese Zahl auf 0 zurücksetzen, indem Sie die Schaltfläche 'Impressionen zurücksetzen' drücken.

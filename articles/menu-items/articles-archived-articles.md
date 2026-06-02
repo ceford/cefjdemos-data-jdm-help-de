@@ -36,7 +36,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Alias](../../../de/images/menu-items/articles-archived-articles/01-articles-archived-articles-details-tab.png)
+![Menüpunkt Alias](../../../de/images/menu-items/articles-archived-articles/01-details-tab.png)
 
 ## Formularfelder
 
@@ -45,7 +45,7 @@ Um einen Menüpunkt zu bearbeiten:
 
 ### Archiv-Tab
 
-![Menüs Archivierte Artikel](../../../de/images/menu-items/articles-archived-articles/02-articles-archived-articles-archive-tab.png)
+![Menüs Archivierte Artikel](../../../de/images/menu-items/articles-archived-articles/02-archive-tab.png)
 
 * **Artikelreihenfolge**
   * **Älteste zuerst** Artikel werden von den ältesten bis zu den neuesten angezeigt.

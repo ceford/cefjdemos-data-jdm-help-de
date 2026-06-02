@@ -18,7 +18,7 @@ Auf der Seite *Templates: Quellcode anpassen* können die Quellcode-Dateien eine
 
 ## Screenshot
 
-![Templates Quellcode anpassen Cassiopeia Editor Tab](../../../de/images/templates/templates-customise-source/01-templates-customise-cassiopeia-edit-component-editor-tab.png)
+![Templates Quellcode anpassen Cassiopeia Editor Tab](../../../de/images/templates/templates-customise-source/01-editor-tab.png)
 
 ## Formularfelder
 

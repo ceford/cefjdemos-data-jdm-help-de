@@ -6,7 +6,7 @@ Der *Modul-Tab* ist in allen Bearbeitungsformularen für Module vorhanden. Das l
 
 ## Screenshot
 
-![Aktionsprotokolle neuester Modul-Tab](../../../de/images/modules/modules-module-tab/01-modules-custom-module-tab.png)
+![Aktionsprotokolle neuester Modul-Tab](../../../de/images/modules/modules-module-tab/01-module-tab.png)
 
 ## Formularfelder
 

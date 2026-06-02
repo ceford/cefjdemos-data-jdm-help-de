@@ -13,7 +13,7 @@ Alle Menüeinträge haben ein ähnliches Layout, aber einige Formularfelder und 
 
 ## Screenshot
 
-![Menüpunkt Blog Layout Tab](../../../de/images/menu-items-common/menu-item-blog-layout/01-articles-category-blog-blog-layout-tab.png)
+![Menüpunkt Blog Layout Tab](../../../de/images/menu-items-common/menu-item-blog-layout/01-blog-layout-tab.png)
 
 ## Formularfelder
 

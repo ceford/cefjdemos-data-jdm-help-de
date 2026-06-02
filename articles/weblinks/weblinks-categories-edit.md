@@ -22,7 +22,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Weblinks Kategorie bearbeiten Tab](../../../de/images/weblinks/weblinks-categories-edit/01-web-links-edit-category-category-tab.png)
+![Weblinks Kategorie bearbeiten Tab](../../../de/images/weblinks/weblinks-categories-edit/01-category-tab.png)
 
 ## Formularfelder
 

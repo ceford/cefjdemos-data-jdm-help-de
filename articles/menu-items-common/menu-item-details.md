@@ -11,7 +11,7 @@ Alle Menüeinträge haben ein ähnliches Layout, aber einige der Formularfelder 
 
 ## Screenshot
 
-![Menüpunktdetails-Register](../../../de/images/menu-items-common/menu-item-details/01-menu-item-details.png)
+![Menüpunktdetails-Register](../../../de/images/menu-items-common/menu-item-details/01-details-tab.png)
 
 Die Screenshots in den Hilfeseiten zu den einzelnen Menüeintragstypen unterscheiden sich in Details von diesem Screenshot.
 

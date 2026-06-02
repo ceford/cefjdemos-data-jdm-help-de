@@ -31,7 +31,7 @@ Um einen bestehenden Menüpunkt zu bearbeiten:
 
 ## Screenshot
 
-![Menüpunkt Alias](../../../de/images/menu-items/system-links-menu-item-alias/01-system-links-menu-item-alias-details-tab.png)
+![Menüpunkt Alias](../../../de/images/menu-items/system-links-menu-item-alias/01-details-tab.png)
 
 Alle Formulareingabefelder werden in den *Gemeinsamen Elementen* behandelt.
 

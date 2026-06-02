@@ -32,7 +32,7 @@ Um einen bestehenden Menüpunkt **Kontakte in einer Kategorie auflisten** zu bea
 
 ## Screenshot
 
-![Menüpunkt Kontakte in einer Kategorie auflisten Details-Tab](../../../de/images/menu-items/contacts-list-contacts-in-a-category/01-contacts-list-contacts-in-a-category-details-tab.png)
+![Menüpunkt Kontakte in einer Kategorie auflisten Details-Tab](../../../de/images/menu-items/contacts-list-contacts-in-a-category/01-details-tab.png)
 
 ## Formularfelder
 
@@ -43,7 +43,7 @@ Um einen bestehenden Menüpunkt **Kontakte in einer Kategorie auflisten** zu bea
 
 Die Kategorie-Optionen steuern, wie die Kategoriedaten im Layout angezeigt werden. Das Kategorien-Listenlayout enthält die folgenden Kategorien-Optionen, wie unten dargestellt.
 
-![Menüpunkt Kontakte in einer Kategorie auflisten Kategorie-Tab](../../../de/images/menu-items/contacts-list-contacts-in-a-category/02-contacts-list-contacts-in-a-category-category-tab.png)
+![Menüpunkt Kontakte in einer Kategorie auflisten Kategorie-Tab](../../../de/images/menu-items/contacts-list-contacts-in-a-category/02-category-tab.png)
 
 - **Kategorie-Titel** Zeigt oder verbirgt den Titel der Kategorie, der als Unterüberschrift auf der Seite angezeigt wird. Die Unterüberschrift wird normalerweise im "H2"-Tag angezeigt.
 - **Kategorie-Beschreibung** Zeigt oder verbirgt die Beschreibung der ausgewählten Kategorie.

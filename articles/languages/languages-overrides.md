@@ -21,7 +21,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Sprachen Überschreibungen Liste](../../../de/images/languages/languages-overrides/01-languages-overrides-list.png)
+![Sprachen Überschreibungen Liste](../../../de/images/languages/languages-overrides/01-overrides-list.png)
 
 ## Spaltenüberschriften
 

@@ -20,6 +20,6 @@ Die Optionen-Seite hat nur einen Tab, den Veröffentlichungs-Tab, der in den obe
 
 ## Bildschirmfoto
 
-![Optionen für geführte Touren](../../../en/images/guided-tours/guided-tours-options/01-guided-tours-options.png)
+![Optionen für geführte Touren](../../../en/images/guided-tours/guided-tours-options/01-guided-tours-tab.png)
 
 Die Elemente im Tab "Geführte Touren" sind in der Inline-Hilfe gut erklärt.

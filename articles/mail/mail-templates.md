@@ -25,7 +25,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Mail-Vorlagen-Liste](../../../de/images/mail/mail-templates/01-mail-templates.png)
+![Mail-Vorlagen-Liste](../../../de/images/mail/mail-templates/01-templates-list.png)
 
 ## Spaltenüberschriften
 

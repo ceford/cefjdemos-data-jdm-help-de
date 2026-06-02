@@ -21,7 +21,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Liste der geführten Touren-Schritte](../../../de/images/guided-tours/guided-tours-steps/01-guided-tours-steps-list.png)
+![Liste der geführten Touren-Schritte](../../../de/images/guided-tours/guided-tours-steps/01-steps-list.png)
 
 ## Tipps
 

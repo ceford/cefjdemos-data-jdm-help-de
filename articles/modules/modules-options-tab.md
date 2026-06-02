@@ -6,7 +6,7 @@ Der *Optionen-Tab* in Modulen wird in allen Bearbeitungsformularen für Site-Mod
 
 ## Screenshot
 
-![Module Optionen-Tab](../../../de/images/modules/modules-options-tab/01-modules-custom-options-tab.png)
+![Module Optionen-Tab](../../../de/images/modules/modules-options-tab/01-options-tab.png)
 
 ## Formularfelder
 

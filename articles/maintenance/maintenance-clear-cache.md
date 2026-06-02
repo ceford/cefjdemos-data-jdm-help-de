@@ -19,7 +19,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Wartung Cache leeren](../../../de/images/maintenance/maintenance-clear-cache/01-maintenance-clear-cache.png)
+![Wartung Cache leeren](../../../de/images/maintenance/maintenance-clear-cache/01-cache-list.png)
 
 ## Spaltenüberschriften
 

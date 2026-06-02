@@ -20,4 +20,4 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Templates Website Stile Liste](../../../de/images/templates/templates-styles/01-templates-site-styles-list.png)
+![Templates Website Stile Liste](../../../de/images/templates/templates-styles/01-styles-list.png)

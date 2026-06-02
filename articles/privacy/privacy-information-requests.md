@@ -28,7 +28,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Datenschutz Informationsanfragen](../../../de/images/privacy/privacy-information-requests/01-privacy-information-requests.png)
+![Datenschutz Informationsanfragen](../../../de/images/privacy/privacy-information-requests/01-requests-list.png)
 
 ## Spaltenüberschriften
 

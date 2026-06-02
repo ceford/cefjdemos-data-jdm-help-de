@@ -25,7 +25,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Module Administrator-Dashboard-Menü Modul-Tab](../../../de/images/modules-admin/admin-modules-administrator-dashboard-menu/01-modules-administrator-dashboard-menu-module-tab.png)
+![Module Administrator-Dashboard-Menü Modul-Tab](../../../de/images/modules-admin/admin-modules-administrator-dashboard-menu/01-module-tab.png)
 
 ## Formularfelder
 

@@ -37,7 +37,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Artikel-Felderliste](../../../de/images/fields/fields/01-articles-fields-list.png)
+![Artikel-Felderliste](../../../de/images/fields/fields/01-fields-list.png)
 
 Es sind 16 Feldtypen verfügbar, die jeweils als Plugin implementiert sind. In Zukunft werden wahrscheinlich weitere hinzukommen.
 

@@ -18,7 +18,7 @@ Die Seite *Benutzer: Optionen* wird verwendet, um globale Optionen für alle Ben
 
 ## Screenshot
 
-![Benutzer Optionen Benutzer Optionen Tab](../../../de/images/users/users-options/01-users-options-user-options-tab.png)
+![Benutzer Optionen Benutzer Optionen Tab](../../../de/images/users/users-options/01-user-options-tab.png)
 
 ## Formularfelder
 
@@ -44,7 +44,7 @@ Die Seite *Benutzer: Optionen* wird verwendet, um globale Optionen für alle Ben
 
 ### E-Mail-Domain-Optionen-Tab
 
-![Benutzer Optionen E-Mail-Domains Tab](../../../de/images/users/users-options/02-users-options-email-domain-options-tab.png)
+![Benutzer Optionen E-Mail-Domains Tab](../../../de/images/users/users-options/02-email-domain-options-tab.png)
 
 - **Domain-Name** Geben Sie eine Liste der erlaubten und nicht erlaubten E-Mail-Domains ein. Standardmäßig sind alle Domains erlaubt. Platzhalter (\*) werden unterstützt. Zum Beispiel:
   - \* (Sternchen): Erlaubt oder verbietet alle Domains
@@ -54,7 +54,7 @@ Die Seite *Benutzer: Optionen* wird verwendet, um globale Optionen für alle Ben
 
 ### Passwortoptionen-Tab
 
-![Benutzer Optionen Passwortoptionen Tab](../../../de/images/users/users-options/03-users-options-password-options-tab.png)
+![Benutzer Optionen Passwortoptionen Tab](../../../de/images/users/users-options/03-password-options-tab.png)
 
 - **Maximale Anzahl an Zurücksetzungen** Die maximale Anzahl an Passwortzurücksetzungen innerhalb des Zeitraums. Null bedeutet keine Begrenzung.
 - **Zurücksetzungszeitraum** Der Zeitraum in Stunden, in dem der Zurücksetzungszähler gilt.
@@ -66,7 +66,7 @@ Die Seite *Benutzer: Optionen* wird verwendet, um globale Optionen für alle Ben
 
 ### Multi-Faktor-Authentifizierungs-Tab
 
-![Benutzer Optionen Multi-Faktor-Authentifizierung Tab](../../../de/images/users/users-options/04-users-options-multi-factor-authentication-tab.png)
+![Benutzer Optionen Multi-Faktor-Authentifizierung Tab](../../../de/images/users/users-options/04-multi-factor-authentication-tab.png)
 
 - **Erlaubte Frontend-Modulpositionen** Beim Anzeigen der Multi-Faktor-Authentifizierungsseite im Frontend werden alle Module außer denen in den hier ausgewählten Positionen ausgeblendet.
 - **Titel im Frontend anzeigen** Einen Titel auf der Frontend-Multi-Faktor-Authentifizierungsseite anzeigen? Beachten Sie, dass der Titel im Backend immer angezeigt wird. Wenn Sie den Titel ändern müssen, überschreiben Sie den Sprachschlüssel `COM_USERS_HEADING_MFA` mit *Languages: Overrides*.
@@ -81,21 +81,21 @@ Die Seite *Benutzer: Optionen* wird verwendet, um globale Optionen für alle Ben
 
 ### Benutzernotizen-Verlauf-Tab
 
-![Benutzer Optionen Benutzernotizen-Verlauf Tab](../../../de/images/users/users-options/05-users-options-user-notes-history-tab.png)
+![Benutzer Optionen Benutzernotizen-Verlauf Tab](../../../de/images/users/users-options/05-user-notes-history-tab.png)
 
 - **Versionen aktivieren** Versionsverlauf für Benutzernotizen speichern.
 - **Maximale Versionen** Die maximale Anzahl von Versionen, die für eine Benutzernotiz gespeichert werden. Wenn eine Benutzernotiz gespeichert wird und die maximale Anzahl von Versionen erreicht wurde, wird die älteste Version automatisch gelöscht. Wenn auf 0 gesetzt, werden Versionen nie automatisch gelöscht.
 
 ### Massenmail-Benutzer-Tab
 
-![Benutzer Optionen Massenmail-Benutzer Tab](../../../de/images/users/users-options/06-users-options-mass-mail-users-tab.png)
+![Benutzer Optionen Massenmail-Benutzer Tab](../../../de/images/users/users-options/06-mass-mail-users-tab.png)
 
 - **Betreff-Präfix** Geben Sie optionalen Text ein, der automatisch vor dem Betreff der Massen-E-Mail eingefügt wird.
 - **E-Mail-Suffix** Geben Sie optionalen Text ein, der automatisch nach dem Text der E-Mail eingefügt wird (z. B. eine Signatur).
 
 ### Integrations-Tab
 
-![Benutzer Optionen Integrations-Tab](../../../de/images/users/users-options/07-users-options-integration-tab.png)
+![Benutzer Optionen Integrations-Tab](../../../de/images/users/users-options/07-integration-tab.png)
 
 - **Benutzerdefinierte Felder aktivieren** Aktivieren Sie die Erstellung von benutzerdefinierten Feldern.
 

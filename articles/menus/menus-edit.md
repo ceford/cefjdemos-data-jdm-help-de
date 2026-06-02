@@ -19,7 +19,7 @@ Einige Aspekte dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Menüs: Bearbeiten, Details-Tab](../../../de/images/menus/menus-edit/01-menus-edit-menu-details-tab.png)
+![Menüs: Bearbeiten, Details-Tab](../../../de/images/menus/menus-edit/01-menu-details-tab.png)
 
 ## Formularfelder
 

@@ -13,7 +13,7 @@ Alle Menüeinträge haben ein ähnliches Layout, aber einige der Formularfelder 
 
 ## Screenshot
 
-![Menüeintrag Details-Tab](../../../de/images/menu-items-common/menu-item-article-options/01-articles-article-options.png)
+![Menüeintrag Details-Tab](../../../de/images/menu-items-common/menu-item-article-options/01-options-tab.png)
 
 ## Formularfelder
 

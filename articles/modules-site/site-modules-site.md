@@ -21,11 +21,11 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot - Liste der installierten Website-Module
 
-![Administrator-Module-Liste](../../../de/images/modules-site/site-modules-site/01-modules-site-list.png)
+![Administrator-Module-Liste](../../../de/images/modules-site/site-modules-site/01-site-list.png)
 
 ## Screenshot - Liste der verfügbaren Website-Module
 
-![Administrator-Module-verfügbar](../../../de/images/modules-site/site-modules-site/02-modules-site-available.png)
+![Administrator-Module-verfügbar](../../../de/images/modules-site/site-modules-site/02-site-available.png)
 
 ## Modulpositionen
 

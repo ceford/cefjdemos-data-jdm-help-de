@@ -24,7 +24,7 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 
 ## Screenshot
 
-![Login Modul-Tab](../../../de/images/modules-site/site-modules-login/01-modules-login-module-tab.png)
+![Login Modul-Tab](../../../de/images/modules-site/site-modules-login/01-module-tab.png)
 
 ## Formularfelder
 

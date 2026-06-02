@@ -20,7 +20,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Benutzer Ansicht Zugriffslevel](../../../de/images/users/users-edit-viewing-access-level/01-users-edit-viewing-access-level-details-tab.png)
+![Benutzer Ansicht Zugriffslevel](../../../de/images/users/users-edit-viewing-access-level/01-details-tab.png)
 
 ### Reiter "Level-Details"
 
@@ -29,7 +29,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ### Reiter "Benutzergruppen mit Anzeigezugriff"
 
-![Benutzer Ansicht Zugriffslevel](../../../de/images/users/users-edit-viewing-access-level/02-users-edit-viewing-access-level-ugwva-tab.png)
+![Benutzer Ansicht Zugriffslevel](../../../de/images/users/users-edit-viewing-access-level/02-ugwva-tab.png)
 
 Wählen Sie ein Kontrollkästchen, um einer Benutzergruppe Zugriff auf ein Ansichtslevel zu gewähren. Im gezeigten Beispiel sind alle Gruppen Kinder von "Public", daher ist es nicht erforderlich, eine der Kindgruppen auszuwählen. Sie erben die Zugriffsrechte der "Public"-Gruppe. Diese Funktion sollte nur für benutzerdefinierte Gruppen verwendet werden!
 

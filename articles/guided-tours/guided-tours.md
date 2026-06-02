@@ -23,7 +23,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Liste geführter Touren](../../../en/images/guided-tours/guided-tours/01-guided-tours-list.png)
+![Liste geführter Touren](../../../en/images/guided-tours/guided-tours/01-tours-list.png)
 
 ## Tipps
 

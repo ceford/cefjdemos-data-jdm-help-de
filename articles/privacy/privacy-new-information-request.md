@@ -17,7 +17,7 @@ Einige Elemente dieser Seite werden in separaten Hilfsartikeln behandelt:
 
 ## Screenshot
 
-![Datenschutz neue Informationsanfrage](../../../de/images/privacy/privacy-new-information-request/01-privacy-new-information-request.png)
+![Datenschutz neue Informationsanfrage](../../../de/images/privacy/privacy-new-information-request/01-form-fields.png)
 
 ## Formularfelder
 
