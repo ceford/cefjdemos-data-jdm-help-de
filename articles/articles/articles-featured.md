@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Featured / Display title: Beiträge: Hauptbeiträge -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Featured",
+  "title": "Beiträge: Hauptbeiträge ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

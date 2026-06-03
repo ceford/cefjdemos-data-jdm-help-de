@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Transitions_List:_Basic_Workflow / Display title: Übergänge: Grundlegender Workflow -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Transitions_List:_Basic_Workflow",
+  "title": "Übergänge: Grundlegender Workflow ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

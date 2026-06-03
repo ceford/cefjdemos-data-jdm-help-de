@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Options / Display title: Suchindex: Optionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Options",
+  "title": "Suchindex: Optionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

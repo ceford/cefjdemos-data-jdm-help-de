@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Tags_-_Popular / Display title: Module: Schlagwörter – Beliebte -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Tags_-_Popular",
+  "title": "Module: Schlagwörter – Beliebte ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

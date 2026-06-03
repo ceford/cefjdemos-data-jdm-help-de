@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Wrapper / Display title: Module: Wrapper -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Wrapper",
+  "title": "Module: Wrapper ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

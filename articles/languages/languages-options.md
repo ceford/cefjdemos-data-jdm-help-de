@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Options / Display title: Sprachen: Optionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Options",
+  "title": "Sprachen: Optionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

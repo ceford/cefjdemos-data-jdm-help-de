@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Maintenance:_Global_Check-in / Display title: Wartung: Globales Freigeben -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Maintenance:_Global_Check-in",
+  "title": "Wartung: Globales Freigeben ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

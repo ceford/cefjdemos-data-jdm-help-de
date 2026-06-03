@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Review_Information_Request / Display title: Datenschutz: Informationsanfrage Überprüfen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Review_Information_Request",
+  "title": "Datenschutz: Informationsanfrage Überprüfen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

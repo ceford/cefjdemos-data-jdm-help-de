@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_List_Layouts / Display title: Menüpunkt-Listenlayouts -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_List_Layouts",
+  "title": "Menüpunkt-Listenlayouts ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

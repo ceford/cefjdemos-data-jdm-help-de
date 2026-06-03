@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Metadata / Display title: Menüpunkt-Metadaten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Metadata",
+  "title": "Menüpunkt-Metadaten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

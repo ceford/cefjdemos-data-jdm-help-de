@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Extend_Consent / Display title: Menüpunkt: Einwilligung verlängern -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Extend_Consent",
+  "title": "Menüpunkt: Einwilligung verlängern ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

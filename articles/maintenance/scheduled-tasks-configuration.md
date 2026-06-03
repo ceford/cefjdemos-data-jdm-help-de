@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks:_Options / Display title: Konfiguration geplanter Aufgaben -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Options",
+  "title": "Konfiguration geplanter Aufgaben ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

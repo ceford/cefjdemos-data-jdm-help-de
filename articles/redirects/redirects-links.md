@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Redirects:_Links / Display title: Weiterleitungen: Links -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Redirects:_Links",
+  "title": "Weiterleitungen: Links ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

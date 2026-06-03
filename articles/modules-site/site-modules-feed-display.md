@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Feed_Display / Display title: Module: Externen Feed anzeigen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Feed_Display",
+  "title": "Module: Externen Feed anzeigen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Language_Switcher / Display title: Site Module: Sprachauswahl -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Language_Switcher",
+  "title": "Site Module: Sprachauswahl ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

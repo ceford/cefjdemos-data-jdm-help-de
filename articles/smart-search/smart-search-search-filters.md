@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Search_Filters / Display title: Suchindex: Suchfilter -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Filters",
+  "title": "Suchindex: Suchfilter ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

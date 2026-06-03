@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Filters / Display title: Listenfilter -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Filters",
+  "title": "Listenfilter ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck¶
 

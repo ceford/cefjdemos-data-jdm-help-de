@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Tags:_New_or_Edit / Display title: Schlagwörter: Neu oder Bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Tags:_New_or_Edit",
+  "title": "Schlagwörter: Neu oder Bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

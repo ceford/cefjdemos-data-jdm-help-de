@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Toolbars / Display title: Symbolleisten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Toolbars",
+  "title": "Symbolleisten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 

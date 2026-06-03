@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Ordering / Display title: Listenreihenfolge -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Ordering",
+  "title": "Listenreihenfolge ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Wo es auf die Bestellung ankommt
 

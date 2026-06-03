@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Weblink_Categories / Display title: Alle Weblink-Kategorien anzeigen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Categories",
+  "title": "Alle Weblink-Kategorien anzeigen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

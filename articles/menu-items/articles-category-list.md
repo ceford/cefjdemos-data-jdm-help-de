@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Category_List / Display title: Menüeintrag: Kategorieliste -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Category_List",
+  "title": "Menüeintrag: Kategorieliste ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

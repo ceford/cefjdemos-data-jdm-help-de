@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Site / Display title: Module (Seite) -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Site",
+  "title": "Module (Seite) ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

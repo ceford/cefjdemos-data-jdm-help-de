@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mail_Template:_Edit / Display title: Mail-Vorlage Bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mail_Template:_Edit",
+  "title": "Mail-Vorlage Bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

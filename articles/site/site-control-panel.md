@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Control_Panel / Display title: Start-Dashboard -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Control_Panel",
+  "title": "Start-Dashboard ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

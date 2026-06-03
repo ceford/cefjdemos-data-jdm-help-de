@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Actions_Log:_Options / Display title: Benutzeraktivitäten: Optionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Actions_Log:_Options",
+  "title": "Benutzeraktivitäten: Optionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

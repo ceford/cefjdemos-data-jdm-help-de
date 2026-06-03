@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Articles_-_Most_Read / Display title: Module: Beiträge – Beliebte -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Most_Read",
+  "title": "Module: Beiträge – Beliebte ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

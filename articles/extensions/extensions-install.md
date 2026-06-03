@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Install / Display title: Erweiterungen: Installieren -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Install",
+  "title": "Erweiterungen: Installieren ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Version_History / Display title: Versionsverlauf bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Version_History",
+  "title": "Versionsverlauf bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Glossary / Display title: Glossar -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Glossary",
+  "title": "Glossar ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Das Joomla! Glossar ist hilfreich, um gängige Begriffe zu erklären, die in Joomla!-Anleitungen, Hilfebildschirmen und erweiterter Dokumentation verwendet werden.
 

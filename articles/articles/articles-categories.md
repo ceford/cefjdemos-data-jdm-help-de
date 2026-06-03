@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Categories / Display title: Beiträge: Kategorien -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Categories",
+  "title": "Beiträge: Kategorien ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

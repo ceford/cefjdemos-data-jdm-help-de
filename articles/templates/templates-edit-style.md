@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Edit_Style / Display title: Templates: Stile bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Edit_Style",
+  "title": "Templates: Stile bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Tags / Display title: Schlagwörter -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Tags",
+  "title": "Schlagwörter ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

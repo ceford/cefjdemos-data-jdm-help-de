@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Associations / Display title: Menüpunkt-Zuordnungen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Associations",
+  "title": "Menüpunkt-Zuordnungen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

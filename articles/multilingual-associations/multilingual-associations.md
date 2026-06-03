@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Multilingual_Associations / Display title: Sprachverknüpfungen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations",
+  "title": "Sprachverknüpfungen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

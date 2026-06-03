@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise / Display title: Templates: Anpassen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise",
+  "title": "Templates: Anpassen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

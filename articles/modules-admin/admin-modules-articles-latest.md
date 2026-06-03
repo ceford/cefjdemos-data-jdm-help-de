@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Articles_-_Latest / Display title: Module: Beiträge - Neueste -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Articles_-_Latest",
+  "title": "Module: Beiträge - Neueste ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

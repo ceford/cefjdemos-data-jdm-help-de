@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Content_Maps / Display title: Suchindex: Inhaltsgruppen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Content_Maps",
+  "title": "Suchindex: Inhaltsgruppen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

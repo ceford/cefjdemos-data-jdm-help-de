@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Display_Template_Options / Display title: Menüeintrag Template-Optionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Display_Template_Options",
+  "title": "Menüeintrag Template-Optionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

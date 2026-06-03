@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Extension_Capabilities / Display title:  Datenschutz: Hinweise -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Extension_Capabilities",
+  "title": "Datenschutz: Hinweise ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

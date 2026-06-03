@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mass_Mail_Users / Display title: Serienmail-Benutzer -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mass_Mail_Users",
+  "title": "Serienmail-Benutzer ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

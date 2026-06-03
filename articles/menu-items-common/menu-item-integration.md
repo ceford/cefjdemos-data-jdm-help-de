@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Integration / Display title: Menüpunkt-Integration -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Integration",
+  "title": "Menüpunkt-Integration ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

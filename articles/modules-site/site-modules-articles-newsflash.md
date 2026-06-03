@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Articles_-_Newsflash / Display title: Module: Beiträge – Newsflash -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Newsflash",
+  "title": "Module: Beiträge – Newsflash ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

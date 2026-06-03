@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Custom / Display title: Module: Eigenes Modul -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Custom",
+  "title": "Module: Eigenes Modul ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

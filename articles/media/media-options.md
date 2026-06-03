@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Media:_Options / Display title: Medien: Optionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Media:_Options",
+  "title": "Medien: Optionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 ## Beschreibung
 
 Die Seite *Medien: Optionen* wird verwendet, um die globalen Parameter für die Medien festzulegen.

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Username_Reminder_Request / Display title: Benutzername-Erinnerungsanforderung -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Username_Reminder_Request",
+  "title": "Benutzername-Erinnerungsanforderung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Joomla_Update:_Options / Display title: Joomla-Aktualisierung: Optionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Joomla_Update:_Options",
+  "title": "Joomla-Aktualisierung: Optionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

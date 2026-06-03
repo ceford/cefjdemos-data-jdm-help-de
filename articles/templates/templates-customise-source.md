@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise_Source / Display title: Templates: Quellcode anpassen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
+  "title": "Templates: Quellcode anpassen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 Diese Seite erscheint im Index der Hilfeseiten, wird jedoch nicht über eine Hilfeschaltfläche verwendet.

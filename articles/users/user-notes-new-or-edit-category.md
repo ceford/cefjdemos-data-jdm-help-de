@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Notes:_New_or_Edit_Category / Display title: Benutzerhinweise: Kategorie neu erstellen oder bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category",
+  "title": "Benutzerhinweise: Kategorie neu erstellen oder bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

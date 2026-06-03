@@ -1,5 +1,12 @@
 
-<!-- Filename: Help4.x:Languages:_Edit_Override / Display title: Sprachen: Override bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Edit_Override",
+  "title": "Sprachen: Override bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

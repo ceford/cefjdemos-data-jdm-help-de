@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_Groups / Display title: Benutzer: Gruppen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_Groups",
+  "title": "Benutzer: Gruppen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

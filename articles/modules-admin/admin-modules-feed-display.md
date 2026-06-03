@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Feed_Display / Display title: Module: Feed Display -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Feed_Display",
+  "title": "Module: Feed Display ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

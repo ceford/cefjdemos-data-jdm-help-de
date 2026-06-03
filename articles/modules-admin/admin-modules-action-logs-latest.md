@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Action_Logs_-_Latest / Display title: Module: Aktionsprotokolle - Neueste -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Action_Logs_-_Latest",
+  "title": "Module: Aktionsprotokolle - Neueste ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Edit / Display title: Beiträge: Bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Edit",
+  "title": "Beiträge: Bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

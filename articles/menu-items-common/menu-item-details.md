@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Details / Display title: Menüpunktdetails -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Details",
+  "title": "Menüpunktdetails ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

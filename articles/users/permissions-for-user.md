@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Permissions_for_User / Display title: Berechtigungen für Benutzer -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Permissions_for_User",
+  "title": "Berechtigungen für Benutzer ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

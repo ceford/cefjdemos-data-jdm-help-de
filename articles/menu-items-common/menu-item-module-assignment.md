@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Module_Assignment / Display title: Menüpunkt-Modulzuweisung -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Module_Assignment",
+  "title": "Menüpunkt-Modulzuweisung ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

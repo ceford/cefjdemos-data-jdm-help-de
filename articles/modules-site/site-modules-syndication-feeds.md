@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Syndication_Feeds / Display title: Module: Feeds – Feed erzeugen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Syndication_Feeds",
+  "title": "Module: Feeds – Feed erzeugen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

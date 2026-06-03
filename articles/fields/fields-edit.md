@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Fields:_Edit / Display title: Komponente: Feld bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Fields:_Edit",
+  "title": "Komponente: Feld bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

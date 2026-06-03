@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Toolbar / Display title: Module: Werkzeugleiste -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Toolbar",
+  "title": "Module: Werkzeugleiste ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

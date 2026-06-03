@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Contacts:_New_or_Edit_Category / Display title: Contacts: Kategorie bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Contacts:_New_or_Edit_Category",
+  "title": "Contacts: Kategorie bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

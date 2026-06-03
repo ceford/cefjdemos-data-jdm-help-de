@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Pagination / Display title: Listenseitenumbruch -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Pagination",
+  "title": "Listenseitenumbruch ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck¶
 

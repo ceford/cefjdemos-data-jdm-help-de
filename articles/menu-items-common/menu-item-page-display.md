@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Page_Display / Display title: Menüpunkt-Seitenanzeige -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Page_Display",
+  "title": "Menüpunkt-Seitenanzeige ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

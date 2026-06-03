@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Weblinks_Categories / Display title: Weblinks: Kategorien -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Categories",
+  "title": "Weblinks: Kategorien ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

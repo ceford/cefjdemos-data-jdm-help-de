@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Weblink_Submit / Display title: Einen Weblink einreichen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Submit",
+  "title": "Einen Weblink einreichen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

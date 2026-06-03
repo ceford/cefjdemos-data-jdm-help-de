@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Tags_-_Similar / Display title: Module: Schlagwörter – Ähnliche -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Tags_-_Similar",
+  "title": "Module: Schlagwörter – Ähnliche ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

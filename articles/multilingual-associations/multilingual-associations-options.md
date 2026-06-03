@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Multilingual_Associations:_Options / Display title: Sprachverknüpfungen: Optionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options",
+  "title": "Sprachverknüpfungen: Optionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

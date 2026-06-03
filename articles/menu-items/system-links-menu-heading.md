@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Heading / Display title: Menüüberschrift -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Heading",
+  "title": "Menüüberschrift ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

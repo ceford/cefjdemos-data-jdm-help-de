@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Multilingual_Status / Display title: Module: Mehrsprachiger Status -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Multilingual_Status",
+  "title": "Module: Mehrsprachiger Status ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Start_Here / Display title: Hier beginnen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Start_Here",
+  "title": "Hier beginnen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Hilfe mit Joomla!
 

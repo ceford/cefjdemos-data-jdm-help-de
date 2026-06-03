@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy_Dashboard / Display title: Datenschutz-Dashboard -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy_Dashboard",
+  "title": "Datenschutz-Dashboard ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

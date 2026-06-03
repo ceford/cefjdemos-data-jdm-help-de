@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Category_Blog / Display title: Menüeintrag: Kategorieblog -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog",
+  "title": "Menüeintrag: Kategorieblog ",
+  "description": "", 
+  "author": ""
+}
+-->
 <!-- Dateiname: Help4.x:Menu_Element:_Kategorie_Blog / Titel anzeigen: Kategorie Blog -->
 
 ## Beschreibung

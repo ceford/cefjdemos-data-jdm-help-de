@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Category / Display title: Menüpunkt Kategorie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Category",
+  "title": "Menüpunkt Kategorie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Batch_Process / Display title: Stapelprozess auflisten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Batch_Process",
+  "title": "Stapelprozess auflisten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 

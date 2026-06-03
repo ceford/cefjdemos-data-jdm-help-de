@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Discover / Display title: Erweiterungen: Überprüfen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Discover",
+  "title": "Erweiterungen: Überprüfen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

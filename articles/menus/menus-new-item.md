@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_New_Item / Display title: Menüs: Neuer Menüpunkt -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_New_Item",
+  "title": "Menüs: Neuer Menüpunkt ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

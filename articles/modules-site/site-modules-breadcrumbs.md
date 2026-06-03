@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Breadcrumbs / Display title: Module: Navigationspfad -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs",
+  "title": "Module: Navigationspfad ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

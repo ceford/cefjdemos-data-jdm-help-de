@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Request / Display title: Menüpunkt: Anfrage erstellen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Request",
+  "title": "Menüpunkt: Anfrage erstellen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Article / Display title: Menüeintrag: Beitrag erstellen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article",
+  "title": "Menüeintrag: Beitrag erstellen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

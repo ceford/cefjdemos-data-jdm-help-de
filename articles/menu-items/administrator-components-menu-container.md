@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Components_Menu_Container / Display title: Menüpunkt: Komponenten-Menücontainer -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Components_Menu_Container",
+  "title": "Menüpunkt: Komponenten-Menücontainer ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

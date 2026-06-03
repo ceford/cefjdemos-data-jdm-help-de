@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Article_Options / Display title: Menüeintrag Artikel Optionen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Article_Options",
+  "title": "Menüeintrag Artikel Optionen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

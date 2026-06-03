@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Compact_List_of_Tagged_Items / Display title: Kompakte Liste der getaggten Elemente -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Compact_List_of_Tagged_Items",
+  "title": "Kompakte Liste der getaggten Elemente ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

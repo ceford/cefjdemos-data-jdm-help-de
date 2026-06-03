@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Menu_Assignment_Tab / Display title: Module: Menüzuweisung-Tab -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Menu_Assignment_Tab",
+  "title": "Module: Menüzuweisung-Tab ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_System_Information / Display title: SySysteminformationen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_System_Information",
+  "title": "SySysteminformationen ",
+  "description": "", 
+  "author": ""
+}
+-->
 ## Beschreibung
 
 Die Seite *Systeminformationen* liefert Informationen über die Umgebung des Host-Servers. Es gibt fünf verschiedene Tab-Panel: Systeminformationen, PHP-Einstellungen, Konfigurationsdatei, Ordnerberechtigungen und PHP-Informationen. Jedes Panel bietet detaillierte Informationen zu diesem Aspekt der Website. Dies ist hilfreich bei der Fehlersuche bei Setup-Problemen.

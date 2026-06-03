@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Module_Tab / Display title: Module: Modul-Tab -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Module_Tab",
+  "title": "Module: Modul-Tab ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

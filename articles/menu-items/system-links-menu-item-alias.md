@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Alias / Display title: Menüpunkt Alias -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Alias",
+  "title": "Menüpunkt Alias ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

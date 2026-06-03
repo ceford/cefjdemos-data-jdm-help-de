@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus:_Edit / Display title: Menüs: Bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus:_Edit",
+  "title": "Menüs: Bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

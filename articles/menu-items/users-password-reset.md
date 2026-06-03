@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Password_Reset / Display title: Passwort zurücksetzen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Password_Reset",
+  "title": "Passwort zurücksetzen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

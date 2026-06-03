@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Menu / Display title: Module: Navigation - Menü -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Menu",
+  "title": "Module: Navigation - Menü ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

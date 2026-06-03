@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Edit_Content_Language / Display title: Sprachen: Inhaltsprache bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Edit_Content_Language",
+  "title": "Sprachen: Inhaltsprache bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

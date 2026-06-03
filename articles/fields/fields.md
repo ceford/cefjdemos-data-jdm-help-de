@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Component:_Fields / Display title: Komponente: Felder -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Component:_Fields",
+  "title": "Komponente: Felder ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Footer / Display title: Module: Fußzeile -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Footer",
+  "title": "Module: Fußzeile ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Confirm_Request / Display title: Menüpunkt: Bestätigungsanfrage -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Confirm_Request",
+  "title": "Menüpunkt: Bestätigungsanfrage ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

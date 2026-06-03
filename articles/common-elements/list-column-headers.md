@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:List_Column_Headers / Display title: Spaltenüberschriften auflisten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:List_Column_Headers",
+  "title": "Spaltenüberschriften auflisten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Zweck
 

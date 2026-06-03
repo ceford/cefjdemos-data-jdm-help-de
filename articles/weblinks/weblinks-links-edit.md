@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Weblinks_Links_Edit / Display title: Weblink: Bearbeiten -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Links_Edit",
+  "title": "Weblink: Bearbeiten ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 

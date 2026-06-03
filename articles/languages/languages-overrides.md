@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Overrides / Display title: Sprachen: Überschreibungen -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Overrides",
+  "title": "Sprachen: Überschreibungen ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Beschreibung
 
