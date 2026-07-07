@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Tags",
-  "title": "Schlagwörter ",
+  "title": "Schlagwörter: Einführung",
   "description": "", 
   "author": ""
 }

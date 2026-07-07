@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Component:_New_or_Edit_Field_Group",
-  "title": "Komponente: Feldgruppe bearbeiten ",
+  "title": "Komponente: Feldgruppe bearbeiten",
   "description": "", 
   "author": ""
 }

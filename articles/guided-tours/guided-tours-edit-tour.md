@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_New_or_Edit_Tour",
-  "title": "Geführte Touren: Tour bearbeiten ",
+  "title": "Geführte Touren: Tour bearbeiten",
   "description": "", 
   "author": ""
 }

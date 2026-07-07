@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_New_or_Edit_Group",
-  "title": "Benutzer: Gruppe neu erstellen oder bearbeiten ",
+  "title": "Benutzer: Gruppe neu erstellen oder bearbeiten",
   "description": "", 
   "author": ""
 }

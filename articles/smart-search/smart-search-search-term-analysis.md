@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Term_Analysis",
-  "title": "Suchindex: Suchbegriff-Analyse ",
+  "title": "Suchindex: Suchbegriff-Analyse",
   "description": "", 
   "author": ""
 }

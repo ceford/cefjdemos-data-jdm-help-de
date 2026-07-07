@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Login",
-  "title": "Module: Benutzer – Anmeldung ",
+  "title": "Module: Benutzer – Anmeldung",
   "description": "", 
   "author": ""
 }

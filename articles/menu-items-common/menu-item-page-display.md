@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Page_Display",
-  "title": "Menüpunkt-Seitenanzeige ",
+  "title": "Menüpunkt-Seitenanzeige",
   "description": "", 
   "author": ""
 }

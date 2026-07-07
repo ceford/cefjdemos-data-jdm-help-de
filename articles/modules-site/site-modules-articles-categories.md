@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Categories",
-  "title": "Module: Beiträge – Kategorien ",
+  "title": "Module: Beiträge – Kategorien",
   "description": "", 
   "author": ""
 }

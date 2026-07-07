@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Blog_Layout",
-  "title": "Menüpunkt Blog Layout ",
+  "title": "Menüpunkt Blog Layout",
   "description": "", 
   "author": ""
 }

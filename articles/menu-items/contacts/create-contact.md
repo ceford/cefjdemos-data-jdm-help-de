@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Contact",
-  "title": "Kontakt erstellen ",
+  "title": "Kontakt erstellen",
   "description": "", 
   "author": ""
 }

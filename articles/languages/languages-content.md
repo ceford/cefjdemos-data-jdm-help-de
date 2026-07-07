@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Languages:_Content",
-  "title": "Sprachen: Inhalt ",
+  "title": "Sprachen: Inhalt",
   "description": "", 
   "author": ""
 }

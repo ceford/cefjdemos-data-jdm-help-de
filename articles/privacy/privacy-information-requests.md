@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Information_Requests",
-  "title": "Datenschutz: Informationsanfragen ",
+  "title": "Datenschutz: Informationsanfragen",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article",
-  "title": "Menüeintrag: Einzelner Beitrag ",
+  "title": "Menüeintrag: Einzelner Beitrag",
   "description": "", 
   "author": ""
 }

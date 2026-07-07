@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Edit_Update_Site",
-  "title": "Update-Site bearbeiten ",
+  "title": "Update-Site bearbeiten",
   "description": "", 
   "author": ""
 }

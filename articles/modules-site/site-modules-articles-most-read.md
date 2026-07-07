@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Most_Read",
-  "title": "Module: Beiträge – Beliebte ",
+  "title": "Module: Beiträge – Beliebte",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Archived",
-  "title": "Site Modul: Beiträge – Archiv ",
+  "title": "Site Modul: Beiträge – Archiv",
   "description": "", 
   "author": ""
 }

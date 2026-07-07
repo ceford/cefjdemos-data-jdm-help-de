@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Extension_Capabilities",
-  "title": "Datenschutz: Hinweise ",
+  "title": "Datenschutz: Hinweise",
   "description": "", 
   "author": ""
 }

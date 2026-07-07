@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions:_Languages",
-  "title": "Erweiterungen: Sprachen ",
+  "title": "Erweiterungen: Sprachen",
   "description": "", 
   "author": ""
 }

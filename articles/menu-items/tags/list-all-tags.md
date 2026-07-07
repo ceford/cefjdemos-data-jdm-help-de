@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Tags",
-  "title": "Alle Tags auflisten ",
+  "title": "Alle Tags auflisten",
   "description": "", 
   "author": ""
 }

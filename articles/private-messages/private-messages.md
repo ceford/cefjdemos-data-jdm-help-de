@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Private_Messages",
-  "title": "Private Nachrichten ",
+  "title": "Private Nachrichten: Einführung",
   "description": "", 
   "author": ""
 }

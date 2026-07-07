@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Component:_Field_Groups",
-  "title": "Komponente: Feldgruppen ",
+  "title": "Komponente: Feldgruppen",
   "description": "", 
   "author": ""
 }

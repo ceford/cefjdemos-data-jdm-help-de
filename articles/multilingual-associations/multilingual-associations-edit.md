@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit",
-  "title": "Sprachverknüpfungen: Bearbeiten ",
+  "title": "Sprachverknüpfungen: Bearbeiten",
   "description": "", 
   "author": ""
 }

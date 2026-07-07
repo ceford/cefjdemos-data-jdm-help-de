@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Newsflash",
-  "title": "Module: Beiträge – Newsflash ",
+  "title": "Module: Beiträge – Newsflash",
   "description": "", 
   "author": ""
 }

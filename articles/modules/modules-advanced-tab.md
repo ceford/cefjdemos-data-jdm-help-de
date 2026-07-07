@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Advanced_Tab",
-  "title": "Module: Erweitert-Tab ",
+  "title": "Module: Erweitert-Tab",
   "description": "", 
   "author": ""
 }

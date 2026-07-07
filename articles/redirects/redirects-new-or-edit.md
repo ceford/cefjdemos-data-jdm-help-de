@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Redirects:_New_or_Edit",
-  "title": "Weiterleitungen: Neu oder Bearbeiten ",
+  "title": "Weiterleitungen: Neu oder Bearbeiten",
   "description": "", 
   "author": ""
 }

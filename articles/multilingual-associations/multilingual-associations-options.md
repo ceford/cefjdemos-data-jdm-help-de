@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options",
-  "title": "Sprachverknüpfungen: Optionen ",
+  "title": "Sprachverknüpfungen: Optionen",
   "description": "", 
   "author": ""
 }

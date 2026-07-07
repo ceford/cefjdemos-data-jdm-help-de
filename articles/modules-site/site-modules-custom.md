@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Custom",
-  "title": "Module: Eigenes Modul ",
+  "title": "Module: Eigenes Modul",
   "description": "", 
   "author": ""
 }

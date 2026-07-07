@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived",
-  "title": "Menüeintrag: Archivierte Beiträge ",
+  "title": "Menüeintrag: Archivierte Beiträge",
   "description": "", 
   "author": ""
 }

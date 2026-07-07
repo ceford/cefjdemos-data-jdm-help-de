@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Stages_List:_Basic_Workflow",
-  "title": "Phasen: Grundlegender Workflow ",
+  "title": "Phasen: Grundlegender Workflow",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Glossary",
-  "title": "Glossar ",
+  "title": "Glossar: Einführung",
   "description": "", 
   "author": ""
 }

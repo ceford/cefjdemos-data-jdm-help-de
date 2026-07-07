@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Maintenance:_Clear_Cache",
-  "title": "Wartung: Cache leeren ",
+  "title": "Wartung: Cache leeren",
   "description": "", 
   "author": ""
 }

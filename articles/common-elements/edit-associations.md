@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Edit_Associations",
-  "title": "Assoziationen bearbeiten ",
+  "title": "Assoziationen bearbeiten",
   "description": "", 
   "author": ""
 }

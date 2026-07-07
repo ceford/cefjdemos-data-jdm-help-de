@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Syndication_Feeds",
-  "title": "Module: Feeds – Feed erzeugen ",
+  "title": "Module: Feeds – Feed erzeugen",
   "description": "", 
   "author": ""
 }

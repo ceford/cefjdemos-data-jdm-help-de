@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Toolbars",
-  "title": "Symbolleisten ",
+  "title": "Symbolleisten",
   "description": "", 
   "author": ""
 }

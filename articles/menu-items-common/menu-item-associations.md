@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Associations",
-  "title": "Menüpunkt-Zuordnungen ",
+  "title": "Menüpunkt-Zuordnungen",
   "description": "", 
   "author": ""
 }

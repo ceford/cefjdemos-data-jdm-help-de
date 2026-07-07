@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Start_Here",
-  "title": "Hier beginnen ",
+  "title": "Hier beginnen",
   "description": "", 
   "author": ""
 }

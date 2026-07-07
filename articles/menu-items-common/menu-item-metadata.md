@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Metadata",
-  "title": "Menüpunkt-Metadaten ",
+  "title": "Menüpunkt-Metadaten",
   "description": "", 
   "author": ""
 }

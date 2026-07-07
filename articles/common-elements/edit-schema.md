@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Edit_Schema",
-  "title": "Schema bearbeiten ",
+  "title": "Schema bearbeiten",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy_Dashboard",
-  "title": "Datenschutz-Dashboard ",
+  "title": "Datenschutz-Dashboard",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_Edit_Profile",
-  "title": "Benutzer: Profil bearbeiten ",
+  "title": "Benutzer: Profil bearbeiten",
   "description": "", 
   "author": ""
 }

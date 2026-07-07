@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:User_Notes:_Categories",
-  "title": "Benutzerhinweise: Kategorien ",
+  "title": "Benutzerhinweise: Kategorien",
   "description": "", 
   "author": ""
 }

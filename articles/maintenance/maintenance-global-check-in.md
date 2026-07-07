@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Maintenance:_Global_Check-in",
-  "title": "Wartung: Globales Freigeben ",
+  "title": "Wartung: Globales Freigeben",
   "description": "", 
   "author": ""
 }

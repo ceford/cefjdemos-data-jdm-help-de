@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Media",
-  "title": "Medien ",
+  "title": "Medien: Einführung",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_Options",
-  "title": "Geführte Touren: Optionen ",
+  "title": "Geführte Touren: Optionen",
   "description": "", 
   "author": ""
 }

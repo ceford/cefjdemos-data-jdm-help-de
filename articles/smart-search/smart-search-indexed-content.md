@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Indexed_Content",
-  "title": "Suchindex: Indizierte Inhalte ",
+  "title": "Suchindex: Indizierte Inhalte",
   "description": "", 
   "author": ""
 }

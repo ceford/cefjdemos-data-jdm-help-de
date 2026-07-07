@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions:_Update_Sites",
-  "title": "Update-Quellen ",
+  "title": "Update-Quellen: Einführung",
   "description": "", 
   "author": ""
 }

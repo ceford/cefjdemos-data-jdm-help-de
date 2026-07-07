@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Contacts:_New_or_Edit_Category",
-  "title": "Contacts: Kategorie bearbeiten ",
+  "title": "Contacts: Kategorie bearbeiten",
   "description": "", 
   "author": ""
 }

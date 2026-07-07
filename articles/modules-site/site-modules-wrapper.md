@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Wrapper",
-  "title": "Module: Wrapper ",
+  "title": "Module: Wrapper",
   "description": "", 
   "author": ""
 }

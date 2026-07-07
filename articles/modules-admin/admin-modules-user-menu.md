@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_User_Menu",
-  "title": "Module: Benutzermenü ",
+  "title": "Module: Benutzermenü",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Related",
-  "title": "Module: Beiträge – Verwandte ",
+  "title": "Module: Beiträge – Verwandte",
   "description": "", 
   "author": ""
 }

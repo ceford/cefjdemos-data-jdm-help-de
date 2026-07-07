@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menus:_Edit",
-  "title": "Menüs: Bearbeiten ",
+  "title": "Menüs: Bearbeiten",
   "description": "", 
   "author": ""
 }

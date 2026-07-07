@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mass_Mail_Users",
-  "title": "Serienmail-Benutzer ",
+  "title": "Serienmail-Benutzer",
   "description": "", 
   "author": ""
 }

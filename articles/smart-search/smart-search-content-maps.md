@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Content_Maps",
-  "title": "Suchindex: Inhaltsgruppen ",
+  "title": "Suchindex: Inhaltsgruppen",
   "description": "", 
   "author": ""
 }

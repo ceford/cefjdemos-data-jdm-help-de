@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Weblinks:_Options",
-  "title": "Weblinks Optionen ",
+  "title": "Weblinks Optionen",
   "description": "", 
   "author": ""
 }

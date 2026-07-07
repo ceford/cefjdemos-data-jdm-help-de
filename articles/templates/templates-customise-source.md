@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
-  "title": "Templates: Quellcode anpassen ",
+  "title": "Templates: Quellcode anpassen",
   "description": "", 
   "author": ""
 }

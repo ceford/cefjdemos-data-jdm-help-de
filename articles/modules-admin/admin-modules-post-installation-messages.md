@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Post_Installation_Messages",
-  "title": "Module: Nachrichten nach der Installation ",
+  "title": "Module: Nachrichten nach der Installation",
   "description": "", 
   "author": ""
 }
