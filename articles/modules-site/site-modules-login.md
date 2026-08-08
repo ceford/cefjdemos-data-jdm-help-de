@@ -46,6 +46,8 @@ Einige Elemente dieser Seite werden in separaten Hilfeartikeln behandelt:
 - **Seite zur Weiterleitung nach Anmeldung** Wählen oder erstellen Sie die Seite, zu der der Benutzer nach einer erfolgreichen Anmeldung weitergeleitet wird. Wählen Sie aus allen in der Popup-Menüliste aufgeführten Seiten. Wenn kein Menüelement ausgewählt ist, bleiben die Benutzer nach der Anmeldung auf derselben Seite. 
 - **Seite zur Weiterleitung nach Abmeldung** Wählen oder erstellen Sie die Seite, zu der der Benutzer nach einer erfolgreichen Abmeldung weitergeleitet wird. Wählen Sie aus allen in der Popup-Menüliste aufgeführten Seiten. Wenn kein Menüelement ausgewählt ist, bleiben die Benutzer nach der Abmeldung auf derselben Seite. 
 - **Registrierungsseite** Wählen oder erstellen Sie eine Seite für die Registrierung.
+- **Link zum Zurücksetzen des Passworts** Den Link zum Zurücksetzen des Passworts anzeigen oder ausblenden (neu in 6.2).
+- **Link bei vergessenem Benutzernamen** Den Link zum Abrufen des Benutzernamens anzeigen oder ausblenden (neu in 6.2).
 - **Begrüßung** Einfache Begrüßungstexte anzeigen oder ausblenden.
 - **Name/Benutzername** Zeigt nach der Anmeldung den Namen oder Benutzernamen an.
 - **Profil-Link** Ein Link zum Benutzerprofil anzeigen oder ausblenden.
